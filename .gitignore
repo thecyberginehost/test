@@ -1,0 +1,29 @@
+# Reports (may contain sensitive findings before disclosure)
+reports/*.md
+!reports/.gitkeep
+
+# Tool outputs
+*.sarif
+*.json.bak
+out/
+cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Python (Slither/Mythril venvs)
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node (if using hardhat for PoC)
+node_modules/
+
+# Foundry
+broadcast/
