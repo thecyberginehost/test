@@ -1,0 +1,39 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+// Rename this file to test/<target>-<bug>.t.sol when you start a real PoC.
+// The .example suffix keeps `forge test` from picking it up.
+//
+// Writeup goes here:
+//   Target:        <protocol> on BSC, contract 0x...
+//   Vulnerability: <one-liner>
+//   Severity:      <Critical|High|Medium|Low>
+//   Block:         <forked block>
+//   References:    <links>
+
+import {BaseTest} from "./helpers/BaseTest.sol";
+
+interface IVulnerableTarget {
+    function deposit(uint256 amount) external;
+    function withdraw(uint256 amount) external;
+}
+
+contract PoCExample is BaseTest {
+    IVulnerableTarget internal target;
+
+    function setUp() public {
+        forkBsc(40_000_000); // pick the block right before the bug was patched / before the attack
+        target = IVulnerableTarget(0x0000000000000000000000000000000000000000); // fill in
+        makeAttacker();
+    }
+
+    function test_exploit() public {
+        vm.startPrank(ATTACKER);
+        // 1. Set up preconditions
+        // 2. Trigger the bug
+        // 3. Extract value
+        vm.stopPrank();
+
+        // assertProfit(<token>, ATTACKER, <startBal>, <minExpectedProfit>);
+    }
+}

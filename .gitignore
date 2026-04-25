@@ -1,0 +1,22 @@
+# Foundry build artifacts
+out/
+cache/
+broadcast/
+
+# Dependencies
+lib/
+node_modules/
+
+# Cloned audit targets (never commit third-party source)
+targets/*
+!targets/.gitkeep
+
+# Environment / secrets
+.env
+.env.local
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
