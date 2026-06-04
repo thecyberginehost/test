@@ -189,6 +189,17 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 - **She is likely the sole long-term survivor of Fireteam Valor** — the others are on a darker trajectory across the series.
 - **Implication:** her "I'll be back asap" line is now **dramatic irony** (poignant — she won't be). Do NOT bring her back in this book. Royce's dying message to her (Ch18) lands harder knowing she's the one who makes it. See Discrepancy Report C2 (now reframed as intentional).
 
+### 7.5 EDITING BASELINE — edited vs. unedited halves (author-flagged)
+- **Chapters 11–18 are the author's recent edits** → treat as the **canonical voice/personality reference.**
+- **Prologue–Chapter 10 are older, unedited drafts** → audit *against* the back half; expect more redundancy, over-telling, and possible personality/skill drift.
+- **Intensity policy:**
+  - *Prologue–Ch10:* heavier (moderate→aggressive) — tighten, de-redundant, raise to the back-half's voice.
+  - *Ch11–18:* lighter (light→moderate) — polish + continuity-match only; preserve the author's edits.
+- **Active consistency watches (early vs. late):**
+  - **Kaine's skillset** — he's a capable network-intrusion **hacker** in the back half (Ch16, 18) but only a "recon specialist" early. **Seed his tech/hacking ability in Ch2–4** so the late skill is earned. Also seed his New-Eridanus-native backstory earlier (pays off Ch16 tunnel).
+  - Verify each Valor member's voice in P–Ch10 matches their Ch11–18 characterization (esp. Argus's grief-hardening trajectory, Rourke, Harlan's humor calibration).
+  - Watch for redundancy/over-telling density (far higher in P–Ch10).
+
 ### 7.4 Decisions locked
 - **Chapter numbering:** author approves fixing the broken numbering/titles (cause unknown/forgotten). → renumber cleanly so "The Artifact" content is correctly placed.
 - **Martinez/Jensen mix-up (Ch8):** author confirms this is a real error to fix.

@@ -112,6 +112,14 @@ The ability is used as **both** precognition ("foresight," predicting ambushes, 
 
 ---
 
+### C9. Kaine's hacking ability has no early setup — ⚠️ HIGH (early/late drift)
+- **Back half (edited):** Kaine is a skilled network-intrusion hacker — duels enemy defender "Xa'Nar," installs rootkits, disables ship subsystems, spoofs sensors (Ch18); also revealed New-Eridanus-native with secret-tunnel knowledge (Ch16).
+- **Early half (unedited):** Kaine is only a "recon specialist" with a nav pad/drones — no hint of cyber-warfare capability.
+- **Likely cause:** Ch11–18 are author-edited; the early chapters predate Kaine's expanded role.
+- **Fix:** Seed Kaine's hacking/tech-intrusion competence in Ch2–4 (a line of him pulling data, breaking a lock electronically, etc.) and his New Eridanus roots earlier, so the late payoffs are earned rather than surprising.
+
+> **NOTE — manuscript has two drafting layers:** Chapters **11–18 are author-edited (current voice)**; **Prologue–Ch10 are older drafts.** All "early vs. late" mismatches below and above should be reconciled *toward the back-half characterization*. Editing intensity is heavier for P–Ch10, lighter for Ch11–18 (see Story Bible §7.5).
+
 ## E. LINE-LEVEL / MECHANICAL CLEANUP (low severity, high volume)
 
 These are global find-and-fix items (will be handled automatically during line edits):
