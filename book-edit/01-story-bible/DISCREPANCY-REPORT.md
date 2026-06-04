@@ -1,0 +1,136 @@
+# DISCREPANCY & CONTINUITY REPORT
+### *[Working title TBD]* — full-manuscript audit (Prologue + Ch 1–18)
+*Findings are ranked. "Severity" = how badly it breaks reader trust if left. Each item notes chapter(s) and a recommended fix. Nothing here is changed yet — this is the audit you approve before edits.*
+
+---
+
+## A. STRUCTURAL / STORY-LEVEL (highest priority)
+
+### A1. The Artifact / Harbinger / Death Platoon arc — ✅ INTENTIONAL CLIFFHANGER (author-confirmed)
+- **Setup:** Ch13 introduces the mythology — 50 artifacts, **5 human "Harbingers,"** a second artifact under New Eridanus. Ch14–15 send **Death Platoon** to retrieve it; the thread then stops.
+- **RESOLUTION (author canon):** This is a **deliberate Book-2 setup**, NOT a dropped thread. Book 2 opens with Death Platoon reaching the artifact, which is **corrupted** and turns Obsidians into "purple shadowy zombie" creatures; the sequel's mini-arc is un-corrupting it.
+- **Editorial action (this book):** Do **not** pay it off here. Instead, give Ch15 a clean, intentional **cliffhanger button** so the reader feels "to be continued," not "forgotten." Preserve all Harbinger/artifact setup exactly. Keep Strickland–Surgeon and Dutch's-vengeance teases intact as long-game hooks.
+
+### A2. Two competing climaxes / chapter-order question
+- Ch13–15 (artifact) and Ch16–18 (warship) run as parallel tracks but only the warship track resolves. Consider whether Ch13–15 should be **interleaved** with 16–18 (cross-cutting builds tension) rather than sitting as an isolated block that then drops away.
+
+### A3. Chapter numbering & titles are broken — ⚠️ HIGH
+- The file **"Chapter 15: The Artifact"** is internally titled **"Chapter 14 – Death Platoon"** and contains the pod-drop/cave-entry — i.e. **there is no chapter actually titled/numbered 15, and "The Artifact" content never appears** under that heading.
+- **Chapter 14 ("Death Platoon")** contains **two separate sections both headed "Chapter 14 – Death Platoon"** (timestamps 2015 and 2148).
+- **Fix:** Renumber cleanly. Likely intended: Ch14 = briefing+drop, Ch15 = "The Artifact" (cave infiltration → actual retrieval). The title "The Artifact" implies a payoff scene that isn't written (ties to A1).
+
+---
+
+## B. WORLD / CANON CONSISTENCY (high priority)
+
+### B1. Obsidian physical description varies — ◑ REFRAMED via series canon (the Obsidians are FIVE races)
+The aliens look like different species across chapters:
+- **Prologue:** "silvery-blue skin," **white hair**, **pointed ears**, regal — **elf-like**. Eyes "pale silver."
+- **Ch6 (armor off):** "**mottled grey** skin," **no hair**, slit mouth + **sharp teeth**, **claws**, large **dull grey** eyes — **grey-alien**.
+- **Ch18:** "dark-skinned claws," **narrow yellow eyes**, "jagged fangs."
+- **RESOLUTION (author canon):** the "Obsidians" are a **pact of five distinct alien races**. So these are plausibly **different member-races**, not an error.
+- **Editorial action:** Keep the variety, but make it read as *intentional* rather than careless. Two-part fix: (1) be strictly consistent *within* any single individual/unit/scene; (2) lightly seed that these are visibly different peoples (a Praetorian noticing "this one looks nothing like the last") so the reader banks it as worldbuilding. We should also nail down **which described look = which race** as a reference table once you tell me the five races, so later books stay consistent. *(Blood color, B2, still needs a per-race or universal rule.)*
+
+### B2. Obsidian blood color: purple vs. blue
+- "purple" (Ch5, Ch6, Ch8), "dark, viscous" (Ch10), "dark blue / dark blue mist" (Ch16).
+- **Fix:** Pick one (purple **or** blue) and apply throughout.
+
+### B3. "Mindreaver" vs "Mindweaver" — ⚠️ HIGH (pervasive)
+- Both spellings used for the same ability/people: **Mindreaver/Mindreaving** (Ch2, 5, 6, 16) and **Mindweaver/Mindweaving** (Ch4, 5, 18). Sometimes both appear in the same chapter (Ch5).
+- **Fix:** Choose one spelling and global-replace.
+
+### B4. The psychic power is two different powers — ⚠️ HIGH
+The ability is used as **both** precognition ("foresight," predicting ambushes, sensing danger — Rourke/Wraith) **and** telepathy (reading/translating thoughts, mind-torture, planting illusions — Surgeon/Wraith/Rourke). They're treated as one ability but function as two.
+- **Fix:** Define the power clearly. Cleanest options: (a) it's one broad psionic gift with multiple disciplines (name them), or (b) "foresight" (precog) and "mindreading" (telepathy) are distinct, and characters have one or both. Then audit every use.
+
+### B5. Aliens speaking fluent English — unexplained worldbuilding gap
+- Multiple Obsidians speak perfect English (Ch5 Mindreaver "You will be eradicated"; Ch8 Drexel's killer; Ch18 Drakken is fully fluent and says he "made it my duty to learn" — only Drakken gets a reason).
+- **Fix:** Either give a consistent in-world reason (Mindreaver-assisted translation? captured-broadcast study?) or limit fluent English to characters who've earned it (like Drakken) and have lower ranks speak only their tongue.
+
+### B6. Charr: planet surface or moon?
+- Ch3–4 treat Charr (and Huckleberry) as on **Trident's surface** (free-drop "towards the surface of Trident"). Ch5 line: "the cold, desolate landscape of **Trident's moon**."
+- **Fix:** Decide if these platforms are planetside or on a moon, and make consistent.
+
+### B7. "Planet Crete" vs "Crete City" — reader-confusion risk
+- There is a **Planet Crete** (prior war; where Harris/Fringe fought in orbit; where Argus dubbed Death Platoon) **and** a **Crete City on Trident** (being evacuated; tunnels to beachheads; where OI captured an Obsidian in Ch14).
+- **Fix:** Not strictly a contradiction, but two "Cretes" will confuse readers. Consider renaming one.
+
+### B8. Invasion fleet numbers drift
+- Ch6 intel: **70 warships + 10 transports + 2 flagships** (1 major, 1 minor) + 10,000 fighters.
+- Ch7 observed: Nguyen says "**eighty** warships… two flagship vessels"; Harris says "**eighty-two** ships."
+- **Fix:** Minor — could be intel-was-wrong (even a nice beat: "intel said seventy"). Just make the discrepancy intentional or reconcile the numbers.
+
+---
+
+## C. CHARACTER / EVENT CONTINUITY (medium-high)
+
+### C1. Martinez vs. Jensen death mix-up (Ch8) — ⚠️ HIGH
+- During **Jensen's** solo last stand at the escape pods, a sentence reads: "Another Obsidian charged, and this time, **Martinez** couldn't evade the fatal blow. The energy sword pierced the center of his chestplate…" — then the *next* line says "As the lifeforce dissipated from **Corporal Jensen**, his final words… 'None better.'"
+- The scene is Jensen's; Martinez had already loaded into the escape pod. The name "Martinez" appears to be an error for "Jensen" (or an unintended second death).
+- **Fix:** Reconcile who dies here. Almost certainly should read "Jensen" throughout.
+
+### C2. Tessa is evac'd and never returns — ✅ INTENTIONAL (author-confirmed)
+- Ch10: wounded, infected, sent to Gladius; she and Argus say she'll be "back asap." She never reappears.
+- **RESOLUTION (author canon):** Her evac is what **saves her life** — the infection requires extended care and she **cannot return until Book 2**, where she's likely **Fireteam Valor's sole long-term survivor.**
+- **Editorial action:** Keep her out of this book. Her "back asap" line is now **deliberate dramatic irony** — consider a feather-light touch in Ch10/Ch18 that makes the irony resonate without tipping the reader off. Royce's dying message to her (Ch18) should be preserved/strengthened — it hits harder knowing she's the one who lives.
+
+### C3. Admiral vs Commander Drexel
+- "Admiral Drexel" everywhere except Ch8: "only **Commander** Drexel remained." **Fix:** standardize to Admiral.
+
+### C4. "Dutch's voice" calls the platoon to attention, but they face Strickland (Ch14)
+- "froze as **Dutch's** voice cut through the noise. 'Platoon, Attention!'… every member turning to face **Strickland**." The CO (Strickland) should be the one being reported to; the attention-call attribution is muddled.
+- **Fix:** Clarify who calls attention (likely Strickland himself, or a senior NCO calling it *for* Strickland).
+
+### C5. Royce's father's knife vs. dying mother scene
+- Ch5: Royce wields "his **father's** knife, a family heirloom." Ch18 deathbed hallucination centers entirely on his **mother**; father never mentioned again.
+- **Fix:** Minor, but consider paying off the father/heirloom (a line, a memory) or adjusting so the emotional objects align.
+
+### C6. Barkley / Shadowhawk fate is unmourned
+- Barkley survives the *Liberation* (Ch8–9) but his team's transport is destroyed in Ch10 with no on-page acknowledgment that Barkley (a named, developed character) just died.
+- **Fix:** A beat acknowledging Shadowhawk's/Barkley's loss in Ch10 would close the loop.
+
+### C7. Lysander's death is a throwaway
+- Lt. Lysander (Argus's bunkmate, set up in Ch2) dies when "Fireteam Honor's transport… is struck" (Ch10) — never named in the moment.
+- **Fix:** Given his setup, name him in his death beat for impact.
+
+### C8. The Delta bunker / where the nukes come from is skipped
+- Ch12 establishes the plan to rally at **Delta bunker** (under a coffee shop) which holds portable nukes, to infiltrate the warship. Ch16 simply opens with Valor already in the city with nukes in play (Charles's ground nuke + the "Football"). The bunker visit/nuke-acquisition is never shown.
+- **Fix:** A short connective scene (or a line) covering the bunker pickup would close the logic gap.
+
+---
+
+## D. TIMELINE / LOGISTICS (medium)
+
+### D1. Ch10 (1350) vs Ch11 (1335) ordering
+- Ch11 (family, 1335) is concurrent with / slightly before Ch10 (drop, 1350) — this is fine as intentional cross-cutting, but the chapter order (10 then 11) puts the later timestamp first. **Fix:** confirm this is deliberate; a small time-stamp or framing tweak prevents confusion.
+
+### D2. Briefing time vs. stated schedule (Ch2)
+- Ch1: Orion sets briefing for **0900**, deploy **1100**. Ch2 header reads **0845**, and dialogue repeatedly says "deploy in thirty minutes." The 0845 start + "30 minutes" doesn't reach 1100. **Fix:** reconcile the clock.
+
+### D3. Dutch knowing of Harris's death timing
+- Dutch mourns his father (Harris, KIA ~Dec 16 0700) at the Ch14 briefing (Dec 16 2015). Timeline allows it, but the book never shows Dutch *learning* the news. **Fix:** optional — a half-line acknowledging how/when he found out.
+
+---
+
+## E. LINE-LEVEL / MECHANICAL CLEANUP (low severity, high volume)
+
+These are global find-and-fix items (will be handled automatically during line edits):
+- **Word artifacts:** "Top of Form" / "Bottom of Form" (Ch5, 6, 14, 18); "**dde**Chapter 2" (Ch2 opening); stray double periods (".."), double spaces.
+- **"FireFireteam"** duplication (multiple in Ch10).
+- **"a eight-year-old"** → "an eight-year-old" (Ch1).
+- Misspellings/typos: "slivery-blue" (silvery), "Juilia/Julioa" (Julia, Ch11), "arere" (Ch13), "Th" fragment (Ch14), "shorline" (Ch10), "godamn/goddamn" inconsistency, "here his own voice" → "hear" (Prologue), "passed it's limits" → "past its limits" (Ch6), pervasive **its/it's** errors.
+- **Tense drift:** Ch9, 13, 16, 18 slip into present tense — standardize to past (see Story Bible §6).
+- Repeated stock phrases for thinning: "the gravity of the situation," "palpable tension," "stay sharp," "weight of X pressed down," end-of-chapter camaraderie recaps.
+
+---
+
+## F. THINGS THAT ARE *GOOD* (so we protect them while editing)
+- The prologue is a strong, self-contained horror-tinged cold open.
+- Harris's last stand (Ch7) and Royce's sacrifice (Ch18) are genuine emotional high points.
+- The family last-stand (Ch11) and Argus's grief (Ch12) are the book's beating heart — handle with a light, careful touch.
+- Banter voices (Harlan/Rourke/Tessa) are distinct and earned — preserve their rhythm.
+- Drakken's parlay (Ch18) is the most sophisticated dialogue in the book — a model for elevating other exposition scenes.
+
+---
+
+*End of report. Recommend we resolve §A (structure) and §B (canon locks) by decision before line-level editing, since those choices ripple through multiple chapters.*
