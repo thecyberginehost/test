@@ -123,6 +123,11 @@
 - **Drakken** — elite Obsidian of the **Vrak'thar** noble species (adjacent to Vrakar's). The reader's **POV window into Obsidian hierarchy** (anchors the Book-1 epilogue).
 - **Lt. Charles** — leader of Fireteam Ironclad; his **nuke last stand is the centerpiece of Book 1** (and now Book 1's finale).
 
+### Forward canon — locked Book-2 beats (ForgePulse Bk2, the fall of Trident)
+- **Royce dies** on one of the final missions, **right before Argus's last stand** (his Book-1 hero-death was relocated here).
+- **Argus's last stand** ("Noble Six"-style, with author modifications): he loads **Tessa + the critically wounded Junior** onto one of the few ships escaping Trident, is about to board himself, then **sees an escape ship blown out of the sky** — and **stays behind to hold the line**, the act that lets the survivors escape. **This is where Junior's survival is finally confirmed on-page.**
+- **The two artifacts:** #1 (Elena's, Gladius) is *the first*; **#2** — the **corrupted Void artifact buried under New Eridanus** that the Pillar of Anguish was excavating in Book 1 — is **found by Death Platoon** in Book 2 (the "un-corrupt the artifact" mini-arc).
+
 ### ForgePulse tech & units (canon spellings/functions)
 - **NMIP** (Neuro-Morphic Interface Pad) — instant operational mastery of any vehicle, short of language decryption.
 - **Whisper Grenade** — stealth localized-EMP grenade (disables electronics, incapacitates organics silently).

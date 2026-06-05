@@ -235,12 +235,14 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 - **Obsidian POV**, aboard flagship **Krath'Zaroth**. Author's draft preserved; reframed so the **Pillar of Anguish is NOT destroyed** — the "loss" is the **nuked ground division** + the human denying/destroying his own atomic. `Vor'Kara`→`Vor'kara`; typos cleaned.
 - Introduces **Highlord Vrakar** (the corrupted-while-seeking-alliance ruler = the §7.1 "secretly corrupt Supreme Being") and the cliffhanger arrival of **Kyr Tharanos**.
 
-### Ripple effects to track
-- **Royce** — survives Book 1 (Ch18 death cut); his hero/sacrifice payoff needs a new home in a later book.
-- **Junior** — Ch17 survival confirmation is gone; he ends Book 1 evac'd/critical, fate uncertain on-page (series canon: survives). Decide whether to add a one-line confirmation.
-- **Wraith / Tor / Eclipse** — their Ch17 re-entry is cut; Wraith does not rejoin within Book 1.
-- **Tessa** — still the long-term sole Valor survivor (unchanged).
-- **Excavation / corrupted artifact** is now seeded on-page in Ch16 (the beams) — ties directly to the Death Platoon / artifact Book-2 thread (§A1).
+### Ripple effects — ✅ resolved (author rulings 2026-06-05)
+- **Royce** — **survives Book 1** (Ch18 death cut). **Dies in Book 2** on a final mission, **right before Argus's last stand.** Protect his rookie→hero trajectory for that payoff.
+- **Junior** — ends Book 1 **critical, fate unconfirmed on-page** (correct; do NOT add a confirmation line). **Book 2:** survival confirmed when Argus loads **Tessa + Junior** onto an escape ship; Argus nearly boards, sees an escape ship destroyed, and **stays for a "Noble Six"-style last stand.**
+- **One nuke** — **LOCKED & patched in Ch12** (`02-edited/12-A_Loss_for_Words.md`): single warhead, "one device, one chance."
+- **Two artifacts (confirmed):** **#1** = Elena Voss's at Gladius (Ch13, *the first*); **#2** = the corrupted/Void artifact under New Eridanus (the warship's excavation target; **Death Platoon finds it in Book 2**). Keep distinct.
+- **Wraith / Tor / Eclipse** — Ch17 re-entry cut; Wraith does not rejoin in Book 1 (no earlier promise to walk back).
+- **Tessa** — still the long-term sole Valor survivor; in Book 2 she's evac'd alongside Junior (unchanged from §7.3).
+- **Excavation / corrupted artifact** now seeded on-page in Ch16 (the beams) — directly feeds the Death Platoon / artifact Book-2 thread (§A1).
 
 ---
 
