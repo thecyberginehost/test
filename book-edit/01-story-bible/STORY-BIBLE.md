@@ -85,7 +85,7 @@ In the year 2888, humanity — having long ago fled Old Earth in the "Great Exod
 - **Gladius** — GFC ground base on Trident (war room, GRID Section-47 two km underground).
 - **The *Liberation*** — central orbital defense station (controls automated planetary defenses). **Falls & is nuked Ch8.**
 - **Orbital platforms:** Candidate Maintenance/Traffic Platform, Helios outposts (prologue), Huckleberry Automated Defense Platform, Charr Communications Platform.
-- **Planet Crete** & **Planet Elysium** — prior battle theaters (backstory). ⚠️ NOTE name collision: "Planet Crete" vs "Crete City" on Trident — **see Discrepancy Report.**
+- **Planet Crete** & **Planet Elysium** — prior battle theaters (backstory). ✅ **Planet Crete** (site of a prior military op against a rebellion) is **distinct from Crete City** (Trident's spaceport) — both canon, no collision (author-confirmed).
 - **Lagrange Rift** — gravitational anomaly region near Trident; site of Helios outposts (prologue).
 
 ### Signature Tech / Terms (keep spelling & function consistent)

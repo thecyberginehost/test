@@ -98,9 +98,9 @@ The ability is used as **both** precognition ("foresight," predicting ambushes, 
 - Ch3–4 treat Charr (and Huckleberry) as on **Trident's surface** (free-drop "towards the surface of Trident"). Ch5 line: "the cold, desolate landscape of **Trident's moon**."
 - **Fix:** Decide if these platforms are planetside or on a moon, and make consistent.
 
-### B7. "Planet Crete" vs "Crete City" — reader-confusion risk
-- There is a **Planet Crete** (prior war; where Harris/Fringe fought in orbit; where Argus dubbed Death Platoon) **and** a **Crete City on Trident** (being evacuated; tunnels to beachheads; where OI captured an Obsidian in Ch14).
-- **Fix:** Not strictly a contradiction, but two "Cretes" will confuse readers. Consider renaming one.
+### B7. "Planet Crete" vs "Crete City" — ✅ RESOLVED (both canon, distinct)
+- ✅ **Author confirms both exist and are deliberately distinct:** **Crete City** = the **spaceport on Trident**; **Planet Crete** = a **separate world**, site of a **prior military operation against a rebellion** (where Harris/Fringe fought in orbit and Argus dubbed Death Platoon). **No rename.**
+- *Editorial (light):* keep each first mention contextually clear ("Crete City, Trident's spaceport" vs "the planet Crete") so readers bank them as two places — but no change to the names.
 
 ### B8. Invasion fleet numbers drift
 - Ch6 intel: **70 warships + 10 transports + 2 flagships** (1 major, 1 minor) + 10,000 fighters.
