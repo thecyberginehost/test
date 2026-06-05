@@ -34,7 +34,7 @@ In the year 2888, humanity — having long ago fled Old Earth in the "Great Exod
 - **Captain Orion** — Praetorian company commander, Gladius. Mentor figure, vouches for Wraith. Family safe on Veridian Prime. Catchphrase: *"Kill them all."*
 - **Admiral Drexel** — Commander of Trident's orbital defenses, stationed on the *Liberation*. **KIA Ch8** (killed by Obsidian leader; note rank slip "Commander Drexel" once).
 - **The Surgeon** — GRID's sadistic master interrogator. Amplified Mindreaver. Theatrical villain-glee. Old friend of Strickland (undisclosed GRID ties).
-- **Dr. Elena Voss** — GRID scientist studying the artifact (Ch13). Becomes a vessel for its knowledge; reveals the Harbinger prophecy. Assistant AI: **Athena**.
+- **Dr. Elena Voss** — GRID scientist studying the artifact (Ch13). Becomes a vessel for its knowledge; reveals the Harbinger prophecy. Assistant AI: **Athena**. ⭐ **Canon link:** the "artifact" is a **Codex** (the Harbinger-choosing tome, unrecognized — Clarke's Third Law); Elena (surname **Voss**) is of the **Voss/Harbinger line** — which is *why* it answers to her (she activates as a Harbinger in the modern era). **Flag:** is her AI **Athena** actually **Aetheris** (Xylaris's Voss-tracking AI)? — author to confirm.
 
 ### Other Fireteams (Praetorians)
 - **Fireteam Honor** — Lt. **Lysander** (Argus's OCS bunkmate). Sent to *Liberation*, then recalled; **transport destroyed Ch10** (team wiped out).
@@ -186,6 +186,7 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 - **Implication for this book:** the contradicting physical descriptions (elf-like silvery-blue/white-haired in the Prologue vs. grey/clawed/hairless in Ch6 vs. yellow-eyed/fanged in Ch18) can be **canonized as different member-races of the pact** rather than corrected to one look. *Editorial approach (recommended, pending author OK):* keep the variation but make it feel **intentional and controlled** — i.e., be internally consistent *within* a given unit/scene, and subtly imply these are different peoples, so a reader reads "variety of an alien coalition," not "author lost track." See Discrepancy Report B1 (now reframed).
 
 ### 7.2 The Artifact arc is a **deliberate cliffhanger** (sets up Book 2)
+- ⭐ **The "artifacts"/"relics" ARE Codexes** (the Harbinger-choosing tomes of the fantasy era, unrecognized by far-future humans). The Gladius artifact (Elena's) is a Codex; the buried one under New Eridanus is a **corrupted** Codex. The "5 humans / 50 relics" mythology = Harbingers + Codexes. See `REFORGED-UNIVERSE-LORE.md` §5.
 - **Book 2 opens with Death Platoon** reaching the artifact (picks up the dropped Ch13–15 thread on purpose).
 - The artifact is **corrupted** — and it **corrupts those around it.** Affected beings become **"purple, shadowy, angry zombie"-like** creatures.
 - The corrupted are the **Obsidians** themselves (the pact turns on itself / is twisted).
