@@ -109,6 +109,7 @@
 - Run by **GRID**; the more ethical successor to **Project Clandestine** (which produced fractured operators like **Strickland** and **the Surgeon**).
 
 ### The Obsidians (true nature)
+- **Terminology:** the polity is the **Obsidian Empire** (a.k.a. the Obsidian dominion); its military is the **Obsidian Armada**. ("Obsidians" = the people/coalition.)
 - **Not a single species — a pact of FIVE alien races**, each from its own star system, **forged into one people by Vrakar in the War of the Five Suns** (each "sun" = one species' home system, fought and united). *(Reconciliation: the master lore-bible's older phrasing — "every species that constituted the Primordial Architects, minus humans, ~80–90% of those reseeded" — is **refined** by this. Canonical number is **FIVE core species** (matches Story Bible §7.1's "pact of five"). Whether the five are a subset of the reseeded Architect-species, or collectively make up most of them, is TBD.)*
   - **Vrak'Thar / Vrak'Tharan** are the same species lineage split across two of these worlds; **Vrak'Tharan** is the **more noble** (Vrakar & Lyrana), **Vrak'Thar** the other (Drakken).
 - They **unknowingly carry Celestian ritual vocabulary** in their speech — e.g., **Vor'kara** (single canonical spelling, no variants) and **Lok'Sha O'Ka**.
@@ -185,7 +186,12 @@
 - **Culture/voice:** **biting sarcasm and mischief** — jesters who laugh in the face of danger — a sharp contrast to their combat ferocity. *(Strong comic-but-deadly flavor.)*
 - **On Trident:** fought under Drakken's combined command; the **Praetorians dismiss them as a nuisance** and easy targets — exactly the underestimation the Kresh punish.
 
-**Titan Vanguard** — **NEW unit.** The **central / principal fighting force of the Obsidian armada** — and a **derivative of the Highborn Guard** (Vrakar's personal guard came first; the armada's central force grew out of it). Kyr's origin and command; operates with Kresh counterparts. **A Titan Vanguard division was annihilated at New Eridanus by Charles's nuke** (the epilogue's "ground division swallowed by a single human's fire") — the failure Kyr is summoned to answer for, and the spark for Vrakar committing the Vanguard/Kresh in force.
+**The Titan Vanguard** — the **central fighting force of the Obsidian Empire's armada**; a **derivative of the Highborn Guard** (the personal guard came first; the armada's main force grew out of it). **Kyr Tharanos's** command. *Reference: `assets/titan-vanguard.png`.*
+- **Armor:** a masterpiece of the Obsidian forge — **stark white/silver plate with teal accents and advanced circuitry**; impenetrable defense fused with lethal capability.
+- **Keepers of the Kresh:** the Titan Vanguard formally **keeps/manages the subdued Kresh**, who serve under Kyr's **Iron Accord** with "tempered ferocity."
+- **A culture of ascension:** members join aiming to **rise to leadership** or earn **induction into the Blackguard** — the climb hones them into warriors "as formidable in solo combat as in a unit." (Ladder: **Titan Vanguard → Blackguard → Highborn Guard.**)
+- **War of the Five Suns:** Kyr and the Titan Vanguard **bolstered Princess Lyrana's vanguard** when the tide was bleakest, driving the final-battle victory — deeds revered even among the Blackguard.
+- **On Trident:** the Titan Vanguard **cleared the fields and carved the path** so the **Blackguard could deliver the final, crushing blow** — stark silhouettes against the burning skyline of a conquered world. **A Titan Vanguard division was annihilated at New Eridanus by Charles's nuke** (the epilogue's "ground division swallowed by a single human's fire") — the failure Kyr is summoned to answer for, and the spark for Vrakar committing the Vanguard/Kresh in force.
 
 **The Highborn Guard** — ✅ *(canonical name; "Highborn Guard," not "Vanguard")* — Vrakar's **elite personal guard** (~5 elite warriors), drawn from **the finest of the Blackguard**; the shield of the Highlord. Reference: `assets/highborn-guard.png`.
 - **Armor:** sleek dark/charcoal plate fusing traditional elegance with cutting-edge defensive tech, accented with **radiant blue hues** (elite status + direct allegiance to Vrakar); an **expressionless visored helmet** — identity submerged beneath the role.
