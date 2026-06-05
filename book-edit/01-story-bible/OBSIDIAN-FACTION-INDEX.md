@@ -14,6 +14,7 @@
 | **High Commander Kyr Tharanos** | (rose from recruit) | Leads the **Titan Vanguard**; the **Kresh-binder** (Iron Accord); barred from the Blackguard (too vital to the Kresh). | `kyr-tharanos.png` |
 | **Commandant Thal'Rak Cho'Vall** | ? | Commands the **Highborn Guard**; deeds "blacklisted from Obsidian logs" (mystery hook). | — |
 | **Lythar & Rythos** | non-royal | Twin leaders of the **Dra'Kor Vhel'Tan**; trained by Drakken; rose in the Kresh Rebellion. | (in `drakor-vheltan.png`) |
+| **Ujio Takamoto** | **Human** | Vrakar's **friend & personal samurai-assassin** (ranks above the Highborn Guard); feudal-Edo samurai who left Earth as a peace-hostage; otherworldly katana, cybernetic eye, centuries-old. Hunts Praetorians on Trident. | `ujio-takamoto.jpg` |
 | **Varkul the Unifier** | Kresh | Legendary Kresh chieftain who united the Kresh tribes (historical). | — |
 
 ## Units (order of battle)
