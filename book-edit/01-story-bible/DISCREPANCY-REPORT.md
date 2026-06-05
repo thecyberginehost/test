@@ -54,6 +54,11 @@ The aliens look like different species across chapters:
 - "purple" (Ch5, Ch6, Ch8), "dark, viscous" (Ch10), "dark blue / dark blue mist" (Ch16).
 - **Fix:** Pick one (purple **or** blue) and apply throughout.
 
+### B2b. Apostrophe-name casing + `Val'Kora` vs `Vor'kara` — ⚠️ NEW
+- **Rule locked (author):** apostrophe **names** cap both sides of the apostrophe (`Thik'Shal`); apostrophe **regular words** cap only the first letter (`Vor'kara`). Applied to active canon (`Thik'shal`→`Thik'Shal`; stray `Vor'Kara`→`Vor'kara`). Originals (`00-manuscript-original/`) get this during their edit pass.
+- **Open Q1 — species casing:** is **`Vrak'thar`/`Vrak'tharan`** a *name* (→ `Vrak'Thar`/`Vrak'Tharan`) or a *regular word* (stays lowercase)? Currently lowercase, pending ruling.
+- **Open Q2 — `Val'Kora`:** Ch01 (line 50) the intercepted "voices" on Junior's outdated radio repeat the word **"Val'Kora"**; Ch03 a survivor reports the chant **"Dra'Kor Vhel'Tan"** — *"the same phrase from my son's radio."* Is **`Val'Kora`** a variant of the Obsidian greeting **`Vor'kara`** (lore says "no variants" → fix it), or a **deliberately distinct** word the humans are mishearing? This is a juicy early-mystery thread (Obsidian/Void transmissions bleeding through) — **author call** before standardizing.
+
 ### B3. "Mindreaver" vs "Mindweaver" — ⚠️ HIGH (pervasive)
 - Both spellings used for the same ability/people: **Mindreaver/Mindreaving** (Ch2, 5, 6, 16) and **Mindweaver/Mindweaving** (Ch4, 5, 18). Sometimes both appear in the same chapter (Ch5).
 - **Fix:** Choose one spelling and global-replace.

@@ -146,7 +146,11 @@
 - **Founder of the Dra'Kor Vhel'Tan** — instrumental in forming the feared elite advance-saboteur unit. ✅ **Direct manuscript tie-in:** this is the unit the **captured Obsidian operative of Ch5–6** belongs to.
 - **Quashed the Kresh rebellion** — by martial force *and* a sharp talent for recruitment and loyalty cultivation. *(Pairs with Kyr: Drakken **broke** the rebellion; Kyr later **won the Kresh's pride/loyalty.** Exact sequence TBD.)*
 - **Politician:** holds a **seat on the Obsidian High Council**; a master of cutthroat Obsidian politics. *(In the epilogue he regards the other councilors with "thinly veiled disdain" — a warrior-councilor who holds a seat yet despises the careerists. Consistent; adds depth.)*
-- ⚠️ **Spelling:** NFT uses **`Thik'Shal`**; the epilogue draft has `Thik'shal`. Standardize (recommend `Thik'Shal`) — author confirm.
+- **War-ending counsel (Lok'Sha O'Ka):** during the War of the Five Suns, as a **lowly Commander** in the Blackguard, **Thik'Shal counseled then-High-Commander Vrakar to invoke the ancient rite of Lok'Sha O'Ka** against the enemy leader — a single calculated stroke that turned the tide and spared countless Obsidian lives. *(Refines Kyr's card: Kyr's sabotage set the stage; **Drakken's counsel** prompted the invocation; **Vrakar** performed it.)*
+- **Career arc:** War of the Five Suns — **Vrakar = High Commander, Drakken = lowly Commander.** Present day — **Vrakar = Highlord, Drakken = High Commander.**
+- **The Dra'Kor Vhel'Tan forge:** more than a recruiter — Drakken is "the forge in which their mettle was tempered." His most formidable trainees: the **twins Lythar and Rythos** (non-royal yet elite warriors) who rose to **lead** the Dra'Kor Vhel'Tan.
+- **On Trident (the war the Obsidians call "Sacred Retribution"):** Drakken led the **combined Blackguard + Titan Vanguard + Kresh** ground forces and secured victory; his honors-scarred battle armor was a symbol of dread to the Praetorians, whom he fought with a **warrior's respect** — only overwhelming Obsidian force prevented a deadlock. *(His **on-page** engagement with the human elite was the cut Ch18 parlay → now **off-page** in Book 1; a candidate to restage later.)*
+- **Two reference images:** `assets/drakken-noble.png` (Royal Armor) · `assets/drakken-armored.png` (Blackguard combat armor). ✅ Name standardized to **`Thik'Shal`**.
 
 **Princess Lyrana** — **NEW.** The **heir of Vrakar** (Obsidian royal line; presumably Vrak'tharan). A fearless warrior-strategist who fought beside Kyr in the War of the Five Suns; Kyr's unspoken charge is her protection. *(Major character — her relationship to Vrakar's corruption arc is TBD.)*
 
@@ -154,7 +158,11 @@
 
 **Titan Vanguard** — **NEW unit.** An Obsidian military branch/order — Kyr's origin and command; operates with Kresh counterparts. **A Titan Vanguard division was annihilated at New Eridanus by Charles's nuke** (the epilogue's "ground division swallowed by a single human's fire") — the failure Kyr is summoned to answer for, and the spark for Vrakar committing the Vanguard/Kresh in force.
 
-**War of the Five Suns** — **NEW historical event.** A major Obsidian war (pre-Trident) that cemented Vrakar's rule and forged Kyr's legend; ended by Vrakar's invocation of **Lok'Sha O'Ka**.
+**War of the Five Suns** — **NEW historical event.** A major Obsidian war (pre-Trident) that cemented Vrakar's rule and forged the legends of Kyr *and* Drakken. **Kyr** (then a Titan Vanguard officer) sabotaged the enemy fleet and protected the heir Lyrana; **Drakken** (then a lowly Blackguard Commander) **counseled Vrakar to invoke Lok'Sha O'Ka**; **Vrakar** (then High Commander) performed the rite against the enemy leader — ending the war with a single stroke and avoiding needless Obsidian deaths.
+
+**Sacred Retribution** — **NEW.** The **Obsidians' name for the war against humanity** (the 2888 Trident war) — they frame it as a **holy crusade to avenge the desecration of their sacred sites.** Also the epithet of the flagship **Krath'Zaroth** ("Sacred Retribution"). ✅ **Ties to the Book-1 logline** (the "holy crusade to reclaim a sacred artifact humans unwittingly activated"): the "desecrated sacred sites" = the **artifacts** humans disturbed/activated (Elena's #1, the buried #2). **Cosmic irony:** the Obsidians believe it's holy vengeance, but the war was *manufactured* — the Void/Devourer corrupted Vrakar to burn the intended human–Obsidian alliance and drive this crusade instead.
+
+**Lythar & Rythos** — **NEW.** Twin **non-royal** warriors, Drakken's most formidable Dra'Kor Vhel'Tan trainees; rose to **lead** that elite saboteur unit.
 
 **Lok'Sha O'Ka** — previously logged as Celestian ritual vocabulary the Obsidians unknowingly carry; here revealed as a **war-ending invocation of real power** wielded by Vrakar. *(Strong implication: Vrakar channeling buried Celestian/conduit ritual — a thread that may connect to why the Void targeted him. Flag for cosmology.)*
 
@@ -217,8 +225,12 @@
 ---
 
 ## 15. Canon Spelling Locks
+
+> **Apostrophe-capitalization rule (author-set):** A **name** containing an apostrophe caps **both** the first letter of the name **and** the first letter after the apostrophe → `Thik'Shal`, `Krath'Zaroth`, `Dra'Kor Vhel'Tan`, `Lok'Sha O'Ka`, `Lar'Kar`, `Wo'Shuk`. A **regular word** that happens to contain an apostrophe caps **only the first letter** → `Vor'kara`.
+> **Open question (flagged):** Is the species **`Vrak'thar` / `Vrak'tharan`** a *name* (→ `Vrak'Thar`/`Vrak'Tharan`) or a *regular word* (stays lowercase)? Currently left lowercase pending author call. Also: **`Val'Kora`** (Ch01 intercepted-voices word) vs **`Vor'kara`** — same word (variant to fix) or deliberately distinct? Flagged in Discrepancy Report.
+
 - **Xylaris** (not Xylorus) · **Vor'kara** (no variants) · **Lok'Sha O'Ka** · **Mindreaver** (one word; manuscript canon over lore-bible "Mind Rivers") · **Pillar of Anguish** · **Krath'Zaroth** · **Obscurum** · **Thalkyr** · **Eos / Gaios** · **Skorge** (a.k.a. Scourge) · **Or'uk** · **Vrak'tharan** (Vrakar's species) / **Vrak'thar** (Drakken's noble species).
-- Obsidian: **Kyr Tharanos** · **Princess Lyrana** · **Kresh** · **Titan Vanguard** · **War of the Five Suns** · **Blackguard** · **Lar'Kar Zhul** · **Councillor Vorthan** / **Councillor Talira** · flagship **Krath'Zaroth** ("Sacred Retribution") · warship **Pillar of Anguish**.
+- Obsidian: **Drakken Thik'Shal** · **Kyr Tharanos** · **Princess Lyrana** · **Lythar** & **Rythos** · **Kresh** · **Titan Vanguard** · **Blackguard** · **Dra'Kor Vhel'Tan** · **Lar'Kar Zhul** · **Councillor Vorthan** / **Councillor Talira** · **War of the Five Suns** · **Sacred Retribution** · flagship **Krath'Zaroth** · warship **Pillar of Anguish**.
 
 ---
 

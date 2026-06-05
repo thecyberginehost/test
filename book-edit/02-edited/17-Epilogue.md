@@ -3,7 +3,7 @@ Date: December 17th, 2888 (Human Calendar)
 Time: 1345 (Human Galactic Standard Time)
 Location: Obsidian Flagship — Krath'Zaroth (Sacred Retribution)
 
-High Commander Drakken Thik'shal sat in the deployment shuttle of the Obsidian Blackguard, surrounded by the remaining members of his elite unit. The shuttle hummed softly as it ascended towards the Krath'Zaroth, the grand flagship that served as the throne of Highlord Vrakar. The recent skirmish had been unexpectedly fierce. The humans, with their Praetorian warriors, had shown a resilience that was both surprising and, in some ways, admirable.
+High Commander Drakken Thik'Shal sat in the deployment shuttle of the Obsidian Blackguard, surrounded by the remaining members of his elite unit. The shuttle hummed softly as it ascended towards the Krath'Zaroth, the grand flagship that served as the throne of Highlord Vrakar. The recent skirmish had been unexpectedly fierce. The humans, with their Praetorian warriors, had shown a resilience that was both surprising and, in some ways, admirable.
 
 Drakken's piercing eyes surveyed his team. "Even with our withdrawal from the surface," he began, his voice steady and controlled, "the enemy's will to fight was formidable. This loss—an entire ground division, swallowed by a single human's fire—is acceptable." His tone carried a note of respect for the enemy's tenacity, something not often expressed among the Blackguard.
 
