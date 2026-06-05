@@ -142,13 +142,13 @@
 
 **The Kresh** — **NEW faction.** A ferocious Obsidian warrior species/caste, historically prone to rebellion; first made loyal under Kyr. Fight alongside the **Titan Vanguard**.
 
-**Titan Vanguard** — **NEW unit.** An Obsidian military branch/order — Kyr's origin and command; operates with Kresh counterparts.
+**Titan Vanguard** — **NEW unit.** An Obsidian military branch/order — Kyr's origin and command; operates with Kresh counterparts. **A Titan Vanguard division was annihilated at New Eridanus by Charles's nuke** (the epilogue's "ground division swallowed by a single human's fire") — the failure Kyr is summoned to answer for, and the spark for Vrakar committing the Vanguard/Kresh in force.
 
 **War of the Five Suns** — **NEW historical event.** A major Obsidian war (pre-Trident) that cemented Vrakar's rule and forged Kyr's legend; ended by Vrakar's invocation of **Lok'Sha O'Ka**.
 
 **Lok'Sha O'Ka** — previously logged as Celestian ritual vocabulary the Obsidians unknowingly carry; here revealed as a **war-ending invocation of real power** wielded by Vrakar. *(Strong implication: Vrakar channeling buried Celestian/conduit ritual — a thread that may connect to why the Void targeted him. Flag for cosmology.)*
 
-> **⚠️ Continuity watch — Kyr's "reprimand":** The NFT lore paints Kyr as a celebrated hero (savior of Vrakar's heir, indispensable Kresh-whisperer); the **epilogue** has him arriving to face a **"severe reprimand."** Reconcile: is the reprimand about a *current* (2888/Trident) failure separate from his honored past? Is "reprimand" a misdirect? Or does the epilogue need a tweak? **Author call needed.**
+> **✅ Continuity RESOLVED — Kyr's "reprimand":** The wiped ground division in the epilogue (the one Charles's nuke "swallowed") was a **Titan Vanguard division — Kyr's command.** So the reprimand is a *current-campaign* failure, fully independent of his honored past: Vrakar **absolves the Blackguard** (*"a failure that is not yours to bear,"* said to Drakken's unit) and turns to **Kyr** to bear it. Vrakar is also **escalating — "sending in the big guns":** Kyr + the Titan Vanguard / Kresh are being committed in force, and Kyr is charged with keeping the Kresh in line and getting his Vanguard back on track. **Book-2 escalation hook.** *(The epilogue already sets this up structurally — "not yours to bear" immediately precedes Kyr's entrance; the wiped division simply needs to be understood/named as Titan Vanguard.)*
 
 ### ForgePulse tech & units (canon spellings/functions)
 - **NMIP** (Neuro-Morphic Interface Pad) — instant operational mastery of any vehicle, short of language decryption.
