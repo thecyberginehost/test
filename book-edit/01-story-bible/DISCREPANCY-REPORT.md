@@ -55,8 +55,9 @@ The aliens look like different species across chapters:
   | **Vrak'Tharan / Vrak'Thar** (noble) | elf-like; pale silvery-blue skin, white hair, pointed ears, regal | **Prologue** | ✅ locked |
   | **Kresh** | grey, hairless, ~5 ft, ridged skull, glowing eyes | resembles **Ch6** (grey/hairless) — unconfirmed | ◑ likely |
   | race #3 | dark skin, narrow **yellow eyes**, jagged **fangs** | **Ch18** | ⬜ unnamed |
-  | race #4 | ? | — | ⬜ unknown |
+  | **Seleron** | ? (held the "fourth sun"; ion-turret fleet civ) | — | ⬜ named, look TBD |
   | race #5 | ? | — | ⬜ unknown |
+  - *Note:* the **Ch18 "yellow eyes / fangs"** look is still unassigned — could be the **Seleron**, race #5, or a Kresh variant.
   - **Need from author:** the names of all five races + each one's look, so the manuscript's varying descriptions get assigned deliberately (and Ch6/Ch18 captives get the right species).
 - **Editorial action:** Keep the variety, but make it read as *intentional* rather than careless. Two-part fix: (1) be strictly consistent *within* any single individual/unit/scene; (2) lightly seed that these are visibly different peoples (a Praetorian noticing "this one looks nothing like the last") so the reader banks it as worldbuilding. We should also nail down **which described look = which race** as a reference table once you tell me the five races, so later books stay consistent. *(Blood color, B2, still needs a per-race or universal rule.)*
 
@@ -77,6 +78,10 @@ The aliens look like different species across chapters:
 - **Vrakar's & Drakken's cards:** the rebellion was quelled by the **Dra'Kor Vhel'Tan** (Vrakar created it for exactly this; Drakken forged/led it).
 - **Kresh's & Kyr's cards:** the rebellion was **crushed by the Titan Vanguard under Kyr Tharanos**, who then bound the Kresh via the **Iron Accord** and earned their veneration.
 - **Likely reconciliation:** a **combined operation** — Kyr's **Titan Vanguard** as the main force/lead, the **Dra'Kor Vhel'Tan** as the elite enforcer arm — but **the lead figure for the *suppression* must be locked.** **Recommend Kyr** (two cards agree; it sets up the Kresh's veneration of him and his Iron Accord). Drakken's "quashed the rebellion" line then narrows to his role *building/leading the Dra'Kor Vhel'Tan* within Kyr's campaign. *(The Dra'Kor Vhel'Tan card reinforces this — the twins "rose to command in the Kresh Rebellion" and the unit "quelled rebellions" — i.e., they were present as the stealth arm, consistent with a combined op.)* **Author confirm.**
+
+### B2e. "Fringe" naming collision + War-of-Five-Suns credit overlap — ⚠️ NEW
+- **`GFC Fringe` (human warship) vs `Fringe Operatives` (Obsidian black-ops):** the manuscript's **GFC Fringe** is the human warship Harris served on (Ch14); the NFT **Fringe Operatives** are a secret Obsidian unit. Two unrelated "Fringe"s on opposite sides will confuse readers. **Recommend renaming the Obsidian group** (the human ship is already on the page). Author confirm.
+- **Decisive-victory credit overlap (War of the Five Suns):** Vrakar's war-turning **Lok'Sha O'Ka** boarding is "set up" by **three** covert efforts across cards — **Kyr + Lyrana** (Titan Vanguard ship-infiltration sabotage) and the **Fringe Operatives** (ion storm + feigned retreat vs the **Seleron** at the fourth sun). Likely the **same climactic victory with multiple covert hands** (or distinct suns). Lock **who did what / at which sun**. Low urgency.
 
 ### B3. "Mindreaver" vs "Mindweaver" — ⚠️ HIGH (pervasive)
 - Both spellings used for the same ability/people: **Mindreaver/Mindreaving** (Ch2, 5, 6, 16) and **Mindweaver/Mindweaving** (Ch4, 5, 18). Sometimes both appear in the same chapter (Ch5).
