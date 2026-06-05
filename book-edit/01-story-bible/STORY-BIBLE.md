@@ -240,7 +240,7 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 
 ### Ripple effects — ✅ resolved (author rulings 2026-06-05)
 - **Royce** — **survives Book 1** (Ch18 death cut). **Dies in Book 2** on a final mission, **right before Argus's last stand.** Protect his rookie→hero trajectory for that payoff.
-- **Junior** — ends Book 1 **critical, fate unconfirmed on-page** (correct; do NOT add a confirmation line). **Book 2:** survival confirmed when Argus loads **Tessa + Junior** onto an escape ship; Argus nearly boards, sees an escape ship destroyed, and **stays for a "Noble Six"-style last stand.**
+- **Junior** — ends Book 1 **critical, fate unconfirmed on-page** (correct; do NOT add a confirmation line). **Book 2:** survival confirmed when Argus loads **Tessa + Junior** onto an escape ship; Argus stays for a "Noble Six"-style last stand → he & **Death Platoon are captured** → **Dr. Elena Voss** (now a secret Codex-Harbinger) tells him to **invoke Lok'Sha O'Ka** → he duels & kills **Lar'Kar Zhul** (who cheats with a hidden blade), wins the rite, and **dies**; his binding victor's-request frees Death Platoon → **The Hunt** (~10-yr bridge to Bk3). Full beat in `REFORGED-UNIVERSE-LORE.md` (Forward canon).
 - **One nuke** — **LOCKED & patched in Ch12** (`02-edited/12-A_Loss_for_Words.md`): single warhead, "one device, one chance."
 - **Two artifacts (confirmed):** **#1** = Elena Voss's at Gladius (Ch13, *the first*); **#2** = the corrupted/Void artifact under New Eridanus (the warship's excavation target; **Death Platoon finds it in Book 2**). Keep distinct.
 - **Wraith / Tor / Eclipse** — Ch17 re-entry cut; Wraith does not rejoin in Book 1 (no earlier promise to walk back).
