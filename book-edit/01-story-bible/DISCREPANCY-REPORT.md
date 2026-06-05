@@ -4,6 +4,24 @@
 
 ---
 
+## 0. ENDING RESTRUCTURE — RESOLVED & NEW FLAGS (2026-06-05)
+
+**Book 1 now ends on Ch16 (Charles's one-nuke last stand) + an Obsidian-POV Epilogue. Original Ch17 & Ch18 are CUT** (archived in `99-cut-from-book-1/`; edited finale in `02-edited/`). See Story Bible §8. This resolves several items below and creates a few new ones:
+
+**✅ Resolved by the restructure**
+- **A2 (two competing climaxes)** — settled: warship-boarding climax cut; artifact arc kept as deliberate Book-2 cliffhanger.
+- **Pillar of Anguish fate** — was "destroyed Ch18"; now **survives, excavating** (canon). Bible updated.
+- **B3 (Mindreaver vs Mindweaver)** — ✅ LOCKED to **`Mindreaver`** (also overrides lore-bible "Mind Rivers").
+
+**🆕 New flags created by the cut (need author input)**
+- **N1 — Royce's payoff is now homeless.** His rookie→hero arc paid off in the cut Ch18 (manual nuke aboard the warship). He now **survives Book 1**. *Decision:* where does his sacrifice/hero beat land — later in this book, or a future book? For now he simply lives.
+- **N2 — Junior's on-page survival confirmation is gone** (it was in cut Ch17). Book 1 now ends with him evac'd/critical, fate unconfirmed on-page. *Decision (recommended):* **leave uncertain** as a hook (Argus doesn't know his son lives) — OR add a single confirming line. Series canon = he survives.
+- **N3 — One-nuke logistics vs. the Delta-bunker setup (ties to C8 below).** Ch12 sets up a bunker holding **portable nukes (plural)** + the "Football." The one-nuke ending needs that setup reconciled — either the bunker holds/yields a **single** device, or only one was ever deployed (Ironclad's). Must align so "the only nuke we had" reads true.
+- **N4 — Two artifacts? Reconcile.** There is (a) the artifact studied at **Gladius / GRID Section-47** (Ch13, Elena Voss) and (b) the **corrupted artifact buried under New Eridanus** that **both Death Platoon (Ch14–15) and the Pillar of Anguish (Ch16 excavation)** are converging on. *Question:* are these the **same** artifact or **two**? This drives the Book-2 engine; needs an author ruling so Ch13–16 stay consistent.
+- **N5 — Wraith/Tor/Eclipse** re-entry (cut Ch17) no longer happens in Book 1; ensure no earlier chapter promises their Book-1 return.
+
+---
+
 ## A. STRUCTURAL / STORY-LEVEL (highest priority)
 
 ### A1. The Artifact / Harbinger / Death Platoon arc — ✅ INTENTIONAL CLIFFHANGER (author-confirmed)
@@ -93,9 +111,9 @@ The ability is used as **both** precognition ("foresight," predicting ambushes, 
 - Lt. Lysander (Argus's bunkmate, set up in Ch2) dies when "Fireteam Honor's transport… is struck" (Ch10) — never named in the moment.
 - **Fix:** Given his setup, name him in his death beat for impact.
 
-### C8. The Delta bunker / where the nukes come from is skipped
-- Ch12 establishes the plan to rally at **Delta bunker** (under a coffee shop) which holds portable nukes, to infiltrate the warship. Ch16 simply opens with Valor already in the city with nukes in play (Charles's ground nuke + the "Football"). The bunker visit/nuke-acquisition is never shown.
-- **Fix:** A short connective scene (or a line) covering the bunker pickup would close the logic gap.
+### C8. The Delta bunker / where the nukes come from is skipped — ⚠️ now also ties to ONE-NUKE canon (see N3)
+- Ch12 establishes the plan to rally at **Delta bunker** (under a coffee shop) which holds **portable nukes (plural)**, to infiltrate the warship. Ch16 simply opens with Valor already in the city with nukes in play (Charles's ground nuke + the "Football"). The bunker visit/nuke-acquisition is never shown.
+- **Updated fix (one-nuke ending):** The finale now hinges on there being **exactly one** nuke (Ironclad's), which dies with Charles. Reconcile the Ch12 bunker setup accordingly — single device, or only one drawn/deployed — so "the only nuke we had" in Ch16 is airtight. A short connective line covering the pickup would also close the original logic gap.
 
 ---
 

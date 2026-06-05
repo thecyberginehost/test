@@ -3,6 +3,9 @@
 **Compiled from full read-through of Prologue + Chapters 1–18 (~84,400 words)**
 *This is the master reference. Every chapter edit is checked against this document for consistency of voice, fact, and character.*
 
+> **⚠️ STRUCTURE UPDATED (2026-06-05):** Book 1 now ends on **Ch16 (Charles's nuke last stand) + an Obsidian-POV Epilogue.** Original **Ch17 & Ch18 are CUT** (archived in `99-cut-from-book-1/`). See **§8 — Book-1 Ending Restructure (LOCKED)**.
+> **Universe-level canon** (cosmology, Void, Harbingers, the 65-My timeline, why the Obsidians exist) now lives in **`REFORGED-UNIVERSE-LORE.md`** — read it alongside this file.
+
 ---
 
 ## 1. LOGLINE & PREMISE
@@ -24,7 +27,7 @@ In the year 2888, humanity — having long ago fled Old Earth in the "Great Exod
 | **Spc. Milo Harlan** | Heavy weapons | The comic engine. Dark humor, gallows wit, tobacco connoisseur. Carries "The Shredder" (SHR-3663R chain gun). | Epsilon Wintergreen Longcut → switches to Red Man (Rourke's gift). |
 | **Spc. Tessa Byrne** | Sniper | Sharp-tongued, professional, mothering exasperation toward Harlan/Royce. | **Wounded Ch10, evac'd to Gladius. Never returns** (see Discrepancy Report). |
 | **Cpl. Elara Vega** | Medic | Calm, competent, gives as good as she gets in banter. | **KIA Ch10** (alien sniper, through the chest while treating Tessa). |
-| **Spc. Connor Royce** | Rookie | Green, eager, grenade specialist (best throws 30–80m). Chews gum, not tobacco. Father's knife = family heirloom. | **Arc: rookie → hero. KIA Ch18** — manually detonates the nuke aboard the warship. Dying line callbacks Tessa ("my balls finally dropped"). |
+| **Spc. Connor Royce** | Rookie | Green, eager, grenade specialist (best throws 30–80m). Chews gum, not tobacco. Father's knife = family heirloom. | **Arc: rookie → hero.** ⚠️ **Original Ch18 death (manual nuke aboard the warship) is CUT.** Royce now **SURVIVES Book 1** (he's in the Ch16 tunnel group). His hero/sacrifice payoff needs a **new home in a later book.** See §8 + Discrepancy Report. |
 | **Wraith** | GRID Operative (attached) | Cold, precise, unreadable, loyal-to-mission. Former Praetorian (served under Orion). A **Mindreaver**. Carries Reactor Blade ("sword") + "Sting" (smart pistol). | Leaves Valor after Ch6, rejoins Ch17 leading Tor & Eclipse. |
 
 ### Command / Support
@@ -50,13 +53,15 @@ In the year 2888, humanity — having long ago fled Old Earth in the "Great Exod
 - Vindicator bridge crew: Lt. Clarke (nav), Ens. Reynolds (pilot), Lt. Nguyen (weapons), Ens. Kim (comms), Lt. Park (engineering).
 
 ### Antagonists (Obsidians)
-- **High Commander Drakken Thik'shal** — Of the **Blackguard** (Obsidian equivalent of Praetorians). Honorable, fluent English, studies humans. Parlays with Argus (Ch18) before the fight; executes a disciplined retreat. **Survives — sequel hook.**
+- **High Commander Drakken Thik'shal** — Of the **Blackguard** (Obsidian equivalent of Praetorians); **Vrak'thar** noble species (adjacent to Vrakar's). Honorable, fluent English, studies humans. ⚠️ **His Ch18 parlay with Argus is CUT** — Drakken now anchors the **Obsidian-POV Epilogue**, reporting to Highlord Vrakar aboard the flagship *Krath'Zaroth*. The reader's window into Obsidian hierarchy. **Survives — sequel hook.**
+- **Highlord Vrakar** — **NEW (Epilogue).** Of the **Vrak'tharan** species, Primordial-Architect lineage; ruler the Obsidians serve. A **tragic corruption victim** — targeted by the Void *specifically because he was building a human alliance.* Cold/contemptuous exterior in the epilogue; corruption is seeded but NOT yet visible to a first-time reader. **Survives** (Junior confronts him in a later book). This is the "secretly corrupt Supreme Being" of §7.1, now named.
+- **High Commander Kyr Tharanos** — **NEW (Epilogue cliffhanger).** White-and-red armor, adjacent rank to the Blackguard; arrives before Vrakar to face a "severe reprimand." Sequel hook — role TBD.
 - The captured Obsidian operative (Ch5–6) — member of the **Dra'Kor Vhel'Tan** (elite advance saboteur unit). Interrogated and killed by The Surgeon.
-- **Xa'Nar** — Obsidian network defender ("handle"); duels Kaine in cyberspace (Ch18).
+- **Xa'Nar** — Obsidian network defender ("handle"); dueled Kaine in cyberspace. ⚠️ **That scene (Ch18) is CUT** — reusable later (see archive README).
 
 ### Argus's Family (the emotional core)
 - **Julia Argus** — Wife. Holocom Operations Specialist at **Cyber AI Engine** (makers of TitanAI). Brave, capable with the railgun in the end. **KIA Ch11.**
-- **Mark Jr. ("Junior")** — 8. Tactically precocious (trained on the Battlepulse rifle). Kills the alien that killed Julia & Kat. Gravely wounded but **SURVIVES** (confirmed Ch17).
+- **Mark Jr. ("Junior")** — 8. Tactically precocious (trained on the Battlepulse rifle). Kills the alien that killed Julia & Kat. Gravely wounded, evac'd to Gladius (Ch12). ⚠️ His survival was **confirmed in Ch17 (now CUT)** — in Book 1 he now ends **evac'd, alive-but-critical, fate uncertain on-page** (a strong hook: Argus doesn't know if his son lives). Series canon: **he survives** (becomes the Harbinger who confronts Vrakar). *Decision flagged:* leave uncertain, or add a one-line confirmation — see Discrepancy Report.
 - **Catherine ("Kat")** — 6. Loves *Toy Story*. **KIA Ch11** (thrown into concrete).
 
 ---
@@ -90,7 +95,7 @@ In the year 2888, humanity — having long ago fled Old Earth in the "Great Exod
 - **GravLink** — FTL-bypass comms (fails in prologue).
 - Obsidian tech: **red energy swords/daggers**, cloaking, self-repairing warships, FTL-near-surface.
 - GRID gadgets: Whisper Charge, Nullifier Node, Insta-Shot, Nano-Sealant, AdaptiSync Modulator, NMIP, blowback gloves (Tor).
-- **Obsidian warship:** *The Pillar of Anguish* (the one over New Eridanus, destroyed Ch18).
+- **Obsidian warship:** *The Pillar of Anguish* (the one over New Eridanus). ⚠️ **Now SURVIVES Book 1** (was "destroyed Ch18"). It is **excavating** beneath New Eridanus — pale beams boring into the earth (NOT weapons) to recover the buried **corrupted/Void artifact**. Left looming as a deliberate series hook. (Its *invasion* bombardment WAS real weapons fire — distinct event.)
 
 ### Praetorian Ethos (verbatim — keep consistent):
 > We are the sword. / We are the shield. / We are the fury of the Galactic Forge Coalition and the guardians of STARCOM Fleet. / In silence, we strike. / In direct contact, we overwhelm and conquer. / We are the first to fight and the last to live. / We are unbreakable, unstoppable. / We live. We fight. We die. / We are Praetorians!
@@ -119,9 +124,10 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 | 13 | Dec 16 | 1907 | GRID Section-47: artifact, Dr. Voss, Harbinger reveal; Viper recalled. |
 | 14 | Dec 16 | 2015 / 2148 | Death Platoon briefed & deployed to caves under New Eridanus. |
 | 15 (file) | — | — | **Mislabeled "Ch14"** — Death Platoon pod drop & cave infiltration. |
-| 16 | Dec 17 | 0530 | Valor moves to commandeer transport; Charles's nuke; warship survives. |
-| 17 | Dec 17 | 0815 | Wraith/Tor/Eclipse drop in; transport commandeered; flown into warship. |
-| 18 | Dec 17 | 1100 | Aboard *Pillar of Anguish*; Drakken parlay; Royce's sacrifice; warship destroyed. |
+| **16 (FINALE)** | Dec 17 | 0530 | Valor moves through the city; **Charles's one-nuke last stand** (denial + vengeance); **warship survives & is revealed excavating**; the nuke died with Charles so the warship can't be touched; **Orion recalls all teams to Gladius** — "something bigger is coming." Valor withdraws. |
+| ~~17~~ | — | — | **CUT** (commandeer transport / fly into warship) → archived. |
+| ~~18~~ | — | — | **CUT** (aboard *Pillar of Anguish*; Drakken parlay; Royce's sacrifice; warship destroyed) → archived. |
+| **Epilogue** | Dec 17 | 1345 | **Obsidian POV** aboard flagship *Krath'Zaroth*: Drakken reports the "loss" to **Highlord Vrakar**; Vrakar summons them "for reasons far greater"; **Kyr Tharanos arrives** (cliffhanger). |
 
 **Span:** ~4 days (Dec 13 → Dec 17, 2888).
 
@@ -144,7 +150,7 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 | High Commander Drakken | Ch18 | ◑ Survives — clear sequel hook. |
 | Junior's survival | Ch11–12 | ✅ Confirmed Ch17. |
 
-**Big structural takeaway:** The book has **two endings competing for the finale** — the *Artifact/Harbinger/Death Platoon* arc (Ch13–15) and the *Argus/warship/Royce* arc (Ch16–18). The Argus arc gets the real climax; the Artifact arc is abandoned mid-stride. This is the single most important structural issue to decide on (see Discrepancy Report §A).
+**Big structural takeaway — ✅ RESOLVED (2026-06-05):** The "two competing endings" problem is settled. The book now ends on the **Charles last stand (Ch16) + Obsidian Epilogue**. The *Artifact/Harbinger/Death Platoon* arc (Ch13–15) is preserved as a **deliberate Book-2 cliffhanger** (it dovetails with the warship's excavation of the same buried corrupted artifact). The Royce/warship-boarding climax (old Ch17–18) is **cut**. See §8.
 
 ---
 
@@ -203,7 +209,38 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 ### 7.4 Decisions locked
 - **Chapter numbering:** author approves fixing the broken numbering/titles (cause unknown/forgotten). → renumber cleanly so "The Artifact" content is correctly placed.
 - **Martinez/Jensen mix-up (Ch8):** author confirms this is a real error to fix.
-- **"Mindreaver" vs "Mindweaver":** author undecided → editor to recommend and standardize (see chat; recommending **Mindreaver**).
+- **"Mindreaver" vs "Mindweaver":** ✅ **LOCKED (2026-06-05): `Mindreaver`** (one word). Global-replace all "Mindweaver/Mindweaving." This also **overrides** the universe lore-bible's base-tier term "Mind Rivers" — `Mindreaver` is canonical for the psychic conduit users.
+
+---
+
+## 8. BOOK-1 ENDING RESTRUCTURE (LOCKED — 2026-06-05)
+
+**Decision:** Book 1 (*ForgePulse* Bk1, working title *Shadows of War*) ends on **Ch16 + Epilogue.** Original **Ch17 & Ch18 are cut** (archived, not deleted, in `99-cut-from-book-1/`). Edited finale files live in `02-edited/`.
+
+### Why (rationale locked with author)
+- **No ship-board finale** — nobody fights aboard the warship.
+- **One nuclear device, not two** — avoids the repeat-nuke cliché. Charles detonates the **only** nuke; his motive is **(a) denial** (don't let the Obsidians capture/reverse-engineer a live human nuke) and **(b) vengeance** (cut off, his team gone, he takes as many with him as possible).
+- **Consequence chain:** the warship plan needed the nuke → the nuke was Ironclad's → Ironclad is overrun → the nuke dies with Charles → **the warship cannot be destroyed** → it survives, looming. The mission and Charles's sacrifice become the *same event* (tragic, not a clean win).
+- **The lore validates this:** Charles's nuke stand is "the centerpiece of Book 1"; **Argus's** absolute last stand is held for **Book 2** (the fall of Trident) — so Argus must survive here. ✅
+
+### What changed in Ch16 (see `02-edited/16-Shadows_Over_New_Eridanus.md`)
+- **Charles's final transmission** reworded: denial + vengeance; drops "blow that ship out of the sky" / "finish the mission" (no second-nuke framing).
+- **New ending** replaces the "one nuke left → commandeer transport → infiltrate the warship" beat with:
+  1. Warship **survives**, and is shown **excavating** (pale beams into the earth — POV-safe; humans notice the *wrongness*, don't understand it).
+  2. Team realizes **their only nuke died with Charles** → warship untouchable.
+  3. **Recall to Gladius** from **Orion ("Gladius Six")** — "something's coming, bigger than New Eridanus."
+  4. Valor withdraws; ship looms → hands off to the Epilogue.
+
+### The Epilogue (see `02-edited/17-Epilogue.md`)
+- **Obsidian POV**, aboard flagship **Krath'Zaroth**. Author's draft preserved; reframed so the **Pillar of Anguish is NOT destroyed** — the "loss" is the **nuked ground division** + the human denying/destroying his own atomic. `Vor'Kara`→`Vor'kara`; typos cleaned.
+- Introduces **Highlord Vrakar** (the corrupted-while-seeking-alliance ruler = the §7.1 "secretly corrupt Supreme Being") and the cliffhanger arrival of **Kyr Tharanos**.
+
+### Ripple effects to track
+- **Royce** — survives Book 1 (Ch18 death cut); his hero/sacrifice payoff needs a new home in a later book.
+- **Junior** — Ch17 survival confirmation is gone; he ends Book 1 evac'd/critical, fate uncertain on-page (series canon: survives). Decide whether to add a one-line confirmation.
+- **Wraith / Tor / Eclipse** — their Ch17 re-entry is cut; Wraith does not rejoin within Book 1.
+- **Tessa** — still the long-term sole Valor survivor (unchanged).
+- **Excavation / corrupted artifact** is now seeded on-page in Ch16 (the beams) — ties directly to the Death Platoon / artifact Book-2 thread (§A1).
 
 ---
 
