@@ -61,6 +61,7 @@ The aliens look like different species across chapters:
 
 ### B2c. Obsidian "Vanguard" naming + Vrakar armor color
 - **✅ "Vanguard" doubling is INTENTIONAL (author canon):** the **Titan Vanguard** (the armada's central fighting force, Kyr's) is a **derivative of the Highborn Vanguard** (Vrakar's 5-warrior personal guard, the original) — the shared name marks that lineage. Three distinct elite units: **Highborn Vanguard** (original, Vrakar's guard) → **Titan Vanguard** (derived, the armada's main force) and the separate **Blackguard** (Drakken's). *Editorial:* keep prose qualified so readers feel the lineage rather than confusion (e.g., introduce them with the derivation), but **do not rename**.
+- **⚠️ OPEN — `Highborn Guard` vs `Highborn Vanguard`:** Vrakar's card + your spoken derivation logic call it the **Highborn Vanguard** (which is what makes "Titan *Vanguard* derives from it" work); but its **own dedicated card is titled "The Highborn Guard"** and says "Guard" throughout. **These can't both be the primary name — author must pick.** Recommend **Highborn Vanguard** to preserve the lineage logic (with "Guard/Guardsmen" usable for individual members if desired). Everything else from the card is locked regardless.
 - **Vrakar's armor accent color (minor):** epilogue prose says **purple** hues (matching the Blackguard); the portrait shows **gold**. Pick one for his royal armor (recommend his **own** palette — white/gold — distinct from Blackguard charcoal/purple).
 
 ### B3. "Mindreaver" vs "Mindweaver" — ⚠️ HIGH (pervasive)
