@@ -75,7 +75,7 @@ In the year 2888, humanity — having long ago fled Old Earth in the "Great Exod
 - **Praetorians** — elite special forces ("the sword and the shield"). STRIKE Teams = 4–8 operators. Advanced powered armor.
 - **OGDF** — Orbital Ground Defense Force. Special-forces-grade drop infantry (rapid recon/reaction). A cut below Praetorians but elite. (Viper/"Death" Platoon is OGDF.)
 - **Orbital Infantry (OI)** — shipboard infantry (e.g., Vindicator survivors led by Sgt. Banks).
-- **GRID** — shadowy black-ops/R&D agency on Veridian Prime. All operatives are **Mindreavers**. Cutting-edge tech. Distrusted by line Praetorians. Has an undisclosed relationship with Strickland.
+- **GRID** — shadowy black-ops/R&D agency on Veridian Prime. All operatives are **Mindreavers**. Cutting-edge tech. Distrusted by line Praetorians. Has an undisclosed relationship with Strickland. ⭐ **Buried secret (series):** GRID has **secretly known about human↔alien (Vrak'Tharan) contact for centuries** — its Archives hold the **late-1800s photo of Khar'nik Shuk with Najoboro Takamoto** (Ujio's line); **no human in 2888 knows but GRID.** GRID sits on the true history. (See `REFORGED-UNIVERSE-LORE.md` — Ujio.)
 - **Mindreavers** — humans (and some Obsidians) with psychic ability. NOTE: ability is described inconsistently as *precognition ("foresight")* and *telepathy/thought-reading* — **see Discrepancy Report; must be standardized.** Also spelled "Mindweaver" in places — **pick one.**
 - **Cerebral Pilots** — neurally-linked ship pilots; can also subtly influence bridge crews.
 
