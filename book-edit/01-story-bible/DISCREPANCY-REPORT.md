@@ -83,9 +83,8 @@ The aliens look like different species across chapters:
 - **`GFC Fringe` (human warship) vs `Fringe Operatives` (Obsidian black-ops):** the manuscript's **GFC Fringe** is the human warship Harris served on (Ch14); the NFT **Fringe Operatives** are a secret Obsidian unit. Two unrelated "Fringe"s on opposite sides will confuse readers. **Recommend renaming the Obsidian group** (the human ship is already on the page). Author confirm.
 - **Decisive-victory credit overlap (War of the Five Suns):** Vrakar's war-turning **Lok'Sha O'Ka** boarding is "set up" by **three** covert efforts across cards — **Kyr + Lyrana** (Titan Vanguard ship-infiltration sabotage) and the **Fringe Operatives** (ion storm + feigned retreat vs the **Seleron** at the fourth sun). Likely the **same climactic victory with multiple covert hands** (or distinct suns). Lock **who did what / at which sun**. Low urgency.
 
-### B3. "Mindreaver" vs "Mindweaver" — ⚠️ HIGH (pervasive)
-- Both spellings used for the same ability/people: **Mindreaver/Mindreaving** (Ch2, 5, 6, 16) and **Mindweaver/Mindweaving** (Ch4, 5, 18). Sometimes both appear in the same chapter (Ch5).
-- **Fix:** Choose one spelling and global-replace.
+### B3. "Mindreaver" vs "Mindweaver" — ✅ APPLIED
+- Both spellings used for the same ability/people. **DONE:** standardized to **`Mindreaver`** across the manuscript (Ch4's 6 `Mindweaver` instances fixed; zero remaining). *(B4 — the precog-vs-telepathy power definition — is separate and still open.)*
 
 ### B4. The psychic power is two different powers — ⚠️ HIGH
 The ability is used as **both** precognition ("foresight," predicting ambushes, sensing danger — Rourke/Wraith) **and** telepathy (reading/translating thoughts, mind-torture, planting illusions — Surgeon/Wraith/Rourke). They're treated as one ability but function as two.
@@ -115,7 +114,7 @@ The ability is used as **both** precognition ("foresight," predicting ambushes, 
 ### C1. Martinez vs. Jensen death mix-up (Ch8) — ⚠️ HIGH
 - During **Jensen's** solo last stand at the escape pods, a sentence reads: "Another Obsidian charged, and this time, **Martinez** couldn't evade the fatal blow. The energy sword pierced the center of his chestplate…" — then the *next* line says "As the lifeforce dissipated from **Corporal Jensen**, his final words… 'None better.'"
 - The scene is Jensen's; Martinez had already loaded into the escape pod. The name "Martinez" appears to be an error for "Jensen" (or an unintended second death).
-- **Fix:** Reconcile who dies here. Almost certainly should read "Jensen" throughout.
+- **✅ APPLIED:** the fatal-blow line now reads **"Jensen couldn't evade…"**; Martinez's 3 correct earlier mentions (briefing, hatch, pod scene) left intact.
 
 ### C2. Tessa is evac'd and never returns — ✅ INTENTIONAL (author-confirmed)
 - Ch10: wounded, infected, sent to Gladius; she and Argus say she'll be "back asap." She never reappears.
@@ -171,7 +170,7 @@ The ability is used as **both** precognition ("foresight," predicting ambushes, 
 ## E. LINE-LEVEL / MECHANICAL CLEANUP (low severity, high volume)
 
 These are global find-and-fix items (will be handled automatically during line edits):
-- **Word artifacts:** "Top of Form" / "Bottom of Form" (Ch5, 6, 14, 18); "**dde**Chapter 2" (Ch2 opening); stray double periods (".."), double spaces.
+- **Word artifacts:** ✅ **DONE** — "Top of Form" stripped (Ch5/6/12); "ddeChapter 2"→"Chapter 2"; "FireFireteam"→"Fireteam" (Ch10); "a eight-year-old"→"an" (Ch1); "godamn"→"goddamn" (Ch5). *(Remaining low-volume items below — stray double periods/spaces, its/it's — deferred to the line-edit pass.)*
 - **"FireFireteam"** duplication (multiple in Ch10).
 - **"a eight-year-old"** → "an eight-year-old" (Ch1).
 - Misspellings/typos: "slivery-blue" (silvery), "Juilia/Julioa" (Julia, Ch11), "arere" (Ch13), "Th" fragment (Ch14), "shorline" (Ch10), "godamn/goddamn" inconsistency, "here his own voice" → "hear" (Prologue), "passed it's limits" → "past its limits" (Ch6), pervasive **its/it's** errors.
