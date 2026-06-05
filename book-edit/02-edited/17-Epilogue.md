@@ -15,7 +15,7 @@ As the shuttle docked with the flagship, the Blackguard prepared to disembark. T
 
 The bridge of the Krath'Zaroth was dimly lit, with shadows dancing across the metallic surfaces. As the Blackguard moved through the corridors, they passed members of the High Council. Drakken's eyes flicked over them with thinly veiled disdain. Among them were Councillor Vorthan, whose cowardice was well-known, and Councillor Talira, whose political machinations often hindered true progress. Drakken's thoughts were laced with contempt for their petty squabbles and lack of true warrior spirit.
 
-Approaching the throne room, the grandeur of the space was overwhelming. Highlord Vrakar stood resplendent in his royal white armor, adorned with the same purple hues as his elite guard. His silvery blue skin gleamed under the soft lights, and his pointed ears—a signature trait of the Vrak'tharan—gave him an otherworldly appearance. His eyes, sharp and calculating, observed everything with a penetrating gaze.
+Approaching the throne room, the grandeur of the space was overwhelming. Highlord Vrakar stood resplendent in his royal white armor, adorned with the same purple hues as his elite guard. His silvery blue skin gleamed under the soft lights, and his pointed ears—a signature trait of the Vrak'Tharan—gave him an otherworldly appearance. His eyes, sharp and calculating, observed everything with a penetrating gaze.
 
 Ten paces from Highlord Vrakar, High Commander Drakken signaled his Blackguard to halt. He stepped forward and knelt, a motion followed by the rest of his unit. "Vor'kara, my Highlord," Drakken intoned, his voice resonating with respect and fealty.
 
