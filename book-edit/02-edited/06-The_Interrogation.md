@@ -123,5 +123,5 @@ Orion, composing himself, acknowledged the Surgeon's efficiency despite the unse
 As they left the interrogation chamber, the gravity of the situation weighed heavily on them. They had learned of the vast scale of the threat they faced, but many unknowns remained. With the knowledge of the Obsidian force's size and capabilities, they had to quickly formulate a defense strategy against an enemy that was both enigmatic and formidable. The battle for Trident was approaching, and time was running out.
 
 
-Top of Form
+
 

@@ -17,10 +17,10 @@ Wraith added on the three-way call, "And Admiral, it's more than just suspicion.
 Admiral Drexel's voice crackled through the line, "Understood, Wraith. I'm issuing the orders now. All units, prepare for hostile engagement. This is not a drill."
 Captain Orion responded with equal urgency. "Valor Six, proceed with the ambush. We need to slow them down and gather as much intel as possible. Do you remember what I said back in the briefing room?”
 The slight smirk could not be observed through Lieutenant Argus’s helmet, but it was there all the same, “Kill them all, sir.”
-“You’re godamn right. Gladius Six, out.” With those final words, the encrypted comms channel closed.
+“You’re goddamn right. Gladius Six, out.” With those final words, the encrypted comms channel closed.
 As the team prepared for their ambush, the gravity of the situation weighed heavily on them. The alien technology was a game-changer, and the possibility of an impending invasion brought a new level of urgency to their mission. The remaining five aliens at the platform were more than just enemies; they were keys to understanding what was coming.
 Argus gave his team a determined look. "Alright, Fireteam Valor, let's set up the ambush. Tessa, Harlan, you know what to do. When the time comes, light’em up!."
-The team moved into position, their minds focused and their hearts racing. Top of Form
+The team moved into position, their minds focused and their hearts racing.
 In the cold, desolate landscape of Trident's moon, Fireteam Valor lay in wait near the Charr Communications Platform. Each member was in position, the tension palpable in the silent night. Tessa, had strategically placed her stealth drones, which had silently planted auto-bury mines around the station's perimeter, ready to be detonated at the opportune moment.
 Harlan, armed with his heavy chain gun, was poised to initiate the ambush. Tessa, from her vantage point, was focused on the station's entrance through the scope of her sniper rifle. Royce and Vega formed the core of the assault unit, weapons trained on the station’s exit.
 Kaine, had launched a small fleet of drones that hovered above, invisible to the naked eye. The drones provided live feeds of the aliens inside the station, giving Fireteam Valor a crucial tactical advantage.

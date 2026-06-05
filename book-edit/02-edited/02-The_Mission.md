@@ -1,4 +1,4 @@
-ddeChapter 2: The Mission
+Chapter 2: The Mission
 Date: December 15, 2888
 Time: 0845 Galactic Standard Time (GTC)
 Location: GFC Base: Gladius – War Room
