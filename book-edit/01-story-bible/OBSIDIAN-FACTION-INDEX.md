@@ -16,6 +16,7 @@
 | **Lythar & Rythos** | non-royal | Twin leaders of the **Dra'Kor Vhel'Tan**; trained by Drakken; rose in the Kresh Rebellion. | (in `drakor-vheltan.png`) |
 | **Ujio Takamoto** | **Human** | Vrakar's **friend & personal samurai-assassin** (ranks above the Highborn Guard); feudal-Edo samurai who left Earth as a peace-hostage; otherworldly katana, cybernetic eye, centuries-old. Hunts Praetorians on Trident. | `ujio-takamoto.jpg` |
 | **Varkul the Unifier** | Kresh | Legendary Kresh chieftain who united the Kresh tribes (historical). | — |
+| **Sahk V'Lok** (alias *Di'Kra H'Necta*) | Kresh | Ex-Lord Commander; **led the Kresh Rebellion**; defeated, now Vrakar's tortured prisoner ("personal punching bag") — his captivity = the corruption's first cruelty. | `sahk-vlok.jpg` |
 
 ## Units (order of battle)
 | Unit | Type | Role | Art |
