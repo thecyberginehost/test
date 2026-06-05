@@ -59,6 +59,10 @@ The aliens look like different species across chapters:
 - **✅ Q1 RESOLVED — species casing:** species names are **treated as names** → **`Vrak'Thar`** and **`Vrak'Tharan`** (cap after the apostrophe). Standardized across canon files. *(They're the same species split by birthworld; `Vrak'Tharan` = the more noble — Vrakar & Lyrana; `Vrak'Thar` = Drakken.)*
 - **✅ Q2 RESOLVED — `Vor'kara` / `Val'kora` are a call-and-response PAIR (distinct words):** `Vor'kara` = initial greeting of respect; `Val'kora` = the reciprocation (returned only if respect is honored back). **Ch01's intercept is `Val'kora`** (the reciprocation) — a legitimate distinct word, **NOT** a misspelling of Vor'kara. **Action:** on Ch01's edit pass, only **casing-correct `Val'Kora` → `Val'kora`** (do NOT change it to Vor'kara). Both are regular words (first-cap only). *(Epilogue already corrected: Drakken offers `Vor'kara` → Vrakar returns `Val'kora`.)* The Ch03 "`Dra'Kor Vhel'Tan`" chant is a separate intercepted phrase — same bleed-through seeding thread.
 
+### B2c. Obsidian "Vanguard" naming overload + Vrakar armor color — ⚠️ NEW (reader-clarity)
+- **Three distinct elite units now exist:** **Blackguard** (Drakken's; Praetorian-equivalent), **Titan Vanguard** (Kyr's larger order, fights w/ Kresh; a division nuked by Charles), and **Highborn Vanguard** (Vrakar's 5-warrior personal guard; Kresh barred from it). **"Titan Vanguard" vs "Highborn Vanguard" will confuse readers** — keep usages crisp and always qualified; consider distinguishing language so the two "Vanguards" never blur.
+- **Vrakar's armor accent color:** epilogue prose says **purple** hues (matching the Blackguard); the portrait shows **gold**. Pick one for his royal armor (recommend keeping his **own** regal palette distinct from Blackguard charcoal/purple — e.g., white/gold). Minor.
+
 ### B3. "Mindreaver" vs "Mindweaver" — ⚠️ HIGH (pervasive)
 - Both spellings used for the same ability/people: **Mindreaver/Mindreaving** (Ch2, 5, 6, 16) and **Mindweaver/Mindweaving** (Ch4, 5, 18). Sometimes both appear in the same chapter (Ch5).
 - **Fix:** Choose one spelling and global-replace.
