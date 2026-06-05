@@ -12,7 +12,7 @@
 ---
 
 ## 1. The Unifying Trinity
-- **Unifying force:** **Conduit energy** — "the Force on steroids." Present in everything, dormant until awakened; only proper genetic lineages can channel it. Strongest wielders reshape reality; far-future inheritors get only fragments.
+- **Unifying force:** **Conduit energy** — "the Force on steroids." Present in everything, dormant until awakened; only proper genetic lineages can channel it. Strongest wielders reshape reality; far-future inheritors get only fragments. ⭐ **Its nature/agency:** normally conduit energy **just lets things be** — but when something **interrupts the natural order** (corruption / the Void), it becomes **relentlessly restorative**: it will **"take out the trash" by any means, over any timescale**, until the order is set right. *This is the quiet agency behind every "coincidence" in the saga* (Argus's engineered death, the Grand Convergence) — not fate or gods, but **the universe's own immune response to the Void.**
 - **Unifying threat:** **The Void** — a hive-mind corruption-parasite.
 - **Unifying theme:** attachment = resistance; transcendence-done-wrong = corruption.
 
@@ -34,6 +34,7 @@
 - **Inhabits hosts intact** (doesn't merely destroy); a single **central hive mind** controls everything it takes. At peak: 80–90% of the galaxy corrupted.
 - **Without a hive-mind host** it only spreads passively and searches; the longer it goes hostless, the **stronger its grip on the next host**.
 - **Its one weakness: raw emotional intensity.** Love, hate, grief, rage strong enough to resist the homogenizing pull can hold corruption at bay. A strong-willed host can be corrupted yet never *controlled* → a stalemate where the Void owns the body but cannot drive it. **This is the mechanical heart of the universe.**
+- ⭐ **Corruption = oblivion of the soul (the stakes):** to be **fully Void-corrupted is to be *damned*** — the corrupted can **never release their life essence back into the universe** (no rebirth, no return). At death they are **erased into nothingness, as if they never existed.** *(This is why Scourge's freed-but-corrupted soldiers are the **Army of the Damned** — §14.)* **The only being ever to transcend it is Taryn** (her willpower kept her *essence* uncorrupted even as the Hive Mind) — see §6.
 
 ---
 
@@ -71,7 +72,8 @@
 ## 7. The Reckoning — 65 Million Years Ago
 *(a.k.a. the Symphony of Annihilation)*
 - A chain of **supernovas** triggered by the Architects to imprison the Void by destroying its hosts.
-- **Kar'yan Voss** (human warrior) stands at its center; his wife **Taryn** was the Hive Mind host — he had to ignite the supernova knowing it would erase her.
+- **Kar'yan Voss** (human warrior) stands at its center; his wife **Taryn** was the Hive Mind host — he had to ignite the supernova believing it would erase her.
+- ⭐ **Taryn's transcendence & survival (author canon; reader learns eventually):** her **ridiculous willpower** against the Hive Mind meant she was **never corrupted *enough* for her life essence to be corrupted** — making her **the only being ever to escape the Void's oblivion** (cf. §3, corruption = damnation). She did **not** simply die: **the Infinites extracted her** (for a reason still **TBD**). She **fully knows Kar'yan is now a Harbinger** — but **Kar'yan does NOT know she survives anywhere.** *(A devastating buried thread: the foundational couple both alive across the gap — she watching, he believing her gone. It mirrors, and may pay off through, Junior + Lyrana.)*
 - Before detonation he launched two arks out of the galaxy (ship-names = AI-names):
   - **Eos** — all Primordial Architect knowledge (the past preserved).
   - **Gaios** — life essences of every species to be reseeded (the future enabled). ⭐ **The reseed deliberately threaded the Voss lineage through *every* reseeded species** — even though the **original Voss line was human.** So the **Harbinger bloodline survives latent across *all* the Primordial-Architect peoples** (humans *and* every Obsidian race), not just humanity. *This is the mechanism that lets an Obsidian like **Lyrana** carry Taryn's Voss branch — the line was distributed at the reseed, then descended through each species' generations (no direct children of Kar'yan/Taryn required).*
@@ -333,6 +335,7 @@
 - **Project Clandestine** (trilogy) — the darker precursor program; dark mirror to ForgePulse.
 - **Primordial Architects** (trilogy) — deep-past era (Dinsah, Gralthar, the Reckoning).
 - **Standalones:** *The Devourer* (origin of the Void); a standalone Obsidian-leader book; a Nexus AI book.
+- **The Army of the Damned** (standalone or trilogy) — **Scourge** raising his army of sentient Void-corrupted soldiers. "Damned" is literal: Void corruption forfeits your life essence (oblivion — §3), so these are warriors with **nothing left to lose and no afterlife to return to.**
 - Also: a **TikTok lore series** set 65M years before current events; a Patreon; an NFT project whose background lore grew into the manuscript work.
 
 ---
