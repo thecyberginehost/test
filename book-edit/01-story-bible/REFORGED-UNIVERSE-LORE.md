@@ -138,6 +138,16 @@
 - **The Kresh-whisperer:** the **only leader in history to win the Kresh's loyalty and pride**, integrating their ferocity into Obsidian doctrine and nullifying their tendency to rebel. *Because* of this he is **forbidden to join the Obsidian Blackguard** — too indispensable as the Kresh's anchor. (This is why the epilogue gives him a distinct white/red command, not Blackguard charcoal/purple.)
 - **Flavor stats (NFT):** Loyalty 100%, Leadership Tenure 2%.
 
+**High Commander Drakken Thik'Shal** — *(the epilogue's POV Obsidian; the reader's window into the hierarchy)*
+- **Species / unarmored appearance:** a **Vrak'thar noble** — elf-like: pale silvery skin, platinum/white hair, **pointed ears**, sharp angular regal features, pale eyes. *(This look matches the **Prologue** Obsidian — see Discrepancy Report B1. The noble race ↔ elf-like look is now locked.)*
+- **Two looks:** (1) the ornate, filigreed **High Commander's Royal Armor** — regal court/political attire (the user's "noble outfit"), and the literal **key to the Obsidian High Council** chambers; (2) **Blackguard combat armor** (charcoal/purple — the epilogue & the "Armored" NFT), as **one of the deadliest warriors the Obsidian armada has ever seen.**
+- **Command:** leads the **Obsidian Blackguard** with iron discipline and strategic expertise.
+- **War of the Five Suns:** distinguished service; served **directly under Highlord Vrakar** during Vrakar's own military career.
+- **Founder of the Dra'Kor Vhel'Tan** — instrumental in forming the feared elite advance-saboteur unit. ✅ **Direct manuscript tie-in:** this is the unit the **captured Obsidian operative of Ch5–6** belongs to.
+- **Quashed the Kresh rebellion** — by martial force *and* a sharp talent for recruitment and loyalty cultivation. *(Pairs with Kyr: Drakken **broke** the rebellion; Kyr later **won the Kresh's pride/loyalty.** Exact sequence TBD.)*
+- **Politician:** holds a **seat on the Obsidian High Council**; a master of cutthroat Obsidian politics. *(In the epilogue he regards the other councilors with "thinly veiled disdain" — a warrior-councilor who holds a seat yet despises the careerists. Consistent; adds depth.)*
+- ⚠️ **Spelling:** NFT uses **`Thik'Shal`**; the epilogue draft has `Thik'shal`. Standardize (recommend `Thik'Shal`) — author confirm.
+
 **Princess Lyrana** — **NEW.** The **heir of Vrakar** (Obsidian royal line; presumably Vrak'tharan). A fearless warrior-strategist who fought beside Kyr in the War of the Five Suns; Kyr's unspoken charge is her protection. *(Major character — her relationship to Vrakar's corruption arc is TBD.)*
 
 **The Kresh** — **NEW faction.** A ferocious Obsidian warrior species/caste, historically prone to rebellion; first made loyal under Kyr. Fight alongside the **Titan Vanguard**.
