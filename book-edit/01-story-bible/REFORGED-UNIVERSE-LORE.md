@@ -109,8 +109,10 @@
 - Run by **GRID**; the more ethical successor to **Project Clandestine** (which produced fractured operators like **Strickland** and **the Surgeon**).
 
 ### The Obsidians (true nature)
-- **Not a single species** — every species that constituted the Primordial Architects **minus humans** (~80–90% of those reseeded after the Reforge).
+- **Not a single species — a pact of FIVE alien races**, each from its own star system, **forged into one people by Vrakar in the War of the Five Suns** (each "sun" = one species' home system, fought and united). *(Reconciliation: the master lore-bible's older phrasing — "every species that constituted the Primordial Architects, minus humans, ~80–90% of those reseeded" — is **refined** by this. Canonical number is **FIVE core species** (matches Story Bible §7.1's "pact of five"). Whether the five are a subset of the reseeded Architect-species, or collectively make up most of them, is TBD.)*
+  - **Vrak'Thar / Vrak'Tharan** are the same species lineage split across two of these worlds; **Vrak'Tharan** is the **more noble** (Vrakar & Lyrana), **Vrak'Thar** the other (Drakken).
 - They **unknowingly carry Celestian ritual vocabulary** in their speech — e.g., **Vor'kara** (single canonical spelling, no variants) and **Lok'Sha O'Ka**.
+  - **Vor'kara** is a **formal greeting of respect** — spoken only to those who *command* respect, and **reciprocated in kind** when the speaker is respected in return. A returned *"Vor'kara"* therefore signals **mutual respect** (e.g., **Vrakar returning it to Drakken** in the epilogue marks them as equals-in-honor). ✅ **Same phrase Junior's outdated radio intercepts in Ch01** (rendered there as **"Val'Kora"** — confirmed the same word; standardize Ch01 to `Vor'kara` on its edit pass). The intercepted-voices thread = Obsidian/Void transmissions bleeding through.
 - The Ancient Ones reaching them = **corruption finding the ritual architecture of its original victims**, patiently hunting descendant bloodlines across 65M years.
 - **They are NOT the real threat.** The real enemy is the **Void / the Devourer / the Ancient Ones** working through them. **Humans and Obsidians were meant to become an alliance** — the corruption of **Highlord Vrakar** (deliberately targeted *because* he was building that alliance) burned the alliance down and manufactured the war instead.
 
@@ -119,8 +121,8 @@
 - **Junior (Mark Jr.)** — Argus's son, a Mindreaver. Conscripted into GRID's Neural Ascension Protocol ~age 11 (~3 years after Trident falls); **first to survive the protocol**; becomes the **Harbinger who eventually confronts Vrakar**.
 - **Tessa** — elite Praetorian sniper; **the only surviving member of Fireteam Valor**. Voluntarily joins GRID to mentor/live with Junior; quietly learns the institution from the inside.
 - **Captain Orion** — surviving strategic commander ("Gladius Six").
-- **Highlord Vrakar** — **Vrak'tharan** species, Primordial-Architect lineage. A **tragic corruption victim**, targeted *specifically because he sought a human alliance*. His unity-seeking is what marked him for the Void.
-- **Drakken** — elite Obsidian of the **Vrak'thar** noble species (adjacent to Vrakar's). The reader's **POV window into Obsidian hierarchy** (anchors the Book-1 epilogue).
+- **Highlord Vrakar** — **Vrak'Tharan** species, Primordial-Architect lineage. A **tragic corruption victim**, targeted *specifically because he sought a human alliance*. His unity-seeking is what marked him for the Void.
+- **Drakken** — elite Obsidian of the **Vrak'Thar** noble species (adjacent to Vrakar's). The reader's **POV window into Obsidian hierarchy** (anchors the Book-1 epilogue).
 - **Lt. Charles** — leader of Fireteam Ironclad; his **nuke last stand is the centerpiece of Book 1** (and now Book 1's finale).
 
 ### Forward canon — locked Book-2 beats (ForgePulse Bk2, the fall of Trident)
@@ -139,7 +141,7 @@
 - **Flavor stats (NFT):** Loyalty 100%, Leadership Tenure 2%.
 
 **High Commander Drakken Thik'Shal** — *(the epilogue's POV Obsidian; the reader's window into the hierarchy)*
-- **Species / unarmored appearance:** a **Vrak'thar noble** — elf-like: pale silvery skin, platinum/white hair, **pointed ears**, sharp angular regal features, pale eyes. *(This look matches the **Prologue** Obsidian — see Discrepancy Report B1. The noble race ↔ elf-like look is now locked.)*
+- **Species / unarmored appearance:** a **Vrak'Thar noble** — elf-like: pale silvery skin, platinum/white hair, **pointed ears**, sharp angular regal features, pale eyes. *(This look matches the **Prologue** Obsidian — see Discrepancy Report B1. The noble race ↔ elf-like look is now locked.)*
 - **Two looks:** (1) the ornate, filigreed **High Commander's Royal Armor** — regal court/political attire (the user's "noble outfit"), and the literal **key to the Obsidian High Council** chambers; (2) **Blackguard combat armor** (charcoal/purple — the epilogue & the "Armored" NFT), as **one of the deadliest warriors the Obsidian armada has ever seen.**
 - **Command:** leads the **Obsidian Blackguard** with iron discipline and strategic expertise.
 - **War of the Five Suns:** distinguished service; served **directly under Highlord Vrakar** during Vrakar's own military career.
@@ -152,13 +154,13 @@
 - **On Trident (the war the Obsidians call "Sacred Retribution"):** Drakken led the **combined Blackguard + Titan Vanguard + Kresh** ground forces and secured victory; his honors-scarred battle armor was a symbol of dread to the Praetorians, whom he fought with a **warrior's respect** — only overwhelming Obsidian force prevented a deadlock. *(His **on-page** engagement with the human elite was the cut Ch18 parlay → now **off-page** in Book 1; a candidate to restage later.)*
 - **Two reference images:** `assets/drakken-noble.png` (Royal Armor) · `assets/drakken-armored.png` (Blackguard combat armor). ✅ Name standardized to **`Thik'Shal`**.
 
-**Princess Lyrana** — **NEW.** The **heir of Vrakar** (Obsidian royal line; presumably Vrak'tharan). A fearless warrior-strategist who fought beside Kyr in the War of the Five Suns; Kyr's unspoken charge is her protection. *(Major character — her relationship to Vrakar's corruption arc is TBD.)*
+**Princess Lyrana** — **NEW.** The **heir of Vrakar** (Obsidian royal line; presumably Vrak'Tharan). A fearless warrior-strategist who fought beside Kyr in the War of the Five Suns; Kyr's unspoken charge is her protection. *(Major character — her relationship to Vrakar's corruption arc is TBD.)*
 
 **The Kresh** — **NEW faction.** A ferocious Obsidian warrior species/caste, historically prone to rebellion; first made loyal under Kyr. Fight alongside the **Titan Vanguard**.
 
 **Titan Vanguard** — **NEW unit.** An Obsidian military branch/order — Kyr's origin and command; operates with Kresh counterparts. **A Titan Vanguard division was annihilated at New Eridanus by Charles's nuke** (the epilogue's "ground division swallowed by a single human's fire") — the failure Kyr is summoned to answer for, and the spark for Vrakar committing the Vanguard/Kresh in force.
 
-**War of the Five Suns** — **NEW historical event.** A major Obsidian war (pre-Trident) that cemented Vrakar's rule and forged the legends of Kyr *and* Drakken. **Kyr** (then a Titan Vanguard officer) sabotaged the enemy fleet and protected the heir Lyrana; **Drakken** (then a lowly Blackguard Commander) **counseled Vrakar to invoke Lok'Sha O'Ka**; **Vrakar** (then High Commander) performed the rite against the enemy leader — ending the war with a single stroke and avoiding needless Obsidian deaths.
+**War of the Five Suns** — **NEW / FOUNDATIONAL.** ⭐ **The war in which Vrakar united the five alien species into the Obsidians as they exist today.** Each "sun" = a **star system** home to one of the five species; across the campaign Vrakar **fought and united** each into a single people. It cemented Vrakar's rule and forged the legends of Kyr *and* Drakken: **Kyr** (Titan Vanguard) sabotaged the enemy fleet and protected the heir **Lyrana**; **Drakken** (then a lowly Blackguard Commander) **counseled Vrakar to invoke Lok'Sha O'Ka**; **Vrakar** (then High Commander) performed the rite against the final enemy leader — ending the war with a single stroke and sparing needless Obsidian lives. *(This is the **founding of the Obsidian pact-of-five** — see "The Obsidians.")*
 
 **Sacred Retribution** — **NEW.** The **Obsidians' name for the war against humanity** (the 2888 Trident war) — they frame it as a **holy crusade to avenge the desecration of their sacred sites.** Also the epithet of the flagship **Krath'Zaroth** ("Sacred Retribution"). ✅ **Ties to the Book-1 logline** (the "holy crusade to reclaim a sacred artifact humans unwittingly activated"): the "desecrated sacred sites" = the **artifacts** humans disturbed/activated (Elena's #1, the buried #2). **Cosmic irony:** the Obsidians believe it's holy vengeance, but the war was *manufactured* — the Void/Devourer corrupted Vrakar to burn the intended human–Obsidian alliance and drive this crusade instead.
 
@@ -227,9 +229,9 @@
 ## 15. Canon Spelling Locks
 
 > **Apostrophe-capitalization rule (author-set):** A **name** containing an apostrophe caps **both** the first letter of the name **and** the first letter after the apostrophe → `Thik'Shal`, `Krath'Zaroth`, `Dra'Kor Vhel'Tan`, `Lok'Sha O'Ka`, `Lar'Kar`, `Wo'Shuk`. A **regular word** that happens to contain an apostrophe caps **only the first letter** → `Vor'kara`.
-> **Open question (flagged):** Is the species **`Vrak'thar` / `Vrak'tharan`** a *name* (→ `Vrak'Thar`/`Vrak'Tharan`) or a *regular word* (stays lowercase)? Currently left lowercase pending author call. Also: **`Val'Kora`** (Ch01 intercepted-voices word) vs **`Vor'kara`** — same word (variant to fix) or deliberately distinct? Flagged in Discrepancy Report.
+> **✅ Resolved:** Species names are **names** → **`Vrak'Thar` / `Vrak'Tharan`** (cap after apostrophe). And **`Val'Kora` = `Vor'kara`** (same word — the Ch01 intercept; standardize Ch01 on its edit pass).
 
-- **Xylaris** (not Xylorus) · **Vor'kara** (no variants) · **Lok'Sha O'Ka** · **Mindreaver** (one word; manuscript canon over lore-bible "Mind Rivers") · **Pillar of Anguish** · **Krath'Zaroth** · **Obscurum** · **Thalkyr** · **Eos / Gaios** · **Skorge** (a.k.a. Scourge) · **Or'uk** · **Vrak'tharan** (Vrakar's species) / **Vrak'thar** (Drakken's noble species).
+- **Xylaris** (not Xylorus) · **Vor'kara** (no variants) · **Lok'Sha O'Ka** · **Mindreaver** (one word; manuscript canon over lore-bible "Mind Rivers") · **Pillar of Anguish** · **Krath'Zaroth** · **Obscurum** · **Thalkyr** · **Eos / Gaios** · **Skorge** (a.k.a. Scourge) · **Or'uk** · **Vrak'Thar** / **Vrak'Tharan** (same species lineage split by birthworld; **Vrak'Tharan** = the more noble — Vrakar & Lyrana; **Vrak'Thar** — Drakken).
 - Obsidian: **Drakken Thik'Shal** · **Kyr Tharanos** · **Princess Lyrana** · **Lythar** & **Rythos** · **Kresh** · **Titan Vanguard** · **Blackguard** · **Dra'Kor Vhel'Tan** · **Lar'Kar Zhul** · **Councillor Vorthan** / **Councillor Talira** · **War of the Five Suns** · **Sacred Retribution** · flagship **Krath'Zaroth** · warship **Pillar of Anguish**.
 
 ---
