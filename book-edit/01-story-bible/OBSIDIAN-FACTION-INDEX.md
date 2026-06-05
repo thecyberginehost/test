@@ -24,7 +24,7 @@
 | **Titan Vanguard** | central armada force | Derivative of the Highborn Guard; keepers of the Kresh; aspire to Blackguard | `titan-vanguard.png` |
 | **Obsidian Phalanx** | outcast/redemption | Misfits (mostly Kresh + discarded Vrak'Thar); *"From disgrace, we rise to glory"* | `phalanx.png` |
 | **Dra'Kor Vhel'Tan** | covert saboteurs | Black/red raptor armor; strike in 2–3; can pose as Envoys; **= the Ch3–6 manuscript enemy** | `drakor-vheltan.png` |
-| **Fringe Operatives** | deep-black ops | High-Council-only; chameleonic armor; engineered Vrakar's fourth-sun victory ⚠️ name clash w/ human *GFC Fringe* | `fringe-operatives.png` |
+| **Umbral Hand** | deep-black ops | High-Council-only; chameleonic armor; engineered Vrakar's fourth-sun victory (formerly "Fringe Operatives") | `umbral-hand.png` |
 | **Obsidian Envoys** | warrior-diplomats | The "voice and fist"; official **alliance-building** arm (Dra'Kor Vhel'Tan hide among them) | `envoys.png` |
 | **Bastionwing Fleet** | skyfortress airships | Deploy the Phalanx; extract under fire; Titan Vanguard crews | `bastionwing-fleet.jpg` |
 | **Reaperwing Cohort** | air-superiority wing | "Reaperwing" craft; skeletal-wing insignia; escort the Bastionwing | `reaperwing-cohort.png` |
@@ -41,7 +41,7 @@
 | race #4, #5 | ? | Ch18 "yellow eyes/fangs" unassigned | ⬜ |
 
 ## History (Obsidian timeline)
-1. **War of the Five Suns** (~50 yrs ago) — Vrakar unites the five races. Climax: Kyr + Lyrana's sabotage + the Fringe Operatives' ion storm → Vrakar wins the **Lok'Sha O'Ka** duel vs. the Seleron general.
+1. **War of the Five Suns** (~50 yrs ago) — Vrakar unites the five races. Climax: Kyr + Lyrana's sabotage + the Umbral Hand's ion storm → Vrakar wins the **Lok'Sha O'Ka** duel vs. the Seleron general.
 2. **Kresh Rebellion** (~50 yrs ago) — the Kresh rise, are crushed (Kyr's Titan Vanguard / Drakken's Dra'Kor Vhel'Tan — *lead TBD*), then bound by the **Iron Accord**.
 3. **The Dark Purge** — Drakken invokes Lok'Sha O'Ka to seize the Blackguard from a High Commander too deferential to Vrakar.
 4. **Sacred Retribution** (2888) — the holy war on humanity (Trident); the corrupted crusade. Drakken's Blackguard + Kyr's Titan Vanguard + the Kresh secure New Eridanus; **Charles's nuke wipes a Titan Vanguard division** → epilogue.
@@ -56,8 +56,8 @@
 
 ## Open rulings (for the author)
 1. **Five races** — name + look of races #4/#5; confirm Kresh=Ch6 and assign the Ch18 "yellow-eyed/fanged" look.
-2. **Fringe rename** — Obsidian "Fringe Operatives" clashes with human warship "GFC Fringe."
+2. ✅ **Fringe rename DONE** — Obsidian black-ops unit renamed **Fringe Operatives → the Umbral Hand** (clears the GFC Fringe clash; provisional, swappable).
 3. **Kresh Rebellion lead** — Kyr (Titan Vanguard) vs. Drakken (Dra'Kor Vhel'Tan). *Rec: Kyr.*
 4. **Vrakar armor color** — epilogue says purple; portrait shows white/gold.
 5. **Lyrana ↔ Envoys** — does her secret channel use, bypass, or fear the official Envoy corps?
-6. **War-of-Five-Suns credit** — who did what at which sun (Kyr/Lyrana vs. Fringe Operatives).
+6. **War-of-Five-Suns credit** — who did what at which sun (Kyr/Lyrana vs. Umbral Hand).
