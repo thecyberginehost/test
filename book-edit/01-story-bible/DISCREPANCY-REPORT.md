@@ -48,6 +48,16 @@ The aliens look like different species across chapters:
 - **Ch18:** "dark-skinned claws," **narrow yellow eyes**, "jagged fangs."
 - **RESOLUTION (author canon):** the "Obsidians" are a **pact of five distinct alien races**. So these are plausibly **different member-races**, not an error.
 - **✅ UPDATE (lore cards, 2026-06-05):** The **Vrak'Tharan / Vrak'Thar noble race** (Vrakar, Drakken, Lyrana) is the **elf-like** look — **pale silvery / silvery-blue skin, white/platinum hair, pointed ears, regal** — which **matches the Prologue Obsidian.** So the **Prologue alien = a Vrak'Thar noble** (locked). The **grey / clawed / hairless** (Ch6) and **yellow-eyed / fanged** (Ch18) looks therefore belong to **other member-races** of the pact — prime candidate for one of them: the **Kresh** (the pact's ferocious warrior species). Still need the author's full per-race lookup, but **noble race ↔ elf-like look is now canon.**
+- **✅ UPDATE (Kresh card):** the **Kresh** are **grey, hairless, ~5 ft, ridged skulls, large glowing eyes** — a strong match for the manuscript's **"mottled grey skin / no hair" alien (Ch6)**. ⚠️ *Caveat:* the Ch6 captive is a **Dra'Kor Vhel'Tan** operative, and that unit was created to *crush* the Kresh — so it may **not** be Kresh. So either (a) the Ch6 grey look belongs to a different race the Dra'Kor Vhel'Tan draws from, or (b) "grey/hairless" is shared. **Don't hard-assign Ch6 = Kresh without author confirmation.**
+- **DRAFT per-race appearance table (author to confirm/complete — 5 races total):**
+  | Race | Look | Manuscript match | Status |
+  |---|---|---|---|
+  | **Vrak'Tharan / Vrak'Thar** (noble) | elf-like; pale silvery-blue skin, white hair, pointed ears, regal | **Prologue** | ✅ locked |
+  | **Kresh** | grey, hairless, ~5 ft, ridged skull, glowing eyes | resembles **Ch6** (grey/hairless) — unconfirmed | ◑ likely |
+  | race #3 | dark skin, narrow **yellow eyes**, jagged **fangs** | **Ch18** | ⬜ unnamed |
+  | race #4 | ? | — | ⬜ unknown |
+  | race #5 | ? | — | ⬜ unknown |
+  - **Need from author:** the names of all five races + each one's look, so the manuscript's varying descriptions get assigned deliberately (and Ch6/Ch18 captives get the right species).
 - **Editorial action:** Keep the variety, but make it read as *intentional* rather than careless. Two-part fix: (1) be strictly consistent *within* any single individual/unit/scene; (2) lightly seed that these are visibly different peoples (a Praetorian noticing "this one looks nothing like the last") so the reader banks it as worldbuilding. We should also nail down **which described look = which race** as a reference table once you tell me the five races, so later books stay consistent. *(Blood color, B2, still needs a per-race or universal rule.)*
 
 ### B2. Obsidian blood color: purple vs. blue
@@ -62,6 +72,11 @@ The aliens look like different species across chapters:
 ### B2c. Obsidian unit names + Vrakar armor color
 - **✅ RESOLVED — `Highborn Guard` is canonical** (author's call; not "Highborn Vanguard"). So there is only **one** "Vanguard" — the **Titan Vanguard** (the armada's central fighting force, Kyr's), which is a **derivative of the Highborn Guard** (Vrakar's ~5-warrior personal guard). Three distinct elite units, **no naming clash**: **Highborn Guard** (Vrakar's personal guard) → **Titan Vanguard** (derived; the armada's main force) and the separate **Blackguard** (Drakken's). Standardized across canon.
 - **Vrakar's armor accent color (minor, OPEN):** epilogue prose says **purple** hues (matching the Blackguard); the portrait shows **gold**. Pick one for his royal armor (recommend his **own** palette — white/gold — distinct from Blackguard charcoal/purple).
+
+### B2d. Who crushed the Kresh Rebellion? — ⚠️ cross-card conflict (NFT lore)
+- **Vrakar's & Drakken's cards:** the rebellion was quelled by the **Dra'Kor Vhel'Tan** (Vrakar created it for exactly this; Drakken forged/led it).
+- **Kresh's & Kyr's cards:** the rebellion was **crushed by the Titan Vanguard under Kyr Tharanos**, who then bound the Kresh via the **Iron Accord** and earned their veneration.
+- **Likely reconciliation:** a **combined operation** — Kyr's **Titan Vanguard** as the main force/lead, the **Dra'Kor Vhel'Tan** as the elite enforcer arm — but **the lead figure for the *suppression* must be locked.** **Recommend Kyr** (two cards agree; it sets up the Kresh's veneration of him and his Iron Accord). Drakken's "quashed the rebellion" line then narrows to his role *building/leading the Dra'Kor Vhel'Tan* within Kyr's campaign. **Author confirm.**
 
 ### B3. "Mindreaver" vs "Mindweaver" — ⚠️ HIGH (pervasive)
 - Both spellings used for the same ability/people: **Mindreaver/Mindreaving** (Ch2, 5, 6, 16) and **Mindweaver/Mindweaving** (Ch4, 5, 18). Sometimes both appear in the same chapter (Ch5).
