@@ -40,7 +40,7 @@
 - Xylaris used conduit energy on his homeworld **Obscurum** to **seal the Ancient Ones** — the **first imprisonment of the Void**. The cost: it destroyed his world and **killed his own wife and child** (his foundational grief).
 - **Starwalker then betrayed him** — having seen the power of an equal, he **framed Xylaris** for destroying a world (actually a Void containment op), imprisoned him in the **Thalkyr**, and diminished him (grayed/cracked skin, **red Sith-like eyes**, most conduit access stripped).
 - The **Thalkyr** began as a stasis chamber; now a full **gravspace-capable ship** built around it. Starwalker releases Xylaris only when a crisis exceeds his own ability, then re-imprisons him. A **Maintainer cannot refuse an emergency** once released.
-- Xylaris fights with **kinetic rifles, scatter rifles, and hidden conduit blades**; calls Starwalker **"the Betrayer."** Personal AI: **Aetheris** (true capabilities hidden from Starwalker). ⭐ **Aetheris knows the Voss lineage** and is almost certainly the AI that "survived alongside Xylaris, **tracking the Vos bloodline across the gap**" (§7); it features extensively in the deep-past (TikTok) lore. *(Flag: is Elena Voss's ForgePulse AI "**Athena**" the same entity as Aetheris? — author to confirm.)*
+- Xylaris fights with **kinetic rifles, scatter rifles, and hidden conduit blades**; calls Starwalker **"the Betrayer."** Personal AI: **Aetheris** (true capabilities hidden from Starwalker). ⭐ **Aetheris knows the Voss lineage** and is the AI that "survived alongside Xylaris, **tracking the Vos bloodline across the gap**" (§7). **Currently:** while **Xylaris sleeps in gravspace stasis** (Thalkyr), **Aetheris is the active watcher** — guarding the **Void prison** and observing the galaxy evolve from the ship in gravspace. Features extensively in the deep-past (TikTok) lore. ✅ **Aetheris is NOT Elena Voss's AI "Athena"** (author-confirmed — separate entities).
 - To the Primordial Architects (who never learn the truth): **Starwalker = "the Exalted One," Xylaris = "the Disgraced One."**
 
 ---
@@ -57,7 +57,7 @@
 ## 6. Primordial Architects Era
 - The cosmic engineers of the long age after the betrayal.
 - **Supreme Commander Mojahdin-Shah ("Dinsah")** — lived ~5,000 years.
-- **Etherspace** = the original FTL medium of this age. **Gravspace** discovered later (a way to survive the coming cataclysm; a being can exist in it without moving).
+- **Etherspace** = the **first** FTL medium discovered in this era — and the **most efficient.** **Gravspace** = the **second**, discovered later: beyond FTL travel, it lets a being remain **stagnant, separated from the current dimension** (outside normal space/time). ⭐ **This dimensional-separation property is how Xylaris escaped the Symphony of Annihilation (the Reckoning) AND keeps the Void imprisoned** — he holds the prison from **gravspace stasis aboard the Thalkyr.** *(The prison isn't perfect — the Void got it cracked slightly, hence the leaks/whispers.)*
 - **The Or'uk** — a species the **Void cannot assimilate**; survived the Reforging. **Gralthar** (Or'uk) fought alongside Xylaris on the warship **Bloodforged**. **Kuja-Wo'Shuk** shares the lineage that later produces **Vrakar and Drakken**.
 - **The fatal mistake:** the Architects found Xylaris's seal on Obscurum, **mistook it for a Celestian artifact, and released the Ancient Ones** — believing they were recovering relics. This corrupted **Taryn Voss**, who became **the Hive Mind**. *(The galaxy burned because an institution lied to about its own history made an honest mistake.)*
 
@@ -71,7 +71,7 @@
   - **Eos** — all Primordial Architect knowledge (the past preserved).
   - **Gaios** — life essences of every species to be reseeded (the future enabled). ⭐ **The reseed deliberately threaded the Voss lineage through *every* reseeded species** — even though the **original Voss line was human.** So the **Harbinger bloodline survives latent across *all* the Primordial-Architect peoples** (humans *and* every Obsidian race), not just humanity. *This is the mechanism that lets an Obsidian like **Lyrana** carry Taryn's Voss branch — the line was distributed at the reseed, then descended through each species' generations (no direct children of Kar'yan/Taryn required).*
   - **Modern humanity exists because of both.**
-- Kar'yan died and **ascended → a new Harbinger of the Ethereal Veil**. Xylaris escaped into Gravspace carrying the imprisoned Void → **Thalkyr stasis** (one AI tracking the **Vos bloodline** across the gap). Skorge fled.
+- Kar'yan died and **ascended → a new Harbinger of the Ethereal Veil**. Xylaris escaped into Gravspace carrying the imprisoned Void → **Thalkyr stasis** (his AI **Aetheris** tracking the **Vos bloodline** across the gap and guarding the prison). Skorge fled.
 
 ---
 
