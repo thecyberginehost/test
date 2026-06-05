@@ -37,6 +37,7 @@
 - **Without a hive-mind host** it only spreads passively and searches; the longer it goes hostless, the **stronger its grip on the next host**.
 - **Its one weakness: raw emotional intensity.** Love, hate, grief, rage strong enough to resist the homogenizing pull can hold corruption at bay. A strong-willed host can be corrupted yet never *controlled* → a stalemate where the Void owns the body but cannot drive it. **This is the mechanical heart of the universe.**
 - ⭐ **Corruption = oblivion of the soul (the stakes):** to be **fully Void-corrupted is to be *damned*** — the corrupted can **never release their life essence back into the universe** (no rebirth, no return). At death they are **erased into nothingness, as if they never existed.** *(This is why Scourge's freed-but-corrupted soldiers are the **Army of the Damned** — §14.)* **The only being ever to transcend it is Taryn** (her willpower kept her *essence* uncorrupted even as the Hive Mind) — see §6.
+- ⭐ **Visual marker — blood color:** **uncorrupted blood runs BLUE**; **Void-corrupted blood runs PURPLE.** So purple blood (and purple-shadow flesh) is a **corruption tell** — e.g., the artifact's "purple, shadowy zombie" creatures. *(Manuscript standardized: normal Obsidians bleed blue in Book 1.)*
 
 ---
 

@@ -61,9 +61,8 @@ The aliens look like different species across chapters:
   - **Need from author:** the names of all five races + each one's look, so the manuscript's varying descriptions get assigned deliberately (and Ch6/Ch18 captives get the right species).
 - **Editorial action:** Keep the variety, but make it read as *intentional* rather than careless. Two-part fix: (1) be strictly consistent *within* any single individual/unit/scene; (2) lightly seed that these are visibly different peoples (a Praetorian noticing "this one looks nothing like the last") so the reader banks it as worldbuilding. We should also nail down **which described look = which race** as a reference table once you tell me the five races, so later books stay consistent. *(Blood color, B2, still needs a per-race or universal rule.)*
 
-### B2. Obsidian blood color: purple vs. blue
-- "purple" (Ch5, Ch6, Ch8), "dark, viscous" (Ch10), "dark blue / dark blue mist" (Ch16).
-- **Fix:** Pick one (purple **or** blue) and apply throughout.
+### B2. Obsidian blood color — ✅ RESOLVED & APPLIED
+- ✅ **Canon: uncorrupted blood is BLUE; PURPLE = Void-corrupted** (a corruption tell). **Applied:** all "purple blood" instances (Ch5 ×2, Ch6, Ch8) → blue; Ch16's "dark blue" was already correct. New canon logged in lore §3.
 
 ### B2b. Apostrophe-name casing + `Val'Kora` vs `Vor'kara` — ⚠️ NEW
 - **Rule locked (author):** apostrophe **names** cap both sides of the apostrophe (`Thik'Shal`); apostrophe **regular words** cap only the first letter (`Vor'kara`). Applied to active canon (`Thik'shal`→`Thik'Shal`; stray `Vor'Kara`→`Vor'kara`). Originals (`00-manuscript-original/`) get this during their edit pass.
@@ -94,18 +93,15 @@ The ability is used as **both** precognition ("foresight," predicting ambushes, 
 - Multiple Obsidians speak perfect English (Ch5 Mindreaver "You will be eradicated"; Ch8 Drexel's killer; Ch18 Drakken is fully fluent and says he "made it my duty to learn" — only Drakken gets a reason).
 - **Fix:** Either give a consistent in-world reason (Mindreaver-assisted translation? captured-broadcast study?) or limit fluent English to characters who've earned it (like Drakken) and have lower ranks speak only their tongue.
 
-### B6. Charr: planet surface or moon?
-- Ch3–4 treat Charr (and Huckleberry) as on **Trident's surface** (free-drop "towards the surface of Trident"). Ch5 line: "the cold, desolate landscape of **Trident's moon**."
-- **Fix:** Decide if these platforms are planetside or on a moon, and make consistent.
+### B6. Charr / Huckleberry: surface or moon? — ✅ RESOLVED & APPLIED
+- ✅ **Canon: Charr and Huckleberry are comms/defense stations in remote locations ON Trident** (the planet), **not** a moon. **Applied:** Ch5's "Trident's moon" → "Trident's wilderness." (Trident *has* moons — Ch1/Ch15 "twin moons" — but these stations are planetside.)
 
 ### B7. "Planet Crete" vs "Crete City" — ✅ RESOLVED (both canon, distinct)
 - ✅ **Author confirms both exist and are deliberately distinct:** **Crete City** = the **spaceport on Trident**; **Planet Crete** = a **separate world**, site of a **prior military operation against a rebellion** (where Harris/Fringe fought in orbit and Argus dubbed Death Platoon). **No rename.**
 - *Editorial (light):* keep each first mention contextually clear ("Crete City, Trident's spaceport" vs "the planet Crete") so readers bank them as two places — but no change to the names.
 
-### B8. Invasion fleet numbers drift
-- Ch6 intel: **70 warships + 10 transports + 2 flagships** (1 major, 1 minor) + 10,000 fighters.
-- Ch7 observed: Nguyen says "**eighty** warships… two flagship vessels"; Harris says "**eighty-two** ships."
-- **Fix:** Minor — could be intel-was-wrong (even a nice beat: "intel said seventy"). Just make the discrepancy intentional or reconcile the numbers.
+### B8. Invasion fleet numbers — ✅ RESOLVED & APPLIED
+- ✅ **Canon: 82 vessels total = 70 warships + 10 transports + 2 flagships** (plus thousands of fighters). **Applied:** Ch6 intel now tags "—eighty-two vessels in all"; Ch7's "eighty warships" line reworked to the 82-vessel breakdown; Harris's "eighty-two ships" already matched.
 
 ---
 
@@ -121,8 +117,8 @@ The ability is used as **both** precognition ("foresight," predicting ambushes, 
 - **RESOLUTION (author canon):** Her evac is what **saves her life** — the infection requires extended care and she **cannot return until Book 2**, where she's likely **Fireteam Valor's sole long-term survivor.**
 - **Editorial action:** Keep her out of this book. Her "back asap" line is now **deliberate dramatic irony** — consider a feather-light touch in Ch10/Ch18 that makes the irony resonate without tipping the reader off. Royce's dying message to her (Ch18) should be preserved/strengthened — it hits harder knowing she's the one who lives.
 
-### C3. Admiral vs Commander Drexel
-- "Admiral Drexel" everywhere except Ch8: "only **Commander** Drexel remained." **Fix:** standardize to Admiral.
+### C3. Admiral vs Commander Drexel — ✅ RESOLVED & APPLIED
+- ✅ **Canon: Drexel is a COMMANDER** — "Admiral" is reserved for **fleet** commanders (e.g., Greenwich); Drexel commands the **Liberation** station. **Applied:** all "Admiral Drexel" → "Commander Drexel" (and the bare "The Admiral, usually stationed…" → "The Commander"); Greenwich's Admiral rank untouched.
 
 ### C4. "Dutch's voice" calls the platoon to attention, but they face Strickland (Ch14)
 - "froze as **Dutch's** voice cut through the noise. 'Platoon, Attention!'… every member turning to face **Strickland**." The CO (Strickland) should be the one being reported to; the attention-call attribution is muddled.

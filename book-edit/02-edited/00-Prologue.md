@@ -244,7 +244,7 @@ The figure stepped forward into the dim, flickering light. Hale could feel the p
 Then, with a sharp click, it pressed something along the side of its helmet. The plating shifted, mechanisms whirring softly as the armor responded to the command. The helmet didn’t come off; it collapsed, folding inward and peeling back into the framework of the armor like liquid metal retracting into itself.
 What remained was not human.
 Hale found himself staring into a face that no Human has ever seen before.
-The skin was slivery-blue, smooth but hardened, almost metallic in the way it reflected the faint glow of emergency lights. White hair, long but unkempt, framed a face marked by deep, jagged scars that ran across the cheek and down the side of its neck, remnants of old wounds long since healed. The structure of its face was sharp—high cheekbones, a strong jaw, a brow that sloped just enough to give it an almost regal look.
+The skin was silvery-blue, smooth but hardened, almost metallic in the way it reflected the faint glow of emergency lights. White hair, long but unkempt, framed a face marked by deep, jagged scars that ran across the cheek and down the side of its neck, remnants of old wounds long since healed. The structure of its face was sharp—high cheekbones, a strong jaw, a brow that sloped just enough to give it an almost regal look.
 And the ears.
 Pointed. Angled slightly back against the skull. They twitched at the subtle sounds around them, too sensitive, too aware.
 But it was the eyes that sent a deep chill through Hale’s gut.
@@ -272,7 +272,7 @@ A weapon. A blade of pure, controlled energy.
 The alien held him there, its grip unyielding, watching the life drain from his face. It had won, and it knew it. But Hale refused to give it the satisfaction of hearing him scream.
 His body trembled, his muscles locking in protest against the overwhelming pain, but he forced himself to meet its gaze. His teeth clenched, his breath shuddering through gritted lips. Blood pooled in his mouth, thick and coppery, but he held it for a moment longer, waiting.
 Then, with the last of his strength, he spat.
-The blood splattered across the alien’s face, stark against the slivery-blue skin.
+The blood splattered across the alien’s face, stark against the silvery-blue skin.
 The smirk faltered.
 Hale exhaled, a slow, rattling breath. His vision darkened at the edges, his limbs going numb. The pain faded—not into relief, but into cold, creeping nothingness.
 His body slipped away from him, and the last thing he felt was the weightless sensation of being tossed to the deck like a discarded corpse.
