@@ -128,6 +128,28 @@
 - **Argus's last stand** ("Noble Six"-style, with author modifications): he loads **Tessa + the critically wounded Junior** onto one of the few ships escaping Trident, is about to board himself, then **sees an escape ship blown out of the sky** — and **stays behind to hold the line**, the act that lets the survivors escape. **This is where Junior's survival is finally confirmed on-page.**
 - **The two artifacts:** #1 (Elena's, Gladius) is *the first*; **#2** — the **corrupted Void artifact buried under New Eridanus** that the Pillar of Anguish was excavating in Book 1 — is **found by Death Platoon** in Book 2 (the "un-corrupt the artifact" mini-arc).
 
+### Obsidian deep lore (expanded canon — sourced from author's Tezos / *Project ForgePulse* NFTs)
+*Provenance: minted via @sneketoshi.tez, "Project ForgePulse" collection (2023). Treat as canon; reconcile against the manuscript where needed.*
+
+**High Commander Kyr Tharanos** — *(the figure who arrives at the Book-1 epilogue cliffhanger)*
+- **Appearance:** sleek white/silver powered armor with deep red/maroon accents; angular full-face visored helmet. (Matches the epilogue's "white with red hues.")
+- **Origin:** rose from a lowly **Titan Vanguard** recruit to High Commander — a legend of merit-driven ascent; gifted battlefield strategist and motivator.
+- **War of the Five Suns:** when the Titan Vanguard's High Commander was slain mid-battle, Kyr seized command and rallied the breaking line. He recognized **Princess Lyrana's** daring strategy and made it his unspoken mission to **protect the heir of Vrakar**. With Lyrana he led **Kresh** soldiers + the Titan Vanguard in a clandestine op that **sabotaged the enemy vessels poised to strike Vrakar and Drakken's warship** — setting up **Vrakar's final confrontation** with the enemy leader and the war-ending **invocation of Lok'Sha O'Ka**.
+- **The Kresh-whisperer:** the **only leader in history to win the Kresh's loyalty and pride**, integrating their ferocity into Obsidian doctrine and nullifying their tendency to rebel. *Because* of this he is **forbidden to join the Obsidian Blackguard** — too indispensable as the Kresh's anchor. (This is why the epilogue gives him a distinct white/red command, not Blackguard charcoal/purple.)
+- **Flavor stats (NFT):** Loyalty 100%, Leadership Tenure 2%.
+
+**Princess Lyrana** — **NEW.** The **heir of Vrakar** (Obsidian royal line; presumably Vrak'tharan). A fearless warrior-strategist who fought beside Kyr in the War of the Five Suns; Kyr's unspoken charge is her protection. *(Major character — her relationship to Vrakar's corruption arc is TBD.)*
+
+**The Kresh** — **NEW faction.** A ferocious Obsidian warrior species/caste, historically prone to rebellion; first made loyal under Kyr. Fight alongside the **Titan Vanguard**.
+
+**Titan Vanguard** — **NEW unit.** An Obsidian military branch/order — Kyr's origin and command; operates with Kresh counterparts.
+
+**War of the Five Suns** — **NEW historical event.** A major Obsidian war (pre-Trident) that cemented Vrakar's rule and forged Kyr's legend; ended by Vrakar's invocation of **Lok'Sha O'Ka**.
+
+**Lok'Sha O'Ka** — previously logged as Celestian ritual vocabulary the Obsidians unknowingly carry; here revealed as a **war-ending invocation of real power** wielded by Vrakar. *(Strong implication: Vrakar channeling buried Celestian/conduit ritual — a thread that may connect to why the Void targeted him. Flag for cosmology.)*
+
+> **⚠️ Continuity watch — Kyr's "reprimand":** The NFT lore paints Kyr as a celebrated hero (savior of Vrakar's heir, indispensable Kresh-whisperer); the **epilogue** has him arriving to face a **"severe reprimand."** Reconcile: is the reprimand about a *current* (2888/Trident) failure separate from his honored past? Is "reprimand" a misdirect? Or does the epilogue need a tweak? **Author call needed.**
+
 ### ForgePulse tech & units (canon spellings/functions)
 - **NMIP** (Neuro-Morphic Interface Pad) — instant operational mastery of any vehicle, short of language decryption.
 - **Whisper Grenade** — stealth localized-EMP grenade (disables electronics, incapacitates organics silently).
@@ -186,6 +208,7 @@
 
 ## 15. Canon Spelling Locks
 - **Xylaris** (not Xylorus) · **Vor'kara** (no variants) · **Lok'Sha O'Ka** · **Mindreaver** (one word; manuscript canon over lore-bible "Mind Rivers") · **Pillar of Anguish** · **Krath'Zaroth** · **Obscurum** · **Thalkyr** · **Eos / Gaios** · **Skorge** (a.k.a. Scourge) · **Or'uk** · **Vrak'tharan** (Vrakar's species) / **Vrak'thar** (Drakken's noble species).
+- Obsidian: **Kyr Tharanos** · **Princess Lyrana** · **Kresh** · **Titan Vanguard** · **War of the Five Suns** · **Blackguard** · **Lar'Kar Zhul** · **Councillor Vorthan** / **Councillor Talira** · flagship **Krath'Zaroth** ("Sacred Retribution") · warship **Pillar of Anguish**.
 
 ---
 
