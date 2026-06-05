@@ -43,7 +43,7 @@ In the year 2888, humanity — having long ago fled Old Earth in the "Great Exod
 - Motto of Shadowhawk/Ironclad (Greenwich's guard): **"None Better."**
 
 ### Viper Platoon / "Death Platoon" (OGDF)
-- **Lt. Strickland** — Hard, unflappable, cigar-smoking. Old (undisclosed) ties to GRID & The Surgeon. Dubbed "Death Platoon" by Argus on Crete for their brutality.
+- **Lt. (John) Strickland** — Hard, unflappable, cigar-smoking. Dubbed "Death Platoon" by Argus on Crete for their brutality. ⭐ **TRUE IDENTITY (series secret):** he is **"Demon," GRID designation CD-MW10-01** — a **Project Phantom** asset (under Project Clandestine). **Taken by GRID at age 4** (2835 b.→2839); surname redacted; **nano-augmented at 12** (speed, reflexes, self-healing + undisclosed); at 15 spearheaded **Operation Blood Drive**, earning the codename **"Demon."** After a deep-cover insurgent-base infiltration, he was given the **cover identity "Lt. John Strickland,"** ran full GFC training, and was embedded as **OGDF Death Platoon leader — GRID's "dirty work" arm** (he handpicks the platoon). Served in **Clandestine Battlegroup Alpha.** *(Resolves the "old undisclosed GRID ties" tease. Image: `assets/strickland-demon.jpg`. Source: GRID file, partial declass 2910.)*
 - **Dutch** — Heavy weapons; wields "Old Faithful" (modified Shredder). **Son of Captain Harris** (revealed Ch14); out for vengeance.
 - **Axe** — Recon; running gag of attaching absurd items to gear to make Strickland laugh (bet: free drinks at The Rig). **Marsden** (demo), **Knox** (tech), **Hawkins** also named.
 
@@ -146,7 +146,7 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 | **The Artifact & "Harbingers" (5 humans, 50 relics)** | Ch13 | ❌ **DROPPED.** No payoff in this book. |
 | **Death Platoon's artifact mission** | Ch13–15 | ❌ **DROPPED.** They seal the cave and vanish; never shown retrieving it. |
 | **Tessa's promised return** | Ch10 | ❌ **Never returns.** |
-| Strickland ↔ Surgeon ↔ GRID secret | Ch13–14 | ❌ Teased, never explained. |
+| Strickland ↔ Surgeon ↔ GRID secret | Ch13–14 | ◑ **Backstory now canon** (Strickland = "Demon," GRID Project Phantom; Surgeon also a Clandestine product) — keep as an *intentional* Book-1 long-game tease; pays off in later books / *Project Clandestine*. |
 | Dutch's vengeance (for Harris) | Ch14 | ❌ Set up, no payoff (Death Platoon thread dropped). |
 | Royce's arc (rookie → hero) | Ch2 onward | ✅ Completed Ch18 (sacrifice). |
 | High Commander Drakken | Ch18 | ◑ Survives — clear sequel hook. |
