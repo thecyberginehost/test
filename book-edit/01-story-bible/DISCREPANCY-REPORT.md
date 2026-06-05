@@ -170,7 +170,7 @@ These are global find-and-fix items (will be handled automatically during line e
 - **"FireFireteam"** duplication (multiple in Ch10).
 - **"a eight-year-old"** → "an eight-year-old" (Ch1).
 - Misspellings/typos: "slivery-blue" (silvery), "Juilia/Julioa" (Julia, Ch11), "arere" (Ch13), "Th" fragment (Ch14), "shorline" (Ch10), "godamn/goddamn" inconsistency, "here his own voice" → "hear" (Prologue), "passed it's limits" → "past its limits" (Ch6), pervasive **its/it's** errors.
-- **Tense — ✅ RULE LOCKED:** standardize to **PRESENT tense** (default); **past only for deliberate recalls/references to past events.** Present-tense chapters (Ch9, 11, 13, 16) are the model; **convert the past-tense chapters (Prologue & much of P–Ch10) to present.** (See Story Bible §6.)
+- **Tense — ✅ RULE LOCKED (final): PAST tense** throughout. **Convert the present-tense chapters (Ch9, 11, 13, 16 + any drift) to past.** Past-perfect for deeper recalls. (See Story Bible §6.)
 - Repeated stock phrases for thinning: "the gravity of the situation," "palpable tension," "stay sharp," "weight of X pressed down," end-of-chapter camaraderie recaps.
 
 ---

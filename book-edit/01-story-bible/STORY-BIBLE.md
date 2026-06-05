@@ -165,7 +165,7 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 - The family chapters (11–12) carry genuine emotional weight.
 
 **Recurring tics to watch (cleanup targets):**
-- **Tense — ✅ RULE LOCKED (author):** narration is **PRESENT tense by default**; use **past tense ONLY for deliberate recalls / references to past events** (memories, backstory, flashbacks). The recently-edited chapters (Ch9, 11, 13, 16) are already present-tense = the **model**; the **past-tense chapters (incl. Prologue & much of P–Ch10) must be converted to present** in the line-edit. *(Reverses the earlier "standardize to past" note.)*
+- **Tense — ✅ RULE LOCKED (author, final): PAST tense.** Narration is **past tense** throughout (the genre norm — cf. *Halo: The Fall of Reach*; loses no immediacy and handles this book's heavy recall/flashbacks/concurrent timelines cleanly). The **present-tense chapters (Ch9, 11, 13, 16 — and any others that drift) must be converted to PAST.** Past-perfect ("had done") for deeper recalls is fine. *(This supersedes the brief present-tense decision; author confirmed past.)*
 - **Over-narration / restatement** — paragraphs often *tell* the emotion already shown ("This was more than a mission; it was a fight for survival"). Heavy candidate for fluff-cutting.
 - **Adverb & abstraction stacking** ("palpable tension," "unwavering resolve," "gravity of the situation") — these phrases recur dozens of times.
 - **Repeated beats** — "the weight of X pressed down," "stay sharp," camaraderie-recap paragraphs at chapter ends.
