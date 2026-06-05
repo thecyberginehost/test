@@ -19,7 +19,7 @@ Approaching the throne room, the grandeur of the space was overwhelming. Highlor
 
 Ten paces from Highlord Vrakar, High Commander Drakken signaled his Blackguard to halt. He stepped forward and knelt, a motion followed by the rest of his unit. "Vor'kara, my Highlord," Drakken intoned, his voice resonating with respect and fealty.
 
-Highlord Vrakar paused, his gaze sweeping over each member of the Blackguard. His silence was heavy with the weight of his authority. "Vor'kara, High Commander. You may rise. Take off your battle helmets. I want to see each one of you."
+Highlord Vrakar paused, his gaze sweeping over each member of the Blackguard. His silence was heavy with the weight of his authority. "Val'kora, High Commander. You may rise. Take off your battle helmets. I want to see each one of you."
 
 The command was clear, and the Blackguard moved in unison, their hands reaching up to remove their helmets, revealing the faces beneath. The air was thick with anticipation as they prepared to meet the gaze of their Highlord.
 

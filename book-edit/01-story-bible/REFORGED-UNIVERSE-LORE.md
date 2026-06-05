@@ -112,7 +112,11 @@
 - **Not a single species — a pact of FIVE alien races**, each from its own star system, **forged into one people by Vrakar in the War of the Five Suns** (each "sun" = one species' home system, fought and united). *(Reconciliation: the master lore-bible's older phrasing — "every species that constituted the Primordial Architects, minus humans, ~80–90% of those reseeded" — is **refined** by this. Canonical number is **FIVE core species** (matches Story Bible §7.1's "pact of five"). Whether the five are a subset of the reseeded Architect-species, or collectively make up most of them, is TBD.)*
   - **Vrak'Thar / Vrak'Tharan** are the same species lineage split across two of these worlds; **Vrak'Tharan** is the **more noble** (Vrakar & Lyrana), **Vrak'Thar** the other (Drakken).
 - They **unknowingly carry Celestian ritual vocabulary** in their speech — e.g., **Vor'kara** (single canonical spelling, no variants) and **Lok'Sha O'Ka**.
-  - **Vor'kara** is a **formal greeting of respect** — spoken only to those who *command* respect, and **reciprocated in kind** when the speaker is respected in return. A returned *"Vor'kara"* therefore signals **mutual respect** (e.g., **Vrakar returning it to Drakken** in the epilogue marks them as equals-in-honor). ✅ **Same phrase Junior's outdated radio intercepts in Ch01** (rendered there as **"Val'Kora"** — confirmed the same word; standardize Ch01 to `Vor'kara` on its edit pass). The intercepted-voices thread = Obsidian/Void transmissions bleeding through.
+  - **Vor'kara / Val'kora — a call-and-response greeting of respect:**
+    - **`Vor'kara`** = the **initial greeting**, offered only to one who **commands respect**.
+    - **`Val'kora`** = the **reciprocation**, returned **only if** the receiver chooses to honor that respect back. A given Val'kora therefore signals **mutual respect** (in the epilogue, **Drakken offers Vor'kara → Vrakar returns Val'kora**, canonizing their mutual respect).
+    - They are **distinct words**, both **regular words** (first-letter cap only): `Vor'kara`, `Val'kora`.
+    - **Ch01 tie-in:** the word Junior's outdated radio intercepts is **`Val'kora`** (the reciprocation) — a *legitimate distinct word*, **not** a misspelling of Vor'kara. On Ch01's edit pass, only casing-correct **`Val'Kora` → `Val'kora`**. The intercepted-voices thread = Obsidian/Void transmissions bleeding through.
 - The Ancient Ones reaching them = **corruption finding the ritual architecture of its original victims**, patiently hunting descendant bloodlines across 65M years.
 - **They are NOT the real threat.** The real enemy is the **Void / the Devourer / the Ancient Ones** working through them. **Humans and Obsidians were meant to become an alliance** — the corruption of **Highlord Vrakar** (deliberately targeted *because* he was building that alliance) burned the alliance down and manufactured the war instead.
 
@@ -229,10 +233,11 @@
 ## 15. Canon Spelling Locks
 
 > **Apostrophe-capitalization rule (author-set):** A **name** containing an apostrophe caps **both** the first letter of the name **and** the first letter after the apostrophe → `Thik'Shal`, `Krath'Zaroth`, `Dra'Kor Vhel'Tan`, `Lok'Sha O'Ka`, `Lar'Kar`, `Wo'Shuk`. A **regular word** that happens to contain an apostrophe caps **only the first letter** → `Vor'kara`.
-> **✅ Resolved:** Species names are **names** → **`Vrak'Thar` / `Vrak'Tharan`** (cap after apostrophe). And **`Val'Kora` = `Vor'kara`** (same word — the Ch01 intercept; standardize Ch01 on its edit pass).
+> **✅ Resolved:** Species names are **names** → **`Vrak'Thar` / `Vrak'Tharan`** (cap after apostrophe). And **`Vor'kara`** (greeting) **/ `Val'kora`** (reciprocation) are **two distinct regular words** (first-cap only) — *not* the same word. Ch01's intercept is **`Val'kora`**; only casing-correct it (`Val'Kora`→`Val'kora`) on the edit pass.
 
 - **Xylaris** (not Xylorus) · **Vor'kara** (no variants) · **Lok'Sha O'Ka** · **Mindreaver** (one word; manuscript canon over lore-bible "Mind Rivers") · **Pillar of Anguish** · **Krath'Zaroth** · **Obscurum** · **Thalkyr** · **Eos / Gaios** · **Skorge** (a.k.a. Scourge) · **Or'uk** · **Vrak'Thar** / **Vrak'Tharan** (same species lineage split by birthworld; **Vrak'Tharan** = the more noble — Vrakar & Lyrana; **Vrak'Thar** — Drakken).
 - Obsidian: **Drakken Thik'Shal** · **Kyr Tharanos** · **Princess Lyrana** · **Lythar** & **Rythos** · **Kresh** · **Titan Vanguard** · **Blackguard** · **Dra'Kor Vhel'Tan** · **Lar'Kar Zhul** · **Councillor Vorthan** / **Councillor Talira** · **War of the Five Suns** · **Sacred Retribution** · flagship **Krath'Zaroth** · warship **Pillar of Anguish**.
+- Greeting pair (regular words, first-cap only): **Vor'kara** (initial) / **Val'kora** (reciprocation).
 
 ---
 
