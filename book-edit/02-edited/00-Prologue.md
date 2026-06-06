@@ -4,17 +4,17 @@ Time: 0217 Galactic Standard Time (GTC)
 Location: Outpost Helios-3, Near the Event Horizon of the Lagrange Rift, approximately 250 million kilometers from Trident
 
 "You ever wonder why we even have this outpost anymore?"
-Petty Officer Jared Thorne leaned back in his chair, boots propped against the base of his holo-display console, arms folded behind his head. The dim glow of Trident’s early-warning grid pulsed across the reinforced glass of the observation deck, a silent rhythm in the quiet of deep space.
+Petty Officer Jared Thorne leaned back in his chair, boots propped against his holo-display console, arms folded behind his head. The dim glow of Trident’s early-warning grid pulsed across the reinforced glass of the observation deck, a silent rhythm in the quiet of deep space.
 Across from him, Chief Technician Alex Morrow barely looked up from his maintenance logs, letting out a short laugh.
 "Every damn day, Thorne. Every damn day."
-Thorne smirked, gesturing lazily toward the massive holographic projection of the Lagrange Rift’s gravitational field at the center of the control deck. Blue and white markers indicated real-time fluctuations—anomalies meant to detect inbound vessels long before they reached Trident’s defense perimeter.
+Thorne tipped his head toward the holographic projection of the Lagrange Rift at the center of the control deck. Blue and white markers flagged real-time fluctuations—anomalies meant to catch inbound vessels long before they reached Trident’s defense perimeter.
 “We’ve got the Liberation handling planetary defense, the Candidate Platform running STARCOM’s traffic control… so what the hell does Helios-3 even do anymore?”
 Morrow finally turned, raising an eyebrow. “We’re the first line of detection.”
 “For what?” Thorne scoffed. “Last time we had an unidentified contact in this sector was eight months ago, and it turned out to be some asshole in a stolen transport who got lost on his way to a fringe colony.”
 Morrow exhaled, shaking his head. “You’re not wrong, but that’s exactly why we’re here.” He gestured to the star map on the display, a vast stretch of empty space surrounding Trident’s system. “Since the war ended, this entire sector has been a ghost town. STARCOM Fleet and the GFC pulled most of the military forces out, leaving a couple of Praetorian fireteams and a company of OGDF badasses to keep watch. If something comes knocking, we’re the only ones left to answer.”
-Thorne leaned back in his chair, letting that sink in. “So, basically, we’re sitting on an empty rock, waiting for something that’s never gonna happen.”
-Morrow smirked. “Pretty much. But hey, it beats being station on Trident.”
-"Yeah?" Thorne smirked. "You saying you wouldn’t rather be planetside drinking real beer instead of whatever synthetic shit they keep stocked here?"
+Thorne leaned back, letting that sink in. “So, basically, we’re sitting on an empty rock, waiting for something that’s never gonna happen.”
+Morrow grinned. “Pretty much. But hey, it beats being stationed on Trident.”
+"Yeah?" Thorne huffed a laugh. "You saying you wouldn’t rather be planetside drinking real beer instead of whatever synthetic shit they keep stocked here?"
 Morrow chuckled. "Touché. Forgot about the beer."
 A constant, low hum filled the control room as data streamed across their consoles, the predictable monotony of a dead shift in deep space.
 Then, something changed on the console. A single status light blinked out. Thorne’s boots hit the floor as he straightened in his seat, frowning at his display.
@@ -55,18 +55,17 @@ Four personnel snapped to attention.
 The four runners bolted from the deck, boots pounding against the reinforced flooring.
 Vickers turned back to the main display, scanning the grid. "We’re blind and deaf," he said. His voice tightened as he spoke. "We need to prepare for anything. For all we know, this could be an insurgent raid."
 Thorne swallowed. "Sir, if it’s an attack, why aren’t they broadcasting? We’d be seeing transponders, engine wakes—something."
-Vickers didn’t answer immediately. His eyes locked onto the empty void of the Lagrange Rift, wondering if the same thing is happening to Helios-2.
-For the first time, something unspoken passed through the control deck, and Vickers looked towards Morrow and Thorne’s direction.
+Vickers didn’t answer immediately. His eyes locked onto the empty void of the Lagrange Rift, wondering if the same thing was happening to Helios-2.
+For the first time, something unspoken passed through the control deck, and Vickers looked toward Morrow and Thorne.
 "Get those defenses online," Vickers muttered, more to himself than anyone else.
 His hand tightened into a fist.
 "Now."
-Vickers tightened his jaw, exhaling sharply as he kept his eyes locked on the main display.
 Morrow and Thorne didn’t need to be told twice. Their fingers moved rapidly across their holo-displays, working to power up Helios-3’s automated defense grid—a network of long-range rail turrets and point-defense systems meant to intercept hostile vessels and strike craft.
 "Bringing up the defense grid," Morrow confirmed. "Turret batteries are coming online, but—" He stopped, brow furrowing as his hands hovered over the controls.
 Vickers turned. "But what?"
 Morrow’s fingers tapped against the display, scrolling through error logs. "I… don’t know. Systems say the turrets are active, but there’s no response from them. It’s like they’re powered up but waiting for… something."
 Thorne glanced over. "What do you mean by waiting? We control them—just cycle manual overrides."
-"I already tried." Morrow’s voice was tight. "They’re not locked out.”He hesitated, staring at his screen. "They’re just not acknowledging commands."
+"I already tried." Morrow’s voice was tight. "They’re not locked out.” He hesitated, staring at his screen. "They’re just not acknowledging commands."
 Dwyer, still trying to reestablish communications, lifted her head. "Wait, are they running pre-programmed targeting patterns?"
 Morrow checked. "Negative. They’re active but not tracking anything."
 A silence settled over the control room. Commander Vickers didn’t believe for a second that it was a malfunction.
@@ -76,7 +75,7 @@ The first few angles were clear—empty space, just as expected.
 Then one feed flickered.
 And another.
 And another.
-Each array didn’t just fail—they were being disabled..
+The arrays didn’t just fail—they were being disabled.
 Morrow’s pulse spiked as he flicked through the feeds, eyes darting across the display. "We’re losing external eyes. This isn’t damage—these feeds are being shut down."
 Vickers stepped back. "By what?"
 "That’s the problem," Morrow said. "I don’t know."
@@ -116,9 +115,9 @@ The GravLink interface flashed green.
 "We’re up," Thorne confirmed.
 Vickers immediately leaned in. "Helios-3 to Liberation. We have unidentified hostiles onboard. We’ve lost contact with all external stations and are experiencing multiple unknown system failures. Requesting immediate—"
 The signal didn’t make it through the GravLink relay. In fact, the signal came back.
-Commander Vickers could here his own voice played through the speakers.
+Commander Vickers could hear his own voice played through the speakers.
 "Helios-3 to Liberation. We have unidentified hostiles onboard. We’ve lost contact with all external stations and are experiencing multiple unknown system failures. Requesting immediate—"
-Vickers’ skin went cold and the short hairs on the back of his neck started to stand up..
+Vickers’ skin went cold and the short hairs on the back of his neck started to stand up.
 They were talking to themselves.
 Vickers clenched his fists. "That’s it then. We’re completely cut off."
 Another burst of gunfire. A scream—garbled, indistinct. Then silence.
@@ -137,7 +136,7 @@ Vickers moved to the control panel. Lockdown protocols had sealed the room compl
 Thorne pulled up the external camera feed. The four soldiers stood outside the bulkhead, weapons up, covering all angles. Their stance was disciplined, but there was something else—something off.
 They weren’t just securing the area. They looked as if they were waiting for something to follow them.
 Vickers hit the manual override. The door slid open with a hiss.
-Hale entered first, his M-57C  Assault Rifle tight in his grip. The other three followed in practiced formation, immediately spreading out inside the command center. Sikes moved to cover the corridor outside. Jaeger took up position near the far wall, scanning for alternative access points. Lau crouched behind a terminal, giving himself an angle to fire from cover.
+Hale entered first, his M-57C Assault Rifle tight in his grip. The other three followed in practiced formation, immediately spreading out inside the command center. Sikes moved to cover the corridor outside. Jaeger took up position near the far wall, scanning for alternative access points. Lau crouched behind a terminal, giving himself an angle to fire from cover.
 They were setting up defensive positions.
 Vickers sealed the door behind them. "Report."
 Hale exhaled, gripping his rifle tighter. "Commander, it’s not insurgents."
@@ -151,7 +150,7 @@ Vickers frowned. "You mean the gear they’re using?"
 Jaeger shook his head. "Not just the gear. Everything. Their armor is beyond anything we’ve seen. No obvious power source, no weak points we could target. Small arms barely slowed them down. Even high-velocity rounds—took multiple direct hits before we dropped one."
 Lau’s voice was tight. "Their weapons are even more powerful"
 Vickers turned to him. "How so?"
-Lau adjusted his grip on his rifle. "They tore through our armor, sir. Not a full breach on the first hit, but it didn’t take long. With one or two direct shots, armor plates shattered. And they knew. The second they saw a weakness; they exploited it. No wasted shots, no suppression fire. They were picking us apart."
+Lau adjusted his grip on his rifle. "They tore through our armor, sir. Not a full breach on the first hit, but it didn’t take long. With one or two direct shots, armor plates shattered. And they knew. The second they saw a weakness, they exploited it. No wasted shots, no suppression fire. They were picking us apart."
 Vickers felt the cold weight settle deeper in his gut.
 "How many are there?"
 Hale exhaled. "At least a platoon’s worth of soldiers.”
@@ -243,7 +242,7 @@ Now he had nothing. No weapon. No way to fight. Just pain, and the thing holding
 The figure stepped forward into the dim, flickering light. Hale could feel the piercing gaze of the enemy still holding him by his throat.
 Then, with a sharp click, it pressed something along the side of its helmet. The plating shifted, mechanisms whirring softly as the armor responded to the command. The helmet didn’t come off; it collapsed, folding inward and peeling back into the framework of the armor like liquid metal retracting into itself.
 What remained was not human.
-Hale found himself staring into a face that no Human has ever seen before.
+Hale found himself staring into a face that no Human had ever seen before.
 The skin was silvery-blue, smooth but hardened, almost metallic in the way it reflected the faint glow of emergency lights. White hair, long but unkempt, framed a face marked by deep, jagged scars that ran across the cheek and down the side of its neck, remnants of old wounds long since healed. The structure of its face was sharp—high cheekbones, a strong jaw, a brow that sloped just enough to give it an almost regal look.
 And the ears.
 Pointed. Angled slightly back against the skull. They twitched at the subtle sounds around them, too sensitive, too aware.
