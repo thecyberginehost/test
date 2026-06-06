@@ -5,7 +5,7 @@ Location: Charr Communications Platform
 
 Fireteam Valor came onto the Charr Communications Platform the way you approach a body you aren't sure is dead.
 
-Nothing moved. The great dish arrays that should have been combing the sky hung dead and crooked on their mounts, and the structure beneath them had been opened from the inside — access panels peeled back, conduit torn out in fistfuls, the delicate heart of the planet's last long-range relay methodically gutted. It wasn't battle damage. Battle damage was indiscriminate. This was deliberate: every cut placed exactly where it would do the most harm, and nowhere it wouldn't.
+Nothing moved. From the approach the platform had looked whole, and it was — the great dish arrays still stood on their mounts, dark and motionless, not broken so much as switched off. It was only when Valor came in close that they saw what had really been done to it. The structure had been opened from the inside: access panels peeled back, conduit torn out in fistfuls, the delicate heart of the planet's last long-range relay methodically gutted. It wasn't battle damage. Battle damage was indiscriminate. This was deliberate — every cut placed exactly where it would do the most harm, and nowhere it wouldn't.
 
 They found the platform's defenders in the first corridor. An OGDF squad, or what had been one — cut down where they stood, armor scored clean through by something that hadn't slowed on the way past. Not one of them had fallen facing the same direction. Whatever did this had been in among them before they knew it was there.
 
