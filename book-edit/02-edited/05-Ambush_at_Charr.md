@@ -2,132 +2,143 @@ Chapter 5 – Ambush at Charr
 Date: December 15, 2888
 Time: 1800 Galactic Standard Time (GTC)
 Location: Charr Communications Platform
-Fireteam Valor, hidden in their strategic positions around the Charr Communications Platform, almost ready for the ambush, observed intently as the alien transport ship prepared for departure. The small, sleek vessel, initially concealed by an advanced cloaking technology, revealed itself only momentarily as its docking bay opened to welcome the alien combatants.
-The team watched as the eight aliens swiftly boarded the ship. Its design was unlike anything they had seen before – compact yet imposing, with a form that hinted at both stealth and speed. The vessel's surface was dark and smooth, reflecting the dying light in a way that seemed to absorb rather than reflect.
-As the last of the aliens disappeared into the ship, the docking bay closed with a seamless motion. The air around the vessel shimmered slightly, a telltale sign of the cloaking device re-engaging. For a moment, the ship remained visible, its engines emitting a low hum that resonated through the quiet evening air.
-Then, with a sudden burst of energy, the ship lifted off the ground. It moved with a grace and fluidity that defied its mechanical nature, ascending smoothly into the sky. The Fireteam Valor members exchanged glances, acknowledging the advanced technology they were witnessing.
-The ship gained altitude rapidly, its form becoming smaller as it distanced itself from the platform. Then, in a display of technological prowess that left the team in awe, the vessel initiated its Faster-Than-Light capabilities. Unlike the GFC's ships, which required significant clearance to avoid gravitational disturbances, this alien ship transitioned to Faster-Than-Light speed with a precision and finesse that left no destructive ripples in its wake.
-The ship's departure was a silent, almost elegant affair, leaving behind a team of Praetorians who were now more aware than ever of the advanced capabilities of their adversary. As the last traces of the ship vanished into the void, Fireteam Valor refocused on their mission, their minds racing with the implications of what they had just witnessed. The remaining five aliens at the platform hinted at another ship nearby, adding another layer of complexity and danger to their operation.
-The sight of the alien ship engaging FTL so close to the planet's surface left Fireteam Valor in a mix of awe and concern. Lieutenant Argus, watching the ship vanish into the unknown, couldn't hide his surprise. "They can use FTL speeds this close and with that small of a ship? We can't even do that."
-Wraith, standing nearby, nodded in agreement. "Their technology seems far beyond ours. The precision required for such a maneuver is... unprecedented."
-Lieutenant Argus turned to Wraith. "Contact GRID and Commander Drexel. Inform them of what we've seen. They need to be ready for anything."
-Wraith immediately opened a secure channel to GRID and Commander Drexel. "GRID, this is Wraith. We've witnessed an alien ship engage FTL within the planet's atmosphere. We suspect an imminent threat. I highly recommend activating all orbital and planetary defenses that aren’t down and recall the STARCOM Fleet for defensive posture around Trident."
-Simultaneously, Argus radioed Captain Orion. "Gladius Six, this is Valor Six. The final comm platform is compromised. Thirteen hostiles in total. Eight left on a ship using FTL, leaving five behind. We're setting up an ambush as they exit the station."
-Wraith added on the three-way call, "And Commander, it's more than just suspicion. My foresight picked up glimpses of a potential armada preparing to move. It's fragmented, but it’s there. We may be facing a full-scale invasion."
-Commander Drexel's voice crackled through the line, "Understood, Wraith. I'm issuing the orders now. All units, prepare for hostile engagement. This is not a drill."
-Captain Orion responded with equal urgency. "Valor Six, proceed with the ambush. We need to slow them down and gather as much intel as possible. Do you remember what I said back in the briefing room?”
-The slight smirk could not be observed through Lieutenant Argus’s helmet, but it was there all the same, “Kill them all, sir.”
-“You’re goddamn right. Gladius Six, out.” With those final words, the encrypted comms channel closed.
-As the team prepared for their ambush, the gravity of the situation weighed heavily on them. The alien technology was a game-changer, and the possibility of an impending invasion brought a new level of urgency to their mission. The remaining five aliens at the platform were more than just enemies; they were keys to understanding what was coming.
-Argus gave his team a determined look. "Alright, Fireteam Valor, let's set up the ambush. Tessa, Harlan, you know what to do. When the time comes, light 'em up!"
-The team moved into position, their minds focused and their hearts racing.
-In the cold, desolate landscape of Trident's wilderness, Fireteam Valor lay in wait near the Charr Communications Platform. Each member was in position, the tension palpable in the silent night. Tessa had strategically placed her stealth drones, which had silently planted auto-bury mines around the station's perimeter, ready to be detonated at the opportune moment.
-Harlan, armed with his heavy chain gun, was poised to initiate the ambush. Tessa, from her vantage point, was focused on the station's entrance through the scope of her sniper rifle. Royce and Vega formed the core of the assault unit, weapons trained on the station’s exit.
-Kaine had launched a small fleet of drones that hovered above, invisible to the naked eye. The drones provided live feeds of the aliens inside the station, giving Fireteam Valor a crucial tactical advantage.
-Lieutenant Argus watched intently as the live feed from Kaine's drones showed the alien forces exiting the Charr station. He waited patiently, calculating the perfect moment to strike. As the last alien stepped far enough away from the entrance, ensuring maximum effect from the mines, Argus issued the ambush signal – three deliberate static clicks on his radio.
-Instantly, Harlan triggered the detonator. The ground around the station’s entrance exploded in a series of controlled blasts, throwing the aliens into disarray as they emerged into the trap.
-Harlan unleashed a torrent of firepower from The Shredder, his chain gun roaring to life. Tessa awaited for the smoke to clear from the initial blast before she could take a calculated shot. Royce and Vega, working in tandem, added their own barrage of gunfire, contributing to the overwhelming assault.
-During the intense firefight, the pilot of the Razor Wing, who had earlier evacuated a wounded soldier to Gladius, contacted Argus. "Valor Six, this is Razor Wing One, I'm back in your airspace. Ready for your orders."
-Seizing the opportunity, Argus responded, "Razor Wing One, we need a strafe run. Coordinates: two zero niner alpha bravo, five five three echo delta, danger close."
-"Copy, two zero niner alpha bravo, five five three echo delta, danger close. Razor Wing One inbound," the pilot confirmed, his voice calm amidst the chaos.
-Argus alerted his team, "Danger close strafe run incoming. Take cover!" Fireteam Valor trusted their advanced armor to mitigate the concussive force of the missiles, which would soon be raining down just meters from their position.
-The Razor Wing made its pass, missiles pounding the ground near Fireteam Valor. The earth shook under the impact, dust and debris flying. The team moved forward, exploiting the disarray to continue their assault.
-The aliens, surprisingly resilient despite the intense attack, fought back fiercely. Amid the gunfire, Rourke noted, "Tougher than they look. Let’s tear them up!"
-Despite the ferocity of Fireteam Valor's ambush and the barrage unleashed by the Razor Wing's strafe run, the alien forces, now reduced to three, fought back with unexpected tenacity. The air was filled with the guttural shouts of orders in their alien tongue, a harsh, commanding sound that echoed across the barren landscape.
-Fireteam Valor got a closer look at their adversaries. The aliens were armored in bulky, but agile dark suits with ominous red hues, signifying a level of technological advancement that was both impressive and daunting. The team watched in frustration as their rounds seemed to merely ricochet off the alien armor. It was clear now why only two of their number had fallen; these enemies were protected by armor far more advanced than anticipated.
-The aliens, undeterred by their losses, unleashed a barrage of energy projectiles and explosive ordnance. Fireteam Valor, caught off-guard by the intensity and effectiveness of the alien counterattack, found themselves outgunned by the remaining trio.
-"Sir, we need to fall back!" shouted Rourke, as another explosion rocked the ground near their position.
-Argus, quickly assessing the situation, realized the need for a tactical retreat. "Tactical withdrawal, now!" he ordered, his voice cutting through the noise of the battlefield.
-The team retreated, moving with disciplined precision despite the intense alien fire. They found cover behind a series of large rocks, providing a momentary respite and a chance to regroup.
-Once in cover, Argus radioed the Razor Wing pilot. "Razor Wing One, we need another strafe run. Adjust fifty meters north. We've got three hostiles with advanced armor pushing our position."
-"Copy, adjusting fire by 50 meters north," came the response from the pilot. "Hold tight, Valor Six. Razor Wing One incoming."
-The team braced themselves, knowing that the strafe run would have to be precise to avoid friendly fire while effectively targeting the resilient alien forces.
-As the Razor Wing roared overhead, unleashing another barrage of missiles, Fireteam Valor used the opportunity to reassess their strategy. The aliens' advanced armor meant that conventional tactics were less effective. They would need to adapt quickly to overcome these formidable foes.
-With the dust settling from the Razor Wing's strafe run, Argus looked to his team, "We need to outmaneuver them. Use the terrain to our advantage and aim for any weak points in their armor. Stay sharp and stay alive."
-Fireteam Valor, now more aware of the challenge they faced, readied themselves to re-engage. 
-As the battle intensified, the aliens, seemingly unfazed by the recent strafe run, continued their slow and methodical advance towards Fireteam Valor's position. Through the dust and debris, Argus and his team could only make out two of the alien combatants, leaving them uncertain about the fate of the third.
-Recognizing the need for a tactical advantage, Argus turned to the rookie, Royce. Known for his exceptional skill with grenades, Royce was the best in their unit for precision throws between thirty and eighty meters. "Royce, lob a timed grenade, aim for the pair advancing on us," Argus commanded, his voice steady despite the chaos.
-Royce, acknowledging the order, prepared his grenade with practiced ease. Just as he was about to launch it, the third alien materialized out of thin air. Its advanced invisibility suit had kept it hidden, revealing a level of technology that caught Fireteam Valor off guard.
-In a swift, unexpected motion, the alien seized Royce with one arm, hurling him and his armed grenade about ten meters away. The rookie, thrown off balance but still alert, managed to grasp the grenade just in time. With only seconds to spare before detonation, he hurled it away from himself. The grenade exploded harmlessly in the distance, outside of its lethal range.
-This was the breaking point for Wraith. He had been observing the battle, analyzing each move and countermove. Now, witnessing the rookie's narrow escape from death and the team's predicament, he decided to take decisive action.
-Wraith, utilizing his GRID training and advanced technology, moved swiftly, his suit enhancing his speed and reaction time. He closed the distance between himself and the aliens, his movements a blur.
-As he engaged, he activated a high-frequency blade concealed within his armor, a weapon forged from materials unknown to standard military arsenals. The blade hummed with energy, its edge glowing with a menacing light.
-The two advancing aliens, taken by surprise by Wraith's sudden assault, tried to regroup. Wraith, however, was relentless. He moved with a precision and ferocity that was a testament to his GRID training, striking at the weak points in the aliens' armor that he had identified during the fight.
-Fireteam Valor, seizing the opportunity provided by Wraith's intervention, regrouped and provided covering fire, focusing their efforts on the remaining alien. Royce, recovering from his ordeal, rejoined the fight.
-The battlefield was a whirlwind of activity as Wraith and Fireteam Valor pressed their attack, their combined efforts pushing the alien forces back. The tide of the battle was turning, and Fireteam Valor was ready to claim victory, their resolve unshaken in the face of this formidable alien threat.
-Wraith, in the heat of the battle, displayed a level of combat proficiency that was almost otherworldly. With a fluidity that spoke of rigorous training and innate skill, he engaged the two remaining aliens, his movements a mesmerizing blend of precision and lethality.
-As he closed in, Wraith drew the high-frequency blade from his armor, its edge humming with potent energy. With a swift, practiced motion, he lunged at the nearest alien, aiming for a vulnerable point in its armor. The alien, reacting with surprising speed, managed to deflect Wraith's initial strike, blocking his hand to prevent the stab.
-Simultaneously, Wraith pulled out his custom-designed pistol, Sting, and fired at the second alien. The shot found a weak spot in the left shoulder plate of the alien’s armor, piercing it with precision and exploding soon after. The explosion severed the alien’s arm from the shoulder, a blue spray of blood spewing out aggressively. A fierce yell of pain erupted from the alien, the sound guttural and filled with agony. However, even wounded, the alien did not falter.
-In a swift counterattack, the injured alien delivered a powerful kick to Wraith, knocking him to the ground. Seizing the moment, the alien drew an energy sword, its blade glowing ominously red. With a ferocious roar, it leaped towards Wraith, attempting to drive the sword into him while he was down.
-Wraith, his reflexes razor-sharp, rolled away just in time, dodging the deadly strike. The energy sword plunged into the ground where he had lain a moment before. In one fluid motion, Wraith grabbed the alien's sword arm, pinning it to the ground. He then placed the muzzle of Sting against the alien's chin and pulled the trigger.
-The shot was devastating. The alien's helmet visor, once a fearsome display of red hues, was now a chaotic mix of blue hues, discolored by the alien's blood. The top of the helmet was blown open, leaving a gaping exit wound.
-Covered in alien blood, Wraith quickly regained his footing, his focus unyielding. He turned his attention to the remaining alien, who was already in motion, poised to strike. Wraith's eyes narrowed, and he readied himself, prepared to face this last adversary with the same lethal efficiency. 
-The last alien, poised to strike at Wraith, was blindsided as Rourke launched himself into a tackle, bringing the creature to the ground. The battle that ensued was not just a clash of physical strength but also a confrontation of mental prowess – two Mindreavers against an alien adversary who was quickly revealed to be more formidable than his fallen comrades.
-The alien, larger and evidently more battle-hardened, quickly recovered from Rourke's initial assault. It laughed derisively at the humans, its voice a chilling blend of mockery and threat. "Kit’nok lothgatok," it taunted in its own language. 
-Then it spoke a guttural but unmistakably English dialect, "You will be eradicated."
-This alien was different – Rourke and Wraith sensed it almost immediately. Like them, it was a Mindreaver, its mental abilities evident in the way it anticipated and countered their attacks.
-Wraith, moving with calculated precision, engaged the alien with his blade, aiming for its vital points. But the alien, with its own Mindreaving abilities, seemed to predict his strikes, deflecting them with ease. Its own attacks were brutal and swift, forcing Wraith to rely more on his agility than brute strength.
-Rourke, despite his injuries from the initial tackle, fought with relentless determination. He attempted to use his Mindreaving abilities to disrupt the alien's focus, but it was like striking against a mental fortress. The alien's laugh echoed in their minds, a taunting reminder of its superior strength.
-The battle was a maelstrom of violence and psychic energy. The alien lashed out with a series of devastating blows, one of which caught Rourke off-guard, sending him crashing to the ground, knocking his helmet clean off. Bloodied but undeterred, Rourke pushed through the pain, his resolve unbroken.
-Wraith, seizing the momentary distraction, intensified his assault. He feinted with his blade, drawing the alien's attention, then switched tactics, delivering a powerful kick enhanced by his boot thrusters that staggered the creature. But even this was not enough to bring it down. The alien, though momentarily unbalanced, quickly regained its composure and retaliated with a crushing blow that narrowly missed Wraith.
-The alien, now engaging both Mindreavers, seemed to thrive in the combat, its movements becoming more fluid and confident. It sneered at them, "Is this all you have, humans?"
-But Wraith and Rourke were far from defeated. They exchanged a quick, knowing glance – a silent agreement to combine their strengths. Rourke, focusing his Mindreaving abilities, created a mental diversion, a feint that momentarily distracted the alien. Wraith, capitalizing on the split-second opening, moved in with lightning speed, his blade finding a weak spot in the alien's chestplate.
-The blade penetrated deep, and the alien's confident demeanor shattered. A look of surprise and fear crossed its face as it realized the tide had turned. Wraith, with a final, decisive thrust, hit the hilt of his blade with the palm of his hand, ensuring the blade penetrated to where he thought its heart was.
-The alien collapsed to the ground, its laughter silenced, its formidable presence extinguished. Rourke, though wounded, managed to pull himself up, his eyes meeting Wraith's in a nod of mutual respect and relief.
-Fireteam Valor had triumphed in a battle that tested their limits, both physically and mentally. The alien's defeat was not just a victory in combat but also a testament to the human spirit's resilience and determination. As Wraith and Rourke regrouped with their team, they knew that this encounter would be remembered as a defining moment in their fight to protect Trident and humanity.
-As the dust settled from the intense battle with the formidable Mindreaving alien, Fireteam Valor’s attention quickly shifted back to the remaining adversary, who had previously caught them off guard with his invisibility suit. Unlike the others, this alien, though equipped with resilient armor, did not possess the same strength or tactical acumen. He seemed more desperate in his movements, swinging wildly at the members of Fireteam Valor.
-The alien, having expended the ammunition for his energy weapon, was now reliant on a sharply-edged energy blade, glowing ominously with a red hue. The team, though exhausted from the previous skirmish, was determined to subdue this last foe.
-In the midst of this confrontation, Wraith received a transmission from GRID. "We're watching. Capture that thing. Don't kill it." The message was clear and authoritative, indicating the high value of the alien for intelligence purposes.
-“Understood,” Wraith replied with newfound determination.
-The battle with the alien was frenetic. It lunged at the members of Fireteam Valor, its blade swiping dangerously close. The rookie, Royce, found himself in a perilous situation as the alien cornered him. In a moment of sheer survival instinct, Royce managed to pull out his father's knife, a family heirloom, and in a swift motion, plunged it into the alien's knee. The creature howled in pain; its movement momentarily hindered.
-Seizing the opportunity, Wraith and Rourke sprang into action. With expert coordination, they closed in on the alien, each delivering a series of precise, disabling blows using their armor’s enhanced battle gloves. The alien, already weakened from the knife wound, was quickly overpowered.
-Wraith and Rourke, using GRID-issued zip ties, secured the alien's hands. These were no ordinary restraints; made of a titanium-like flexible substance, they were designed to hold even the most formidable adversaries.
-The alien, now subdued and immobilized, was a significant capture for Fireteam Valor. Despite the challenges and dangers, their mission was a success. They had not only defended Trident from a serious threat but had also managed to capture a live alien, which would provide valuable intelligence for GRID and the Galactic Forge Coalition.
-As they regrouped, the team took a moment to catch their breath, their minds already processing the implications of their encounter. They had faced an enemy unlike any other, and their victory was a testament to their skill, resilience, and unwavering commitment to their cause.
-Lieutenant Argus gave Wraith a firm nod. "Wraith, radio into GRID. Let's see what they want us to do with our new friend."
-Wraith, maintaining his composed demeanor, opened a secure channel to GRID. As he communicated the situation, Argus pulled out a small device from his utility belt. It was the latest in GFC tech, a compact gadget known as a Nullifier Node. This device was designed to emit a field that disrupted any advanced tech armor's operational systems, essentially immobilizing it. When Argus activated the Node, a faint hum resonated, and they noticed the alien's movements became sluggish; its armor was successfully immobilized.
-The response from GRID was swift and decisive. "Fireteam Valor, prepare for immediate extraction. Razor Wing One is en route to your position. Bring the alien back for interrogation."
-With the alien now under control, the team anxiously awaited the Razor Wing's arrival. 
-As Wraith processed the latest developments, he realized the strategic importance of ensuring that GRID was aware of the hidden alien vessel's location. Activating his secure communications link, he reopened contact with GRID Command.
-"GRID Command, this is Operative Wraith. Fireteam Valor has confirmed the presence of an alien vessel near the Charr Communications Platform. Coordinates are being transmitted. The ship is camouflaged. We need a mop-up team to secure the site. Priorities: retrieve the alien vessel, transport it to HQ on Veridian Prime, retrieve the dead aliens with their armor, and gather as much intel as possible."
-The response from GRID Command was prompt and authoritative. "Acknowledged, Wraith. Coordinates received. Dispatching a recovery team immediately. Ensure the site is secure until their arrival. Extraction of the vessel and intelligence gathering are paramount. Keep us updated on any developments."
-With the call concluded, Wraith turned to Lieutenant Argus, relaying the information with his typical composure. "Lieutenant, GRID is informed. A recovery team is en route to secure the alien vessel. They'll handle the site cleanup, transport the vessel to Veridian Prime, and conduct thorough intelligence analysis. Our current objective is to maintain the security of this area until their arrival."
-Lieutenant Argus, realizing the urgency of the situation, turned to Wraith with a focused query. "Wraith, will transferring full command configuration control of the Guardian Drones to GRID be sufficient for securing this area? We can't afford to linger; we need to head to Gladius, now."
-Wraith, understanding the gravity of Argus's concern, responded confidently. "Yes, Lieutenant, it will be more than sufficient. The Guardian Drones are highly capable and, with GRID's control, will provide the necessary security. We can proceed to Gladius without delay."
-He then opened his communication link to GRID Command. "GRID Command, this is Wraith. I'm sending you the codes for full operational control of Fireteam Valor’s Guardian Drones. They are equipped with tactical nukes, subsonic cranium missiles, and substantial fifty caliber rounds. Handle with care; they're crucial assets."
-Harlan, upon hearing the decision, reluctantly handed over the controls of his drone. With a mix of disappointment and concern, he remarked, "I didn't even get to have fun with them yet. There better not be a scratch on my babies when I get them back!"
-GRID Command acknowledged the transfer. "Codes received, Wraith. We’ll ensure the drones are used effectively. Proceed to your next objective."
-The Guardian Drones, now under GRID's command, were small yet formidable, packed with an intense arsenal for critical situations. As Harlan and Tessa watched their drones being commandeered remotely, the team prepared to move out, trusting in the advanced technology and GRID's expertise to maintain the security of the site.
-Lieutenant Argus surveyed the aftermath of the ambush. His gaze lingered on each member of Fireteam Valor, ensuring their safety. "Everyone alright?" he asked, his voice carrying the weight of responsibility.
-One by one, the team members nodded, affirming their status. With the alien securely captured and now fortified, Argus knew their next move was critical. "Team, it's time to refit Gladius. We've got what we need; let's move out."
-The dropship descended with its usual swiftness, a sleek silhouette against the sky. The team, along with their captive, boarded the ship, which promptly lifted off, cutting through the atmosphere en route to Gladius.
-In the confined space of the Razor Wing, Specialist Harlan eyed the alien captive. In a mischievous tone, he offered a tin of chewing tobacco to the alien, "Hey you, how 'bout a taste of victory?" The alien remained motionless, unfazed by Harlan's antics.
-Unperturbed, Harlan leaned back with a smirk. "What's the matter, not a fan of the good shit? Longcut ain't good for you anyway." He went to pocket the tin — then caught Argus's flat look, the one that said the prisoner reached GRIDCOM in one piece, and let whatever came next go.
-The alien, unfazed, stared Harlan down. Even under the alien’s helmet, Harlan could feel its gaze.
-"Lay off, Harlan," Argus warned, his tone stern yet controlled.
-Harlan raised his hands in mock surrender, grinning. "What? I'm just playing around with the thing, ain't that right?" He glanced at the alien, expecting no response, reveling in his own bravado.
-The Razor Wing cut through the skies towards Gladius, the tension inside a stark contrast to the swift, smooth flight. The team was alert, each member processing the events in their own way, while Harlan's antics provided a brief, albeit contentious, distraction.
-As the Razor Wing started to descend, the atmosphere inside was still a cocktail of tension and anticipation. Fireteam Valor felt a mix of unease and resolve. They were returning not just with crucial intel but with a captive that could potentially unravel the mysteries of their formidable adversary.
-Seated across from the alien, Specialist Harlan's earlier bravado had given way to contemplative silence. Lieutenant Argus, ever the stoic leader, kept a vigilant eye on his team, his thoughts on the interrogation ahead. Wraith sat with an unreadable expression, perhaps pondering the potential insights the alien could provide.
-As the dropship touched down, the bay doors opened to reveal the grim facade of Gladius’ interrogation wing. Waiting for them was a figure known only as The Surgeon. The name had nothing to do with blood. He had earned it across a career of missions completed so precisely, so completely, that no one ever knew he had been there at all — and GRID had long since learned to point that surgical attention at the one task where it mattered most: taking apart a mind that did not want to be taken apart.
-The Surgeon stood motionless, his gaze already fixed on the alien rather than the team — moving over the captive the way another man might read a page, taking quiet inventory of something he intended to understand completely. His presence was not loud. It was simply total.
-He did not greet them with bravado. When he finally spoke, his voice was even and unhurried. "You brought it in alive. Good." His eyes never left the alien. "That is the only part I needed you for."
-“Let’s just get on with it. We need to get debriefed,” Lieutenant Argus said, his unease sharpening into impatience.
-The Surgeon inclined his head a fraction. “Then we want the same thing, Lieutenant.” He was already turning toward the captive.
-He studied the alien for a long moment before he spoke to it — not a taunt, not a threat, just a flat statement of fact. “You are going to tell me everything. You don't know that yet. You will.” There was no relish in it. He might have been reading a chart.
-It was the calm that unsettled the room more than any threat could have. The Surgeon's reputation was not built on cruelty; it was built on completeness. He had never failed to bring back what GRID sent him for, and he had never once left a trace of how he had done it.
-The escort to the interrogation room was a silent procession through stark, half-lit corridors. The alien, still immobilized by the Nullifier Node, was wheeled in on a reinforced anti-grav stretcher. The team members, despite their hardened exteriors, could feel the gravity of the situation; each step towards the interrogation chamber was a step deeper into the unknown.
-As Fireteam Valor escorted the alien towards the interrogation room, Lieutenant Argus and Wraith found themselves walking slightly apart from the others, giving them a moment for a private conversation.
-Argus cast a sideways glance towards The Surgeon and the captive alien, his expression one of mixed concern and skepticism. "Wraith, are we sure about The Surgeon? Can he be trusted with this?" There was a hint of unease in his voice, reflecting the complex feelings many had about The Surgeon's methods.
-Wraith, maintaining his usual composed demeanor, responded in a low, serious tone. "If I were you, Argus, I wouldn’t ask too many questions about The Surgeon. Don't get in his way, and don't question his methods. He's the most thorough man GRID ever made — he has never failed an interrogation, and before that, he never failed a mission as an operative. Whatever he does in there, he does completely. That's the whole point of him."
-His words carried the weight of both warning and promise. Lieutenant Argus took these words with a grain of salt. He remembered that he was a soldier of the GFC. More than that, he was a Praetorian STRIKE Team Leader. It wasn’t his place to question orders or methods; it was his place to complete the mission.
-Inside, the chamber was clinical and devoid of warmth — bare walls, a bank of monitors, and in the center a single chair that was more restraint than seat, built to hold even the most powerful of beings. There were no instruments of pain on display. There was only the chair, the screens, and the quiet.
-The Surgeon approached the alien, his movements precise and unhurried. He needed no tools. Everything he required, he carried behind his eyes.
-As the team secured the alien into the chair, the Surgeon glanced at them once and, with a small gesture, signaled for them to step back. Then he turned the full weight of his attention onto the captive — and that attention was the whole of it.
-Lieutenant Argus and his team took their positions behind a one-way observation window. They watched as The Surgeon laid a single bare hand against the side of the alien's skull and went still. To the watchers, almost nothing happened. Whatever was happening was happening somewhere they could not see.
-The team observed in silence, the weight of their mission pressing down on them. This interrogation was not just about extracting information; it was about gaining an edge in a conflict that was rapidly escalating beyond their understanding.
-Captain Orion’s voice came over the secure comms channel, “Valor Six, bring you and your team to the War Room for debrief, immediately!”
-“Sir, on our way.” Lieutenant Argus replied.
-As Fireteam Valor made their way out of the interrogation wing, the alien's cries followed them down the corridor — not the screams of a body in pain, but the sounds of something being made to relive things it would rather have left buried. Each member of the team carried the weight of those cries differently, some with a hardened resolve, others with a hint of unease.
-Captain Orion's summons to the war room offered a temporary reprieve from the intensity of the interrogation chamber. As the team walked, the alien's cries slowly faded into the distance, but the imprint of those sounds lingered in their minds.
 
+Fireteam Valor came onto the Charr Communications Platform the way you approach a body you aren't sure is dead.
+
+Nothing moved. The great dish arrays that should have been combing the sky hung dead and crooked on their mounts, and the structure beneath them had been opened from the inside — access panels peeled back, conduit torn out in fistfuls, the delicate heart of the planet's last long-range relay methodically gutted. It wasn't battle damage. Battle damage was indiscriminate. This was deliberate: every cut placed exactly where it would do the most harm, and nowhere it wouldn't.
+
+They found the platform's defenders in the first corridor. An OGDF squad, or what had been one — cut down where they stood, armor scored clean through by something that hadn't slowed on the way past. Not one of them had fallen facing the same direction. Whatever did this had been in among them before they knew it was there.
+
+"Spread out. Quiet," Argus breathed. "Find me anything that tells us what we're up against."
+
+They moved through the wreck in pairs, lights off, running on their helmets' night vision. The deeper in they went, the worse the silence got — not the silence of an empty place, but the held-breath quiet of somewhere that has decided not to make a sound.
+
+Royce saw it first, only because he was green enough to still be looking at everything.
+
+"Sir—" His voice caught. He'd frozen with his rifle half up, staring at a patch of ordinary air near the ruined comms core. "The air's — it's wrong. Right there."
+
+For a heartbeat Argus saw nothing. Then it moved, and he saw all of it at once: a ripple, a smear where the world bent around a body that wasn't there, the faint shimmer of something standing close enough to touch, wearing the dark like a second skin.
+
+Then the dark turned and looked back at them.
+
+What happened next was faster than Argus could call.
+
+The shimmer tore open into motion — not one of them but several, peeling out of the empty air across the chamber where there had been nothing at all. They didn't roar. They didn't charge. They simply opened fire, and the gap between them and anything Valor had ever fought was instant and sickening. The first burst caught Harlan dead center and dropped him on his back — armor that turned heavy rounds shrugged the hits off like slaps, and still the impact put him down. Tessa fired and watched her rounds spark off a moving shoulder and skip away into the dark. Vega had Harlan by the drag handle before he'd stopped sliding.
+
+Every shot the enemy took landed. Every shot Valor sent back glanced off armor a full generation ahead of their own.
+
+"Cover — get to cover!" Argus had his team behind the gutted core in seconds, and it was the only thing that kept them alive.
+
+But the enemy wasn't pressing. That was the part that climbed Argus's spine even as he returned fire: they could have finished it. They had every advantage and they knew it, and instead they were leaving — falling back toward the open landing bay in short, disciplined bounds, covering one another with that same machine precision, spending no more on Valor than it took to keep their heads down. Killing the humans had never been the job. Leaving was.
+
+Out on the tarmac, a patch of nothing shed its camouflage and became a ship: small, dark, drinking the light. Its bay yawned open.
+
+The aliens broke for it in twos, and Fireteam Valor could do nothing but stay down and watch them go. The last shape flowed up the ramp; the bay sealed without a seam. The ship lifted without a sound — and then, low enough to the ground that every rule the GFC lived by said it should have torn the sky apart, it simply folded into faster-than-light and was gone. No shockwave. No ripple. As casual as a man stepping through a door.
+
+Argus stared at the empty air where it had been. "This close to the surface. A ship that size." He didn't finish. They all understood. Whatever was coming, it wasn't anything they were built to fight.
+
+Wraith was already on a secure channel, his voice flat and fast. "GRID, Commander Drexel — confirmed hostile contact at Charr. The platform's gone; they finished it before we got here. And it's worse than the platform." He paused, and Argus watched something shift behind his eyes — the foresight, reaching past the horizon. "I'm reading a fleet. Fragmented, distant, but massing. This was never a raid. It's the door being kicked in ahead of a full-scale invasion. Recommend recalling STARCOM Fleet to a defensive posture and bringing every orbital and planetary gun online that still answers."
+
+Drexel's reply came back clipped. "Understood. Issuing orders now. All units — this is not a drill."
+
+Orion's voice cut onto Argus's channel. "Valor Six. You confirm it?"
+
+"Confirmed, sir. Platform's dead, and we took contact." Argus watched Harlan haul himself back upright, furious and unhurt. "They're more than we are. I'm not going to pretty it up."
+
+A pause. "Then you remember the order. You all in one piece down there?"
+
+Argus looked at the dead OGDF in the corridor. "Define it, sir."
+
+"Learn what you can. Come home. Gladius out."
+
+It was Kaine who realized they weren't alone.
+
+He'd drifted back toward the comms core — the one bank of equipment the demolition had worked over most carefully, the heart of the whole platform — and there, still bent over it with a cutting tool buried wrist-deep in its guts, was a single alien. It hadn't run with the others. It hadn't so much as looked up. It was finishing the job.
+
+"Contact!" Kaine barked. "One left — at the core!"
+
+For half a second Argus couldn't understand why one of them would stay. Then it straightened, turned toward them, and he stopped wondering why and started fighting to stay alive.
+
+Alone, abandoned by its own, it should have been the easiest of them to take. It was the hardest thing Fireteam Valor had ever faced.
+
+It moved like it already knew where they would be — because it did. Rourke felt the cold press of it against the edge of his own mind and spat the word like a curse. "Mindreaver!" Every shot the team lined up, the thing had already slid out of; every angle they tried to close had been vacated a half-second before they reached it. It put Kaine through an equipment rack. It took Rourke off his feet with a backhand that split his helmet. It opened a long, smoking seam across Argus's pauldron with a blade that hummed red — and it did all of it without a ranged weapon, because it had burned through its ammunition on the demolition and never thought to save any.
+
+As though it had never expected to need it. As though it had never expected to leave.
+
+"GRID wants it breathing!" Wraith was already moving, and it took Wraith — GRID-built, his reflexes bought at a price no Praetorian could name — to even meet the thing blow for blow. Even then he was losing. It read him the way it read the others; for every strike he landed it landed two, and they carved across the ruined chamber in a blur of reactor-light and red while the team scrambled for a clean shot that never came.
+
+In the end it wasn't skill that brought it down. It was arithmetic.
+
+It could see their moves, but it couldn't be everywhere at once, and there were eight of them and one of it and no ship coming back. Royce — cornered, out of better options — tore his father's knife from his belt, the old academy heirloom he'd carried since the day he shipped out, and drove it into the gap behind the alien's knee. The creature buckled. Just slightly. Just once. It was enough. Wraith took it center-mass and rode it down; Rourke threw his weight across the sword arm; and Argus slapped the Nullifier Node against the back of its armor and triggered the field.
+
+The change was instant. The Node flooded its systems with disruption, and the armor that had made it a god among them locked up and went dead weight. The alien heaved once more against all of them, and then the fight simply went out of it — not surrender, exactly. More like a soldier grounding his rifle when the order he has been waiting for finally comes.
+
+They bound its hands with GRID-issue restraints built to hold things stronger than men. For a long moment nobody spoke — seven Praetorians and a GRID operative, bleeding and blown, standing over a single enemy they had only barely managed to take alive, every one of them running the same numbers. If one of them, alone and out of ammunition and left for dead by his own people, could do this —
+
+Nobody said the rest of it out loud.
+
+Wraith crouched in front of the captive and studied it. "It stayed to finish the core," he said quietly. "The others ran the moment we made them. This one stayed — and they left it. Didn't even slow down." He tilted his head, as if listening to something none of the rest of them could hear. "It isn't afraid. That's the part I don't like. This is where it expected to end up."
+
+His receiver clicked. The voice that answered was one he knew, and it didn't waste words. "We saw the whole thing. You did the hard part — now bring it in, intact. We have someone who'll get everything it knows out of it. Everything."
+
+Argus called Gladius for extraction and a GRID recovery team — not for a ship, there was nothing left to recover but a gutted relay and a corridor of dead men, but for whatever the enemy's tools and the ruined core might still give up. Harlan, sour about it, surrendered remote control of the team's Guardian Drones to GRID to hold the site. He'd wanted to use them, and said so, and nobody had the breath left to laugh.
+
+Then the Razor Wing dropped out of the dark, and they loaded their prisoner aboard, and Charr fell away beneath them.
+
+In the confined space of the Razor Wing, Specialist Harlan eyed the alien captive. In a mischievous tone, he offered a tin of chewing tobacco to the alien, "Hey you, how 'bout a taste of victory?" The alien remained motionless, unfazed by Harlan's antics.
+
+Unperturbed, Harlan leaned back with a smirk. "What's the matter, not a fan of the good shit? Longcut ain't good for you anyway." He went to pocket the tin — then caught Argus's flat look, the one that said the prisoner reached GRIDCOM in one piece, and let whatever came next go.
+
+The alien, unfazed, stared Harlan down. Even under the alien's helmet, Harlan could feel its gaze.
+
+"Lay off, Harlan," Argus warned, his tone stern yet controlled.
+
+Harlan raised his hands in mock surrender, grinning. "What? I'm just playing around with the thing, ain't that right?" He glanced at the alien, expecting no response, reveling in his own bravado.
+
+The Razor Wing cut toward Gladius, the cramped tension inside it at odds with the smooth flight. Nobody talked much. They had walked onto Charr expecting to be the dangerous ones in the room, and they were flying off it having learned exactly where they stood — a rung below the thing zip-tied in the corner, and that was the one they'd managed to beat.
+
+They weren't carrying home a victory. They were carrying home a prisoner, and the thin hope that he knew something worth the cost of taking him.
+
+Seated across from the alien, Harlan's earlier bravado had drained into a contemplative quiet. Argus kept a steady eye on his team, his mind already on the room they were flying toward. Wraith sat unreadable, turning over whatever he had felt in the captive's silence.
+
+As the dropship touched down, the bay doors opened to reveal the grim facade of Gladius' interrogation wing. Waiting for them was a figure known only as The Surgeon. The name had nothing to do with blood. He had earned it across a career of missions completed so precisely, so completely, that no one ever knew he had been there at all — and GRID had long since learned to point that surgical attention at the one task where it mattered most: taking apart a mind that did not want to be taken apart.
+
+The Surgeon stood motionless, his gaze already fixed on the alien rather than the team — moving over the captive the way another man might read a page, taking quiet inventory of something he intended to understand completely. His presence was not loud. It was simply total.
+
+He did not greet them with bravado. When he finally spoke, his voice was even and unhurried. "You brought it in alive. Good." His eyes never left the alien. "That is the only part I needed you for."
+
+"Let's just get on with it. We need to get debriefed," Lieutenant Argus said, his unease sharpening into impatience.
+
+The Surgeon inclined his head a fraction. "Then we want the same thing, Lieutenant." He was already turning toward the captive.
+
+He studied the alien for a long moment before he spoke to it — not a taunt, not a threat, just a flat statement of fact. "You are going to tell me everything. You don't know that yet. You will." There was no relish in it. He might have been reading a chart.
+
+It was the calm that unsettled the room more than any threat could have. The Surgeon's reputation was not built on cruelty; it was built on completeness. He had never failed to bring back what GRID sent him for, and he had never once left a trace of how he had done it.
+
+The escort to the interrogation room was a silent procession through stark, half-lit corridors. The alien, still immobilized by the Nullifier Node, was wheeled in on a reinforced anti-grav stretcher. The team members, despite their hardened exteriors, could feel the gravity of the situation; each step towards the interrogation chamber was a step deeper into the unknown.
+
+As Fireteam Valor escorted the alien towards the interrogation room, Lieutenant Argus and Wraith found themselves walking slightly apart from the others, giving them a moment for a private conversation.
+
+Argus cast a sideways glance towards The Surgeon and the captive alien, his expression one of mixed concern and skepticism. "Wraith, are we sure about The Surgeon? Can he be trusted with this?" There was a hint of unease in his voice, reflecting the complex feelings many had about The Surgeon's methods.
+
+Wraith, maintaining his usual composed demeanor, responded in a low, serious tone. "If I were you, Argus, I wouldn't ask too many questions about The Surgeon. Don't get in his way, and don't question his methods. He's the most thorough man GRID ever made — he has never failed an interrogation, and before that, he never failed a mission as an operative. Whatever he does in there, he does completely. That's the whole point of him."
+
+His words carried the weight of both warning and promise. Lieutenant Argus took these words with a grain of salt. He remembered that he was a soldier of the GFC. More than that, he was a Praetorian STRIKE Team Leader. It wasn't his place to question orders or methods; it was his place to complete the mission.
+
+Inside, the chamber was clinical and devoid of warmth — bare walls, a bank of monitors, and in the center a single chair that was more restraint than seat, built to hold even the most powerful of beings. There were no instruments of pain on display. There was only the chair, the screens, and the quiet.
+
+The Surgeon approached the alien, his movements precise and unhurried. He needed no tools. Everything he required, he carried behind his eyes.
+
+As the team secured the alien into the chair, the Surgeon glanced at them once and, with a small gesture, signaled for them to step back. Then he turned the full weight of his attention onto the captive — and that attention was the whole of it.
+
+Lieutenant Argus and his team took their positions behind a one-way observation window. They watched as The Surgeon laid a single bare hand against the side of the alien's skull and went still. To the watchers, almost nothing happened. Whatever was happening was happening somewhere they could not see.
+
+The team observed in silence, the weight of their mission pressing down on them. This interrogation was not just about extracting information; it was about gaining an edge in a conflict that was rapidly escalating beyond their understanding.
+
+Captain Orion's voice came over the secure comms channel, "Valor Six, bring you and your team to the War Room for debrief, immediately!"
+
+"Sir, on our way." Lieutenant Argus replied.
+
+As Fireteam Valor made their way out of the interrogation wing, the alien's cries followed them down the corridor — not the screams of a body in pain, but the sounds of something being made to relive things it would rather have left buried. Each member of the team carried the weight of those cries differently, some with a hardened resolve, others with a hint of unease.
+
+Captain Orion's summons to the war room offered a temporary reprieve from the intensity of the interrogation chamber. As the team walked, the alien's cries slowly faded into the distance, but the imprint of those sounds lingered in their minds.
