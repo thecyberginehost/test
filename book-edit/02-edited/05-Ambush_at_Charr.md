@@ -102,7 +102,7 @@ Lieutenant Argus surveyed the aftermath of the ambush. His gaze lingered on each
 One by one, the team members nodded, affirming their status. With the alien securely captured and now fortified, Argus knew their next move was critical. "Team, it's time to refit Gladius. We've got what we need; let's move out."
 The dropship descended with its usual swiftness, a sleek silhouette against the sky. The team, along with their captive, boarded the ship, which promptly lifted off, cutting through the atmosphere en route to Gladius.
 In the confined space of the Razor Wing, Specialist Harlan eyed the alien captive. In a mischievous tone, he offered a tin of chewing tobacco to the alien, "Hey you, how 'bout a taste of victory?" The alien remained motionless, unfazed by Harlan's antics.
-Unperturbed, Harlan leaned closer, a smirk on his face. "What's the matter, not a fan of the good shit?" Without warning, he threw a light punch at the alien, drawing a sharp glance from Argus, “Oh man, that one slipped. I meant to give you a pinch. Longcut ain’t good for you anyway.”
+Unperturbed, Harlan leaned back with a smirk. "What's the matter, not a fan of the good shit? Longcut ain't good for you anyway." He went to pocket the tin — then caught Argus's flat look, the one that said the prisoner reached GRIDCOM in one piece, and let whatever came next go.
 The alien, unfazed, stared Harlan down. Even under the alien’s helmet, Harlan could feel its gaze.
 "Lay off, Harlan," Argus warned, his tone stern yet controlled.
 Harlan raised his hands in mock surrender, grinning. "What? I'm just playing around with the thing, ain't that right?" He glanced at the alien, expecting no response, reveling in his own bravado.
