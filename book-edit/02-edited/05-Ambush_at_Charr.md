@@ -5,13 +5,27 @@ Location: Charr Communications Platform
 
 Fireteam Valor came onto the Charr Communications Platform the way you approach a body you aren't sure is dead.
 
-Nothing moved. From the approach the platform had looked whole, and it was — the great dish arrays still stood on their mounts, dark and motionless, not broken so much as switched off. It was only when Valor came in close that they saw what had really been done to it. The structure had been opened from the inside: access panels peeled back, conduit torn out in fistfuls, the delicate heart of the planet's last long-range relay methodically gutted. It wasn't battle damage. Battle damage was indiscriminate. This was deliberate — every cut placed exactly where it would do the most harm, and nowhere it wouldn't.
+Nothing moved. From the approach the platform had looked whole, and it was — the great dish arrays still stood on their mounts, dark and motionless, not broken so much as switched off. It was only when Valor came in close that they saw what had really been done to it. The station had been opened from the inside: access panels peeled back, conduit torn out in fistfuls, every critical system they passed methodically gutted — the planet's last long-range voice, silenced from within. It wasn't battle damage. Battle damage was indiscriminate. This was deliberate — every cut placed exactly where it would do the most harm, and nowhere it wouldn't.
 
-They found the platform's defenders in the first corridor. An OGDF squad, or what had been one — cut down where they stood, armor scored clean through by something that hadn't slowed on the way past. Not one of them had fallen facing the same direction. Whatever did this had been in among them before they knew it was there.
+There were no defenders to find. Charr had never had a garrison of its own — the soldiers who should have held it had died at Huckleberry without ever laying eyes on the place — and the corridors bore it out: no spent brass, no scorch of returned fire, no one fallen facing the threat. There had been no battle here. There had barely been a sound.
 
-"Spread out. Quiet," Argus breathed. "Find me anything that tells us what we're up against."
+What there was instead was the ordinary life of the station, stopped mid-breath. A log blinking half-finished on an operator's console. A mug of something gone cold beside it. A maintenance panel hanging open with the tool still seated in the housing. Everywhere the small leavings of people who had simply ceased, all at once — and nowhere, corridor after corridor, the people themselves.
 
-They moved through the wreck in pairs, lights off, running on their helmets' night vision. The deeper in they went, the worse the silence got — not the silence of an empty place, but the held-breath quiet of somewhere that has decided not to make a sound.
+"Spread out. Quiet," Argus breathed. "Find me the crew."
+
+They moved through the dark in pairs, lights off, running on their helmets' night vision, and the deeper they went the worse the silence got — not the silence of an empty place, but the held-breath quiet of somewhere that has decided not to make a sound.
+
+They found the crew in the central operations hall, the wrecked relay looming dark at the far end of it, behind a heavy door that had been drawn shut after.
+
+Charr's people — operators, technicians, the unarmed men and women who had kept the planet's last voice talking — had been gathered into that one room and killed there, together, out of sight of any window or corridor. No one had been dragged. No one had run. They had been collected and finished with the same surgical economy that had savaged the relay behind them, and then the enemy had pulled the door closed and gone back to its work as though the room did not exist.
+
+For a moment no one in Fireteam Valor said anything at all.
+
+It was Rourke who put it into words, because someone had to. "They hid them." He turned slowly, taking in the closed door, the untouched corridors at their backs, the station still wearing its skin as if nothing had happened. "Huckleberry was loud. The OGDF made them fight for every meter, and the whole planet heard it die." His jaw tightened. "They didn't want that twice. So here they did it quiet — put everyone in a box where we wouldn't stumble over them, kept the lights looking like nothing was wrong, and broke the place from the inside while it still looked alive."
+
+Wraith stood motionless at the threshold, and when he finally spoke there was something close to understanding in it, and he plainly hated that there was. "They didn't want any of this. Not the killing, not the fighting — not out of mercy, but because it's noise, and noise was never the job." He looked at the dead a moment longer. "They came to break what they came for and leave, and have no one ever know they were here. We weren't meant to find the crew. We weren't meant to find anything at all."
+
+It should have made the enemy smaller — that they killed the way men finish a task, and not the way monsters feed. It did the opposite.
 
 Royce saw it first, only because he was green enough to still be looking at everything.
 
@@ -47,7 +61,7 @@ Orion's voice cut onto Argus's channel. "Valor Six. You confirm it?"
 
 A pause. "Then you remember the order. You all in one piece down there?"
 
-Argus looked at the dead OGDF in the corridor. "Define it, sir."
+Argus looked back toward the operations hall, and the people behind its door. "Define it, sir."
 
 "Learn what you can. Come home. Gladius out."
 
@@ -81,7 +95,7 @@ Wraith crouched in front of the captive and studied it. "It stayed to finish the
 
 His receiver clicked. The voice that answered was one he knew, and it didn't waste words. "We saw the whole thing. You did the hard part — now bring it in, intact. We have someone who'll get everything it knows out of it. Everything."
 
-Argus called Gladius for extraction and a GRID recovery team — not for a ship, there was nothing left to recover but a gutted relay and a corridor of dead men, but for whatever the enemy's tools and the ruined core might still give up. Harlan, sour about it, surrendered remote control of the team's Guardian Drones to GRID to hold the site. He'd wanted to use them, and said so, and nobody had the breath left to laugh.
+Argus called Gladius for extraction and a GRID recovery team — not for a ship, there was nothing left to recover but a gutted relay and a roomful of murdered operators, but for whatever the enemy's tools and the ruined core might still give up. Harlan, sour about it, surrendered remote control of the team's Guardian Drones to GRID to hold the site. He'd wanted to use them, and said so, and nobody had the breath left to laugh.
 
 Then the Razor Wing dropped out of the dark, and they loaded their prisoner aboard, and Charr fell away beneath them.
 
