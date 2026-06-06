@@ -99,10 +99,13 @@
 - **Sounds like:** *"We excel in the divine art of killing—no need to dress it up."*
 - **Guardrail:** his swagger has a floor — the Surgeon reunion shows the man under it. Let warmth flicker, then snap back to command.
 
-### Lt. Charles — Death Platoon (nuke last stand, Ch16)
-- **Personality:** measured tactical pro; less swagger than Strickland; fearless acceptance at the end.
-- **Sounds like:** *"Come on, you ugly sons of bitches! You wanted this!"*
-- **Guardrail:** distinguish from Strickland — Charles is *steady*, not flashy. His heroism is quiet resolve, not showmanship.
+### Lt. Charles — Fireteam **Ironclad** lead (nuke last stand, Ch16)
+*(Correction: NOT Death Platoon — that's Strickland. Charles leads Ironclad.)*
+- **Personality:** measured tactical pro; the **arithmetic-of-sacrifice** man. One of Admiral Greenwich's guard (the "None Better"); helped give the order to nuke the Liberation and carries the names of everyone who didn't reach the pods. Defined by the toll that hard calls take on a decent man.
+- **Voice signature:** steady command, no swagger; flat delivery of heavy things; defiance at the end that's *earned*, not theatrical.
+- **Sounds like:** *"Doesn't make it weigh any less."* / *"Don't waste a single one of them trying to drag a dead man home."* / *(end)* *"Come on, you ugly sons of bitches! You wanted this!"*
+- **Status:** **DEEPENED THIS PASS** — built the man *before* the sacrifice so it lands as a loss, not a stunt. **Ch9** Argus bonds with him over the Liberation's weight (*"You made the right call." "Doesn't make it weigh any less… but thanks for saying it."*); **Ch16** a quiet pre-detonation beat reframes his death as the culmination of his arc — for once the only life on the ledger is his own, and there's mercy in that. His arc: from *spending others* to deny the enemy → *spending himself.*
+- **Guardrail:** distinguish from Strickland — Charles is *steady*, not flashy; his heroism is quiet resolve, not showmanship. Distinguish from Argus — Argus fights for *family*; Charles is haunted by *command math.*
 
 ### Dutch — Death Platoon heavy weapons ("Old Faithful")
 - **Personality:** gruff, combat-eager, weapon-besotted; grief for his father (Capt Harris) fuels a revenge streak.
