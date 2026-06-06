@@ -115,7 +115,7 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 | 2 | Dec 15 | 0845 | War-room briefing; Wraith introduced; Valor & Honor deploy. |
 | 3 | Dec 15 | 1130 | Huckleberry: aftermath, survivor Barnes, "Dra'Kor Vhel'Tan." |
 | 4 | Dec 15 | 1515 | Charr approach; recon; alien cloak device. |
-| 5 | Dec 15 | 1800 | Ambush at Charr; alien captured; meet The Surgeon. |
+| 5 | Dec 15 | 1800 | Silence at Charr; lone stranded saboteur captured; meet The Surgeon. |
 | 6 | Dec 15 | 2330 | Interrogation; invasion intel; "Obsidians"; Combat Alert Red. |
 | 7 | Dec 16 | 0700 | Space battle; *Vindicator* / Harris's last stand; Greenwich arrives. |
 | 8 | Dec 16 | 0725 | *Liberation* boarded; Drexel KIA; station nuked. |

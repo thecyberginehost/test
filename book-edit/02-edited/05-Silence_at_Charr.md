@@ -1,4 +1,4 @@
-Chapter 5 – Ambush at Charr
+Chapter 5 – Silence at Charr
 Date: December 15, 2888
 Time: 1800 Galactic Standard Time (GTC)
 Location: Charr Communications Platform
