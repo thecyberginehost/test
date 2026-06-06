@@ -29,13 +29,13 @@ Highlord Vrakar's eyes, cold and calculating, fixed upon Drakken. "High Commande
 
 Drakken met Vrakar's gaze without flinching. "Highlord, the humans fought with an unexpected ferocity. Their will to fight was formidable, respectable even."
 
-Vrakar's eyes narrowed slightly, his voice maintaining its icy tone. "An acceptable loss, the councilors say. Yet it seems more like a failure to me. A failure that is not yours to bear." Highlord Vrakar paused, studying each one of the Blackguard's faces. "You have all done well, given the situation. I could not have expected anything less from the Blackguard."
+Vrakar's eyes narrowed slightly, his voice maintaining its icy tone. "An acceptable loss, the councillors say. Yet it seems more like a failure to me. A failure that is not yours to bear." Highlord Vrakar paused, studying each one of the Blackguard's faces. "You have all done well, given the situation. I could not have expected anything less from the Blackguard."
 
 At that moment, Councillor Vorthan stepped forward, his expression one of barely concealed anxiety.
 
 "Highlord Vrakar, High Commander Kyr Tharanos has arrived," he announced, his voice breaking the heavy silence.
 
-Highlord Vrakar's annoyance was palpable. His gaze flicked to Drakken, a smirk playing at the corner of his mouth. "These damned councilors never seem to understand proper respect and timing," he murmured. "Let me deal with this, High Commander. Blackguard, stand by. I want you to see this."
+Highlord Vrakar's annoyance was palpable. His gaze flicked to Drakken, a smirk playing at the corner of his mouth. "These damned councillors never seem to understand proper respect and timing," he murmured. "Let me deal with this, High Commander. Blackguard, stand by. I want you to see this."
 
 Vrakar signaled to Vorthan, a curt nod indicating that Kyr Tharanos should be allowed to enter. High Commander Kyr Tharanos was a sight to behold. His battle armor, similar in design to the Blackguard's, was colored a striking white with red hues. The armor gleamed under the subdued lighting, the red accents giving it a fierce and commanding presence. Every inch of Tharanos' form exuded power and discipline, the mark of a seasoned warrior.
 
