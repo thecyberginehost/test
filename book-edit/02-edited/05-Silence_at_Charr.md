@@ -15,17 +15,23 @@ What there was instead was the ordinary life of the station, stopped mid-breath.
 
 They moved through the dark in pairs, lights off, running on their helmets' night vision, and the deeper they went the worse the silence got — not the silence of an empty place, but the held-breath quiet of somewhere that has decided not to make a sound.
 
-They found the crew in the central operations hall, the wrecked relay looming dark at the far end of it, behind a heavy door that had been drawn shut after.
+They found the crew in the central operations hall, and every one of them stopped dead in the doorway.
 
-Charr's people — operators, technicians, the unarmed men and women who had kept the planet's last voice talking — had been gathered into that one room and killed there, together, out of sight of any window or corridor. No one had been dragged. No one had run. They had been collected and finished with the same surgical economy that had savaged the relay behind them, and then the enemy had pulled the door closed and gone back to its work as though the room did not exist.
+Charr's people — the operators and technicians and unarmed clerks who had kept the planet's last voice talking — had been hung from the relay gantries that crossed the ceiling. Inverted, all of them, ankles lashed to the steel, arranged in a single unbroken row down the length of the hall. The spacing was exact. The bindings were identical, knot for knot. Someone had measured this. And beneath each body, drawn on the deck plating in a careful hand, the same mark repeated down the line, over and over, in the blood of the person hanging above it — a signature, patient and unhurried, on a piece of finished work.
 
-For a moment no one in Fireteam Valor said anything at all.
+There had been no battle for these people. There had been nothing for them at all. This had been done slowly, to men and women who could not lift a hand to stop it, by killers who were in no hurry whatsoever — and then it had been dressed, and posed, and signed, and left exactly where the next humans through the door were meant to find it.
 
-It was Rourke who put it into words, because someone had to. "They hid them." He turned slowly, taking in the closed door, the untouched corridors at their backs, the station still wearing its skin as if nothing had happened. "Huckleberry was loud. The OGDF made them fight for every meter, and the whole planet heard it die." His jaw tightened. "They didn't want that twice. So here they did it quiet — put everyone in a box where we wouldn't stumble over them, kept the lights looking like nothing was wrong, and broke the place from the inside while it still looked alive."
+"Why would they—" Royce started, and couldn't finish.
 
-Wraith stood motionless at the threshold, and when he finally spoke there was something close to understanding in it, and he plainly hated that there was. "They didn't want any of this. Not the killing, not the fighting — not out of mercy, but because it's noise, and noise was never the job." He looked at the dead a moment longer. "They came to break what they came for and leave, and have no one ever know they were here. We weren't meant to find the crew. We weren't meant to find anything at all."
+"Because they want us to see it," Argus said. His voice had gone very even, the way it did when something was costing him. "This is for us."
 
-It should have made the enemy smaller — that they killed the way men finish a task, and not the way monsters feed. It did the opposite.
+Wraith stood a pace inside the threshold and let himself feel for what the killers had left in the room — the residue a mind leaves on the work of its hands. He had braced for the hot static of slaughter, the ugly noise of something that had lost control of itself. There was none of it. What filled the hall was calm. Order. A slow, clean satisfaction, the contentment of a craftsman standing back from a thing made well — and running beneath all of it, unmistakable and patient, something his mind could only render as pride. There was no doubt anywhere in it. No flinch. Only the serene certainty that what had been done here was good, and proper, and right.
+
+"They enjoyed this," he said quietly. "Every minute of it. There's no anger in here. No fear, no shame — nothing that knows it did anything wrong." He made himself look away from the bodies. "Whatever they are, they think this is honorable. They took their time because they were proud of it. We're not fighting something that lost its head. We're fighting something that did exactly what it wanted to do, and would call it a good day's work."
+
+Nobody answered him. They didn't need to. Whatever the dark and the silence had been quietly building in them — some unformed pity for a station of people caught defenseless, for an enemy none of them yet understood — burned off in that hall and did not come back. What took its place was simpler, and older, and it set its teeth in every member of Fireteam Valor at the same moment.
+
+They had come onto Charr afraid. They would leave it hating.
 
 Royce saw it first, only because he was green enough to still be looking at everything.
 
