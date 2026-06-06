@@ -60,6 +60,6 @@
 1. **Five races** — name + look of races #4/#5; confirm Kresh=Ch6 and assign the Ch18 "yellow-eyed/fanged" look.
 2. ✅ **Fringe rename DONE** — Obsidian black-ops unit renamed **Fringe Operatives → the Umbral Hand** (clears the GFC Fringe clash; provisional, swappable).
 3. **Kresh Rebellion lead** — Kyr (Titan Vanguard) vs. Drakken (Dra'Kor Vhel'Tan). *Rec: Kyr.*
-4. **Vrakar armor color** — epilogue says purple; portrait shows white/gold.
+4. ✅ **Vrakar armor color DONE** — **white + gold** (ornate gold filigree, beast/wolf motif; his own palette, not Blackguard purple). Epilogue prose corrected.
 5. **Lyrana ↔ Envoys** — does her secret channel use, bypass, or fear the official Envoy corps?
 6. **War-of-Five-Suns credit** — who did what at which sun (Kyr/Lyrana vs. Umbral Hand).

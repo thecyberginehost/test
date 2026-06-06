@@ -71,7 +71,7 @@ The aliens look like different species across chapters:
 
 ### B2c. Obsidian unit names + Vrakar armor color
 - **✅ RESOLVED — `Highborn Guard` is canonical** (author's call; not "Highborn Vanguard"). So there is only **one** "Vanguard" — the **Titan Vanguard** (the armada's central fighting force, Kyr's), which is a **derivative of the Highborn Guard** (Vrakar's ~5-warrior personal guard). Three distinct elite units, **no naming clash**: **Highborn Guard** (Vrakar's personal guard) → **Titan Vanguard** (derived; the armada's main force) and the separate **Blackguard** (Drakken's). Standardized across canon.
-- **Vrakar's armor accent color (minor, OPEN):** epilogue prose says **purple** hues (matching the Blackguard); the portrait shows **gold**. Pick one for his royal armor (recommend his **own** palette — white/gold — distinct from Blackguard charcoal/purple).
+- **✅ RESOLVED — Vrakar's armor is white + gold** (author-confirmed from `assets/vrakar.png`): royal **white armor with ornate gold filigree** and a snarling **beast/wolf motif**, a palette all his own, distinct from the Blackguard's charcoal/purple. Epilogue prose corrected (no longer "purple hues").
 
 ### B2d. Who crushed the Kresh Rebellion? — ⚠️ cross-card conflict (NFT lore)
 - **Vrakar's & Drakken's cards:** the rebellion was quelled by the **Dra'Kor Vhel'Tan** (Vrakar created it for exactly this; Drakken forged/led it).
