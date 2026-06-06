@@ -155,6 +155,8 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 
 > ⚠️ **SERIES CANON (locked 2026-06-06): Every member of Fireteam Valor dies by the end of Book 2 — *except Tessa Byrne.*** Tessa is the **sole survivor**; her arc becomes carrying the whole team. **Vega (Ch10) is the first Valor death.** *Editorial mandate:* give every Valor member (Argus, Rourke, Harlan, Kaine, Royce, Vega) real depth *before* they die so each loss lands, and thread Tessa's survivor weight from Vega forward. (Full per-character voice/depth guidance: `CHARACTER-VOICE-BIBLE.md`.)
 
+> 🚁 **INSERTION CANON (Ch2 rework, 2026-06-06):** The **first deployment (Huckleberry, Ch2) is a routine *Pegasus* dropship landing** — deliberately low-key (a Fall-of-Reach "milk run that's quietly wrong"); the STRIKE Transports sit fueled and unused. The **Charr insertion (Ch4)** escalates to a **stealth Graviton-Arrestor free-drop** (suit tech — vehicle-agnostic, so a Pegasus drop is consistent). The dramatic **STRIKE Transport "Boom" combat drop now DEBUTS at the New Eridanus invasion (Ch10)** — reserved so it actually lands. (Ch3's Royce armor-breach cause was changed off "delayed Graviton Arrestor activation" to match.)
+
 **Big structural takeaway — ✅ RESOLVED (2026-06-05):** The "two competing endings" problem is settled. The book now ends on the **Charles last stand (Ch16) + Obsidian Epilogue**. The *Artifact/Harbinger/Death Platoon* arc (Ch13–15) is preserved as a **deliberate Book-2 cliffhanger** (it dovetails with the warship's excavation of the same buried corrupted artifact). The Royce/warship-boarding climax (old Ch17–18) is **cut**. See §8.
 
 ---
