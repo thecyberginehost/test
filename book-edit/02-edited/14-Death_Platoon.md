@@ -2,7 +2,7 @@ Chapter 14 – Death Platoon
 Date: December 16, 2888
 Time: 2015 Galactic Standard Time (GTC)
 Location: GFC Base: Gladius – War Room
-In the dimly lit briefing room, the air heavy with anticipation and the faint hum of machinery, Lieutenant Strickland nonchalantly lit a cigar, the glow briefly illuminating his determined features.
+The briefing room was kept low and dim, the air heavy with anticipation and the faint hum of machinery, when Lieutenant Strickland nonchalantly lit a cigar, the glow briefly illuminating his determined features.
 "Strickland, put that out," Captain Orion's voice was firm, betraying a hint of irritation.
 With a wry smirk, Strickland exhaled a cloud of smoke, his response laced with sarcasm. "Sure, I'll get right on that.”
 Strickland leaned in closer to Captain Orion and blew a puff of smoke towards him.

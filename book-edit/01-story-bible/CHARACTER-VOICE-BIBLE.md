@@ -16,6 +16,14 @@
 
 > ⚠️ **SERIES STAKES (locked canon):** **Every member of Fireteam Valor dies by the end of Book 2 — *except Tessa.*** She is the **sole survivor**, the one left to carry all of them. **Implication for this entire depth project:** every Valor member (Argus, Rourke, Harlan, Kaine, Royce, Vega) needs **real depth *before* they die**, and every bond we build is a future wound **Tessa** will carry. Build each death to land; build Tessa to survive them. Vega (Ch10) is the **first** Valor death — it sets the pattern.
 
+### ✍️ PROSE: keep it human (anti-slop)
+This manuscript was AI-scaffolded; the tell is **generic, smooth, over-explained phrasing.** Human prose is **specific, concrete, restrained.** When writing or editing:
+- **Swap generic emotion for a concrete particular** — not "his heart swelled with warmth," but the specific thing he notices (the fork still in Junior's hand). Not "a portrait of maternal agony," but what she actually thinks/does.
+- **Vary openings and rhythm** — break the AI cadence of stacked "As X happened, Y…" and "In the [adjective] [noun], …".
+- **Trust the reader** — cut the sentence that *explains* the feeling you just dramatized ("a testament to the bonds that tie humanity together…").
+- **Overused tics to stop reaching for** (current book counts): *a mix of* (39) · *testament* (32) · *palpable* (27) · *echoed* (27) · *unwavering* (24) · *resolute* (19) · *thick with* (16) · *ominous* (15) · *in the face of* (11) · *beacon* (9) · *harbinger* (8) · *stark reminder* (7) · *symphony* (6) · *dimly lit* (6, fixed). Not banned — just don't reflexively reach for them.
+- ⚠️ **A full humanizing pass across all 18 chapters is still OUTSTANDING.** Done so far: family chapters (1, 11, 12) + the "dimly lit" repeats.
+
 ---
 
 ## FIRETEAM VALOR
@@ -81,6 +89,25 @@
 - **Tics:** "Understood"/"Copy that"; tech explained with faint pride; "within the bounds of what you have clearance to know."
 - **Sounds like:** *"It's like riding a bike, Captain."* / *"As resilient as it is sleek, Specialist."*
 - **Doesn't sound like:** rattled, effusive, or profane. His control is the character.
+
+---
+
+## THE ARGUS FAMILY (the Ch11 loss — Book 1's emotional climax)
+*Built to land via specific, recurring "tells" planted in Ch1 and paid off in Ch11–12. Their deaths are the top of Argus's loss-stack and the engine of his Ch12 break.*
+
+### Julia — wife; Holocom specialist at Cyber AI Engine
+- **Personality:** the realist who keeps the home steady; loves Mark with a lived-in, specific warmth; brave under fire (dies fighting with the prototype railgun).
+- **Tell:** *Verdant Pass* — the day they got lost on the back trails and she called it "the best detour we ever took" (pays off in Argus's Ch12 eulogy). Playful (the back-jump, Ch1).
+- **Death (Ch11):** restrained now — last thought is concrete (the kids' faces, the fork, the rabbit) and a plain charge to Mark: *"Come home and make them pay."* (Replaced the purple "river of sorrow" version.)
+
+### Kat — daughter, 6
+- **Personality:** dreamy, stubborn, fierce when it counts (stabs the alien with a glass shard). Draws (picnics on the moons).
+- **Tell:** ⭐ **Sergeant Hops** — her one-eared stuffed rabbit, and her certainty (from *Toy Story*) that toys come alive when you're not looking. Planted Ch1 → clutched in the secure room Ch11 → falls in the ash when she's killed → **Argus finds it in the rubble Ch12** and tucks it in her arms: *"He's allowed to move all he wants."* The family's gut-punch motif.
+
+### Junior (Mark Jr.) — son, 8 — ⭐ SURVIVES (major Book-2 character)
+- **Personality:** builder, brave, protective of Kat, soaks up everything his father teaches (weapons, tactical patience).
+- **Tell:** the **hand-made radio** on his model spaceship — the innocent device that first picks up the Obsidian transmissions ("Vor'kara"). Plot-critical and a Book-2 thread object.
+- **Status:** gravely wounded Ch11, medevac'd Ch12, survives (Ch17). The one piece of his family Argus has left — fuels the vengeance arc, pays off in Book 2.
 
 ---
 
