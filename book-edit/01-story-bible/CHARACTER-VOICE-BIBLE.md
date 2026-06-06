@@ -27,6 +27,7 @@
 - **Sounds like:** *"We won't be able to save them all, but we will save enough."* / *"I'm going to kill every last one of you."*
 - **Doesn't sound like:** chatty, jokey, or profane in calm moments. Save his swearing for breaking points — it's a tell.
 - **Guardrail:** his Ch1 family warmth is his weakest/most-generic register — give it a *specific* detail (a kid's name, an inside joke) rather than generic-dad lines.
+- **Loss-stack → the break:** Argus's control is load-bearing, and it's meant to *shatter* in Ch12. Build the pressure: **Lysander** (Ch10, buried), **Vega** (Ch10, same drop), then **his family** (Ch11) — each loss he forces down until he can't. When you write an Argus loss, show the *burying*, not a breakdown — save the break for Ch12 so it detonates.
 
 ### SSgt Rourke — senior NCO, Mindreaver (foresight)
 - **Personality:** the team's glue; veteran gallows humor over a sharp tactical mind; GRID-skeptic; fiercely loyal to Argus.
@@ -124,7 +125,7 @@
 ---
 
 ## MINOR / FUNCTIONAL
-- **Lysander** (Fireteam Honor lead): Argus's old OCS bunkmate; grave, terse, shares the Crete history. KIA Ch10 (transport).
+- **Lt. Lysander** (Fireteam Honor lead): Argus's OCS brother — rivals/bunkmates/"each other's keeper" since they were green candidates; Crete vets; mutual GRID distrust. Grave, dry, terse. **DEEPENED THIS PASS:** can't get an on-page death (he + all of Honor are blown out of the sky instantly, Ch10:20), so his death is built *before* (Ch2 "watching each other's six," Ch9 unknowing last words — "Watch yourself, Sander") and **landed through Argus** (Ch10: HONOR SIX goes dark; Argus buries the grief to keep leading). Voice: their banter is the affectionate-rivalry register ("Try to keep up this time, Mark").
 - **Axe** (Death Platoon): the umbrella running-gag straight-man to Strickland; comic but competent. Keep the gag bounded (calm-before-storm only).
 - **Drexel** (Orbital Defense Commander): grave brass; briefing-room gravitas.
 
