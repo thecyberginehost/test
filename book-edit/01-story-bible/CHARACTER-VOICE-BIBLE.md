@@ -14,6 +14,8 @@
 - **Comedy vs. tragedy:** don't let a joke land *on* a death or grief. Dark humor *before* or *between* combat = fine. Dark humor *over a corpse we're meant to mourn* = cut or move.
 - **The Surgeon's "crack of humanity" (Ch6) is the deliberate exception, not a license.** He is otherwise affectless; do not make him emotional elsewhere. (See his card.)
 
+> ⚠️ **SERIES STAKES (locked canon):** **Every member of Fireteam Valor dies by the end of Book 2 — *except Tessa.*** She is the **sole survivor**, the one left to carry all of them. **Implication for this entire depth project:** every Valor member (Argus, Rourke, Harlan, Kaine, Royce, Vega) needs **real depth *before* they die**, and every bond we build is a future wound **Tessa** will carry. Build each death to land; build Tessa to survive them. Vega (Ch10) is the **first** Valor death — it sets the pattern.
+
 ---
 
 ## FIRETEAM VALOR
@@ -48,14 +50,14 @@
 - **Tics:** "time and place" call-outs; marksmanship jabs at others' aim; "Whatever's out there won't stand a chance."
 - **Sounds like:** *"Jesus, guys. You two have to learn time and place."* / *(send-off)* *"…try to hit what you aim at for once."* → then sincere: *"And sir — get your family out safe."*
 - **Doesn't sound like:** Rourke. If it's warm and expansive, it's not Tessa.
-- **Status:** **DEEPENED THIS PASS** — sharpened her Ch10 send-off to sound like a sniper (precision jab + control, then a sincere drop) so her evac feels like losing a *character.* ⚠️ Open thread: her promised return (Ch10) is never paid off — Book-2 hook.
+- **Status:** **DEEPENED THIS PASS** — sharpened her Ch10 send-off to sound like a sniper (precision jab + control, then a sincere drop) so her evac feels like losing a *character.* ⭐ **SOLE SURVIVOR of Fireteam Valor (series canon)** — she outlives the entire team by the end of Book 2. **Her arc is carrying them.** Vega's death is the **first** weight she bears (saved by Vega; learns of it after) — start her survivor's-guilt / lone-survivor thread here and compound it with each loss. ⚠️ Open thread: her promised return (Ch10) is never paid off in Bk1 — Book-2 hook (and now clearly *she does come back*, since she's the survivor).
 
 ### Cpl Elara Vega — medic (KIA Ch10)
 - **Personality:** mother-hen-with-a-scalpel; keeps the squad alive and lords their health over them; competent, sharp, caring under the bite.
 - **Voice signature:** medical authority + dry threats; talks to patients while she works; treats the team like difficult cases she refuses to lose.
 - **Tics:** grades everyone's physicals ("I've got your chart memorized"); medic-specific ribbing (caffeine, heart rate, "you don't get to skip your physical that easy").
 - **Sounds like:** *"Keep it up, Rourke, and I'll make your next physical assessment hell."* / *(working on dying Tessa)* *"Stay with me, Byrne… you don't get to skip your physical that easy."*
-- **Status:** **DEEPENED THIS PASS** — was nearly voiceless and died wordless. Added a characterizing hook (Ch2) and an in-character final beat + death image (Ch10: "the medic who kept them all alive was gone…") with a callback to her Ch2 line, so her death lands.
+- **Status:** **DEEPENED (full arc): establish → irony → payoff → loss.** **Ch2** mother-hen/grading hook; **Ch3** signature line on a patient she *saves* (*"Stay with me, Barnes… not on my watch"*); **Ch9** quiet bond scene with Tessa + the dramatic-irony line (*"one of these days I'm not going to be there to sew you back together"*); **Ch10** she dies doing *exactly that*, repeating her signature; **Ch10 aftermath** Tessa realizes the patch keeping her alive was Vega's last act. **First of the Valor deaths — the template for the rest.**
 
 ### Sgt Kaine — recon/scout
 - **Personality:** the quiet one; laconic, observant, unflappable; **local to New Eridanus** (knows the city in his bones — pays off in the Ch16 hidden tunnel "from his youth"). Dry, morbid economy when he does crack a joke.

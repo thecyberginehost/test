@@ -146,12 +146,14 @@ Recurring chant/refrain: **"We live. We fight. We die."**
 | Wraith's GRID secrets / distrust | Ch2–5 | ◑ Partially; Wraith stays "wildcard," rejoins Ch17. |
 | **The Artifact & "Harbingers" (5 humans, 50 relics)** | Ch13 | ❌ **DROPPED.** No payoff in this book. |
 | **Death Platoon's artifact mission** | Ch13–15 | ❌ **DROPPED.** They seal the cave and vanish; never shown retrieving it. |
-| **Tessa's promised return** | Ch10 | ❌ **Never returns.** |
+| **Tessa's promised return** | Ch10 | ◑ Not paid off in Bk1; **she returns in Bk2** — she is the **sole survivor of Fireteam Valor** (series canon). |
 | Strickland ↔ Surgeon ↔ GRID secret | Ch13–14 | ◑ **Backstory now canon** (Strickland = "Demon," GRID Project Phantom; Surgeon also a Clandestine product) — keep as an *intentional* Book-1 long-game tease; pays off in later books / *Project Clandestine*. |
 | Dutch's vengeance (for Harris) | Ch14 | ❌ Set up, no payoff (Death Platoon thread dropped). |
 | Royce's arc (rookie → hero) | Ch2 onward | ✅ Completed Ch18 (sacrifice). |
 | High Commander Drakken | Ch18 | ◑ Survives — clear sequel hook. |
 | Junior's survival | Ch11–12 | ✅ Confirmed Ch17. |
+
+> ⚠️ **SERIES CANON (locked 2026-06-06): Every member of Fireteam Valor dies by the end of Book 2 — *except Tessa Byrne.*** Tessa is the **sole survivor**; her arc becomes carrying the whole team. **Vega (Ch10) is the first Valor death.** *Editorial mandate:* give every Valor member (Argus, Rourke, Harlan, Kaine, Royce, Vega) real depth *before* they die so each loss lands, and thread Tessa's survivor weight from Vega forward. (Full per-character voice/depth guidance: `CHARACTER-VOICE-BIBLE.md`.)
 
 **Big structural takeaway — ✅ RESOLVED (2026-06-05):** The "two competing endings" problem is settled. The book now ends on the **Charles last stand (Ch16) + Obsidian Epilogue**. The *Artifact/Harbinger/Death Platoon* arc (Ch13–15) is preserved as a **deliberate Book-2 cliffhanger** (it dovetails with the warship's excavation of the same buried corrupted artifact). The Royce/warship-boarding climax (old Ch17–18) is **cut**. See §8.
 
