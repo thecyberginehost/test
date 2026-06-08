@@ -6,6 +6,8 @@
 > **⚠️ STRUCTURE UPDATED (2026-06-05):** Book 1 now ends on **Ch16 (Charles's nuke last stand) + an Obsidian-POV Epilogue.** Original **Ch17 & Ch18 are CUT** (archived in `99-cut-from-book-1/`). See **§8 — Book-1 Ending Restructure (LOCKED)**.
 > **Universe-level canon** (cosmology, Void, Harbingers, the 65-My timeline, why the Obsidians exist) now lives in **`REFORGED-UNIVERSE-LORE.md`** — read it alongside this file.
 
+> **📐 NARRATIVE STRUCTURE (canon):** *Reforged* is told as **two parallel sagas of the same events, one per perspective** — **Project ForgePulse** (100% human lens) and **Sacred Retribution** (100% Obsidian lens). Each is self-contained; reading both reveals the full truth (they converge on the **Void** as the hidden enemy that turned the two peoples against each other). **~5–6 books per saga** (originally conceived as trilogies). **Mirror bookend format:** a human-saga book runs *human prologue → human chapters → **alien epilogue***; an Obsidian-saga book runs the inverse *(**alien prologue** → alien chapters → **human epilogue**)*. Each book's opposite-POV bookend is a bridge into the mirror saga (e.g., human Book 1's **Kyr/Vrakar epilogue** seeds the Obsidian saga; its full payoff lives over there). **"Honor is perception" is the structural engine** — every pivotal beat reads one way from the human side and the opposite from the Obsidian side, neither narrator lying (e.g., the Charr terror-display = atrocity to humans, righteous sacred duty to the Dra'Kor Vhel'Tan). Obsidian-side material lives in **`../sacred-retribution/`**.
+
 ---
 
 ## 1. LOGLINE & PREMISE
