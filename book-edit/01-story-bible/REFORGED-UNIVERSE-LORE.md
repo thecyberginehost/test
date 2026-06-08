@@ -65,11 +65,11 @@
 
 ## 6. Primordial Architects Era
 - The cosmic engineers of the long age after the betrayal.
-- **Supreme Commander Mojahdin-Shah ("Dinsah")** — lived ~5,000 years.
+- **Supreme Commander Mojah Din'Sha** — lived ~5,000 years.
 - **Etherspace** = the **first** FTL medium discovered in this era — and the **most efficient.** **Gravspace** = the **second**, discovered later: beyond FTL travel, it lets a being remain **stagnant, separated from the current dimension** (outside normal space/time). ⭐ **This dimensional-separation property is how Xylaris escaped the Symphony of Annihilation (the Reckoning) AND keeps the Void imprisoned** — he holds the prison from **gravspace stasis aboard the Thal'kyr.** *(The prison isn't perfect — the Void got it cracked slightly, hence the leaks/whispers.)*
 - **The Or'uk** — a species the **Void cannot assimilate**; survived the Reforging. **Gralthar** (Or'uk) fought alongside Xylaris on the warship **Bloodforged** — and **stood beside Xylaris in the Lok'Sha O'Ka against the Hive Mind**, facing her two corrupted-Harbinger champions (Scourge & Abyss). **Kuja-Wo'Shuk** shares the lineage that later produces **Vrakar and Drakken**.
 - **The fatal mistake:** the Architects found Xylaris's seal on Obscurum, **mistook it for a Celestian artifact, and released the Ancient Ones** — believing they were recovering relics. This corrupted **Taryn Voss**, who became **the Hive Mind**. *(The galaxy burned because an institution lied to about its own history made an honest mistake.)*
-- ⭐ **The Pre-Reckoning War Council** *(source: TikTok transcript, `source-transcripts/PA-pre-reckoning-council.md`):* the final council where the Reckoning is planned. **Xylaris** lays out the Void's true nature to **Mojahdin-Shah ("Dinsah"), Kuja-Wo'Shuk, Kar'yan Voss,** and **Gralthar**, with **Aetheris** advising. *(Confirms the transcript's "Moja Dinsah" = canonical Mojahdin-Shah.)*
+- ⭐ **The Pre-Reckoning War Council** *(source: TikTok transcript, `source-transcripts/PA-pre-reckoning-council.md`):* the final council where the Reckoning is planned. **Xylaris** lays out the Void's true nature to **Mojah Din'Sha, Kuja-Wo'Shuk, Kar'yan Voss,** and **Gralthar**, with **Aetheris** advising. *(Confirms the transcript's "Moja Dinsah" = canonical **Mojah Din'Sha**.)*
   - ⭐ **Void-nature refinement (cf. §3):** the Void is **NOT evil — it is *deluded*,** which Xylaris calls *more* dangerous. It does not hunger; **it seeks *union*,** believing that consuming all existence fulfills a **directive written into its essence by the Ancient Ones** ("the hands once mistaken for gods"). The Celestians first consumed were not evil; the evil is the Ancient Ones' directive. *(Thematic rhyme with the Dra'Kor Vhel'Tan — a true-believer enemy convinced its atrocity is right; "honor/righteousness is perception" scales from a saboteur cell to a god-eating Void.)*
   - ⭐ **Assimilation clock:** Aetheris gives **six months to full galactic assimilation, eight at most.**
   - ⭐ **The stakes if they fail:** the Void breaches **the Veil** (the interdimensional boundary holding the Ancient Ones) and **awakens them** — *"what we now call death will be mercy."*
@@ -82,7 +82,7 @@
 - **Kar'yan Voss** (human warrior) stands at its center; his wife **Taryn** was the Hive Mind host — he had to ignite the supernova believing it would erase her.
 - ⭐ **The plan / mechanism** *(source: PA council transcript, §6):*
   - **Kar'yan Voss** volunteers to pilot the **Eternal Blade** into the stellar core of **Solaris Magna** and trigger **Ignis Protocol**, igniting the supernova chain — *"the **Cascade**"* (= the Symphony of Annihilation). He flies to the epicenter knowing it kills him. *(Distinct from the two arks Eos/Gaios he launches first.)*
-  - ⭐ **Two-pronged deception (Dinsah's design):** the Architects stage a **loud, full battle as a spectacle** to mask movement in the stars, **while the true strike lands in shadow** (the Eternal Blade) — so the Void doesn't sense the real play.
+  - ⭐ **Two-pronged deception (Mojah Din'Sha's design):** the Architects stage a **loud, full battle as a spectacle** to mask movement in the stars, **while the true strike lands in shadow** (the Eternal Blade) — so the Void doesn't sense the real play.
   - ⭐ **The escape:** once Ignis fires, **the Void is drawn to the Cascade's gravitational pull**, unable to resist — and in that window **Xylaris's group enters Etherspace (Aetheris guiding), then crosses into Gravspace** (his eventual prison-holding stasis, §6/§4).
   - ⭐ **Aetheris's tolerance:** synchronization must fall within **±3 milliseconds** or the cascade fails.
   - ⭐ **The three Harbingers:** at the council a rift opens and **three Harbingers** (Celestian-Pact refusers Xylaris forged, §5) arrive unbidden to stand with him *"until the last star burns."* ✅ **Count locked (author-confirmed):** of the **original five**, the Hive Mind corrupted two — **Jarek → Abyss** (destroyed by Xylaris in the Lok'Sha O'Ka) and **Orek → Scourge** (connection to the Hive Mind severed; **fled the galaxy still retaining his blended Void+Harbinger power**, §58). So **four Harbingers technically still exist** (Scourge among them) — but **two fewer on Xylaris's fighting front**, leaving the **three loyal** who arrive at the council. No contradiction with "first five."
@@ -362,7 +362,7 @@
 | — | Ancient Ones corrupt the **Celestian Pact** ascension ritual → **the Void** is born. | — |
 | — | Xylaris seals the Ancient Ones at **Obscurum** (kills his wife & child); **first Void imprisonment**. | — |
 | — | Starwalker frames & imprisons Xylaris in the **Thal'kyr**; diminishes him. | — |
-| — | Long **Primordial era** (Dinsah's ~5,000-yr life). | Primordial Architects |
+| — | Long **Primordial era** (Mojah Din'Sha's ~5,000-yr life). | Primordial Architects |
 | — | Architects find Obscurum, mistake the seal for a relic, **release the Ancient Ones**. | — |
 | — | **Taryn Voss** corrupted → becomes the **Hive Mind**. | — |
 | **~65 Mya** | **The Reckoning.** Kar'yan launches **Eos & Gaios**, detonates the supernova, dies & ascends. Xylaris → Gravspace stasis. Skorge flees. | — |
@@ -383,7 +383,7 @@
 - **Project ForgePulse** (6 books, possible 7th) — far-future military. **Bk1: *Shadows of War*** *(the book we're editing)*. Bk2: the fall of Trident & Argus's last stand (working titles: *The Fall of Trident*, *The Fallen Standard*, *When the Sword Breaks*, *The Last Praetorian*). Bk3: *Neural Ascension Protocol*.
 - **The Hunt** — bridge novel filling the ~10-yr Bk2→Bk3 gap: **Death Platoon**, dropped as the "enemy" for Blackguard candidates' final test, slaughter every wave — then **drift home for ~10 years** in a nav-less, FTL-less derelict Obsidian ship.
 - **Project Clandestine** (trilogy) — the darker precursor program; dark mirror to ForgePulse.
-- **Primordial Architects** (trilogy) — deep-past era (Dinsah, Gralthar, the Reckoning).
+- **Primordial Architects** (trilogy) — deep-past era (Mojah Din'Sha, Gralthar, the Reckoning).
 - **Standalones:** *The Devourer* (origin of the Void); a standalone Obsidian-leader book; a Nexus AI book.
 - **The Army of the Damned** (standalone or trilogy) — **Scourge** raising his army of sentient Void-corrupted soldiers. "Damned" is literal: Void corruption forfeits your life essence (oblivion — §3), so these are warriors with **nothing left to lose and no afterlife to return to.**
 - Also: a **TikTok lore series** set 65M years before current events; a Patreon; an NFT project whose background lore grew into the manuscript work.

@@ -8,7 +8,7 @@
 ## Spelling normalization applied
 - Xelaris / Zilaris / Zelaris / Silarus → **Xylaris**
 - Karian / Karian Voss → **Kar'yan Voss**
-- Moja Dinsah / Moja → **Mojahdin‑Shah ("Dinsah")** *(already canon — §6)*
+- Moja Dinsah / Moja → **Mojah Din'Sha** *(already canon — §6)*
 - Kujawo'Chuk / Kuja → **Kuja‑Wo'Shuk**
 - Aetherspace → **Etherspace**
 - Hivemind → **Hive Mind**
@@ -39,11 +39,11 @@ He took a step forward, eyes burning brighter now. "But they were not the first 
 
 "The Pact believed them. They enacted the ritual of passage, a sacred ascension rite. But it was a lie. They did not rise; they fractured. Their entire collective mind was drawn into a singularity of corrupted will. One mind, one body, one essence." He exhaled sharply. "They became the Void."
 
-Xylaris looked to **Mojahdin‑Shah**, to **Kuja‑Wo'Shuk**, to **Kar'yan Voss** — his companions in this final hour. "It does not hunger as we understand it. It seeks union. It believes that by consuming us, it fulfills a directive written into its life essence — that this is the only path forward for existence. It is not evil. It is deluded — which I believe is even more dangerous, as you have already observed."
+Xylaris looked to **Mojah Din'Sha**, to **Kuja‑Wo'Shuk**, to **Kar'yan Voss** — his companions in this final hour. "It does not hunger as we understand it. It seeks union. It believes that by consuming us, it fulfills a directive written into its life essence — that this is the only path forward for existence. It is not evil. It is deluded — which I believe is even more dangerous, as you have already observed."
 
 Silence again. Kar'yan stepped forward, the flicker of pain in his face unmoving. "I volunteer to command the **Eternal Blade**," he said. "To fly into **Solaris Magna** and ignite the core. I will be at the epicenter of the chain reaction." His hands trembled — whether from duty or from the memory of his wife **Taryn**, now the Hive Mind's flesh‑bound host, no one could say.
 
-**Mojahdin‑Shah** stepped forward next. "We can't just act. The Void will notice — sense movement in the stars." He turned to the others. "We give it a battle. A spectacle. A final stand."
+**Mojah Din'Sha** stepped forward next. "We can't just act. The Void will notice — sense movement in the stars." He turned to the others. "We give it a battle. A spectacle. A final stand."
 
 **Kuja‑Wo'Shuk** nodded. "While we fight here, the true strike lands in shadow."
 
