@@ -23,8 +23,9 @@ The author's **earliest raw drafts (~2023), Obsidian POV** — the only Obsidian
 - **Tribunal Guard → Highborn Guard** (Vrakar's ~5 elite personal guard, one per race).
 - **Luk'Sha O'ka → Lok'Sha O'Ka**; **Larkar Zhul → Lar'Kar Zhul**.
 
-**⚠️ Needs an author ruling:**
-- **Dra'Kor Vhel'Tan — two brothers vs. a unit.** Draft = **two twin brothers, Lythar & Rythos ("the Darkness Undying")**, sent as the covert advance force. Current canon = an **elite task-force/unit** (forged by Drakken; the Charr saboteurs). The bible lists *both* "Lythar & Rythos" and "Dra'Kor Vhel'Tan." **Lock the relationship:** are Lythar & Rythos the **twin founders/leaders** the unit is named for (cleanest), or did the concept simply change from "two brothers" to "a unit"?
+**✅ Dra'Kor Vhel'Tan — RESOLVED (author ruling):** the Dra'Kor Vhel'Tan is the **elite unit**; **Lythar & Rythos ("the Darkness Undying")** are its **twin leaders.** **Vrakar** charged **Drakken** with the unit; Drakken had the skill to run it but **refused to deploy with it on grounds of honor**, so he **trained the twins to lead it in his place — because they don't care about honor.** (The draft's "Dra'Kor Vhel'Tan = the two brothers" folds in cleanly: the twins are Lythar & Rythos, now understood as the unit's *leaders*, not its entirety. The Charr cell is the unit; the Ch6 captive serves in it.)
+
+**⚠️ Still needs an author ruling:**
 - **New named Blackguard "Highborn"** (Drakken's elite five + helm): **Vaera Kint, Gravus Lo'Nok, Serkis Jin'Thal, Ta'lia Nok'Shal, 1st Helm Zorath Ke'Ulan.** Not yet in the bible — decide if canon. (Also: "Highborn" is used here for *Drakken's Blackguard*, which may collide with **Highborn Guard** — disambiguate.)
 - **New terms:** **The Scouring Rite** (the holy-war rite — reconcile with "The Dark Purge"/"Sacred Retribution"), **AetherVail** (a stealth/cloak "tether" tech that holds ships between hyperspace and realspace), and the Obsidian **battle-creed** (*"Tor'Vesh, Kara'Dun sarith…" — "Through shadow, we claim light; in oblivion, we carve existence"*).
 
