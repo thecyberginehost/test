@@ -13,7 +13,8 @@
 | **High Commander Drakken Thik'Shal** | Vrak'Thar | Leads the **Blackguard** (won it in the Dark Purge); High Council; forged the Dra'Kor Vhel'Tan. No blind loyalist. | `drakken-noble.png` / `drakken-armored.png` |
 | **High Commander Kyr Tharanos** | (rose from recruit) | Leads the **Titan Vanguard**; the **Kresh-binder** (Iron Accord); barred from the Blackguard (too vital to the Kresh). | `kyr-tharanos.png` |
 | **Commandant Thal'Rak Cho'Vall** | ? | Commands the **Highborn Guard**; deeds "blacklisted from Obsidian logs" (mystery hook). | — |
-| **Lythar & Rythos** | non-royal | Twin leaders of the **Dra'Kor Vhel'Tan**; trained by Drakken; rose in the Kresh Rebellion. | (in `drakor-vheltan.png`) |
+| **Lythar & Rythos** | non-royal | Twin leaders of the **Dra'Kor Vhel'Tan** ("the Darkness Undying"); Drakken trained them to lead it (he refused to deploy it, on honor); rose in the Kresh Rebellion. | (in `drakor-vheltan.png`) |
+| **Drakken's Blackguard inner circle** ("his Highborn") | Vrak'Thar+ | His elite at-side Blackguard: **Lar'Kar Zhul** (rival/provocateur), **Vaera Kint**, **Gravus Lo'Nok**, **Serkis Jin'Thal**, **Ta'lia Nok'Shal**, + 1st Helm **Zorath Ke'Ulan**. ("Highborn" = Drakken's honorific, *not* the Highborn Guard.) | (in `blackguard.png`) |
 | **Ujio Takamoto** | **Human** | Vrakar's **friend & personal samurai-assassin** (ranks above the Highborn Guard); feudal-Edo samurai who left Earth as a peace-hostage; otherworldly katana, cybernetic eye, centuries-old. Hunts Praetorians on Trident. | `ujio-takamoto.jpg` |
 | **Varkul the Unifier** | Kresh | Legendary Kresh chieftain who united the Kresh tribes (historical). | — |
 | **Sahk V'lok** (alias *Di'kra H'necta*) | Kresh | Ex-Lord Commander; **led the Kresh Rebellion**; defeated, now Vrakar's tortured prisoner ("personal punching bag") — his captivity = the corruption's first cruelty. | `sahk-vlok.jpg` |
