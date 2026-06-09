@@ -27,3 +27,6 @@ node_modules/
 
 # Foundry
 broadcast/
+
+# Manuscript build output (regenerable — build via book-edit/tools/build_manuscript.py)
+manuscript_build/
