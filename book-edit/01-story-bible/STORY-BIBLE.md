@@ -1,5 +1,5 @@
 # STORY BIBLE
-### *[Working title TBD]* — Military Sci-Fi Novel
+### *Project ForgePulse: Shadows of War* — Military Sci-Fi Novel · **Book 1** of the *Project ForgePulse* (human-POV) saga · by **D.K. Shadow** *(pen name of Anthony Amore)*
 **Compiled from full read-through of Prologue + Chapters 1–18 (~84,400 words)**
 *This is the master reference. Every chapter edit is checked against this document for consistency of voice, fact, and character.*
 

@@ -1,5 +1,5 @@
 # DISCREPANCY & CONTINUITY REPORT
-### *[Working title TBD]* — full-manuscript audit (Prologue + Ch 1–18)
+### *Project ForgePulse: Shadows of War* — full-manuscript audit (Prologue + Ch 1–18)
 *Findings are ranked. "Severity" = how badly it breaks reader trust if left. Each item notes chapter(s) and a recommended fix. Nothing here is changed yet — this is the audit you approve before edits.*
 
 ---
