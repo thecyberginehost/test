@@ -90,7 +90,8 @@ The ability was used as **both** precognition ("foresight," predicting ambushes,
 - ✅ **RULING (author):** they are **TWO DISTINCT powers**, and a character may have **one or both**:
   - **Foresight** = **precognition** (battle danger-sense, predicting ambushes, split-second prediction).
   - **Mindreaver** = the **mind gift**, with multiple applications: **telepathy** (reading/extracting/projecting thoughts; the obscuration mechanic; the Surgeon's craft) **AND cerebral piloting** (mind-machine interface — the **cerebral pilots of the GFC Eden**, Greenwich's flagship, fly by this; author-canon).
-- ⭐ **Proposed per-character assignment (author to confirm):** **The Surgeon** = Mindreaver (amplified telepath, his "7"). **Wraith** = **both** (battlefield foresight *and* telepathy — rare, which is why GRID prizes him; e.g. reading the killers' residue at Charr = telepathy). **Rourke** = **foresight** only. **The GFC Eden's pilots** = Mindreavers (cerebral-piloting application).
+- ⭐ **Per-character assignment:** **The Surgeon** = Mindreaver (amplified telepath, his "7"). **Wraith** = **both** (battlefield foresight *and* telepathy — rare, which is why GRID prizes him). **The GFC Eden's pilots** = Mindreavers (cerebral-piloting application).
+- ✅ **ROURKE — AUTHOR RULING (2026-06-09): Foresight + Feeling.** His **Foresight** is *split-second* precognition — he sees a thing **right before** it happens; never enough time to plan around it, but decisive in a real-time fight. His **Feeling** is *site-reading* — at a location where emotion ran **high and raw** (terrible *or* joyful), he can **feel what happened there**. *(Proposed classification, author to confirm: Feeling = a **Mindreaver application** — reading the residue minds leave behind rather than live minds — which keeps Ch2's "another Mindreaver on the team" line true, and tags Wraith's reading of the killers' residue in the Charr hall (Ch5) as the same Feeling application. Ch4's "unsettling tingling" approaching Charr = Rourke's & Wraith's Feeling registering the massacre.)*
 - ⭐ **Power scale & true nature (author-canon):** Mindreaving is a **very low-level use of conduit energy** (the Xylaris/Harbinger power) — **uncomprehended: no one in the current era understands the conduit except the Harbingers,** who *inherit* it when chosen. ⭐ A Harbinger **can teach the *knowledge* (understanding) but never the *power* (the ability to wield)** — to actually channel the conduit you must either be *born with the power* or *inherit the Harbinger mantle.* **GRID rates it 1–10** (10 = max): **Strickland ("the Demon") = 10**; **the Surgeon = 7.** Even a 10 is **far weaker than pre-Reckoning Mindreaving** — modern Mindreavers are a faint echo of the ancients, and a *dormant* proto-Harbinger potential (full detail in REFORGED-UNIVERSE-LORE §5).
 - **TODO (chapter pass):** re-tag every psychic-power use to the correct gift; tag the **Eden's cerebral pilots** (Ch7) as Mindreavers; propagate the split + power scale into the Wraith/Surgeon/Rourke/Strickland entries in STORY-BIBLE.
 
@@ -192,24 +193,28 @@ These are global find-and-fix items (will be handled automatically during line e
 
 ## G. FULL-MANUSCRIPT RE-READ — fresh findings (2026-06-09, editor+reader pass, Prologue→Epilogue)
 
-### G1. Rourke is a Mindreaver in the text — conflicts with proposed B4 assignment ⚠️
+### G1. Rourke is a Mindreaver in the text — ✅ RESOLVED (author: Foresight + Feeling; see B4 ruling)
 - Ch2: "All GRID Operatives are Mindreavers" → Argus: "Another Mindreaver on the team…" *glancing at Rourke*, who owns it ("not as fortified… but good enough for GFC work"). Ch4: "Both, being Mindreavers" (Rourke + Wraith); Rourke "telekinetically executed an override on each team member's suit pack thrusters" (= mind-machine interface — actually fits the **cerebral-piloting application** of Mindreaver!). Ch16: "his Mindreaving abilities identified another Mindreaver."
 - But B4's proposed table says **Rourke = foresight only.** The text says Rourke is a (low-grade) Mindreaver who *also* has foresight (Ch3 "his foresight" detecting Wraith's heart rate = sensing; Ch10 "Rourke's foresight had not been active" = precog).
 - **Author to rule:** Rourke = both (weak Mindreaver + foresight), or re-line Ch2/Ch4. *(Suggestion: both, weak grades — it also explains the suit-thruster override via the mind-machine application.)*
 
-### G2. The family never evacuates — and Argus never tells them to ⚠️ HIGH (reader-facing)
+### G2. The family never evacuates — ✅ FIXED (author-approved lines applied)
+- ✅ **Ch9:** Argus's call now includes *"pack light, and the moment they call your district, you take the kids to the evac port at Crete City. Don't wait for me."* **Ch11:** go-bags packed by the door; the broadcast ordered shelter-in-place pending each district's **armed escort** (per Ch6's OGDF escort plan); *"The escort never came."* They die having done everything right — which is worse, and correct.
 - OE-Exodus-TR is ordered Ch6 (~2330 Dec 15). Argus phones home Ch9 (~1030 Dec 16) and says *lock the doors, remember the safe* — not "get to the evacuation point." Ch11: the family is home at 1335 when the pods land.
 - A reader **will** ask why a Praetorian lieutenant's family sat at home ~14 hours into a planetary evacuation. One or two lines fix it (evac staged by district and theirs hadn't been called; roads severed; Julia told to shelter in place until escorted — any of these).
 
-### G3. Ch12/Ch13 recall causality runs backwards ⚠️
+### G3. Ch12/Ch13 recall causality runs backwards — ✅ FIXED
+- ✅ Applied: the civilian-escort recall is now **pre-existing** (ordered by Gladius transport command before Ch12's report); in Ch13 the Surgeon *notices* it ("fortune has already started him our way… make sure GRIDCOM keeps them here"), Wraith asks GRIDCOM to **re-task on arrival**, and GRIDCOM adopts the escort tasking as **cover**. Cause now precedes effect.
 - Ch12 (1733): Ironclad reports Viper Platoon "is being recalled to Gladius as an armed escort." Ch13 (1907): Voss's revelation happens and GRIDCOM *then* orders that recall "under the guise of the armed escort," "Pegasus already en-route."
 - Effect precedes cause by ~90 min. Fix: either Ch13's header time moves earlier than Ch12's radio call, or make the civilian-escort recall genuinely pre-existing and GRID merely *re-tasks* Viper after Voss's revelation (one line at GRIDCOM: "the escort recall already in motion serves as cover").
 
-### G4. Ch15 enters the cave twice (draft-stitch) ⚠️
+### G4. Ch15 enters the cave twice (draft-stitch) — ✅ FIXED
+- ✅ Applied: the premature first entry collapsed into a bridge line ("Strickland hadn't kept this platoon alive by walking into dark mouths blind") flowing straight into the drone-recon entry, which keeps the darted **short sentry** (B1 Kresh candidate).
 - Lines ~23–30: patrol killed, "The team entered, the air inside cool and damp… their approach to the artifact was as silent as their kills." Then ~31: "As Death Platoon approached the cave entrance, Strickland signaled for a pause" → second full entry sequence (drone recon, darted sentry, entry).
 - Two drafts of the same beat. Keep the drone-recon version (it carries the short-sentry race seed); fold the first entry into it.
 
-### G5. Death Platoon is under the city when the nuke goes off — never acknowledged ⚠️
+### G5. Death Platoon is under the city when the nuke goes off — ✅ AUTHOR RULING: intentional, held for Book 2
+- ✅ **Confirmed: Death Platoon IS beneath the city at detonation, and Book 1 deliberately does not address it — Book 2's very first chapter does.** ⚠️ Standing constraint: Ch15's eventual cliffhanger button (A1) must **not** tip the nuke (no tremor beat); leave the reader walking into Book 2 unaware of what just passed overhead.
 - Ch15: Strickland's team infiltrates caves/sewers beneath New Eridanus overnight. Ch16 (~0600 Dec 17): a tactical nuke flattens 2 km of the city above them. No line anywhere acknowledges their position relative to the blast (shock, partial collapse, "the ceiling rained dust"), and Book 1 ends with the reader unsure whether they were buried.
 - Fix: one beat — either in Ch16 (Orion: "Viper's deep enough") or as Ch15's **cliffhanger button** (the cave shudders; Strickland looks up; cut) — which would *also* satisfy A1's "intentional to-be-continued" requirement. ⭐ Recommended: make the nuke-tremor THE Ch15 ending.
 
@@ -239,6 +244,7 @@ These are global find-and-fix items (will be handled automatically during line e
 - **Ch10 platoon/transport math:** three platoons launched (Alpha, Bravo, Viper), two Pegasus transports land, then "remaining platoons" split three ways — recount once; and "all OGDF personnel accounted for" after a descent that killed 2 of 4 Praetorian transports is conveniently unscathed (one line of losses would sell it).
 - **Ch16 NMIP:** introduced for commandeering transports; the plan dies with Charles — fine, but consider one line acknowledging the unused gear (or save the NMIP intro for Book 2).
 - **Ch9 location line:** "war room **aboard** the Gladius" — Gladius is a ground base ("at Gladius").
+- **Ch9→Ch10 launch gap:** transports launch at the end of Ch9 (~1100) but Ch10 opens *in the upper atmosphere* at **1350** — a ~3-hour hole in a minutes-long ascent. Either a one-line staging/holding-pattern explanation or a header fix. *(Ch10's 1350 must stay ≥ Ch11's 1335 for the D1 cross-cut.)*
 
 ### G10. Reader-experience notes (not errors — author's call)
 - **Wraith's Ch7–12 absence:** he stays at Gladius (Ch6) and resurfaces Ch13 — but he's *in the same base* during the Ch9 war-room scenes and is never mentioned. One half-line in Ch9 ("Wraith was two thousand meters down with GRID") prevents "where's Wraith?".
