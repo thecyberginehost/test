@@ -85,13 +85,18 @@ The aliens look like different species across chapters:
 ### B3. "Mindreaver" vs "Mindweaver" — ✅ APPLIED
 - Both spellings used for the same ability/people. **DONE:** standardized to **`Mindreaver`** across the manuscript (Ch4's 6 `Mindweaver` instances fixed; zero remaining). *(B4 — the precog-vs-telepathy power definition — is separate and still open.)*
 
-### B4. The psychic power is two different powers — ⚠️ HIGH
-The ability is used as **both** precognition ("foresight," predicting ambushes, sensing danger — Rourke/Wraith) **and** telepathy (reading/translating thoughts, mind-torture, planting illusions — Surgeon/Wraith/Rourke). They're treated as one ability but function as two.
-- **Fix:** Define the power clearly. Cleanest options: (a) it's one broad psionic gift with multiple disciplines (name them), or (b) "foresight" (precog) and "mindreading" (telepathy) are distinct, and characters have one or both. Then audit every use.
+### B4. The psychic power is two different powers — ✅ RESOLVED (author: TWO distinct powers)
+The ability was used as **both** precognition ("foresight," predicting ambushes, sensing danger — Rourke/Wraith) **and** telepathy (reading/translating thoughts, mind-torture, planting illusions — Surgeon/Wraith/Rourke).
+- ✅ **RULING (author):** they are **TWO DISTINCT powers**, and a character may have **one or both**:
+  - **Foresight** = **precognition** (battle danger-sense, predicting ambushes, split-second prediction).
+  - **Mindreaver** = **telepathy** (reading/extracting/projecting thoughts; the obscuration mechanic; the Surgeon's craft).
+- ⭐ **Proposed per-character assignment (author to confirm):** **The Surgeon** = Mindreaver (amplified telepath, his "7"). **Wraith** = **both** (battlefield foresight *and* telepathy — rare, which is why GRID prizes him; e.g. reading the killers' residue at Charr = telepathy). **Rourke** = **foresight** only.
+- **TODO (chapter pass):** re-tag every psychic-power use to the correct gift; propagate the split into the Wraith/Surgeon/Rourke entries in STORY-BIBLE.
 
-### B5. Aliens speaking fluent English — unexplained worldbuilding gap
-- Multiple Obsidians speak perfect English (Ch5 Mindreaver "You will be eradicated"; Ch8 Drexel's killer; Ch18 Drakken is fully fluent and says he "made it my duty to learn" — only Drakken gets a reason).
-- **Fix:** Either give a consistent in-world reason (Mindreaver-assisted translation? captured-broadcast study?) or limit fluent English to characters who've earned it (like Drakken) and have lower ranks speak only their tongue.
+### B5. Aliens speaking fluent English — ✅ RESOLVED (author)
+- Multiple Obsidians speak perfect English (Ch5 Mindreaver "You will be eradicated"; Ch8 Drexel's killer; Ch18 Drakken "made it my duty to learn").
+- ✅ **RULING (author):** **For ~a year before the Trident invasion the Obsidians ran deep reconnaissance on humanity** — gathering everything they could, **including the human language.** On top of that, **Obsidians are long-lived (the Vrak'Thar nobles are centuries old) and are practiced, fast language-learners** (they've mastered *how* to acquire languages over long lifespans). So fluency is **plausibly widespread across the invasion force** (they trained on it), and **especially fluent among the long-lived elite** (Drakken). *(Also frames the Dra'Kor Vhel'Tan advance phase as part of that recon year.)*
+- **Editorial:** no need to gate English to Drakken alone; keep it consistent and, where natural, seed the recon-prep reason once.
 
 ### B6. Charr / Huckleberry: surface or moon? — ✅ RESOLVED & APPLIED
 - ✅ **Canon: Charr and Huckleberry are comms/defense stations in remote locations ON Trident** (the planet), **not** a moon. **Applied:** Ch5's "Trident's moon" → "Trident's wilderness." (Trident *has* moons — Ch1/Ch15 "twin moons" — but these stations are planetside.)
