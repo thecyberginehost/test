@@ -89,9 +89,9 @@ The aliens look like different species across chapters:
 The ability was used as **both** precognition ("foresight," predicting ambushes, sensing danger — Rourke/Wraith) **and** telepathy (reading/translating thoughts, mind-torture, planting illusions — Surgeon/Wraith/Rourke).
 - ✅ **RULING (author):** they are **TWO DISTINCT powers**, and a character may have **one or both**:
   - **Foresight** = **precognition** (battle danger-sense, predicting ambushes, split-second prediction).
-  - **Mindreaver** = **telepathy** (reading/extracting/projecting thoughts; the obscuration mechanic; the Surgeon's craft).
-- ⭐ **Proposed per-character assignment (author to confirm):** **The Surgeon** = Mindreaver (amplified telepath, his "7"). **Wraith** = **both** (battlefield foresight *and* telepathy — rare, which is why GRID prizes him; e.g. reading the killers' residue at Charr = telepathy). **Rourke** = **foresight** only.
-- **TODO (chapter pass):** re-tag every psychic-power use to the correct gift; propagate the split into the Wraith/Surgeon/Rourke entries in STORY-BIBLE.
+  - **Mindreaver** = the **mind gift**, with multiple applications: **telepathy** (reading/extracting/projecting thoughts; the obscuration mechanic; the Surgeon's craft) **AND cerebral piloting** (mind-machine interface — the **cerebral pilots of the GFC Eden**, Greenwich's flagship, fly by this; author-canon).
+- ⭐ **Proposed per-character assignment (author to confirm):** **The Surgeon** = Mindreaver (amplified telepath, his "7"). **Wraith** = **both** (battlefield foresight *and* telepathy — rare, which is why GRID prizes him; e.g. reading the killers' residue at Charr = telepathy). **Rourke** = **foresight** only. **The GFC Eden's pilots** = Mindreavers (cerebral-piloting application).
+- **TODO (chapter pass):** re-tag every psychic-power use to the correct gift; tag the **Eden's cerebral pilots** (Ch7) as Mindreavers; propagate the split into the Wraith/Surgeon/Rourke entries in STORY-BIBLE.
 
 ### B5. Aliens speaking fluent English — ✅ RESOLVED (author)
 - Multiple Obsidians speak perfect English (Ch5 Mindreaver "You will be eradicated"; Ch8 Drexel's killer; Ch18 Drakken "made it my duty to learn").
