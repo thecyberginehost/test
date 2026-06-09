@@ -190,4 +190,74 @@ These are global find-and-fix items (will be handled automatically during line e
 
 ---
 
+## G. FULL-MANUSCRIPT RE-READ — fresh findings (2026-06-09, editor+reader pass, Prologue→Epilogue)
+
+### G1. Rourke is a Mindreaver in the text — conflicts with proposed B4 assignment ⚠️
+- Ch2: "All GRID Operatives are Mindreavers" → Argus: "Another Mindreaver on the team…" *glancing at Rourke*, who owns it ("not as fortified… but good enough for GFC work"). Ch4: "Both, being Mindreavers" (Rourke + Wraith); Rourke "telekinetically executed an override on each team member's suit pack thrusters" (= mind-machine interface — actually fits the **cerebral-piloting application** of Mindreaver!). Ch16: "his Mindreaving abilities identified another Mindreaver."
+- But B4's proposed table says **Rourke = foresight only.** The text says Rourke is a (low-grade) Mindreaver who *also* has foresight (Ch3 "his foresight" detecting Wraith's heart rate = sensing; Ch10 "Rourke's foresight had not been active" = precog).
+- **Author to rule:** Rourke = both (weak Mindreaver + foresight), or re-line Ch2/Ch4. *(Suggestion: both, weak grades — it also explains the suit-thruster override via the mind-machine application.)*
+
+### G2. The family never evacuates — and Argus never tells them to ⚠️ HIGH (reader-facing)
+- OE-Exodus-TR is ordered Ch6 (~2330 Dec 15). Argus phones home Ch9 (~1030 Dec 16) and says *lock the doors, remember the safe* — not "get to the evacuation point." Ch11: the family is home at 1335 when the pods land.
+- A reader **will** ask why a Praetorian lieutenant's family sat at home ~14 hours into a planetary evacuation. One or two lines fix it (evac staged by district and theirs hadn't been called; roads severed; Julia told to shelter in place until escorted — any of these).
+
+### G3. Ch12/Ch13 recall causality runs backwards ⚠️
+- Ch12 (1733): Ironclad reports Viper Platoon "is being recalled to Gladius as an armed escort." Ch13 (1907): Voss's revelation happens and GRIDCOM *then* orders that recall "under the guise of the armed escort," "Pegasus already en-route."
+- Effect precedes cause by ~90 min. Fix: either Ch13's header time moves earlier than Ch12's radio call, or make the civilian-escort recall genuinely pre-existing and GRID merely *re-tasks* Viper after Voss's revelation (one line at GRIDCOM: "the escort recall already in motion serves as cover").
+
+### G4. Ch15 enters the cave twice (draft-stitch) ⚠️
+- Lines ~23–30: patrol killed, "The team entered, the air inside cool and damp… their approach to the artifact was as silent as their kills." Then ~31: "As Death Platoon approached the cave entrance, Strickland signaled for a pause" → second full entry sequence (drone recon, darted sentry, entry).
+- Two drafts of the same beat. Keep the drone-recon version (it carries the short-sentry race seed); fold the first entry into it.
+
+### G5. Death Platoon is under the city when the nuke goes off — never acknowledged ⚠️
+- Ch15: Strickland's team infiltrates caves/sewers beneath New Eridanus overnight. Ch16 (~0600 Dec 17): a tactical nuke flattens 2 km of the city above them. No line anywhere acknowledges their position relative to the blast (shock, partial collapse, "the ceiling rained dust"), and Book 1 ends with the reader unsure whether they were buried.
+- Fix: one beat — either in Ch16 (Orion: "Viper's deep enough") or as Ch15's **cliffhanger button** (the cave shudders; Strickland looks up; cut) — which would *also* satisfy A1's "intentional to-be-continued" requirement. ⭐ Recommended: make the nuke-tremor THE Ch15 ending.
+
+### G6. House body-count drift (Ch11 vs Ch12)
+- Ch11's ledger: **three** dead Obsidians at the house (Junior's rifle kill, Julia's railgun kill, Junior's blade kill) + possibly a fourth unaccounted (other transports carried four; the limping one vanishes from the tally).
+- Ch12: Argus finds "**an** alien… in a pool of its own blood" — one body. Fix: half-line (more dead in/under the rubble) + close the fourth-alien gap in Ch11 (state the squad as three, or show the limper bleed out).
+- Also Ch11: Junior's final weapon is called "the same weapon they used to penetrate the secure room" — but the door fell to the **sonic-pulse device**; the **energy blade** had *failed* against the door. Re-point the referent (e.g., "the blade that had first carved at the door").
+
+### G7. Prologue's Helios stations missing from Orion's outpost list
+- Ch9: "destroyed star outposts **Echo, Fox, November, Sierra and Zulu**." The reader just watched **Helios-2 and Helios-3** die in the Prologue; their absence reads as an authorial miss. Add them (or "…and the Helios relay stations in the Lagrange Rift").
+
+### G8. Evacuation plan drifts between Ch6 and Ch9
+- Ch6: evacuate to **emergency spaceports at Crete City and New Eridanus**; NE bunkers + Crete tunnels as fallback. Ch9: evacuees go to **Atlantis Underwater Contingency Station** (first mention, never again) "save for Crete City" (shuttles off-planet); New Eridanus spaceport evacuation gone.
+- Reconcile once: either the plan *changed* when the fleet fell (one line says so), or unify the destinations. Decide whether Atlantis exists (it's a good Book-2 asset) — if kept, it deserves its one line of setup.
+
+### G9. Smaller continuity catches (one-line fixes)
+- **Ch4 drone ownership flips:** briefing gives Kaine the "enhanced Stealth Watcher," Tessa the SpotBot; later Tessa deploys "her stealth watcher, not as enhanced as **Wraith's**" → should be **Kaine's**.
+- **Ch4 "an hour ago":** Argus says Charr was answering "when they dropped — an hour ago, no more"; the drop was 1515 and the approach is post-1730 (~3 h). Say "this afternoon."
+- **Ch8 sensory slip:** Praetorians in vacuum-sealed armor *smell* Drexel's burning flesh through a sealed door. Cut or route through a suit-sensor readout.
+- **Ch8 Drexel's two pistols:** he has a pistol drawn, then reaches for the hidden ankle pistol with no word on the first (say it ran dry / was flung away).
+- **Ch9 "Fraggo"** → **FRAGO** (Ch3 spells it right).
+- **Ch9 line 70:** "Barkley and Charles from Ironclad and Shadowhawk" — order swapped (Barkley=Shadowhawk, Charles=Ironclad).
+- **Ch14 Axe/Hawkins specialty swap:** Axe is introduced "known for his heavy loadouts," then packs "his **recon** kit" (drones/scanners) while Hawkins separately has the recon setup. Give the recon-kit beat to Hawkins or relabel Axe.
+- **Ch15 darted sentry:** the neurotoxin only "incapacitates," doctrine is *no survivors* — add the finishing beat (or make the dart lethal).
+- **Ch7 vs Prologue naming:** "Candidate Platform (STARCOM traffic control)" vs "Candidate **Maintenance** Platform" — pick one.
+- **Ch3/Ch6 OGDF arithmetic:** Ch3 "there isn't much left to drop" vs Ch6's three intact companies of the 82nd. Soften Ch3 ("done spending platoons on blind drops") or note the escort companies were held back.
+- **Ch10 platoon/transport math:** three platoons launched (Alpha, Bravo, Viper), two Pegasus transports land, then "remaining platoons" split three ways — recount once; and "all OGDF personnel accounted for" after a descent that killed 2 of 4 Praetorian transports is conveniently unscathed (one line of losses would sell it).
+- **Ch16 NMIP:** introduced for commandeering transports; the plan dies with Charles — fine, but consider one line acknowledging the unused gear (or save the NMIP intro for Book 2).
+- **Ch9 location line:** "war room **aboard** the Gladius" — Gladius is a ground base ("at Gladius").
+
+### G10. Reader-experience notes (not errors — author's call)
+- **Wraith's Ch7–12 absence:** he stays at Gladius (Ch6) and resurfaces Ch13 — but he's *in the same base* during the Ch9 war-room scenes and is never mentioned. One half-line in Ch9 ("Wraith was two thousand meters down with GRID") prevents "where's Wraith?".
+- **Ch16 — Argus never thinks of Junior:** he's recalled to the very base his dying son was flown to and the boy crosses his mind zero times. One sentence of interiority preserves N2's ambiguity *and* his humanity.
+- **Barkley dies unmourned (C6 confirmed):** Shadowhawk's transport death gets no name-check for Barkley. A breath from Charles (his fellow guard commander) in Ch10/12 closes it.
+- **Royce's father's knife (C5):** the Ch5 wording is now "his father's knife… academy heirloom" — with original Ch18 cut, the mother-hallucination payoff moved to Book 2; keep the knife alive (a touch in Ch16) so the Book-2 beat lands.
+- **Epilogue ends mid-beat:** Kyr walks in "fully aware he was about to face a severe reprimand" and the book stops on a descriptive sentence. Deliberate cliffhanger? Then cut harder — end on Vrakar's first words to Kyr (or the silence before them), not on armor description.
+- **B1 table refs need renumbering:** the "yellow eyes / jagged fangs" look now lives in **Ch16** (Charles's killer), not cut-Ch18. Also new: **Ch15's "noticeably shorter" cave sentry** is a strong candidate **Kresh** sighting (~5 ft per the card); and the **charcoal-and-purple elites** appear in **Ch8 (Liberation boarders) and Ch16 (ambush)** = consistent **Blackguard** deployments — worth tagging deliberately.
+- **C9 re-scope (Kaine's hacking):** the hacking duels lived in cut Ch17–18, so Book 1 now contains **zero** Kaine hacking. His tunnels/native-son thread is well seeded (Ch10→Ch16 ✓). Decision: seed hacking lightly anyway as a Book-2 promise, or drop it from Book 1 entirely.
+- **C4 downgraded:** Dutch calling "Platoon, Attention!" while all face Strickland is correct NCO protocol *if Strickland is entering* — add "as Strickland strode in" and it's clean.
+- **Artifact #1 provenance is never stated** — where/when was it found and first activated? This now matters doubly, because **B5's recon-year canon** implies the desecration (activation) happened ≥ ~a year ago, while Ch13 says Voss has studied it "weeks." Reconcile (e.g., found and first triggered ~a year+ ago; moved to Section-47 recently; Voss's hands-on phase is weeks old). **Author decision needed.**
+- **Ch14 Fringe story — PROTECT:** "Not one projectile hit the Fringe after your father took command… I've never seen anything like it," said by the most powerful Mindreaver alive. Deliberate ambiguity (Strickland shielding the ship vs Harris's latent gift, with implications for **Dutch**). Don't flatten it in any pass.
+- **Ch11 — PROTECT:** Junior activates the alien blade "*as if it was only his thoughts*" — load-bearing foreshadowing of conduit-sensitivity (Voss line / future Harbinger). Never de-slop this line.
+
+### G11. Things this pass confirms are WORKING (protect)
+- Charles's motive ("I'll be damned if I let these things crack open a live nuke") pays off **verbatim** in Vrakar's epilogue complaint ("permitted to **deny it to us**") — keep both lines exactly aligned.
+- Ship-count math (Ch7: 5 − Mastodon − Reign = 3), 82-vessel breakdown everywhere, the one-nuke custody chain (Delta → Ironclad → Charles → "the only one we had"), Viper=Death-Platoon threading (Ch9 comm check → Ch12 memory → Ch14), the Strickland/Surgeon "Zero One/One Seven" numbers paying off the Surgeon's Ch6 backstory, Sergeant Hops (Ch1 → Ch11 ash → Ch12 burial), Lysander's named death + grief beat (C7 ✓ resolved), B2 blue blood applied (Ch16 ✓), B2b Vor'kara/Val'kora pair (Ch6 + Epilogue ✓), B8 fleet numbers (Ch6/7 ✓), N3 one-nuke patch (Ch12/16 ✓).
+- *(One nuance for N3: Ch8's **ship-launched** nuke on the Liberation is fine alongside the one-nuke ending, but consider one clarifying word in Ch12/16 — "the last nuclear weapon **left on Trident**" — so no reader asks why a Razor Wing couldn't do what the Dread Wing did.)*
+
+---
+
 *End of report. Recommend we resolve §A (structure) and §B (canon locks) by decision before line-level editing, since those choices ripple through multiple chapters.*
