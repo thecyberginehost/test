@@ -266,7 +266,7 @@ These are global find-and-fix items (will be handled automatically during line e
 ### G11. Things this pass confirms are WORKING (protect)
 - Charles's motive ("I'll be damned if I let these things crack open a live nuke") pays off **verbatim** in Vrakar's epilogue complaint ("permitted to **deny it to us**") — keep both lines exactly aligned.
 - Ship-count math (Ch7: 5 − Mastodon − Reign = 3), 82-vessel breakdown everywhere, the one-nuke custody chain (Delta → Ironclad → Charles → "the only one we had"), Viper=Death-Platoon threading (Ch9 comm check → Ch12 memory → Ch14), the Strickland/Surgeon "Zero One/One Seven" numbers paying off the Surgeon's Ch6 backstory, Sergeant Hops (Ch1 → Ch11 ash → Ch12 burial), Lysander's named death + grief beat (C7 ✓ resolved), B2 blue blood applied (Ch16 ✓), B2b Vor'kara/Val'kora pair (Ch6 + Epilogue ✓), B8 fleet numbers (Ch6/7 ✓), N3 one-nuke patch (Ch12/16 ✓).
-- *(One nuance for N3: Ch8's **ship-launched** nuke on the Liberation is fine alongside the one-nuke ending, but consider one clarifying word in Ch12/16 — "the last nuclear weapon **left on Trident**" — so no reader asks why a Razor Wing couldn't do what the Dread Wing did.)*
+- ✅ **N3 / Liberation nuke — AUTHOR RULING: keep the nuke** (a space/orbital detonation produces no real atmospheric fallout). **Applied:** Ch16 now frames the Delta warhead as **"the last nuclear weapon left on Trident"** — the fleet's ship-launched tactical nukes (incl. Ch8's Dread Wing strike) died with the fleet in orbit — so the orbital nuke never clashes with the one-nuke-on-the-ground ending.
 
 ---
 
@@ -277,7 +277,13 @@ Reader may ask why the Obsidians bring **82 vessels + ~10k fighters** when Tride
 - ⭐ **Reinforcement hedge.** They couldn't assume Trident was humanity's only strength; **Greenwich's 20 came, and STARCOM Fleet was 2 weeks out.** 82 hulls lets them take the planet *and* crush any relief fleet, with margin.
 - ⭐ **First-strike totality:** secure the relic fast and let no one escape to organize, before the GFC grasps what's happening.
 - **Theme bonus:** the disproportion makes the human stand **more** tragic and heroic — the read the book wants.
-- **Editorial (optional seed — author confirm):** all of this is already supported by canon; it just needs the text to *land* it. Cleanest: **one beat in Ch7** where Harris/Orion realizes *"this isn't a fleet sent to beat us — it's a fleet sent to take the planet and hold it,"* with the transport troop-count driving it home.
+- **Editorial — ✅ AUTHOR RULING: NO seed line.** The fleet's mere *appearance* carries the dread (Harris dropping his coffee cup; the instinctive "oh, fuck" of everyone who sees it). The rationale above is **backstory for our consistency only** — it never goes on the page.
+
+### G13. NEW CHAPTER added — *The Last Stand of the Eden* (Greenwich's space battle) — ✅ AUTHOR-APPROVED, DRAFTED
+- ✅ **Author ruling: full battle chapter** (not off-page). **Drafted:** `02-edited/08b-The_Last_Stand_of_the_Eden.md` (provisional **Chapter 9**), placed between Ch8 (Liberation boarding) and current Ch9 (Reign of Fire), running **concurrent** with the boarding and ending **exactly on "comms went dark"** → Reign of Fire's opening.
+- **What it does:** pays off Greenwich/the Eden's strong Ch7 setup (previously died off-page); **showcases the cerebral-pilot / Mindreaver fleet-combat canon** (the Eden's bridge-integrated Mindreavers flying 19 ships as one shared mind); and **pays off the Ch7 corvette stealth-run** (Ch7 line 128) → the corvettes bring **3 orbital Titan cannons** back online, reconciling Ch9's "Greenwich managed to save a few orbital titan cannons" and the "three orbital titan cannons" the ground forces later use. ⭐ Greenwich's last act = **handing the surface its only heavy guns.**
+- ⚠️ **Renumber dependency (ties to A3):** with this insertion the back half shifts — **08b → Ch9**, and **current Ch9 (Reign of Fire) → Ch10 … Epilogue → +1.** Internal chapter-number headers across the back half need one renumber pass; provisional header note left in the new file. **Do the global renumber once the chapter set is final.**
+- **Draft status:** first draft for author review — voice/canon-accurate but open to revision. *(Invented for the scene: **Halcyon** = lead cerebral pilot/Mindreaver; ships **Tempest/Resolute/Ardent** lost on-page; rename freely.)*
 
 ---
 
