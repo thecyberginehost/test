@@ -270,4 +270,15 @@ These are global find-and-fix items (will be handled automatically during line e
 
 ---
 
+### G12. Why 82 Obsidian ships for a planet with ~5 defenders? — ✅ RATIONALE (author-floated; recommended)
+Reader may ask why the Obsidians bring **82 vessels + ~10k fighters** when Trident's space defense is **~5 GFC ships** (pre-Greenwich). **The 5-ship frame is the wrong frame — the fleet was never built to win the space battle:**
+- ⭐ **Occupation + EXCAVATION force, not a strike.** The **10 transports carry 100k+ troops each → 1M+ ground soldiers** — sized to **take and *hold* a multi-city capital world** (New Eridanus, Crete City, Titan City, Epsilon City…) and to **secure/dig out the buried artifact** the warship drills for (Ch16; Book 2's Pillar of Anguish excavation). You don't ship a million soldiers to kill five ships — the ground, and what's *under* it, was always the target.
+- ⭐ **Motive = sacred retribution + relic retrieval (Ch6).** Zealots size force by the *offense,* not the enemy; overwhelming force is the theological statement — the flagship is literally **Krath'Zaroth, "Sacred Retribution."**
+- ⭐ **Reinforcement hedge.** They couldn't assume Trident was humanity's only strength; **Greenwich's 20 came, and STARCOM Fleet was 2 weeks out.** 82 hulls lets them take the planet *and* crush any relief fleet, with margin.
+- ⭐ **First-strike totality:** secure the relic fast and let no one escape to organize, before the GFC grasps what's happening.
+- **Theme bonus:** the disproportion makes the human stand **more** tragic and heroic — the read the book wants.
+- **Editorial (optional seed — author confirm):** all of this is already supported by canon; it just needs the text to *land* it. Cleanest: **one beat in Ch7** where Harris/Orion realizes *"this isn't a fleet sent to beat us — it's a fleet sent to take the planet and hold it,"* with the transport troop-count driving it home.
+
+---
+
 *End of report. Recommend we resolve §A (structure) and §B (canon locks) by decision before line-level editing, since those choices ripple through multiple chapters.*
