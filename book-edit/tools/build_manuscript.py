@@ -92,8 +92,14 @@ def inline_runs(p, text):
         p.add_run(text[i:])
 
 
+def _is_meta(ln):
+    """Skip editorial notes that live in chapter files but aren't story text."""
+    s = ln.strip()
+    return s.startswith("*(Provisional") or "DISCREPANCY-REPORT" in s
+
+
 for f in files:
-    ne = [ln.rstrip() for ln in open(f, encoding="utf-8") if ln.strip()]
+    ne = [ln.rstrip() for ln in open(f, encoding="utf-8") if ln.strip() and not _is_meta(ln)]
     if not ne:
         continue
     doc.add_page_break()
