@@ -1,0 +1,12 @@
+# Generated archives (e.g. packaged project snapshots)
+*.zip
+
+# Python cache from scripts/lint_tells.py
+__pycache__/
+*.pyc
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
