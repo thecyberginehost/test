@@ -478,3 +478,42 @@ CREW DEATHS LOCKED (do not change):
   review" line; NO editable character sheet or blinking cursor; he cannot yet read the empty
   field's value or the dim comments fully. The operative word "unhandled" is set up but not
   yet spoken as the literal label (lands by Sec 10).
+
+### Ch 1 (Sec 9) established facts now known to the reader
+- Continuous from s08, same Tuesday, 31st-floor office. Aaron keeps leaning his attention
+  through the open class field down into the dim second layer while the floor celebrates.
+- THE REALIZATION crystallizes: the dim, set-back, half-shade scrolling text is NOT his card
+  and NOT a message to him. It is the System's own working memory / scratch work / margin
+  notes, the process reasoning it does while it stamps everyone's clean card but does not
+  print. Comments, not output. Aaron categorizes it: a surface everyone gets, and a layer
+  underneath where the machine actually thinks, normally sealed, left open for him only
+  because his card threw.
+- Aaron alone can see/reach this layer. Everyone else gets only the sealed surface (the
+  stamped noun) with no margin they can reach. He frames it as the architecture he spent ten
+  burned-out years learning to read: "I read the layer underneath the official one" (callback
+  to Dwyer's s03 "you read the thing under the thing"). The world now runs on exactly the
+  surface/under-layer structure he is uniquely literate in. Dual-ladder seed and the first
+  taste of the power fantasy, rendered as a visceral hook in the chest (hunger and terror at
+  once, the master-key feeling).
+- He can PARTLY read it: looking harder brings the dim layer's contrast up and more resolves;
+  he reads four-plus lines, but the deeper grammar still closes over his head and runs too
+  fast. "Most is not all," and "yet" is loaded. He has NOT learned he can edit anything.
+- NEW canonical dim-comment fragments (verbatim; the "# recommend" tail from s08 grown out):
+
+      > # recommend: hold case open pending evaluation
+      > # subject behavior anomalous: receiving on a channel not provisioned for class-tier entities
+      > # subject is reading this
+      > # decision: deferred
+      > # routing subject to
+
+  The System noted, unhurried, that the anomalous subject is reading on a channel he was not
+  provisioned for (it clocked him, then went back to its notes; it did NOT turn to address
+  him). It deferred his case rather than discarding him, marked the decision deferred, and
+  began "routing subject to" something that frays off dim before it finishes. Feeds the
+  "decision pending about what to do with him" idea WITHOUT the literal Ch 2 mechanic.
+- STILL RESERVED FOR CH 2 (NOT shown): class not named NULL_OPERATOR; no literal "flagged for
+  review" line/mechanic; no editable sheet, cursor, or edit; the unnameable-color token, the
+  empty field's value, and where he is being routed remain past him. The word "unhandled" is
+  not yet spoken as the literal label (reserved for Sec 10).
+- End-of-section: Aaron leans harder into the gap (hungry, terrified, lit up) and reads the
+  next line as it surfaces. Hands into s10.
