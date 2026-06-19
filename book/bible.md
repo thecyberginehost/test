@@ -174,3 +174,30 @@ CREW DEATHS LOCKED (do not change):
   contradicted. At outline stage, only the premise the reader is handed up front is
   certain: the world is System-ified, everyone but Aaron got a clean class, Aaron got
   an editable error called Null Operator, and he can read the System's hidden layer.)
+
+### Ch 1 (Sec 1) established facts now known to the reader
+- **Setting (the "before"):** A Tuesday morning, pre-System. Aaron works as a
+  reliability engineer in a glass office tower, on the 31st floor, open-plan gray
+  cube floor, in a city. The System has NOT arrived in this section; this is the
+  mundane world.
+- **Aaron's core trait, lived:** He trusts the raw log over the polished summary.
+  He keeps a second monitor angled away from coworkers showing the raw log stream,
+  the layer underneath the official dashboard. He reads the layer beneath the
+  official one (the thematic seed of his whole arc). Being right brings him
+  loneliness, not satisfaction; a decade of losing arguments to confident
+  summaries has burned him out. He has lost every promotion for siding with the log.
+- **The dead-server bug (concrete):** Production server **PROD-EAST-07** has been
+  dead since 12:04 (disk I/O errors on dev sdb). Its **health-agent suppresses
+  alerts after three failed heartbeats**, so the box reads HEALTHY while serving
+  nothing; the dashboard interpolated a smooth curve across the outage. Aaron drafts
+  a ticket with the 41-line log attached but does not submit it yet (plans to raise
+  it in standup, expecting to be overruled in favor of the green banner).
+- **Refrain planted:** The dashboard / official systems lie politely and are always
+  declared "nominal" / effectively "working as intended"; Aaron's decade of losing
+  arguments to automated systems that insisted they were working as intended is
+  lived on-page here. (Refrain to be weaponized later.)
+- **End-of-section seed:** The very last line plants the coming wrongness ("the
+  light was already starting to do something it had no business doing"), and the
+  scene is set to flow into Section 2's standup with manager Dwyer and coworker Lena.
+  (Note: Dwyer and Lena are referenced by the outline/spec for Sec 2 but do NOT yet
+  appear by name in Sec 1.)
