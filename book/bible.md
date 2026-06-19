@@ -260,3 +260,37 @@ CREW DEATHS LOCKED (do not change):
   field still loading (rendering gray like a tile that does not know what it is) while everyone
   else's resolved. The pressure behind his eyes intensified; at section's end his card began to
   throw, handing into Section 3.
+
+### Ch 1 (Sec 3) established facts now known to the reader
+- **Aaron's failed class card (canonical, verbatim):**
+
+      [ SYSTEM ]
+      CLASS: [unresolved]
+      status: unhandled
+
+- **The dim second layer (Operator overlay, the System's self-talk about him; canonical
+  clean version, NO em dashes; the prose must render it exactly like this):**
+
+      > # subject KESSLER, A.: assessment returned no valid class
+      > # cannot parse to template. no match within tolerance.
+      > # discard? denied. subject is conscious. cannot null a live account.
+      > # assign nearest? rejected by subject. integrity check failed.
+      > # flag for administrator review. decision deferred.
+      > # provisional handle: NULL_OPERATOR
+      > # status: unhandled
+
+- **The class token NULL_OPERATOR blinks** and will not commit; the status word is "unhandled"
+  on both layers (top card and dim layer), the System agreeing with itself.
+- **Debug-overlay ability established:** under his failed card a dimmer, grayed-back comment
+  layer surfaced (the raw thing under the rendered thing), scrolling with his eyes. Only Aaron
+  sees it. He waved a hand through the dim text and it stayed fixed to his sight, invisible to
+  the room. Everyone else's card is finished, sealed, surface only.
+- **Physical toll of the read:** pressure/heat behind the eyes crests, then a wet click as the
+  second layer surfaces (early Operator-sight cost, building on the s02 pressure).
+- **Aaron's realization:** "unhandled" is a crash-log line he has shipped countless times; the
+  System did not give him a class, it crashed trying to. "Decision deferred" / no handler means
+  the window is open. Dread mixed with a dark thrill. He did NOT edit or annotate anything
+  (reading only).
+- **The rift interruption:** before he reads deeper, three floors down the building makes a deep
+  structural cough, then the first scream climbs the stairwell. Aaron's read snaps shut, handing
+  into Section 4.
