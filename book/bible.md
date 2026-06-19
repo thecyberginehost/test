@@ -240,3 +240,23 @@ CREW DEATHS LOCKED (do not change):
 - **The refrain:** "Working as intended," spoken once by Dwyer.
 - **Cusp ending:** the air thickens and Aaron's coffee cup freezes halfway to his hand (the
   forced update beginning); no System block shown yet.
+
+### Ch 1 (Sec 2) established facts now known to the reader
+- **The freeze:** when the forced update lands, reality stutters and stops. The coffee cup
+  hangs mid-air, Lena freezes mid-step, a dropped pen hangs without falling, the fluorescent
+  light goes grainy and a frame behind the world. For a half-breath Aaron sees the office as
+  untextured polygons with flat gray nothing behind the walls. Heat, then pressure behind his
+  eyes (an early physical sign of his Operator sight). The freeze breaks on the word "Begin."
+- **The public welcome block:** the canonical WORLD SYSTEM INITIALIZING block writes itself
+  into everyone's sight at once (not on a screen, hung in the air), delivered to every person
+  on the floor and, by implication, everyone on Earth at the same moment.
+- **Classes assigned aloud on the floor:** Lena = Sentinel with a Vitality stat of 8 (read
+  aloud); Dwyer = Quartermaster with a visible inventory of slots (read aloud). Background
+  classes overheard resolving cleanly: a coworker by the window gets Ranger; the new hire two
+  desks over gets Reaver; a woman by the printer gets an unnamed class and reacts with tears and a grin.
+- **Everyone but Aaron got a clean, finished class card** (a name and settled numbers), each
+  landing as a small private detonation of awe or shock.
+- **Aaron's card did not resolve cleanly:** his sight showed an unfinished, half-drawn card, a
+  field still loading (rendering gray like a tile that does not know what it is) while everyone
+  else's resolved. The pressure behind his eyes intensified; at section's end his card began to
+  throw, handing into Section 3.
