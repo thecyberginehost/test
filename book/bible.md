@@ -290,3 +290,29 @@ CREW DEATHS LOCKED (do not change):
   to read something "not working as intended at all." Hands directly into Sec 4
   ("The light goes wrong": color drains and recenters, sound drops to a hum, the held
   breath before the update).
+
+### Ch 1 (Sec 4) established facts now known to the reader
+- **The onset of the wrongness, physical only (no System text yet):** Still the same
+  Tuesday morning, continuous from Sec 3. Aaron alone in the Forum, thumb just lifted
+  (cold) off the key that closed INC-44193. This is the held breath BEFORE any
+  notification; the System has written nothing yet.
+- **Sensory anchors of the onset (now canon):** Sound goes wrong first (his own breath
+  makes no noise). Then color drains, hue stepping back out of objects (ficus red lifts
+  off the leaves, his sleeve's blue thins, the dashboard green keeps shape but loses
+  conviction), then rushes back and lands a half-degree off-true, every object briefly
+  too sharp / over-contrasted. A false sense of the floor tilting, corrected a beat late.
+- **The hum:** The building's ambient sound folds down to a single sustained low tone,
+  lower than the room, like a stadium one second after the lights cut. It descends,
+  bottoms out, and holds.
+- **Bodily wrongness on Aaron:** Cool pressure at the back of the neck (felt a half-inch
+  behind the bone, not on skin); metal/ozone taste; arm hair rises; pressure building
+  behind the eyes (not pain yet); blinks come back slow, the dark behind his lids "not
+  empty," something loading he can feel arriving but not see.
+- **Aaron's read of it:** His log-reading instinct wakes ("the quiet is the wrong kind
+  of quiet") and gives one command: hold still, do not run, this is bigger than running.
+  He grips the cold laminate table. He is certain everyone on the floor feels it too and
+  that no one says anything.
+- **End-of-section state:** Everything holds at the brink. His instinct screams something
+  is about to be written. Final image: the world draws its breath all the way in and does
+  not let it out, handing into Sec 5 (the freeze). Still NO System text, class, or
+  mechanics anywhere in this section.
