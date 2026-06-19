@@ -427,3 +427,54 @@ CREW DEATHS LOCKED (do not change):
   then instead of finishing the word BEGINS TO SCROLL. Hands into Sec 8 (his card errors).
   Still NO class name, NULL_OPERATOR, debug overlay, editable sheet, or "flagged for review"
   shown.
+
+### Ch 1 (Sec 8) established facts now known to the reader
+- Continuous from s07, same Tuesday, 31st-floor office. Where everyone else's card resolved
+  into a clean finished noun (Sentinel / Quartermaster / Herbalist / Skirmisher) and stepped
+  back, Aaron's card ERRORS instead of resolving. It does not snap into final position. It
+  scrolls, like a deploy or terminal going wrong, line under line.
+- The failing card renders in the canonical public `[ SYSTEM ]` block style (same flawless
+  typeface as the welcome) but the content is a failure log, not a class. Exact text (canon
+  for this beat):
+
+      [ SYSTEM ]
+      ASSIGNING CLASS...
+      > class assignment initiated [subject: KESSLER, AARON]
+      > evaluating candidate set... matched
+      > writing class field
+      !! EXCEPTION
+      !! value did not resolve
+      !! class field returned no valid assignment
+      > retrying...
+      > retrying...
+      > evaluating candidate set... no match
+      > evaluating candidate set... no match
+      > fallback assignment unavailable
+      > class field: <unresolved>
+      > leaving field open
+
+- Aaron's CLASS FIELD throws an EXCEPTION and is left empty / `<unresolved>`. The System loops:
+  retries the write, exhausts the candidate set ("no match"), finds no fallback, ends by
+  "leaving field open." It does this with calm, unhurried competence (not panicking), which
+  is what unsettles and darkly thrills Aaron.
+- BENEATH the broken public card, Aaron glimpses a SECOND LAYER: dimmer lines, set back, a
+  half-shade off the public face, like comments beside code. NOT addressed to him. The System
+  talking TO ITSELF ABOUT him. Exact dim-comment fragment (canon):
+
+      > # subject does not parse to existing class set
+      > # cannot discard: subject is conscious, active, integrated
+      > # cannot reassign: candidate set exhausted on first pass
+      > # recommend
+
+  The "# recommend" line cuts off mid-thought (hands into s09). Below it, more lines scroll,
+  dimmer and too fast/deep for Aaron to read yet. He can SEE that a whole second body of text
+  EXISTS beneath the public card. This is the dual-ladder seed made visible to the reader.
+- A single bracketed TOKEN flicks past in a color Aaron has no name for. He does NOT hold,
+  parse, or recognize it as his class name. He lets it go. (Reserves NULL_OPERATOR for Ch 2.)
+- THE REVEAL Aaron grasps: he is THE EXCEPTION. Everyone else's fate resolved into a clean
+  noun; his THREW and would not finish writing. The welcome's "a Class has been assigned to
+  each" is, for him, false / still failing in real time.
+- BOUNDARY RESERVED FOR CH 2 (NOT shown here): class NOT named NULL_OPERATOR; NO "flagged for
+  review" line; NO editable character sheet or blinking cursor; he cannot yet read the empty
+  field's value or the dim comments fully. The operative word "unhandled" is set up but not
+  yet spoken as the literal label (lands by Sec 10).
