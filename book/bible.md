@@ -517,3 +517,49 @@ CREW DEATHS LOCKED (do not change):
   not yet spoken as the literal label (reserved for Sec 10).
 - End-of-section: Aaron leans harder into the gap (hungry, terrified, lit up) and reads the
   next line as it surfaces. Hands into s10.
+
+### Ch 1 (Sec 10) established facts now known to the reader
+- Continuous from s09, same Tuesday, 31st-floor office. Aaron waits for the next dim line and
+  instead finds the second layer is LOOPING, not deliberating: the dim block (subject does not
+  parse / cannot discard / cannot reassign / routing subject to) reaches its fray point, finds
+  nowhere to route him, and redraws from the top again and again, in the same calm hand. Aaron
+  reads it as an infinite retry with no progress condition. The System is NOT deciding about
+  him; it has run out of places to send him and keeps re-deriving the same dead end.
+- THE WORD LANDS. The broken public card finally prints a value into Aaron's class field. The
+  class NAME renders in the unnameable bracketed color (the s08 token); his mind slides off it;
+  it is NOT read or named (NULL_OPERATOR reserved for Ch 2). Beneath the field a plain status
+  word prints and blinks: unhandled. Exact card text (canon for this beat):
+
+      [ SYSTEM ]
+      CLASS: [██████████]
+      status: unhandled
+
+  (The class value is shown only as a redacted bracket token, NOT the name.)
+- "unhandled" fully felt and defined on-page (operative word, spent here): not "broken" (broken
+  has a fix); it is the error that falls through every handler and fallback because none was
+  written for a thing shaped like him. The word blinks at the bottom of his card "like a cursor
+  with nothing to do" (a forward seed of Ch 2's cursor WITHOUT an editable sheet or any edit).
+- THESIS LANDED, "chosen by malfunction, not destiny": Aaron rejects chosen-one framing. He was
+  the input that crashed the welcome screen. The break and the gift are ONE object: the same
+  malfunction that locked him out of a clean class is what cracked the page and let him see the
+  machine think.
+- Office at chapter's end: full churn around the one unresolved man. The Skirmisher reads his
+  Strength number aloud with a cracked laugh; a payroll woman who got Herbalist is crying and
+  asking what it means; two by the printer trade cards; dead phones ring unanswered; Lena scrolls
+  her Sentinel card, delight faulting because it does not match her old job.
+- Dwyer beat: soft-face cracked with fear, presses Aaron ("Tell me you got one... You said it
+  was slow"). Aaron answers "It's not slow," then gives the least-costly lie, "It's still
+  loading. Go check your people." Dwyer obeys and starts gathering people (Quartermaster function
+  without knowing it). Aaron reveals his error to no one.
+- FIRST HINT OF THE RIFT PLANTED (hook into Ch 2 "Uncaught Exception"): the building makes a sound
+  it never made, THREE FLOORS DOWN: a low structural cough felt through the soles a half-second
+  before heard, then a second harder cough. The floor goes silent and listens down. In that
+  silence the dim layer HITCHES for the first time and breaks its loop: a NEW line writes in fast,
+  in a hand "that was not calm now," hot and bright at the edge of sight, a word the System has
+  not used yet and one NOT about Aaron (content withheld for Ch 2). Final image: far down the
+  stairwell, "something that was not a person began, with great enthusiasm, to scream." Chapter 1
+  ends on the cusp; the rift is NOT yet opened and Ch 2 is NOT started.
+- STILL RESERVED FOR CH 2 (NOT shown): the class name NULL_OPERATOR (value shown only as a
+  redacted color-token); the literal "flagged for review" line/mechanic; the editable sheet, the
+  cursor as a usable editor, and any act of editing; the new hot line's content, the rift naming
+  (DUNGEON-RIFT), and its integrity timer.
