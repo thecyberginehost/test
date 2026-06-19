@@ -350,3 +350,49 @@ CREW DEATHS LOCKED (do not change):
   room), the first stroke of something drawing itself, a line beginning to write across
   the inside of his skull. Hands into Sec 6 (WORLD SYSTEM INITIALIZING). Still no System
   block, class, or mechanics shown yet.
+
+### Ch 1 (Sec 6) established facts now known to the reader
+- THE FIRST SYSTEM NOTIFICATION IN THE BOOK. The System's public welcome block resolves
+  in Aaron's vision, writing itself stroke by stroke onto the inside of his skull (the
+  underside of his own sight, not on any screen). This establishes the canonical PUBLIC
+  notification format every later block follows.
+- CANONICAL PUBLIC WELCOME-BLOCK TEXT (exact, now the template):
+
+      [ SYSTEM ]
+      WORLD SYSTEM INITIALIZING
+
+      Welcome.
+
+      Your world has been integrated.
+      Reality is now governed by the System.
+
+      All conscious entities have been assessed.
+      A Class has been assigned to each.
+
+      You will grow. You will be measured.
+      Begin.
+
+- FORMAT RULES ESTABLISHED ON-PAGE (now canon): a `[ SYSTEM ]` bracket header, an
+  all-caps title line over the body, a clean unfamiliar typeface, no version number, no
+  build hash, no legal/checkbox/copyright clutter, perfect kerning. Each line snaps into
+  final position with a small dry "click." The block recedes/slides back rather than
+  vanishing when it resolves. Aaron files this as a reusable template and expects a
+  hidden layer underneath (seed only, not yet shown).
+- The same clean public welcome reached EVERYONE at once (the ~sixty on his floor read
+  identical copies). Universal onboarding, not yet anything different for Aaron.
+- DELIVERY IS NON-CONSENSUAL: no prompt, no button, no key pressed. The block writes
+  directly into perception. Wording is past-tense and final ("HAS BEEN integrated," "have
+  been ASSESSED," "has been ASSIGNED"): the world was taken and integrated before being
+  informed.
+- "Assessed" lands as fact: the System already measured all of them (and Aaron) during
+  the freeze. Aaron reinterprets the cool weight at the back of his neck (Sec 4-5) as not
+  dread but ATTENTION, leaning in to look at him specifically.
+- AARON'S REACTION (the beat): genuine professional awe at the craft (it neither lies nor
+  clutters, unlike every dashboard he ever fought) colliding with horror at the violation.
+  His dry register holds. He reads it by the seams and finds the seams perfect. Beautiful
+  and total and wrong at once.
+- END-OF-SECTION / HANDOFF: the public welcome resolves and recedes; the freeze breaks
+  (gasps, a tipped mug, a held foot coming down) as everyone's individual class cards
+  finish. Aaron's OWN block has only just begun building "sideways" behind his eyes
+  (reached him a beat late, a slower queue). Hands into Sec 7. Still NO class name, error,
+  NULL_OPERATOR, overlay, or flag shown yet.
