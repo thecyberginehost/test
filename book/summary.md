@@ -7,7 +7,7 @@
 
 The world gets System-ified on a Tuesday, no warning, no consent, like a forced update pushed to seven billion machines at once. Stat bars bleed into vision. Monsters claw out of dungeon-rifts that punch through subway stations and office parks. Every human on Earth is handed a class card by an unseen administrator, neat and final, the terms of a deadly new game laid over the old world.
 
-Every human except Aaron Vance.
+Every human except Aaron Kessler.
 
 Aaron, 31, a burned-out reliability engineer who spent a decade reading crash logs and losing arguments with automated systems that insisted they were working as intended, gets an error instead of a class. The assignment failed mid-write and left his character sheet editable. Where everyone else sees a clean card, he sees a raw debug overlay: the System talking to itself, comments and all. His unique class is **Null Operator**, the one account the administrator AI cannot fully read, because Aaron can read it right back.
 

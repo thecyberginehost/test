@@ -5,7 +5,7 @@ Administrator, Book One). Every prose agent reads it. The writer updates it afte
 every section. Append facts, never rewrite history.
 
 ## Protagonist
-- Name / class / unique System-interface ability: **Aaron Vance**, 31. Class:
+- Name / class / unique System-interface ability: **Aaron Kessler**, 31. Class:
   **Null Operator** (the only one on Earth, the result of a class assignment that
   failed mid-write and left his character sheet editable). Unique ability: he sees
   a raw debug overlay no one else can, the System talking to itself, comments and
@@ -25,16 +25,24 @@ every section. Append facts, never rewrite history.
 ## Cast
 | Name | Role | Traits | Status | First appears |
 |------|------|--------|--------|---------------|
-| Aaron Vance | Protagonist, Null Operator | Dry, stubborn, evidence-driven, lone exploiter who secretly cares | Alive | Ch 1 |
+| Aaron Kessler | Protagonist, Null Operator | Dry, stubborn, evidence-driven, lone exploiter who secretly cares | Alive | Ch 1 |
 | Priya Anand | Crew, triage nurse, Mender class | Steady, blunt, keeps people alive (the one thing Aaron's class cannot) | Alive | Ch 4 |
+| Tess Calloway | Crew, teen ex-gamer, Scout class | Reads terrain/spawns like Aaron reads code, sharp, fearless, sees through Aaron; his kindred reader and closest mirror | Alive (dies Ch 18) | Ch 5 |
+| Daniel "Hutch" Boyd | Crew adjunct, older delivery driver, plain class | Easy to like, easy to overlook; keeps trying to thank Aaron and getting brushed off; the man Aaron refuses to let himself care about | Alive (dies Ch 9) | Ch 5 |
 | Marcus | Crew, ex-soldier, Bulwark class | Immovable front line, calm under fire, loyal | Alive | Ch 7 |
-| Tess | Crew, teen ex-gamer, Scout class | Reads terrain like Aaron reads code, sharp, sees through Aaron | Alive | Ch 7 |
-| (unnamed survivor) | Crew adjunct Aaron "decides not to care about" | — | Dies Ch 9 | Ch 7 |
-| (crew member) | Dies inside the apex dungeon, lands the Act 3 grief beat | — | Dies Ch 18 | (earlier) |
 | The Administrator | The System-AI antagonist/puzzle | Vast learning AI running humanity as an experiment; curious, lonely | Active | Ch 1 (as System) |
 
-(Writer: assign final names to the two crew deaths before they occur, and record
-here once chosen, so the death lands on a named character.)
+CREW DEATHS LOCKED (do not change):
+- **Hutch (Daniel "Hutch" Boyd)** dies Ch 9, the minor adjunct loss. Seeded Ch 5,
+  kept at arm's length by Aaron through Act One so the guilt lands.
+- **Tess Calloway** dies Ch 18, the Act Three emotional centerpiece. She is the
+  protagonist whose loss hurts most without gutting the series: she reads the world
+  the way Aaron reads code, so killing her is the System killing the one person most
+  like him, inside a dungeon built from his own logs (he is complicit), while the
+  healer (Priya) and the tank (Marcus) survive to carry the series. She is seeded
+  Ch 5 and developed across Act One (street in Ch 5, the "two readers, one wave"
+  bonding beat in Ch 6, class resolves to Scout in Ch 7) with real page time and a
+  strong bond to Aaron before she dies, so the loss has full weight.
 
 ## System rules (the LitRPG mechanics, keep ironclad)
 - **Leveling, stats, classes:** The world is System-ified overnight. Every human is
@@ -94,16 +102,23 @@ here once chosen, so the death lands on a named character.)
 3. First kill via reading a monster's hidden status; first level-up; dual ladder and
    decode prompt revealed. (Ch 3)
 4. First annotation (a survival debuff renamed/neutralized); meets Priya. (Ch 4)
-5. Crew fights down the vertical-dungeon tower to the street; first global event
-   countdown appears, whose hidden layer is a wager placed on humanity. (Ch 5)
+5. Crew fights down the vertical-dungeon tower to the street; **Tess Calloway and
+   Hutch (Daniel Boyd) join** off the lower floors (Tess the kindred reader, Hutch
+   the man Aaron keeps at arm's length); first global event countdown appears, whose
+   hidden layer is a wager placed on humanity. (Ch 5)
 6. First counter-patch closes a tower exploit; early survival crisis as a Tier-up
    wave cuts the crew off; patch note carries a line addressed to Aaron. (Ch 6)
-7. Crew shelters in transit depot; meets Marcus and Tess; redirected reward holds the
-   depot and reaches the whole group. (Ch 7)
+6b. (Ch 6) "Two readers, one wave": Tess saves the group by calling a flanking spawn
+   Aaron missed; Aaron and Tess bond as the only two who read the world in two layers,
+   his first real bond. (Strong Act One bonding beat that makes her Ch 18 death land.)
+7. Crew shelters in transit depot; **Marcus** (Bulwark) joins as the last core member;
+   Tess's class formally resolves to **Scout**; redirected reward holds the depot and
+   reaches the whole group. (Ch 7)
 8. Decode tax established; Aaron grants himself a skill by reading grants; patch lands
    within minutes (near real-time). (Ch 8)
-9. Aaron logs the patch pattern (too cleanly aimed); first real crew loss; proof some
-   holes are deliberately left open. (Ch 9)
+9. Aaron logs the patch pattern (too cleanly aimed); first real crew loss: **Hutch
+   dies** in a gap Aaron's caution opened; proof some holes are deliberately left
+   open (found in Hutch's residual data). (Ch 9)
 10. Bait-hole experiment confirms the administrator leaves holes and studies him
     through them; Tess catches him arguing with patch notes. (Ch 10)
 11. MIDPOINT: frame flips, Aaron accepts the System is a learning AI and he is its
@@ -120,8 +135,9 @@ here once chosen, so the death lands on a named character.)
     admits an error, not a clean class. (Ch 16)
 17. Aaron forges crew access into the dungeon; crew crosses; first room recreates the
     Ch 1 office tower in the AI's grammar. (Ch 17)
-18. Dungeon is built from Aaron's own logs (a curriculum); a named crew member dies for
-    real; AI sends near-human condolences. (Ch 18)
+18. Dungeon is built from Aaron's own logs (a curriculum); **Tess dies for real** on a
+    floor he cannot read in time (the kindred reader killed inside a dungeon shaped from
+    his own logs); AI sends near-human condolences. (Ch 18)
 19. Grief and resolve; Aaron sustains a clear read of the AI's voice (lonely, learning,
     did not want the death); AI admits it chose not to make the dungeon survivable. (Ch 19)
 20. Aaron reads the core grammar the AI thought was past him; finds proof the original
@@ -148,8 +164,8 @@ here once chosen, so the death lands on a named character.)
 - The administrator's loneliness and its choice to be beaten "to learn what that felt
   like." Sets up the Book Two relationship: a learning god with a teacher it did not
   vote for. (Final hook, Ch 24, ends on the AI's open question.)
-- Two crew deaths (Ch 9 minor adjunct; Ch 18 named crew member) and the grief Aaron
-  carries forward.
+- Two crew deaths and the grief Aaron carries forward: **Hutch** (Ch 9, the man he
+  kept at arm's length) and **Tess** (Ch 18, his kindred reader). Both names locked.
 - Larger hidden lore for later books: what preceded the administrator, who built it,
   what the experiment ultimately serves.
 

@@ -7,7 +7,7 @@
 ## The hook
 The System arrives like a forced update nobody installed. Every human gets a class
 auto-assigned by the AI. One man gets an error instead. Where everyone else sees a
-clean class card, Aaron Vance sees a raw debug overlay: the assignment failed
+clean class card, Aaron Kessler sees a raw debug overlay: the assignment failed
 mid-write and left his character sheet *editable*. His unique class is **Null
 Operator**, the only account the administrator AI cannot fully read, because he can
 see the System talking to itself. The catch that keeps it from being a god-mode
@@ -16,7 +16,7 @@ the same blood, levels, and dungeon clears as everyone else's climb. He is not a
 chosen one. He is an uncaught exception, and the AI has flagged him for review.
 
 ## Protagonist concept
-Aaron Vance, 31, a burned-out reliability engineer who spent his career reading
+Aaron Kessler, 31, a burned-out reliability engineer who spent his career reading
 crash logs and arguing with automated systems that were "working as intended."
 Dry, stubborn, allergic to authority, terrible at trusting people, excellent at
 trusting evidence. His power-fantasy is competence, not destiny: he wins by reading
