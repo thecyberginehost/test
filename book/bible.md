@@ -19,8 +19,11 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: Level 1 at apocalypse onset (chapter 1). Stats to be
-  filled in by the writer as earned. (Writer: log exact numbers here each section.)
+- Current level / key stats: **Level 2** as of end of Ch 1 (first kill, the hollow-crawler).
+  Sheet: HP 60/60; Strength 5, Agility 6, Vitality 6, Perception 12, Wits 11 (Perception/Wits
+  run high, his reader nature). Class field still reads NULL_OPERATOR / status: unhandled (the
+  level-up did not resolve it). Level 1 baseline was Perception 10, Wits 10. (Writer: keep
+  logging exact numbers here each chapter as he climbs.)
 
 ## Cast
 | Name | Role | Traits | Status | First appears |
@@ -359,3 +362,50 @@ CREW DEATHS LOCKED (do not change):
 - **Lena (Sentinel) in the fight:** her blue-seam guard blocks the crawler's first strike (her
   arm holds a beat, scoring a furrow that instantly regenerates), buying Aaron his moment;
   Aaron shoves her clear of a killing limb-strike. She survives.
+
+### Ch 1 (Sec 6) established facts now known to the reader
+- **First kill pays out (canonical public reward + level-up, verbatim, NO em dashes):**
+
+      [ SYSTEM ]
+      Hostile entity eliminated: hollow-crawler (tier 0).
+      EXP awarded.
+      LEVEL UP.  You are now Level 2.
+      +2 Perception.  +1 Wits.
+
+- **The level-up feels physical:** warm reward color in the corner of his sight, the eye-pressure
+  unclenching a notch, Perception sharpening the room, Wits steadying his read. Real and his.
+- **Aaron's EXACT stat block now canon (Level 2 sheet, verbatim, NO em dashes). The class field
+  still reads NULL_OPERATOR / status unhandled and did NOT resolve even after leveling:**
+
+      Aaron Kessler
+      Class: NULL_OPERATOR   status: unhandled
+      Level: 2
+      HP 60/60
+      Strength 5   Agility 6   Vitality 6
+      Perception 12   Wits 11
+
+  Level 1 baseline implied: Perception 10, Wits 10 (this kill granted +2 Perception, +1 Wits);
+  Strength 5, Agility 6, Vitality 6, HP 60 unchanged at this level. Physical stats ordinary;
+  Perception and Wits run high (his reader nature).
+- **Class still unhandled:** the level-up did NOT fix his class. The field finished loading but
+  reads NULL_OPERATOR / status: unhandled, cursor still parked on it. He leveled but remains the
+  exception (Level 2 of nothing).
+- **The Operator edit-prompt teased (NOT used; canonical, NO em dashes). The System talking TO
+  Aaron now, not just about him; it surfaces because the kill resolved outside any class template,
+  leaving the handler vacant and write access open:**
+
+      > # account KESSLER, A.: kill resolved outside template.
+      > # no class handler claimed this event.
+      > #   handler vacant. write access: open.
+      > # offer: 1 edit available to this account.
+      > #   target a mechanic you have read. revise one value.
+      > #   no other class permits this.
+      > # [ annotate? ]   y / n
+
+  Aaron does NOT touch it (will not push the button before he understands the cost). The
+  annotation cost is NOT explained, Priya does NOT appear. The choice hangs as the hook into Ch 2.
+- **More rifts opening (escalation hook):** three floors down, multiple new rifts tear open in
+  stacking structural coughs (felt through his shoes first). "One rift had been an event. This was
+  a schedule." The world keeps opening below as the chapter ends.
+- **Lena (Sentinel)** survives; her blue guard-seam goes dark; she looks toward the prompt only
+  Aaron can see, at empty air, and says his name.
