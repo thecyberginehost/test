@@ -294,3 +294,36 @@ CREW DEATHS LOCKED (do not change):
 - **The rift interruption:** before he reads deeper, three floors down the building makes a deep
   structural cough, then the first scream climbs the stairwell. Aaron's read snaps shut, handing
   into Section 4.
+
+### Ch 1 (Sec 4) established facts now known to the reader
+- **Dungeon-rifts established:** a rift is a tear in reality that monsters pour out of. One
+  opened three floors below Aaron's office floor. Aaron feels the tear through the floor (a
+  long ripping pressure, a structural cough, a hairline crack up the support column by the
+  kitchen). It smells of wet copper and burning ahead of anything visible.
+- **System rift alert (new canonical public danger-block; distinct from Aaron's dim overlay):**
+
+      [ SYSTEM ]
+      RIFT EVENT DETECTED.  Proximity: 3 floors.
+      Hostile entities present.
+
+  plus a tracking line that updates and brightens as the threat nears:
+  `Hostile entity: present.  Range: closing.`
+- **Office panic:** the floor of ~forty drops their class cards and runs the moment the rift
+  hits; the System layer is forgotten under survival. A woman flees down the stairwell and is
+  killed just below the floor; the stairwell is the wrong way out because the threat climbs it.
+- **Aaron's helplessness:** no class, no skill, no weapon, empty hands. He can read the
+  machine's self-talk but cannot read his way out of a hallway. He calls out (correctly) that
+  the threat is coming up the stairs; largely unheard, then forced with the crowd into refuge.
+- **Dwyer acts (Quartermaster instinct):** herds people, arranging bodies into the glass-walled
+  conference room like inventory, putting them where they fit. The most useful thing he does.
+- **The corner / box:** the refuge is a glass-walled conference room with a long table and a
+  single door (a single point of failure Aaron clocks at once). This is how Aaron gets cornered.
+- **Lena acts (Sentinel instinct):** plants herself side-on in the doorway, one arm across the
+  gap, refusing to move. A faint blue seam of light runs the edge of her forearm where it
+  crosses the opening (the Sentinel guard ability surfacing). Level 1, terrified, not strong,
+  but compelled to stand in front.
+- **First monster described:** wet, gray (the color of a thing that never saw light), moving on
+  too many joints, no proper head but a working slit that opens and closes and tastes the air
+  (eyeless). It hauls over the broken stairwell door onto Aaron's floor, orients, turns toward
+  Lena's lit doorway, and starts coming. Section ends as it approaches the corner, into Section
+  5 (no kill, no level-up yet).
