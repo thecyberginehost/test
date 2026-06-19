@@ -327,3 +327,35 @@ CREW DEATHS LOCKED (do not change):
   (eyeless). It hauls over the broken stairwell door onto Aaron's floor, orients, turns toward
   Lena's lit doorway, and starts coming. Section ends as it approaches the corner, into Section
   5 (no kill, no level-up yet).
+
+### Ch 1 (Sec 5) established facts now known to the reader
+- **First monster's hidden status block (Operator overlay, surfaced mid-fight; canonical,
+  NO em dashes):**
+
+      > # RIFT SPAWN: hollow-crawler (tier 0, minimum viable hostile)
+      > # HP 22/22.  contact damage on limb-strike.
+      > # passive: REGENERATION.  +4 HP per tick.
+      > # tick interval: 3.0s.
+      > #   note: regen routine locks HP buffer during write.
+      > #   buffer vulnerable 0.4s post-tick. do not expose.
+
+- **Monster name/type:** the first monster is a **hollow-crawler**, RIFT SPAWN, tier 0. HP 22.
+  Contact damage on limb-strike. Passive REGENERATION +4 HP per tick, every 3.0 seconds.
+- **The regen-gap mechanic (the exploit):** the regen routine locks the creature's HP buffer
+  while it writes the heal and leaves the buffer vulnerable for 0.4 seconds right after each
+  tick. Damage dealt inside that 0.4s post-tick window cannot be written back; the regen tick
+  fails and HP guts out (22 to 18 to 9 to dead).
+- **Read-as-action:** Aaron surfaces the block a foot from the creature, pulse up, dodging its
+  limb-strikes; he times the gap by the rhythm of its attacks and the hide sealing and
+  re-opening, then drives his kill into the exact 0.4s window.
+- **Improvised weapon:** a heavy glass coffee carafe from the conference table. It shatters
+  uselessly on the sealed hide; Aaron uses the broken jagged neck as a glass fang.
+- **Where the kill lands:** not the hide but the creature's working slit (its eyeless
+  tasting-mouth), struck in the 0.4s post-tick gap. The regen tick never finishes; it comes
+  apart.
+- **This is Aaron's first kill,** won with no class/skill/weapon, purely by reading hidden fine
+  print and exploiting the regen window. Section ends on the kill landing, the light in the
+  corner of his sight beginning to change (System about to pay out), into Section 6.
+- **Lena (Sentinel) in the fight:** her blue-seam guard blocks the crawler's first strike (her
+  arm holds a beat, scoring a furrow that instantly regenerates), buying Aaron his moment;
+  Aaron shoves her clear of a killing limb-strike. She survives.
