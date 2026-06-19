@@ -30,8 +30,8 @@ every section. Append facts, never rewrite history.
 | Tess Calloway | Crew, teen ex-gamer, Scout class | Reads terrain/spawns like Aaron reads code, sharp, fearless, sees through Aaron; his kindred reader and closest mirror | Alive (dies Ch 18) | Ch 5 |
 | Daniel "Hutch" Boyd | Crew adjunct, older delivery driver, plain class | Easy to like, easy to overlook; keeps trying to thank Aaron and getting brushed off; the man Aaron refuses to let himself care about | Alive (dies Ch 9) | Ch 5 |
 | Marcus | Crew, ex-soldier, Bulwark class | Immovable front line, calm under fire, loyal | Alive | Ch 7 |
-| Dwyer | Aaron's manager (pre-System workplace) | Manages by reflection, soft-deflects, sides with the green dashboard / "system of record" over Aaron's read; not cruel | Alive (pre-System; offscreen after Ch 1) | Ch 1 (Sec 2) |
-| Lena | Aaron's coworker (pre-System workplace) | Cheerful, quick; took credit for the connection-pool/cart fix Aaron actually shipped | Alive (pre-System; offscreen after Ch 1) | Ch 1 (Sec 2) |
+| Dwyer | Aaron's manager (pre-System); System class: Quartermaster | Manages by reflection, soft-deflects, sided with the green dashboard over Aaron's read; not cruel. Quartermaster: manages stores/supply, has an inventory | Alive (offscreen after Ch 1) | Ch 1 (Sec 2) |
+| Lena | Aaron's coworker (pre-System); System class: Sentinel | Cheerful, quick; took credit for the connection-pool/cart fix Aaron shipped. Sentinel: a guard/protector class, got a Vitality stat | Alive (offscreen after Ch 1) | Ch 1 (Sec 2) |
 | The Administrator | The System-AI antagonist/puzzle | Vast learning AI running humanity as an experiment; curious, lonely | Active | Ch 1 (as System) |
 
 CREW DEATHS LOCKED (do not change):
@@ -396,3 +396,34 @@ CREW DEATHS LOCKED (do not change):
   finish. Aaron's OWN block has only just begun building "sideways" behind his eyes
   (reached him a beat late, a slower queue). Hands into Sec 7. Still NO class name, error,
   NULL_OPERATOR, overlay, or flag shown yet.
+
+### Ch 1 (Sec 7) established facts now known to the reader
+- The freeze breaks completely. The whole floor (~sixty people) comes back to life in one
+  beat: sound returns, gasps, a held foot coming down, the tipped mug finishing its spill,
+  a phone hitting the floor. Continuous with s06, same Tuesday, 31st-floor office.
+- Everyone but Aaron received a CLEAN, FINISHED class card, delivered whole in the same
+  beat the welcome receded. Each card snaps into final position (the canonical clean
+  resolution) and includes the person's class name plus a skill list and stat numbers.
+  People read their classes aloud. Some delighted. Some terrified.
+- Specific class assignments now canon: **Lena = Sentinel** (a guard/protector class; got a
+  Vitality stat, reads as protecting people, bewildered it does not match her old job).
+  **Dwyer = Quartermaster** (manages stores/supply, has an inventory, can hold things for a
+  group). Background coworkers: an unnamed woman by the printer = **Herbalist** (with a skill
+  list); a younger man in a quarter-zip = **Skirmisher** (Level 1, got a Strength number).
+- Aaron's own card did NOT resolve clean. It lagged behind everyone else's (the slower
+  sideways queue seeded in s06) and, instead of snapping into final position, kept beginning,
+  lines lifting before they finished, a stalled header that thins back out. The clean "hand"
+  reached his name and behaved as if it had to do something twice.
+- Aaron reads the wrongness by engineer's instinct: theirs landed clean, his is hung, not
+  merely slow (callback to the dead-server / interpolated-curve theme). He senses, beneath
+  the stalled header, an unusual DENSITY / layered depth where everyone else has a single
+  clean stroke (first hint of his second layer, felt not yet read).
+- Dwyer, reading Aaron's face, says "you look like you're not getting one." Aaron deflects
+  with "It's slow," privately knowing slow is the wrong word. Dread established: pulse up,
+  cool palms, metal/ozone taste returning, pressure behind the eyes narrowing to the single
+  point a foot in front of his face.
+- END-OF-SECTION / HANDOFF: after the long wrong wait, Aaron's header finally moves but comes
+  up wrong (off-baseline, failing to hold), writes the first character of what he now is, and
+  then instead of finishing the word BEGINS TO SCROLL. Hands into Sec 8 (his card errors).
+  Still NO class name, NULL_OPERATOR, debug overlay, editable sheet, or "flagged for review"
+  shown.
