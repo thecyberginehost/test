@@ -316,3 +316,37 @@ CREW DEATHS LOCKED (do not change):
   is about to be written. Final image: the world draws its breath all the way in and does
   not let it out, handing into Sec 5 (the freeze). Still NO System text, class, or
   mechanics anywhere in this section.
+
+### Ch 1 (Sec 5) established facts now known to the reader
+- Continuous from Sec 4, same Tuesday morning, 31st-floor office, drained over-sharp
+  light still in effect. The held breath does not release; the world freezes into a
+  paused-frame stillness. Still NO System text, class, or mechanics on the page.
+- The freeze is total for everyone but Aaron. About sixty people on his floor lock
+  mid-motion in impossible postures that should topple and do not: a figure by the
+  window mid-lean with a coffee whose meniscus is tilted and frozen toward the lip; a
+  woman with her hand half-raised, two fingers between hair and ear; a man partway out
+  of his chair in an impossible crouch; two people by the printer frozen mid-sentence.
+- The frozen people's EYES are the eerie center: not blank but fixed, bright, busy,
+  locked on a point about a foot in front of their faces (nothing Aaron can see),
+  pupils wide, lids fluttering as if tracking fast text, faces caught on the front edge
+  of an unfinished expression. They are clearly RECEIVING something internal (their
+  cards), though Aaron does not know that on-page.
+- Dwyer is frozen half-rising, one finger raised in his soft redirecting gesture, eyes
+  reading the air. Lena is frozen mid-stride, balanced on the ball of one foot, face
+  turning up toward delight.
+- Aaron alone is unaffected: he can still move and breathe and speak. During the freeze he
+  stands (an orphaned chair scrape), calls "Hey," walks the floor, waves two fingers at
+  a frozen woman's eyes with no flicker, snaps at Dwyer ("You in there"), says Lena's
+  name, turns a slow circle through a room of living statues.
+- THEMATIC SEED (kept implicit on-page): the freeze reached for Aaron in that last held
+  second and passed over him. He felt the heavy thing loading behind his eyes (Sec 4) but
+  it did not take him as it took everyone else. He does not understand why; he only knows
+  he is outside something everyone else is inside, and was outside it before understanding
+  what it is. His difference predates the System finishing.
+- The cool weight at the back of his neck persists and intensifies; the pressure behind
+  his eyes narrows to a single point about a foot in front of his face (the same spot the
+  frozen people stare at).
+- End-of-section state: that point begins to brighten (light behind the eyes, not in the
+  room), the first stroke of something drawing itself, a line beginning to write across
+  the inside of his skull. Hands into Sec 6 (WORLD SYSTEM INITIALIZING). Still no System
+  block, class, or mechanics shown yet.
