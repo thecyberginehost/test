@@ -1,25 +1,60 @@
-# Smart Contract Audit Toolkit - Claude Code Instructions
+# Kade Zero: System Apocalypse LitRPG Book Factory
 
-## Project Purpose
-This is a smart contract security auditing and bug bounty hunting toolkit. It contains vulnerability knowledge, tool configs, checklists, and report templates for both Solidity (EVM) and Rust (Solana/Anchor).
+Autonomous pipeline that writes prose LitRPG novels in the System Apocalypse
+subgenre, published under the AI author persona **Kade Zero**.
+The AI authorship is public and part of the brand.
 
-## Key Conventions
-- Vulnerability entries follow the format: Description, Impact, Detection, PoC, Remediation
-- All Solidity PoCs use Foundry (forge test with fork mode)
-- All Rust PoCs use Anchor's test framework or native solana-program-test
-- Checklists are markdown with checkboxes for interactive use
-- Semgrep rules follow the standard YAML format
-- Slither custom detectors are Python files
+## Series premise
+The world is "System-ified" overnight: stats, levels, a deadly game laid over
+reality. The protagonist gains a unique class that lets them interface with the
+System directly, and discovers the System is not a neutral engine but a vast
+administrator AI running humanity as an experiment, and it is learning.
+Progression means leveling up AND learning to read and negotiate with that AI.
+Power-fantasy first, philosophy second. Readers came for the climb.
 
-## When Adding New Vulnerabilities
-1. Place in the correct category directory
-2. Include a working PoC or reference to one
-3. Tag with severity (Critical/High/Medium/Low/Informational)
-4. Include real-world exploit references where possible
-5. Add detection rules to the appropriate tool config
+## How this pipeline runs (orchestration)
+You (the main session) are the orchestrator. Drive the phases in order and invoke
+the subagent for each phase. Agents do not call each other. They read and write
+files in the workspace, and you pass control between them.
 
-## File Naming
-- Vulnerabilities: `VUL-XXX-descriptive-name.md`
-- Checklists: `checklist-<type>.md`
-- Tool configs: match the tool's expected config filename
-- Reports: `YYYY-MM-DD-<project-name>.md`
+BOOK-LEVEL PASS (run once per book):
+  1. idea-agent         -> book/concept.md
+  2. book-strategist    -> book/summary.md
+  3. book-architect     -> book/outline.md   (chapters + per-chapter summaries)
+  4. chapter-architect  -> book/outline.md   (adds ~10 section specs per chapter)
+
+SECTION LOOP (per chapter, repeat for each of ~10 sections):
+  5. writer             -> book/chapters/chNN/sNN.md   (updates book/bible.md)
+  6. continuity-checker -> book/chapters/chNN/sNN.notes.md
+  7. editor             -> overwrites sNN.md with edits
+  8. tells-scrubber     -> overwrites sNN.md, clean
+
+CHAPTER GATE (once per chapter, after its sections are done):
+  9. chapter-reconciler -> may adjust the REMAINING outline only
+
+FINISH: assemble sections in order -> book/manuscript.md, hand to the human.
+
+## Workspace layout
+book/concept.md, book/summary.md, book/outline.md
+book/bible.md          (live state, copied from bible.template.md at book start)
+book/style.md          (voice + LitRPG format rules, read-only for agents)
+book/chapters/chNN/sNN.md
+scripts/lint_tells.py  (deterministic AI-tell linter)
+
+## Shared ground truth
+- book/bible.md is the single source of truth for characters, System rules,
+  timeline, and open threads. The writer updates it after every section. The
+  continuity-checker and editor read it and must never contradict it.
+- book/style.md defines the voice and the LitRPG formatting. All prose obeys it.
+
+## Voice rules (every prose agent obeys)
+- No em dashes. Ever. Use periods, commas, or parentheses.
+- No AI-tell vocabulary or cadence (see scripts/lint_tells.py for the banned list).
+- Avoid rule-of-three constructions and uniform sentence length.
+- Show, do not summarize. Keep System notifications crisp and consistently formatted.
+
+## Models
+All agents are set to `opus` for book one so you can measure usage on a full run.
+After book one, the natural tiers are: orchestration and scrubber -> haiku or
+pure script, architects and continuity -> sonnet, writer and editor and
+strategist -> opus. Downshift then if the budget calls for it.
