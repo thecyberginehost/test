@@ -57,8 +57,8 @@ CREW DEATHS LOCKED (do not change):
   (2) The Operator loop: every notification carries a hidden second layer only Aaron
   can surface. He **decodes** a mechanic, then earns the right to **annotate** it
   (one permanent, narrow edit). Annotations stack into real power.
-- **Skills and abilities and their costs:** Decoding costs effort and body, headaches,
-  nosebleeds, time, and the same blood/levels/dungeon-clears as everyone's climb.
+- **Skills and abilities and their costs:** Decoding costs effort and body: headaches,
+  nosebleeds, lost time, plus the same blood/levels/dungeon-clears as everyone's climb.
   **He can only edit what he first truly understands.** Nothing is free. Every
   exploit is earned. Examples of annotations: rename a debuff into a buff, redirect
   a quest reward, set a rule's value (e.g. door "integrity") to zero, expose a
@@ -263,12 +263,12 @@ CREW DEATHS LOCKED (do not change):
   ("Silence isn't an error"), and instructs Aaron to **close the ticket as "working
   as intended."** Frames it as "not about you being wrong, it's about what we can act
   on," thanks Aaron for being "flexible," and tells him to "keep reading those logs."
-- **THE REFRAIN PLANTED — "working as intended":** Established hard as the book's
+- **THE REFRAIN PLANTED, "working as intended":** Established hard as the book's
   load-bearing phrase. In-world, the ticket-system has a literal resolution status
   **RESOLVED - WORKING AS INTENDED** (sits between RESOLVED - FIXED and RESOLVED -
   DUPLICATE in the dropdown). Aaron selects it himself. Thematic statement made
   explicit on-page: every layer (server going quiet, dashboard reading quiet as
-  health) is doing exactly what it was designed to do, so "nothing broke" — the
+  health) is doing exactly what it was designed to do, so "nothing broke." The
   intention itself is the problem. This is the polite-lie system Aaron surrenders to,
   set up to contrast with a System about to stop being polite. EXPECT THIS PHRASE TO
   RECUR / BE WEAPONIZED LATER (the dungeon/apex, the administrator's grammar, etc.).
@@ -276,13 +276,13 @@ CREW DEATHS LOCKED (do not change):
   INC-44193 himself as WORKING AS INTENDED, comment noting the monitoring/infra/mgmt
   sign-off and that he'll reopen "if status changes," leaving the 41 lines attached
   (grim record-keeping, a dated draft for when the roof comes down). The board goes
-  all green; the one honest red SEV dot winks out. He "swallows it" — a flat, old
+  all green; the one honest red SEV dot winks out. He "swallows it," a flat, old
   resignation (not anger; anger needs a future he no longer believes he's part of).
   The building's signature move named: it gets you to silence yourself and call it
   being flexible, then thanks you for going deep.
 - **LAST FULLY PRE-SYSTEM BEAT. Cusp-of-update foreboding at the very end (still NO
   System text, class, or mechanics):** After closing the ticket, Aaron looks at the
-  green HEALTHY banner and **the green "moves"** — not a flicker/glitch, a wrongness
+  green HEALTHY banner and **the green "moves"** (not a flicker/glitch, a wrongness)
   underneath the color (a half-degree strange, the look of a screen about to show
   something it has never shown). The Forum's air thins; the building's constant hum
   leans toward "a single held note." Nothing moves (the dying ficus doesn't move).
