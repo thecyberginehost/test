@@ -16,6 +16,25 @@ copyrighted passages into this file.
 - No AI-tell vocabulary (see scripts/lint_tells.py for the live list).
 - No rule-of-three cadence. No long runs of equal-length sentences.
 
+## Length (hard rules, every chapter)
+- Target 3,500 to 4,500 words per chapter. Hard ceiling 5,000. Do not exceed it.
+- Roughly 6 sections per chapter. Cap each section around 750 words.
+- If a beat will not fit the budget, cut it or push it to a later chapter. Length
+  discipline beats completeness. A tight chapter that lands its genre beat beats a
+  long one that wanders.
+
+## Pacing (this is LitRPG, not literary fiction)
+- Hook on the first page. The inciting genre event of the chapter lands inside the
+  first 10 percent, never at the halfway mark.
+- Action and forward motion over interiority. Introspection comes in short, earned
+  beats, never full pages. No paragraphs admiring scenery or typography or light.
+  Scenes move.
+- Every chapter delivers concrete genre payoff: a fight, a System notification with
+  real numbers, a new skill, a level-up, or a stat block. The dual ladder pays in
+  every chapter. It never just sets mood.
+- End every chapter on a real genre beat (a level-up, a stat block, a new skill, a
+  kill, a hard System reveal) plus a hook into the next.
+
 ## Craft rules (every chapter inherits these)
 - Visceral over cerebral. Every decode-and-annotate beat reads as action and
   physical triumph, never a man quietly reasoning at text. The read happens with
