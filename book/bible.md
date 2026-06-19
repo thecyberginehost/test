@@ -219,3 +219,24 @@ CREW DEATHS LOCKED (do not change):
   contradicted. At outline stage, only the premise the reader is handed up front is
   certain: the world is System-ified, everyone but Aaron got a clean class, Aaron got
   an editable error called Null Operator, and he can read the System's hidden layer.)
+
+### Ch 1 (Sec 1) established facts now known to the reader
+- **Workplace:** Aaron works on a floor of about forty engineers at a company running an
+  e-commerce checkout/cart system (lunch-rush traffic, a March outage in its history).
+- **The dead server / dashboard:** A database node named **ord-db-04** died at 9:14 Tuesday
+  morning. The monitoring dashboard shows its tile green (latency flat, uptime 99.9, a
+  checkmark) while the raw log stream shows no heartbeat for four minutes. The load balancer
+  serves cached health off the dead node, so the monitor never pages. Aaron restarts the node
+  himself without a ticket; the tile stays green throughout, never registering the death or
+  the recovery. The dashboard describes itself, not the world.
+- **Dwyer:** Aaron's manager. Soft-deflects, sides with the green dashboard ("It's green,"
+  "It's reporting nominal"). Not cruel. Speaks the refrain.
+- **Lena:** Aaron's coworker. Cheerful, half-present (earbud in, coffee). Took credit for the
+  connection-pool fix Aaron wrote at one in the morning and she presented at standup.
+- **Aaron's core trait:** reliability engineer, ~a decade in. Reads the layer under the
+  surface (the raw log under the green), good at exactly one thing and loses every argument
+  about it because the screen always wins. Stopped raising his voice years ago. Keeps a
+  private timestamped record for an audience of one.
+- **The refrain:** "Working as intended," spoken once by Dwyer.
+- **Cusp ending:** the air thickens and Aaron's coffee cup freezes halfway to his hand (the
+  forced update beginning); no System block shown yet.
