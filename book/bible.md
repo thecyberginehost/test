@@ -2388,3 +2388,25 @@ load-bearing beats).
   already knows. CANON: the throttle blinds LIVE deep reads but does NOT erase what he already read/remembers.
 - **No mechanical change:** decode THROTTLED (surface only), decode_debt 20/100, Level 10, holds Analyze,
   ledger ends at #7. Boss not killed. No System reveal. Crew: Tess, Marcus, Priya. Hutch DEAD.
+
+### Ch 12 (Sec 4) established facts now known to the reader
+- **IMPROVISING WITHOUT DECODE (competence beneath the gift).** Aaron leads from MEMORY and LOGIC, not live
+  sight. CANON REAFFIRMED: the throttle blocks LIVE deep reads but does NOT erase what he already read. He
+  remembers the Drowned Mother's failure condition from before the throttle (core opens 1.8s on a surge,
+  shell re-seals, window does not repeat early, "one tick per push, only on the push"), so he does not need
+  to SEE it to use it. He marries his cached knowledge of the mechanic to Tess's LIVE read of the timing
+  (she calls the surge/slack/split off the water). "He did not need to see the clock to use the clock."
+- **THE BLIND PLAY (new version, no overlay in the loop):** Tess on surge-timing; Marcus opens and holds the
+  killing lane to the core's KNOWN position ("low and right of center, under the third rib of the shell, a
+  hand's width back", a new concrete core-position detail, reuse it); Priya keeps Marcus standing; Aaron
+  directs the beat from memory and Tess's count.
+- **THE NORMAL-LADDER GRIND AT FULL SCALE.** No exploit, no edit, no annotation: a crew with plain classes and
+  earned numbers grinds a Tier-2 district spawner down the honest way. Marcus (Bulwark, stamina bleeding and
+  refilling) holds the lane; Priya (Mender, Mend ticking green) keeps him up; Tess (Scout) calls flanks;
+  Aaron fights "Level 10, no skill firing, just a blade and a body and Perception high enough." The spine
+  ladder pays off ("every level they had ground out paying back"). They thin the brood surge by surge.
+- **POISED ON THE STRIKE (cliff into s5):** back in position, the next surge coming, Tess dialing the window
+  to the second off the water-slack, Aaron holding the 1.8s and the core's place. Ends on "Coming," she said.
+  Boss NOT killed (falls in s5).
+- **No mechanical change:** no annotation, no level/debt change. decode_debt 20/100, Level 10, holds Analyze
+  (throttled), ledger ends at #7. No System reveal (throttle test is s6). Crew: Tess, Marcus, Priya. Hutch DEAD.
