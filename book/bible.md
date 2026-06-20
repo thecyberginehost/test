@@ -741,3 +741,17 @@ load-bearing beats).
 - **The question is left UNANSWERED into Ch 3.** Aaron opens his mouth; the answer and the lie both
   sit there; "He had not chosen yet." His actual reply (the half-truth, "no class, a glitch") is NOT
   given here, reserved for Chapter 3.
+
+### Ch 3 (Sec 1) established facts now known to the reader
+- **Aaron's half-truth to Priya:** "No class. Just a glitch." Framed as the assignment failing and
+  throwing an error he can read and sometimes lean on. He withholds the administrator flag. Priya
+  does not fully buy it ("A glitch. That moved a death-wall.") but keeps him close and useful.
+- **The tower is now a vertical dungeon instance.** Operator overlay (zone state): tower interior
+  reclassified to dungeon (vertical), floor thresholds gated, spawn nodes active, egress is descent
+  only, ascent locked. Lit grid "thresholds" hang across doorways; they flare as a body passes and
+  do not close behind. Up is sealed; the only sanctioned way out is down, floor by floor.
+- **Moving with Aaron:** Priya (Mender), Lena (Sentinel), Dwyer (Quartermaster), a couple of unnamed
+  survivors, and the saved torn-thigh man (now walking with help).
+- **Cliffhanger:** they reach the stairwell fire door, webbed with a brighter solid grid of light.
+  The bar will not move; the light pulses once and holds. First sealed obstacle, into Section 2.
+- **No annotation, no debt or level change this section.** Aaron remains Level 1, decode_debt 1/100.
