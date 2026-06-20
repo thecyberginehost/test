@@ -531,3 +531,32 @@ CREW DEATHS LOCKED (do not change):
   toward him hunting for a value/threshold/function to annotate and finds nothing, because the man
   is flesh, not fine print. The Suffocation count holds at 11 over his head and means nothing to
   the wound. Section ends on this need (into Section 5; Priya not yet named).
+
+### Ch 2 (Sec 5) established facts now known to the reader
+- **Hard limit of annotation (rules, not flesh):** Aaron's Operator sight finds NOTHING to edit on
+  a dying body. A wound carries no overlay, no second layer, no variable, no failure condition, not
+  even a vacant handler, because it is not a rule (it IS the failure). He cannot put a cursor on a
+  hole. His exception cannot heal or stabilize a person. A hard, established limit of his power.
+- **Priya Anand introduced (first appearance):** mid-thirties triage nurse ("Triage, county general,
+  before all this"), hair scraped back, scrubs gone the color of work. Manner: blunt, warm under
+  pressure, hyper-competent, unflustered; prices people up in a glance; treats freezing as the only
+  sin. Distinct voice ("Press. Both of them, lean your weight, do not be polite about it." / "Don't
+  thank me, just keep that man flat."). Had been keeping three people alive by the printer during the
+  Suffocation crisis.
+- **Priya's class = Mender, shown working.** Her Mender ability "Stabilize" stops the bleed-out and
+  keeps the torn-thigh survivor alive in seconds, the one thing Aaron's class cannot do. System block
+  used (verbatim, NO em dashes):
+
+      [ SYSTEM ]
+      Mender ability used: Stabilize.
+      Target: critical. Hemorrhage suppressed.
+      HP restored: 18.  Bleed-out timer cleared.
+
+- **The wounded man is saved:** the gray leaves his face, breathing returns, bleeding stops. Aaron
+  holds him flat per Priya's instruction.
+- **Human counterweight / need beat:** Aaron edits rules, Priya keeps people breathing; he registers
+  he could not have kept this heart going ten more seconds, and that he has spent his life sure he
+  did not need anyone.
+- **Priya begins to clock Aaron:** she noticed the Suffocation count stopped climbing at 11 ("I have
+  never once seen a debuff change its mind"), which no Mender or Sentinel could have done. Section
+  ends with her eyes narrowing on him, on the verge of asking about his class (held for Section 6).
