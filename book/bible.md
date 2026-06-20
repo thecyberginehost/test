@@ -923,3 +923,32 @@ load-bearing beats).
   reading it as a warning. You're not."); recognition both ways. Chapter closes on Aaron: "It's not a
   warning. It's a bet. And we're what's on the table."
 - **No annotation, no level change (Level 3), no decode_debt change (2/100).** He is reading.
+
+### Ch 4 (Sec 1) established facts now known to the reader
+- **Setting / time-skip:** the morning after the tower descent. The crew (Aaron, Priya, Hutch, the
+  recovering torn-thigh survivor, Tess) spent the night in a stairwell. The SETTLEMENT TRIAL clock
+  now reads about 68 hours (down from ~72). Wrong daylight, smoke thinned this far off the main drag.
+- **The obstacle:** a brick loading dock off an alley (the only unclaimed roof Tess found), sealed by
+  a roll-down corrugated freight shutter locked from inside.
+- **The failed read (Operator overlay, verbatim, no em dashes):**
+
+      > # OBJECT: roll-down freight shutter (sealed)
+      > #   var: integrity (int). value: 35.
+      > #   gate holds while integrity > 0.
+
+  Same shape as the Ch 3 fire door (one unguarded integer, here value 35, no regen/save/seam).
+- **The integrity-zero annotation THROWS** (new canonical error block, verbatim, no em dashes):
+
+      [ SYSTEM ]
+      ANNOTATION REJECTED.  Account: KESSLER, A.
+      OBJECT freight shutter: integrity.
+      Write denied. Value protected.
+      Cause: see patch.
+
+  The write is refused, the shutter holds, Aaron's reliable tool is dead ("permission denied").
+- **Callback to the "too clean" worry (Ch 3 s2):** "He had filed it. He had been right. Something had
+  asked." False-security floor-drop.
+- **No mechanical change:** no successful annotation, no level change (stays Level 3), no decode_debt
+  change (stays 2/100). The rejected write cost no level and no toll.
+- **Cliffhanger:** `Cause: see patch` points him into Section 2's diagnosis (the surgical counter-
+  patch). The detailed patch is NOT read here. Tess light beat: "You did the thing and it didn't work."
