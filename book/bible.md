@@ -1632,5 +1632,5 @@ load-bearing beats).
   overlay to put a cursor on. Just a wound. The one thing his class could never touch."), consistent with
   the Ch 2 locked limit. Priya (Mender) knelt though there was no call left to make.
 - **No mechanical progression:** no annotation, no level-up, decode_debt stays 14/100, Aaron stays Level 8.
-  Only Hutch dies; Tess, Marcus, Priya and the unnamed survivors live. Section ends on raw shock; grief and
-  Aaron's reckoning are s04.
+  Only Hutch dies. Tess, Marcus, Priya, plus the unnamed survivors all live. Section ends on raw shock;
+  grief and Aaron's reckoning are s04.
