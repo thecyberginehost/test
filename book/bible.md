@@ -52,6 +52,34 @@ CREW DEATHS LOCKED (do not change):
   bonding beat in Ch 4, class resolves to Scout in Ch 5) with real page time and a
   strong bond to Aaron before she dies, so the loss has full weight.
 
+TESS / TWO-READERS BOND THREAD (pinned; build it so her Ch 16 death is earned). Tess first
+appears EARLY, Ch 3 (off the lower floors), and the "same kind of reader" kinship recurs with
+real page time across the whole span Ch 3 to Ch 16, never absent for more than ~2 consecutive
+chapters:
+- Ch 3 (INTRO): she calls a respawn a beat before it lands and reads the human crowd; Aaron
+  clocks her seeing what he sees, from the outside, with no overlay.
+- Ch 4: the "two readers, one wave" bonding beat. She saves him by calling a flank he missed;
+  they trade HOW they each read (she by feel and ten thousand hours of games, he by the layer);
+  he half-admits his class to her.
+- Ch 5: her class resolves to Scout; the two of them share it as the only people who see the
+  world in two layers.
+- Ch 6: she reads HIM the way she reads terrain, the first to clock that the decode tax is
+  hurting him and that he is hiding it.
+- Ch 8: she catches him arguing with a patch note (reading something no one else can) and asks
+  who he is fighting; she alone sees that he is reading.
+- Ch 9 (midpoint): she is the one he confesses the whole truth to; she shares the weight.
+- Ch 10: they read together; she covers for his deliberately sloppy reads.
+- Ch 12 (Throttled): with his decode crippled, TESS READS THE TERRAIN HE CANNOT and saves him.
+  This is the DRESS REHEARSAL for his Ch 21 blindness: proof the kindred reader can stand in
+  when he goes dark. Build the kinship hard here.
+- Ch 13: they read the wager's shape together.
+- Ch 16 (DEATH): she dies on a floor he cannot read in time (his decode_debt blurring his reads),
+  the kindred reader killed inside a dungeon built from his own logs. Everything above is what
+  makes it land.
+Continuity-checker: from Ch 3 to Ch 16, Tess must not vanish for more than ~2 consecutive
+chapters, and the "two readers" kinship must surface in at least Ch 3, 4, 8, 9, 12 (the
+load-bearing beats).
+
 ## System rules (the LitRPG mechanics, keep ironclad)
 - **Leveling, stats, classes:** The world is System-ified overnight. Every human is
   auto-assigned a class by the administrator AI and gets a clean class card only
@@ -112,11 +140,34 @@ CREW DEATHS LOCKED (do not change):
   climbs toward a HARD CEILING of 100 points. The progress/level cost is the immediate bill;
   decode_debt is the cost that actually ends him, and it only ever goes up.
 
-  DECODE-DEBT CEILING (NOT YET LOCKED; pending human decision, do NOT write the event): when
-  decode_debt reaches 100 something catastrophic and irreversible happens. The specific consequence
-  is an Act-3 plot beat and is deliberately UNWRITTEN until the human picks from the proposed
-  options. Until it is locked, no chapter may push decode_debt past about 90 or stage the ceiling
-  event.
+  DECODE-DEBT CEILING (LOCKED: Option A, the chosen blinding edit): when decode_debt reaches 100,
+  Aaron PERMANENTLY loses the ability to read and edit the hidden layer. The Operator overlay goes
+  dark for good: no more decoding, no more annotations, ever. He KEEPS his levels and every
+  annotation already made (the Suffocation cap and all later edits stay in force). This is
+  survivable. He lives, and the series continues.
+    Shape of the climax (intended, pin it): he reaches the ceiling BY CHOICE, not by accident. He
+    arrives at the apex climax sitting at about 99 debt, one edit from dark. The fight requires one
+    last annotation. He knows that making it will cross 100 and blind him for good, and he makes it
+    anyway, on purpose, to win and to protect the crew. The ceiling is a chosen last edit, a
+    deliberate sacrifice, not an affliction that lands on him. In Ch 21 the winning edit and the
+    blinding edit are the same act.
+    Administrator-leash UNDERTONE (seed across the book, do NOT over-explain): Aaron experiences
+    decode_debt as honest technical debt, a cost he is choosing to take on. Underneath runs an
+    ambiguity the reader should only feel: the administrator may have let the debt accumulate ON
+    PURPOSE, because a bug that blinds itself on a timer is one it never has to patch. The leash and
+    the honest debt look identical from inside. Tie this to the bug-versus-invitation question so it
+    pays off at the ceiling: was the debt his own engineering, or a leash the admin left on the one
+    account it could not read? Seed it lightly (a counter-patch that conspicuously never touches his
+    decode tax, a line in the admin's grammar that reads like permission). Never state it outright in
+    book one.
+    The denouement still works while blind (Ch 22): the ceiling kills his ACTIVE power (prying open
+    the hidden layer, writing edits). It does NOT stop the administrator from DELIVERING text to him.
+    So the book's final beat holds. The god, no longer something Aaron can eavesdrop on, chooses to
+    speak to him directly, pushing real patch notes into his sight. He can no longer read the layer
+    uninvited, so the admin comes to him. The "god talking back" lands harder because he can only
+    receive now, not pry.
+    GUARD: no chapter may carry decode_debt to 100 before the planned Ch 21 climax. Keep it at or
+    below about 98 through Ch 20; the crossing happens only as Aaron's deliberate final edit in Ch 21.
 
   GUARDRAIL INVARIANT (checkable; the progression must not flatline): Aaron's ordinary kill-grind
   must OUT-EARN the progress drained by annotation, so the level ladder still trends upward across
@@ -125,15 +176,49 @@ CREW DEATHS LOCKED (do not change):
        annotations).
     2. From the END of Ch 3 onward, Aaron's Level at each chapter's close must be >= his Level at the
        previous chapter's close, and must strictly increase at least once every two chapters.
-    3. The ONLY sanctioned trough is Ch 1 to Ch 2 (Level 2 at end of Ch 1 down to Level 1 at end of
-       Ch 2, paying for the first annotation). This dip is grandfathered; no further net-negative
-       chapter is allowed.
-  If a planned chapter would violate any of these, the annotation load is too high: cut edits or
-  raise the kill-grind before the chapter passes.
+    3. Ch 1 to Ch 2 is the first grandfathered trough (Level 2 at end of Ch 1 down to Level 1 at end
+       of Ch 2, paying for the first annotation).
+    4. DEEP-EDIT TROUGH EXCEPTION (so rule 2 and the tier cost table stop contradicting each other):
+       any chapter in which Aaron makes a Tier 2 or deeper annotation is ALSO a sanctioned trough,
+       exempt from rule 2 for that chapter, because a Tier 2/3 edit costs 8 to tens of levels and
+       will legitimately drop his closing Level below the previous chapter's. Recovery requirement:
+       he must climb back ABOVE his pre-edit Level within 2 to 3 chapters of kill-grind. Checkable:
+       for any chapter C that has a Tier 2+ entry in the decode-debt ledger, record his Level at the
+       START of C; by the CLOSE of chapter C+3 his Level must be >= that pre-edit Level. Outside these
+       sanctioned troughs (Ch 1 to 2, and any Tier 2+ chapter plus its 3-chapter recovery window),
+       rule 2 holds in full.
+  If a planned chapter would violate any of these (after applying the trough exceptions), the
+  annotation load is too high: cut edits or raise the kill-grind before the chapter passes.
 
   DECODE-DEBT LEDGER (append one line per annotation, never edit past entries):
     - #1 (Ch 2, s3): Suffocation threshold cap. Tier 0 (shallow local). Progress cost: -1 level
       (Level 2 -> Level 1). decode_debt += 1. Running decode_debt = 1 / 100.
+
+  DECODE-DEBT PROJECTION (the clock; rough, recompute as edits are logged). The per-edit LEVEL cost
+  throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
+  as he climbs he can afford Tier 1, then Tier 2/3. A Tier-0-only curve would top out near 22 and
+  UNDERSHOOT the ceiling, so Act Three is designed to FORCE Tier 2 and 3 edits that spike the clock
+  to the threat zone right as the climax peaks. Projected decode_debt by act:
+    - End of Act One (Ch 4): about 3. Three Tier 0 edits (Suffocation Ch 2, the integrity door Ch 3,
+      a fresh read after the first patch Ch 4). He is too low-level to afford anything deeper.
+    - End of Act Two (Ch 13): about 23. The Ch 6 self-skill-grant is a Tier 2 (+8); the rest are
+      Tier 1 edits across the bait hole, teaching-the-enemy, the city boss, the wager read (+3 each).
+      He can now afford the occasional deep edit but the apex has not yet forced his hand.
+    - Ch 15 (Forging Passage): about 51. FORCED Tier 3 (+20): rewriting who the dungeon admits is a
+      load-bearing access rule, the biggest edit of the book, and it nearly kills him.
+    - Ch 16 (Dungeon Reads Back, Tess dies): about 67. The stale-floor curriculum FORCES fresh Tier 2
+      edits per floor (+8 each). The high debt is now blurring his reads, which is WHY he cannot read
+      the killing floor fast enough to save Tess: the cost of his own literacy kills the reader most
+      like him.
+    - Ch 18 (the deepest read): about 87. Threat zone. Reading the core grammar is a Tier 2-heavy edit.
+    - Ch 20 (Playing Yourself): about 98. One edit from dark. The boss has every old trick patched, so
+      only a brand-new deep read can touch it.
+    - Ch 21 (chosen final edit): crosses 100. Overlay goes dark, blind. The win and the blinding are
+      one act (see DECODE-DEBT CEILING).
+  FORCING SITUATIONS pinned in Act Three so the clock actually reaches the ceiling: Ch 15 forge crew
+  access (Tier 3), Ch 16 stale-floor curriculum forcing fresh Tier 2 edits per floor, Ch 18 reading
+  the core grammar (deepest), Ch 20 to 21 the boss with every old trick patched forcing brand-new
+  deep edits. (These are pinned in book/outline.md as well.)
 - **Counter-patches:** The administrator ships counter-patches that close holes Aaron
   exploits. Early patches (Act 1) are slow and arrive hours/days later. By Ch 6 they
   arrive within minutes (near real-time watching). Patches are **too cleanly aimed**,

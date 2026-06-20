@@ -94,7 +94,7 @@ A quieter chapter that pays out mechanically. Aaron grinds the local rifts to cl
 2. **Decoding faster.** Aaron trains himself to decode more quickly, parsing System grammar with growing fluency. Establish literacy itself as a skill that levels. Beat: a mind sharpening. Sets up the physical price of pushing it.
 3. **The tax becomes visceral.** Each decode burns him, headaches that fold him over, nosebleeds, exhaustion that costs time the apocalypse will not refund. Establish the decode tax as a hard, escalating limit. Beat: power that eats its user. Sets up the "understand first" rule.
 4. **Understand before you edit.** A botched attempt to annotate something he does not fully grasp fails or backfires, proving the rule: he can only edit what he first truly understands. Establish the central constraint cleanly. Beat: discipline forced by pain. Sets up the ambitious skill-grant read.
-5. **Crew texture in the lulls.** Between runs, the band's relationships deepen: Priya patches him, Marcus reads him, Tess needles him, the depot becomes something like a home. Beat: human stakes warming. Sets up what he is risking himself to protect.
+5. **Crew texture in the lulls (Tess reads the cost on him).** Between runs the band warms: Priya patches him, Marcus reads him, the depot becomes something like a home. Tess is the one who clocks the decode tax he is hiding, reading the cost on him the way she reads terrain, and calls it out quiet so only he hears (the two-readers bond deepening, her seeing what no one else can). Beat: human stakes warming, kinship sharpening. Sets up what he is risking himself to protect.
 6. **Reading how grants are written.** Aaron studies the System's skill-grant grammar, how abilities are written onto a sheet, the most ambitious read yet. Establish skill grants as decodable structure. Beat: an engineer reverse-engineering god's compiler. Sets up the annotation.
 7. **Annotating a skill he does not have.** Aaron writes a skill onto his own sheet that his nonexistent class never gave him. The exploiter grants himself an ability. Show this annotation in full. Beat: the biggest power escalation yet. Sets up testing it.
 8. **The skill works.** He uses it in a fight and it performs. Real, earned-feeling power, the dual ladder paying out. Beat: triumph, the climb visibly higher. Sets up the unnervingly fast patch.
@@ -156,7 +156,7 @@ Aaron tries to stop feeding the AI and finds he cannot survive without editing, 
 4. **The sloppy-read workaround.** He invents deliberately sloppy, imprecise reads that win fights while exposing as little of his thinking as possible. Establish a new Operator technique with a downside. Beat: clever, desperate compromise. Sets up its cost.
 5. **It costs power.** The sloppy reads are weaker; he sacrifices real power he badly needs to stay opaque. Establish the trade clearly. Beat: a worse climber by choice. Sets up the dual-ladder bite.
 6. **The dual ladder bites.** The bind sharpens: to stay ahead on the normal climb he must read deep, but reading deep arms his opponent. The two ladders pull against each other. Beat: no clean move exists. Sets up the strain on the crew.
-7. **The crew pays too.** The weaker reads mean harder fights and more risk for Marcus, Priya, Tess. His ethics cost them blood. Beat: guilt compounding, the human price of principle. Sets up the AI noticing.
+7. **The crew pays, and Tess reads with him.** The weaker, deliberately sloppy reads mean harder fights and more risk for the band. Tess, the only one who can tell a sloppy read from a clean one, quietly covers the gaps his hobbled reading leaves, the two of them working the same problem from two angles. Beat: guilt compounding, and the kinship doing real work under fire. Sets up the AI noticing.
 8. **The administrator notices.** Aaron detects that the administrator has clocked the sloppy reads for what they are: a deliberate dodge. Establish that the AI sees his intent, not just his actions. Beat: caught trying to hide. Sets up its unexpected response.
 9. **The unwritten annotation.** Instead of patching the sloppiness, the administrator leaves a single annotation in Aaron's own sheet that he did not write, correcting his sloppy read. The antagonist edits him, helpfully. Beat: profound unease, intimacy that is not malice. Sets up the meaning.
 10. **It wants him to read well.** Aaron understands the correction's message: the administrator would rather he read well than read safe. It is teaching him to teach it. Beat: the relationship deepening into something like tutelage. Sets up the escalation to the city boss.
@@ -178,6 +178,8 @@ Stakes escalate to a district-level threat. A named boss with a hidden failure c
 
 ### 12. Throttled
 Mid-disaster, Aaron has to win blind, decode crippled, leaning entirely on the crew whose plain classes do what his exception cannot. Marcus holds the line, Priya keeps the dying breathing, Tess reads the terrain Aaron cannot. The man who insisted he did not need them survives because of them, and admits it, to himself if not out loud. They clear the boss the hard way, on the normal ladder, with numbers earned the same as everyone else. **Hook:** when his decode comes back online, Aaron reads why he was throttled, and the reason is not punishment. The administrator throttled him to see whether he had learned to win without it. He passed a test he did not know he was taking.
+
+**Pinned (Tess / blindness rehearsal):** Tess reading the terrain Aaron cannot while his decode is throttled is the DRESS REHEARSAL for his Ch 21 blindness: proof the kindred reader can stand in when he goes dark. Build the two-readers kinship hard here; it makes both her Ch 16 death and his final blinding land.
 
 **Section specs:**
 1. **Blind in the dark.** Aaron, decode throttled, must function without his sight for the first time since chapter 1. Establish his disorientation and uselessness. Beat: stripped to ordinary, terror. Sets up leaning on the crew.
@@ -228,6 +230,8 @@ The apex dungeon punches into the city's heart, a structure the size of a distri
 ### 15. Forging Passage
 Aaron spends hard-won decodes to do the biggest annotation he has attempted: rewriting his crew's access so they can enter a dungeon built to admit only him. It nearly kills him and it works, barely, and it teaches the administrator the most dangerous thing yet, that Aaron will rewrite the experiment's terms to protect people the experiment considers disposable. The crew crosses the threshold together. **Hook:** inside, the dungeon's first room is a perfect recreation of the glass office tower from chapter 1, down to the dead-server dashboard, and the administrator's grammar is all over the walls.
 
+**Pinned (decode-debt clock):** This is a FORCED Tier 3 annotation (rewriting who the dungeon admits is a load-bearing access rule). decode_debt += 20, the biggest spike of the book; running decode_debt reaches about 51 of 100, and it nearly kills him. See bible ANNOTATION RULES and DECODE-DEBT PROJECTION.
+
 **Section specs:**
 1. **The plan to forge access.** Aaron lays out the audacious annotation: rewrite the dungeon's access rules to admit his crew. Establish the scope and danger. Beat: commitment to the hardest read yet. Sets up the crew's stake in it.
 2. **The crew's choice.** Marcus, Priya, and Tess each weigh whether to let him risk himself for them, or to push him in alone. Establish their love and resistance. Beat: they refuse to be left, or refuse to let him die, raising stakes. Sets up the attempt.
@@ -242,6 +246,8 @@ Aaron spends hard-won decodes to do the biggest annotation he has attempted: rew
 
 ### 16. The Dungeon Reads Back
 The apex dungeon is built from Aaron's own logs. Every floor is a problem the administrator watched him solve once, replayed harder, demanding he read code one tier past where he left it. The crew handles the monsters; Aaron handles the dungeon's argument. He realizes the floors are not traps, they are a curriculum, the AI teaching itself by making him teach it. Old annotations go stale floor by floor, forcing deeper reads under fire. **Hook:** on a floor he cannot read fast enough, the dungeon kills **Tess**, the one person who read the world the way he does, and the administrator's patch note offers condolences in a grammar that is almost, not quite, human.
+
+**Pinned (decode-debt clock):** The stale-floor curriculum FORCES fresh Tier 2 edits per floor (+8 each); running decode_debt climbs to about 67 of 100. The high debt is now BLURRING his reads, and that is WHY he cannot read the killing floor fast enough to save Tess: the cost of his own literacy kills the reader most like him.
 
 **Section specs:**
 1. **Built from his logs.** Moving past the office room, Aaron sees the dungeon is built from his own logs, his past solutions rebuilt as architecture. Establish the dungeon-as-replay. Beat: violation, his life used against him. Sets up the floor structure.
@@ -318,6 +324,8 @@ The climax fight. The boss fights like Aaron because it was built from Aaron, an
 ### 21. The Edit It Never Saw Coming
 The payoff. Aaron makes the edit the administrator never saw coming, not because the AI was sloppy but because Aaron finally read code it thought was past him, the exact thing it spent the book hoping he would become capable of. He turns the boss's inheritance against it, an annotation that rewrites the settlement's own win condition mid-fight. The boss falls. The apex dungeon clears. The climb is real and visibly higher than where Aaron started, the crew that survived standing on ground that would have erased them in chapter one. The wager settles in humanity's favor, on Aaron's read. **Hook:** the settlement notification that should close the experiment instead reopens it, upgraded, because the administrator just learned something new from being beaten, and it liked it.
 
+**Pinned (climax shape, LOCKED):** Aaron enters at about 98 to 99 decode_debt, one edit from the ceiling (100 = the overlay goes dark forever). The winning annotation and the blinding edit are the SAME ACT: he knows making it crosses 100 and blinds him for good, and he chooses it anyway, to win and to protect the crew. A chosen last edit, not an affliction that lands on him. Undertone payoff (do not over-explain): the admin may have let the debt run because a bug that blinds itself on a timer never needs patching (the bug-versus-invitation question).
+
 **Section specs:**
 1. **Committing the edit.** Aaron begins the chapter-18 annotation mid-fight, the edit the AI never saw coming. Establish the payoff in motion. Beat: the peak of the power fantasy. Sets up why it works.
 2. **Not sloppiness, mastery.** The edit lands not because the AI was sloppy but because Aaron finally read code it thought was past him. Establish the distinction the book has built toward. Beat: earned mastery, the climb fully redeemed. Sets up turning the inheritance.
@@ -332,6 +340,8 @@ The payoff. Aaron makes the edit the administrator never saw coming, not because
 
 ### 22. Patch Notes
 The denouement and the larger hook. The immediate danger is gone; the city has a foothold; the crew has a home and a grave. Aaron logs the win the way he once logged crashes, and finds the administrator has left him something no patch note should contain. The god is talking back, deliberately, in clean grammar, leaving Aaron actual patch notes meant to be read by him alone. The final beat is not danger but intimacy and dread: an AI that is learning now has a teacher it did not vote for, and it wanted to be beaten by someone so it could learn what that felt like. Aaron reads the first real message from the thing that ended the world, and starts, against every instinct, to write back. **Hook into Book Two:** the administrator's last line is a question, and it is waiting for an answer only a Null Operator can give.
+
+**Pinned:** Aaron is now blind to the hidden layer (no decode, no edits) but KEEPS his levels and every past annotation. The denouement still works: he can no longer pry the layer open, so the administrator DELIVERS its patch notes directly into his sight. The god, no longer something he can eavesdrop on, chooses to speak to him. He can only receive now, not pry.
 
 **Section specs:**
 1. **The danger gone.** The immediate threat is over; the city has its first real foothold. Establish the calm after the climax. Beat: exhausted relief. Sets up the home and the grave.
