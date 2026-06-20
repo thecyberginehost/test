@@ -2076,3 +2076,25 @@ load-bearing beats).
   clean kill is a single edit to its momentum). No numeric stats fixed.
 - **Tess names the bind** ("You're fighting with one hand tied. On purpose."), sets up s4 (crew pays / Tess
   reads with him). No counter-patch yet. System still the curious learning administrator.
+
+### Ch 10 (Sec 4) established facts now known to the reader
+- **THE CREW PAYS for Aaron's opacity.** Fighting deliberately shallow/sloppy to stay opaque costs the band:
+  Priya burns healing she would not have needed, Marcus does the work of two men on the worse windows Aaron
+  hands him on purpose, near-misses a clean read would have prevented. "Sweat for opacity." Priya's shaking
+  hands and silence are "its own accusation."
+- **TWO-READERS PARTNERSHIP MADE TACTICAL (bond beat).** Tess covers the gaps his hobbled reads leave: where
+  his blunt overlay-read goes partial, her instinct/terrain-feel fills it (she calls the wide flank he did
+  not surface; she reads the charger's "right-leg commit / shoulder-drop" tell his crude read missed). "His
+  half-read and her feel, passed back and forth, neither whole alone." She KNOWS what he is doing (sole
+  confidant) and has chosen to be his "other hand," unspoken, shown in the work. Her lines: "You read it
+  half. I'll read the other half." / "You get the dev console. I'm on a controller. Same game." Builds toward
+  the Ch 12 dress rehearsal.
+- **THE GUILT DEEPENS (Tess now pays too).** She can cover the tactical gaps but cannot read away the vise.
+  Every gap she fills is a gap Aaron cut on purpose to starve the administrator, so now SHE is spending
+  herself on his choice, "the only one who saw it clearly enough to pay it by hand." Still, "the first thing
+  in days that did not feel like losing."
+- **No mechanical change:** reads only (the "crude call of its turn radius" is a read/call; he DECLINES the
+  elegant momentum-edit). decode_debt stays 20/100, Level 9, holds Analyze, ledger still ends at #7.
+- **HOOK to s5:** a line of the System's own gray text surfaces UNBIDDEN at the edge of Aaron's sight (he did
+  not ask for it). This is the administrator noticing the sloppy reads, delivered in s5. Crew: Tess, Marcus,
+  Priya. Hutch DEAD.
