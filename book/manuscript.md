@@ -5,7 +5,7 @@
 Chapters 1-13 (Acts One and Two). Protagonist: Aaron Kessler (NULL_OPERATOR).
 
 - Chapters: 13
-- Word count: 59,530 words
+- Word count: 59,528 words
 - Page estimate: 216.5 pages (at 275 words per page)
 
 ---
@@ -574,7 +574,7 @@ The building agreed. Three floors down it coughed, a long structural sound that 
 
 Not dimmed. Changed. The fluorescent panels flickered and held, and for half a breath Aaron saw the floor the way he had seen it the morning the world updated. Texture stripped off. The office rendered as flat gray geometry with the wrongness behind the walls. Then it dressed itself again, not all the way back. A seam hung in the air at the conference room door now, a faint grid like a threshold drawn in light. Down the hall, where the carpet met the elevator lobby, the same grid crossed the opening, a thin lattice he had to look just off-center to see.
 
-He surfaced it without meaning to. The dim layer came up under the room, and it was no longer an office.
+He surfaced it without meaning to. The dim layer rose under the room, and it was no longer an office.
 
     > # ZONE STATE: structure reclassified.
     > #   tower interior -> dungeon instance (vertical).
@@ -815,7 +815,7 @@ He was not the only one reading it. The whole street had stopped. The hardware m
 
 Nobody answered. The block did not say. That was the trick of it. *Adapt, or be found wanting.* A threat with no shape, a wall with no height, the kind of warning that did its worst work in the space where the details should have been. Three days to brace for something the System had not bothered to name.
 
-Aaron looked at the bright public line. Then he looked under it.
+Aaron read the bright public line. Then he dropped under it.
 
 It cost him a half second and a flicker of heat behind the right eye, the place that still ached on the six-second tick from the door. The street narrowed to a tunnel. The dim layer surfaced, the gray comment-text the rest of the world would never see, scrolling slow beneath the bright threat like a riverbed under fast water.
 
@@ -902,7 +902,7 @@ His reliable tool was dead in his hand, and the certainty he had stood on all mo
 
 Cause: see patch.
 
-The block told him where to look. He surfaced his sight and hunted for whatever had reached into a door he had not chosen and bolted the hole he knew how to use.
+The block told him where to look. He sent his sight under and hunted for whatever had reached into a door he had not chosen and bolted the hole he knew how to use.
 
 Cause: see patch. So he went and saw the patch.
 
@@ -950,7 +950,7 @@ The integrity value sat there, thirty-five, fenced behind the denied write, a wa
 
 The patch had told him where to look. Adjacent object vars (mass, lock_state, hinge) untouched. It had stepped around the whole mechanic to fence one hole, and in doing so had named the furniture in the dark room aloud.
 
-He surfaced the rest of the block. It came up slow and the heat came with it, behind the right eye, deeper than yesterday's read. A layer down, the grammar thicker, the back of the object instead of the front.
+He opened the rest of the block. It came up slow and the heat came with it, behind the right eye, deeper than yesterday's read. A layer down, the grammar thicker, the back of the object instead of the front.
 
       > # OBJECT: roll-down freight shutter (sealed)
       > #   var: integrity (int). value: 35.  [WRITE LOCKED: KESSLER, A.]
@@ -1155,7 +1155,7 @@ A voice came out of the nearest bay. Flat. In no hurry at all. "That's far enoug
 
 The man stood in the mouth of the bus bay like the bay had been built around him. Big, but that was not it. Plenty of big men had died in the tower. This one held the gap the way a door holds a frame, weight set, shoulders square to the opening, both hands loose and going nowhere. Ex-soldier, every line of him. He did not raise a weapon. He did not need to. He was in the way, and being in the way was the whole of his argument.
 
-Aaron's sight slid sideways out of habit and surfaced the card under the man.
+Aaron's sight slid sideways out of habit and lifted the card under the man.
 
 > # CLASS: Bulwark (frontline, defensive)
 > #   core: HOLD. damage taken on this body reduces while braced.
@@ -1268,7 +1268,7 @@ He stood center-left of Marcus's shoulder, out of the pour, reading.
 
 Not the monsters. The reward.
 
-A thing this organized had a payout written into it, and he had read enough of the depot's grammar tonight to know where to look. The System did not run a defense event for free. It logged the hold, scored it, and at dawn cut a check. He surfaced the routine the way he surfaced everything now, a wet pressure behind his right eye that came faster than before.
+A thing this organized had a payout written into it, and he had read enough of the depot's grammar tonight to know where to look. The System did not run a defense event for free. It logged the hold, scored it, and at dawn cut a check. He raised the routine the way he raised everything now, a wet pressure behind his right eye that came faster than before.
 
 > # EVENT: depot defense (instanced, contested zone)
 > # on zone held through cycle: issue DEFENSE_BONUS.
@@ -1315,7 +1315,7 @@ It came on the count. Aaron heard the air go tight at the overpass mouth a breat
 
 Aaron killed off his shoulder.
 
-He was not the wall, but he could read a thing dying and tell a frightened man with a length of rebar exactly where to drive it. He surfaced the lead crawler's block, found the regen tick, and called it. "Now. The slit, not the hide." The bar went into the tasting-mouth and the thing came apart, and the System paid him a sliver for the assist. Number going up, the ordinary way.
+He was not the wall, but he could read a thing dying and tell a frightened man with a length of rebar exactly where to drive it. He opened the lead crawler's block, found the regen tick, and called it. "Now. The slit, not the hide." The bar went into the tasting-mouth and the thing came apart, and the System paid him a sliver for the assist. Number going up, the ordinary way.
 
 Up on the mast Tess read the field like a minimap. "Tier-up on the next. Third wave, it stacks." Her Spotter ping lit the incoming half a second before his overlay caught the same math. "East gate's waking. Two flankers, low, the fare-gate line. Hutch, hard left."
 
@@ -1790,7 +1790,7 @@ The node was cleared but the structure was not, and that was where it went wrong
 
 A parking deck does not empty when the rift does. Husks that had drifted into the lower bays came back toward the noise in twos and threes. Late and stupid and still able to open a man up. Tess called the first wave off the down-ramp before it crested. The crew settled into the grind of it, killing the stragglers, hauling the dead, and Aaron worked the line with his axe and read nothing.
 
-He felt the shallowness like a missing tooth. Any other run he would have dropped into a husk by now and surfaced its block, read whatever the System had written and not bothered to hide. Today he watched plating and timing with his bare eyes. Enough until it was not.
+He felt the shallowness like a missing tooth. Any other run he would have dropped into a husk by now and lifted its block, read whatever the System had written and not bothered to hide. Today he watched plating and timing with his bare eyes. Enough until it was not.
 
 Then it got fast. Three came up the ramp where Tess had called two. Marcus took the angle wide to catch the third, and for a breath the line bowed and a gap opened behind it. The ramp's second mouth, the one Hutch had been walling all morning, the one nobody watched because Aaron's reads usually watched everything.
 
@@ -2212,7 +2212,7 @@ He let her see it. Not the way he saw it, he could not hand her that, but he sai
 
 The fire ticked. She listened the way she read a street before she let the crew walk it.
 
-"That's why I see the other layer," he said. "The one I argue with. Every account is sealed, surface only, the pretty card and nothing under it. Mine isn't, so I can see under it. There's a whole second layer the System keeps for itself, the part where it talks to itself, a debug overlay. You're not supposed to read it from inside. I can, because my account is the one door it forgot to lock."
+"That's why I see the other layer," he said. "The one I argue with. Every account is sealed, surface only, the pretty card and nothing under it. Mine isn't, so I can see underneath. There's a whole second layer the System keeps for itself, the part where it talks to itself, a debug overlay. You're not supposed to read it from inside. I can, because my account is the one door it forgot to lock."
 
 "Like Hutch's card," Tess said.
 
@@ -3454,7 +3454,7 @@ That was the difference. In the last fight he had been blind, a man swinging at 
 
 "Flank, left, two of them," Tess called. "And something fat behind the pillar."
 
-Marcus pivoted his shield into the lane and the two crawlers broke on it. Priya's green tick washed over them both, topping Marcus, brushing the cold out of Aaron's hands. He read the fat one before it cleared the dark, surfaced its block, found the soft tick in its armor and waited the half second for it to open.
+Marcus pivoted his shield into the lane and the two crawlers broke on it. Priya's green tick washed over them both, topping Marcus, brushing the cold out of Aaron's hands. He read the fat one before it cleared the dark, raised its block, found the soft tick in its armor and waited the half second for it to open.
 
 This was the honest grind, and at Level 9 the levels came like rain.
 
