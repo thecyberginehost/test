@@ -1656,3 +1656,27 @@ load-bearing beats).
   holes are left open). The s05/s06 reveals are NOT delivered here.
 - **No mechanical change:** no annotation, no level/stat change, decode_debt 14/100, Aaron Level 8, holds
   Analyze.
+
+### Ch 7 (Sec 5) established facts now known to the reader
+- **NEW CAPABILITY (canonical reach):** Aaron can deliberately surface and READ another person's full hidden
+  deep layer (their whole "System-life"), not just his own account and monsters. First done here on Hutch's
+  death-residual window. This is a READ ONLY (free, no debt, no level cost); he does NOT and would not edit
+  another person's card. (Consistent with the earlier "people read sealed / surface-only" rule: ordinary
+  accounts have NO hole to edit; he can read the deep layer but it is locked.)
+- **HUTCH'S ACCOUNT (canonical NPC card).** Class HAULER (logistics, tier 1), resolved clean at assignment.
+  Level 4. HP 0/120 (FAIL_RESPIRATION written: dead). Strength 9, Agility 5, Vitality 8, Perception 7,
+  Wits 6. Skills: Load-Bearing (passive), Steady Footing (passive); no active skill. Account fully SEALED:
+  handler CLASS.LOGISTICS.HAULER bound, precondition gate enforced, all writes route through the handler,
+  no vacant field, no debug overlay, no edit surface, read-only. Canonical card block (lower-case decode
+  style, verbatim) is in book/chapters/ch07/s05.md lines 9-17.
+- **CANONICAL STAT RULE CLARIFIED (ratified):** the formula HP = 40 + 10*Level is the NULL_OPERATOR /
+  Vitality-6 baseline (Aaron's). OTHER classes carry class-specific, Vitality-weighted stat/HP profiles, so
+  a Hauler with Vitality 8 / Strength 9 reading HP 120 at Level 4 is correct, NOT a contradiction. Per/Wits
+  formulas likewise are Aaron's baseline. (Only Aaron's sheet is governed by the bible's locked formulas;
+  NPC cards may differ by class.)
+- **THE SEED (planted, not stated):** Hutch's nobody account is sealed perfectly tight, exactly as an
+  account is "supposed to be," which Aaron reads as the way every account on Earth must be. This sits as a
+  cold wrongness next to his own card (vacant handler reached through six hours ago, debug overlay, status
+  unhandled, lets him in). The s06 conclusion (his holes are LEFT OPEN on purpose) is NOT yet stated.
+- **Grief beat:** Aaron pays Hutch the attention (the thank-you) he withheld three times alive, by reading
+  the whole cold record because no one else can. No mechanical change: decode_debt 14/100, Level 8, Analyze.
