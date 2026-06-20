@@ -19,11 +19,13 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 2** as of end of Ch 1 (first kill, the hollow-crawler).
-  Sheet: HP 60/60; Strength 5, Agility 6, Vitality 6, Perception 12, Wits 11 (Perception/Wits
-  run high, his reader nature). Class field still reads NULL_OPERATOR / status: unhandled (the
-  level-up did not resolve it). Level 1 baseline was Perception 10, Wits 10. (Writer: keep
-  logging exact numbers here each chapter as he climbs.)
+- Current level / key stats: **Level 1** as of Ch 2 Sec 3. He reached Level 2 on the Ch 1
+  crawler kill (HP 60/60, Perception 12, Wits 11), then spent that level as the cost of his
+  FIRST ANNOTATION (capping Suffocation), dropping back to Level 1. Current Level 1 sheet:
+  HP 50/50; Strength 5, Agility 6, Vitality 6, Perception 10, Wits 10 (the +2 Perception / +1
+  Wits from Level 2 reverted with the lost level). Class field still reads NULL_OPERATOR /
+  status: unhandled. Annotations cost -1 level each plus the decode tax. (Writer: keep logging
+  exact numbers here as he climbs and as edits cost him.)
 
 ## Cast
 | Name | Role | Traits | Status | First appears |
@@ -479,3 +481,31 @@ CREW DEATHS LOCKED (do not change):
   through 4 to 5.
 - **Aaron commits but has NOT executed:** he puts the cursor on `y` at section's end. He has not
   pushed it or renamed anything yet, and has not spent a level or taken the toll (held for s03).
+
+### Ch 2 (Sec 3) established facts now known to the reader
+- **The first annotation is EXECUTED.** Aaron pushes `y`; the choice is an act behind the eyes
+  (will applied to a field), not a keypress. Write target: `STATUS Suffocation, 1 value`.
+- **Exactly what he changed:** he edited the THRESHOLD BEHAVIOR of Suffocation (NOT the
+  FAIL_RESPIRATION function, which is a wall he cannot move). He did NOT lower the threshold (that
+  would kill sooner). He revised how the stack count climbs against the comparison so the counter
+  CAPS at 11, one tick short of the death-wall at 12, and refuses the twelfth stack. FAIL_RESPIRATION
+  will never be reached/called. The function still exists, just unreachable. Permanent and narrow.
+- **Cost paid here, during the write:** Aaron dropped from Level 2 to **Level 1** (the level "tore
+  loose," EXP to the floor, the warm reward color drained). Physical toll landed simultaneously:
+  nosebleed (blood over his lip and on his teeth), a spike behind his right eye, and respiration
+  debt (air going thin) while he wrote.
+- **Suffocation counter kept ticking during the edit:** from 6 (section start) up through 7.
+- **System confirmation block (new canonical, bright public shape, NO em dashes, verbatim):**
+
+      [ SYSTEM ]
+      ANNOTATION ACCEPTED.  Account: KESSLER, A.
+      STATUS Suffocation: threshold behavior revised.
+      Stacks now cap at 11. FAIL_RESPIRATION will not be called.
+      Scope: this account and bodies sharing its air. Permanent. Narrow.
+      Cost paid: -1 Level.  Decode tax applied.
+
+- **Scope:** the edit applies to Aaron's account AND bodies sharing its air (those breathing the
+  same air near him). The confirmation came in the bright PUBLIC block shape (same as a level-up),
+  the System acknowledging his rewrite directly, not his dim gray overlay.
+- **Outcome NOT yet confirmed:** section ends before it is shown whether the cap holds across the
+  room. Counter at 7 and climbing; Aaron watches it, bleeding, breath shallow (held into Sec 4).
