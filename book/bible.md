@@ -2365,3 +2365,26 @@ load-bearing beats).
 - **No mechanical change:** decode THROTTLED (surface only), decode_debt 20/100, Level 10, holds Analyze,
   ledger ends at #7. Boss sealed/armored, brood-wave the threat, NOT killed. No System reveal (throttle test
   is s6). Crew: Tess, Marcus, Priya. Hutch DEAD.
+
+### Ch 12 (Sec 3) established facts now known to the reader
+- **TESS READS THE TERRAIN (load-bearing DRESS-REHEARSAL beat; two-readers kinship).** Blind (throttled),
+  Aaron takes Tess's calls the way the crew has always taken HIS (role reversal made physical): she reads a
+  water-eaten SINKHOLE under the stalled bus and saves him with a half-second margin ("read it in the water,
+  it was sitting wrong"); she calls a left-flank break that breaks exactly where/when she says; she reads the
+  Mother's SURGE CYCLE off the terrain (the water pulling back is her windup; when it slacks the brood goes
+  still a beat, then floods; the window is in the slack). All by FEEL, no overlay.
+- **THE TWO DOORS (the kinship's thesis, on the page).** He reads the world by CODE (the layer, the fine
+  print); she reads the same world by FEEL (ten thousand hours, the body's sense a thing is about to go
+  wrong). Tonight his door is nailed shut and hers is all they have, and it is ENOUGH. "She was not a smaller
+  version of him standing in. She was reading the same world through the other door."
+- **THE FELT REALIZATION (dress-rehearsal payoff; FELT, not prophecy).** The thing Aaron feared most, going
+  dark / being ordinary / blind in the apocalypse, is survivable, because the one person who reads the world
+  the way he does can be his eyes: "If the sight ever left him for good, he would not be alone in the dark."
+  NOTE: kept CONDITIONAL/felt; he does NOT foresee his literal Ch21 blinding or Tess's Ch16 death. (This beat
+  is the structural setup for both; do not over-reveal.)
+- **THE PIVOT (into s4):** steadied by Tess's eyes, Aaron stops flailing and starts THINKING. His MEMORY of
+  the Mother's failure condition (read before the throttle) is intact and usable ("sitting in his memory where
+  no patch could reach it"). With Tess feeding terrain + timing, he begins to build the kill from what he
+  already knows. CANON: the throttle blinds LIVE deep reads but does NOT erase what he already read/remembers.
+- **No mechanical change:** decode THROTTLED (surface only), decode_debt 20/100, Level 10, holds Analyze,
+  ledger ends at #7. Boss not killed. No System reveal. Crew: Tess, Marcus, Priya. Hutch DEAD.
