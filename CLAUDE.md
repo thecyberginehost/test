@@ -31,6 +31,16 @@ SECTION LOOP (per chapter, repeat for each of ~10 sections):
 
 CHAPTER GATE (once per chapter, after its sections are done):
   9. chapter-reconciler -> may adjust the REMAINING outline only
+ 10. VERIFICATION GATE (deterministic, mandatory): run
+        python3 scripts/check_chapter.py <N>
+     This is a HARD gate, not a formality. It checks the chapter deterministically
+     (length 3,500-5,000 words, every section lints CLEAN, every section has a
+     non-empty sNN.notes.md, and the chapter contains a [ SYSTEM ] block) so we do
+     NOT rely on the agents self-reporting. You may NOT start the next chapter until
+     it prints PASS and exits 0. On FAIL: STOP, show the human the full output and
+     the specific failure reasons, and wait. Fix the chapter (re-run the relevant
+     loop steps) and re-run the gate. NEVER edit check_chapter.py or loosen its
+     thresholds to make a chapter pass; the gate is the standard, not the obstacle.
 
 FINISH: assemble sections in order -> book/manuscript.md, hand to the human.
 
@@ -39,7 +49,8 @@ book/concept.md, book/summary.md, book/outline.md
 book/bible.md          (live state, copied from bible.template.md at book start)
 book/style.md          (voice + LitRPG format rules, read-only for agents)
 book/chapters/chNN/sNN.md
-scripts/lint_tells.py  (deterministic AI-tell linter)
+scripts/lint_tells.py     (deterministic AI-tell linter)
+scripts/check_chapter.py  (deterministic per-chapter verification gate; see step 10)
 
 ## Shared ground truth
 - book/bible.md is the single source of truth for characters, System rules,
