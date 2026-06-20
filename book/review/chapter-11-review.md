@@ -1,0 +1,278 @@
+# Chapter Eleven Review: The City Boss
+
+From *Patch Notes for the End of the World* (Kade Zero presents: The Administrator, Book One)
+
+- Word count: 4,524 words (across the 6 section files s01-s06)
+- Page estimate: 16.5 pages (at 275 words per page)
+- Verification gate (scripts/check_chapter.py 11): PASS
+
+---
+
+The pattern had been in front of him for a week and he had been too busy surviving to read it.
+
+He read it now, on the third night, by stove-fire light in the depot bay, a salvaged district map flat on a crate and Tess crouched across it. The map was not the streets. It was deaths. Every rift the crew had cleared, every wave that washed survivors out of the eastern blocks, every body Priya had failed to keep, marked in grease pencil with a time beside it. Tonight it told the truth all at once.
+
+The waves came on a schedule. That was the first thing. They surged, went quiet, surged again, and the quiet was always the same length, near enough to set a watch by. Survivors talked about the rifts like weather. Weather did not keep time.
+
+The second thing was worse, and it was the thing only an outage taught you to see.
+
+"They're not separate," he said.
+
+Tess looked up. She had been reading the map her own way, by feel. "Say it plain."
+
+"A node fails." His finger moved mark to mark, each rift they had fought as its own crisis. "And the dashboard lights up everywhere downstream. Twelve alarms. You chase twelve alarms all night and lose, because there were never twelve problems. There was one. One thing failed, and bled out through everything wired to it." He sat back. "These aren't twelve rifts feeding the district. They're twelve leaks off one source. Same timing, same spawn signature once you stop watching the monsters and start watching when they arrive. We've been mopping the floor with the tap running."
+
+Marcus stood at the edge of the firelight, shield slung, listening with the stillness of a man who had held a lot of lines that did not matter. "And the tap's where?"
+
+Aaron pulled Analyze across the last marks. The skill surfaced what the bodies could not say, a thread under each clear, all of it routed back along the same vein. He had read it crude for weeks and seen only noise. Read clean now, at full strength, it resolved into one direction and one depth. Down. South and down, under the river blocks, where the trains used to run.
+
+"The subway," Tess said, before he could. She was already there, finger on the flooded line. "Lower yard's been wet since the first day. Water came up the tunnels and never went down."
+
+He found it then, the root, the way you trace a cascade past every screaming downstream alarm to the one silent dead thing at the bottom. The overlay did not whisper this. It hung the name where a survivor could have read it, a banner brighter and heavier than any warden's tag had ever been.
+
+> [ SYSTEM ]
+> DISTRICT THREAT: established.
+> Source designate: THE DROWNED MOTHER (rift-brood spawner).
+> Tier 2. Nesting: flooded transit line, lower platform.
+> Note: this source originates the recurring waves. Active.
+
+Nobody spoke for a moment. The fire popped.
+
+He had killed wardens. He had turned a charger's own swarm against it. Those were things you could stand in front of. This was the thing that made those things, stamped with a tier that put the whole warden ladder a rung beneath, and called a mother. It did not fight you. It birthed what fought you, on a schedule, and would keep birthing until the district had no one left to die.
+
+"We can't take that," Marcus said. It was not fear in it. It was arithmetic. "We've got four of us and a room full of people who can't hold a line."
+
+"We can't not take it." Priya, from the dark behind him, where she had been changing a dressing on a girl who would not have a leg by morning. Her voice was flat with the kind of tired that did not argue. "It's bleeding us dry. Every day it sits down there, I lose people up here. Walk away and it just kills us slower. There's no version where we run."
+
+That was the shape of it. A forced fight, the one kind he hated, the kind with no clever door. Clearing the source was the only thing that stopped the bleed.
+
+Tess was watching him across the map, reading him now and not the terrain. "You've got that look."
+
+He had. The era of throwing fights to stay small was over. The administrator had refused his crude work and asked, in the only voice it had, for his best. So it would get his best. He was going down into the water to read the biggest thing he had ever read, the way he had read his first monster in a glass box with empty hands, only larger.
+
+"Something down there has a failure condition," he said, and started rolling the map. "Everything written does. We find it. Then we drown the tap."
+
+The scouted distance was a maintenance gallery one platform above the flooded yard, a concrete ledge that stank of mold and rust water. Tess had found it on the descent, a place to lie flat and look down unseen. Aaron lay there now, chin on his forearms, and put Analyze on the thing in the water.
+
+He had braced for the read to fight him. Wardens fought him. The boss did not.
+
+It came up clean.
+
+That was the first shock, and it landed under his ribs. After weeks of squinting through noise and his own deliberate sloppiness, the Drowned Mother opened like a manual left on a table. No blur. No pushback. Her internals lay legible to the bottom, the way the world used to lay open before the layer learned to guard itself from him. This was the thing he had been built to do, and he had forgotten the feel of doing it without a price.
+
+She filled the platform like a tide that had decided to keep a shape. Pale, slick, swollen at the middle where the brood rode under translucent skin. No face he could find. A vent along her underside opened and shut, slow, breathing the foul water. Under all of it the read resolved into structure.
+
+> # RIFT-BROOD SPAWNER: the Drowned Mother (tier 2)
+> # HP --/-- (sealed). armor: SHELL_INTEGRITY, persistent.
+> #   while SHELL_INTEGRITY active: damage discarded. core unreadable.
+> # behavior: SPAWN_CYCLE (scheduled). times district waves.
+> #   on surge: vent OPENS to expel brood. SHELL drops to commit.
+> #     brood-vent exposes CORE for 1.8s post-commit.
+> #     core readable, core mortal, only in this window.
+> #   note: shell re-seals on cycle end. window does not repeat early.
+
+He read it twice, and the second time his pulse was up, not from the climb down.
+
+She could not be hurt while armored, and she was armored every moment she was not giving birth. The core that mattered sat sealed behind SHELL_INTEGRITY for the length of a cycle.
+
+Except when she committed. When the schedule came due and she surged, dropping the shell to open the vent and push a wave into the district, the core lay exposed. Naked. Mortal. For one and eight tenths of a second the most dangerous thing in the district was the only thing in it he could kill, open precisely because it was doing the one thing it existed to do.
+
+He almost laughed into the stone.
+
+He knew this shape. He had met it on the worst Tuesday of his life, in a glass-walled conference room, a broken carafe in his fist and a hollow-crawler coming for the doorway. That thing had locked its HP buffer to write its own heal and gone vulnerable for four tenths of a second after every tick. The post-tick gap. A thing that healed itself was briefly mortal, because the act of protecting itself was the act that left it open. He had driven a glass fang into that gap and made his first kill with empty hands.
+
+This was the same gap. The exact same idea. Only now the thing was a district boss, the window his whole climb laid over the same trick.
+
+The catch was the schedule, and the catch was everything.
+
+He could not force it. The window opened on her clock, the same clock that timed the waves Tess had mapped, and it did not care that four people waited in the dark with a plan. They could not make her surge early. They could only be in position when she did, everything staged, and hit the core in the one and eight tenths of a second it lay open. Miss that, and the shell re-sealed and they stood a full cycle under the wave she had birthed.
+
+One beat. All of it on one beat. Miss the window and the price was not a retry, it was a full cycle of monsters and another roll of the same dice.
+
+"How bad," Tess breathed beside him. She had not moved.
+
+"Good news and bad news." He kept his voice under the water sounds. "I can kill her. There's a gap. She opens it herself when she spawns a wave, and it stays open under two seconds."
+
+"And the bad."
+
+"We don't get to pick when. She does." He slid off the ledge into the dark, mind already cutting the play into pieces and handing each a name. Marcus to hold the platform mouth so nothing flanked them off the stairs. Priya staged to keep alive whoever stood in the window when it opened. Tess on the clock, because she read timing the way he read code, and somebody had to call the surge a beat before it landed.
+
+And him at the core. In the gap. The way he started.
+
+"Wake the others," he said. "We're running a timing play."
+
+They went down the last ramp single file, into water.
+
+It rose past Aaron's knees by the second step, then his thighs. Black and warm as a wound, scummed with rift oil that broke into colors where they disturbed it. The cold was not in the water. It was in the going down to her. The Drowned Mother filled the far end of the flooded yard. Huge and patient, her vent breathing the foul slosh, and she did not turn as four small things waded toward her in the dark. She did not have to. They were inside her cycle now. She had all the time the schedule gave.
+
+Nobody spoke. That was the thing Aaron felt under his sternum harder than the cold. He had called the play once on the ledge, and now the band cut itself into the shape of it without a word from him. Marcus waded to the platform mouth where the stairs fed down, set his shield across the gap, became a wall. Priya took the slick ledge behind, dry to the shins, mender's light banked and ready. Tess found the high water mark on a pillar and put her eyes on the Mother's vent, counting in a whisper only she could hear. Aaron took the gap at the core line, knee-deep, blade out.
+
+He had spent weeks insisting he did not care about any of them. The lie had never been thinner. This was a machine, every part of it trusting every other part to hold, and it was his.
+
+"Surge," Tess said. Flat. Early. A beat before it landed, the way she always called it.
+
+The Drowned Mother committed.
+
+Her whole bulk heaved and the vent yawned and the water boiled outward in a wave of birth. Not the core-window. The first spawn. Brood poured from her in a pale gout, dozens of eel-bodied clawed things, and they hit the yard already hunting and came straight for the stairs at Marcus's back.
+
+"Left line," Aaron called, reading the wave at full strength now, the clean sight from the ledge holding. "Three low, swimmers, they go for his flank. Marcus, hold center, do not chase."
+
+"Holding," Marcus said, and the first of them broke on his shield and died there.
+
+It became hard fast. The brood came in escalating sets, each fatter than the last, and the chokepoint screamed under them. But the plan held. Marcus did not chase, so nothing got behind. Tess called each set a half-second before it broke, so the line was always braced the right way. Aaron read the swimmers off the surface ones and called the kills, and they landed where he called them. One eel got high and raked Marcus across the shoulder to the bone. Priya's light was on him before the blood finished welling, the wound knitting gray to pink, and he never gave a step.
+
+They took the first wave. The last eel died on Marcus's shield-edge and the water went still except for what they had killed, and the yard was theirs.
+
+The light changed in the corner of Aaron's sight.
+
+> [ SYSTEM ]
+> Rift-brood wave cleared (tier 2 spawner: the Drowned Mother).
+> EXP awarded.
+> LEVEL UP.  You are now Level 10.
+> +2 Perception.  +1 Wits.
+
+It landed like a hit, warm reward color blooming behind his eyes, Perception widening the dark yard a notch and Wits settling his read steadier on the boss. Real. Earned with a blade and a held line and not one edit spent. The ordinary climb, paying out the way it always paid, and his hands had not bled to take it.
+
+But the win was the trap, and he knew it standing in it. They had survived her first surge, which meant they had not run, which meant they were committed now, four people standing in the Mother's lair with the wave dead at their feet and her shell already re-sealing for the next cycle. The window they wanted was not this one. It was the next surge, the one they would strike into.
+
+She breathed. Her clock turned over. Somewhere under the black water it was already counting down to the second she would open herself again.
+
+"Reset," Aaron said quietly. "She goes again. And this time we're in it."
+
+The shell sealed over her core with a sound like a wet door closing, and the lair went quiet.
+
+Not silent. Under the slosh a thin trickle of brood still moved, the stragglers her first surge had thrown, half a dozen eel-bodies nosing the dark between cycles. They were not the wave. They were the noise the wave left behind, and they would harass while the crew set itself, and that was its own problem. Aaron had the bigger one. Her clock.
+
+It was already turning. The same schedule that had timed the first surge, the one Tess had mapped on the descent, was counting down somewhere under the black water toward the second she would open herself again. They had that long to stand the play up exactly right and not a breath more.
+
+"Positions," Aaron said. "We move on the seal, not on the surge. By the time she opens we're already there."
+
+He waded to the core line and stopped where the read told him the vent would yawn. Not where it sat now, sealed shut and pale. Where the geometry from the read said her underside would crack and the core would face. Knee-deep, blade out, his body squared to a piece of water that held nothing yet. Everything depended on him standing in the right empty space before there was anything in it to kill.
+
+"Lane," he said.
+
+Marcus shifted off the stair mouth a quarter turn, shield angling, opening a clean corridor of water between Aaron and the spot the core would show. "Clear to you," he said. "Anything in this lane dies before it reaches you."
+
+"Priya."
+
+"On your back." She came off the dry ledge into the shallows behind him, close enough to touch, light banked. She could not edit the boss. What she could do was keep the man in the open standing through the half-second he was a target and nothing else. That was the whole of her job, and it was load-bearing.
+
+"Tess."
+
+She was already on the pillar, eyes on the sealed vent, lips moving on the count. "I call it early," she said. "A beat before. Same as the first."
+
+"That call is the trigger. Not the surge. You."
+
+"I know."
+
+He let himself feel the size of it for exactly one breath, because after this there would be no time.
+
+One and eight tenths of a second. He turned the number over and it shrank to nothing in his hands. The shell would drop, the vent would open, and for less than two seconds the core would lie naked and readable and mortal in the gap her own birth tore open. In that window he did not just have to see it. Seeing was the easy part now, with the read coming up clean as it had on the ledge. He had to find the failure point inside it and do the thing that killed her, in under two seconds, with the worst seconds of her cycle as his only door. The thing he was best in the world at, through the world's smallest window.
+
+Every read he had ever made had been practice for this one. Every patch note. Every gap. The carafe in his fist on the first Tuesday, the regen tick he had driven a glass fang into with empty hands. All of it narrowed to a single beat of water that was not open yet.
+
+Miss it and the shell re-sealed. A full cycle then, four of them under a fresh wave, another roll of the same dice with the band already bleeding.
+
+He would not be the one to miss it, and that was the part he could not do alone. Tess's call had to be perfect. Marcus's lane had to hold. Priya had to keep him on his feet. He was the edge of the instrument. He was not the instrument. The crew was, and he was just the point where it met the boss.
+
+"Status," he said.
+
+"Holding," Marcus said.
+
+"Set," Priya said.
+
+Tess did not answer with a word. She lifted one hand, fingers spread, the count running under her breath, eyes locked on the vent.
+
+Aaron fixed his sight on the seal and stopped breathing.
+
+The clock ran out under the water.
+
+Tess's hand began to close.
+
+Her fingers closed to a fist.
+
+"Now," Tess said, and the word was barely out when the water tore.
+
+The Drowned Mother surged. The whole black sheet of the lair heaved up off her back, and the shell that sealed her core split along its underseam with a crack Aaron felt in his teeth. The vent yawned. Right where the read had put it. Right where he stood, knee-deep in the empty space he had bet his life on, the geometry coming true like a door onto the inside of her.
+
+The wave of birth started, brood boiling out of the gap in a gray flood.
+
+He did not look at the flood. He looked through it.
+
+The clock in his skull was already running. One point eight. The core hung exposed in the split, slick, pulsing, naked to his sight, and he dropped his Operator vision into it the way he had dropped a glass fang into a regen tick on the first Tuesday. Fast, certain, no hesitation in the hand. The hidden block surfaced under the public horror of her, clean, exactly what the ledge had promised.
+
+> # BOSS CORE: DROWNED MOTHER (tier 2 spawner)
+> # state: EXPOSED.  seal dropped.  window 1.8s.
+> # SHELL_INTEGRITY: 0 (surge-gated; re-seals on cycle close)
+> # failure condition: core unprotected during birth-write.
+> #   FAIL_CORE reachable. mortal this window. no save.
+> #   damage written here is NOT regenerated.
+> # window open. clock running.
+
+There. The failure point, dragged into the light. Live, readable, real. Not a theory off a ledge. Not a shape half-believed in the dark. The seal was broken, the core was mortal, and the thing the System had buried under every cycle of her sat open in his sight for as long as her body took to push out her young.
+
+She could not be killed. He had read the one second and three-fifths in which that was a lie.
+
+"Open," he said, and his voice cut the lair like a blade through the slosh. "Core's open. Drive it."
+
+The crew became one thing.
+
+Marcus's lane held. The straggler-brood and the flood of new bodies hit his corridor and broke on it, shield up, feet planted in the surge-wash. "Clear to you," he roared, and it stayed clear, a killing alley carved straight to her exposed heart while everything that tried to close it died on the Bulwark's edge.
+
+Tess's call had been perfect. A beat early, as promised, so the window caught them already moving, the whole band leaning into the gap before it finished tearing. She had read the surge the way Aaron read code, and dropped them inside the one second that mattered.
+
+Priya kept him standing. A straggler lunged the shallows for his unguarded back, and she met it, light flaring off her hands, hauling him upright through a blow that would have folded him. "On your feet," she said into his ear. "Stay open. I've got you." And he stayed open, because she had him.
+
+He was the edge of the instrument. The crew was the instrument. And the instrument drove into the failure point he had exposed.
+
+Marcus came off the lane with everything the front line had, shield-rim then blade, into the split, into the place Aaron's sight had marked mortal. Tess hit it from the pillar an instant behind, fast, surgical, finding the exposed seam the way she found a flank. The damage landed in the window. It wrote and it stuck and nothing regenerated it. The unkillable thing, the district boss, the schedule that had eaten the lower floors, all of it opened by one read at the wrong moment, and the band poured the kill into the hole he had torn in her armor.
+
+This was it. The whole of it. The purest version of the thing he was built to do, landing in the one window that mattered, in front of every one of them. The read made flesh. The boss cracked open. The kill in their hands.
+
+Her core took the hit and shuddered. SHELL_INTEGRITY at zero, FAIL_CORE one strike from called, the killing blow loading on the backswing of every weapon in the alley. The window stood open. The clock had not run out. She was a breath from dead, and they all felt it crest, the hammering earned hell-yes of it, the win one beat away and reaching for it.
+
+Aaron drew the breath that would carry the kill.
+
+Somewhere under the triumph, behind his right eye, something cool brushed against his sight that was not the read.
+
+It was not her.
+
+That was the first wrong thing his body knew, ahead of his mind. The cool brush behind his right eye did not feel like the boss. Not the surge, not the brood, nothing climbing toward him out of the dark water. The Drowned Mother was a roar his whole sight was already inside. This thing was quieter. It came from his own side of the read, from behind the lens, the way a hand comes over a flashlight from the holder's own wrist.
+
+He knew the feeling. He had felt a smaller version of it in the night assault, in the depot, every time a patch arrived too cleanly aimed.
+
+The administrator was reaching into him.
+
+He tried to hold the read open. He had the core. It hung there in the split, slick, exposed, a strike from dead, FAIL_CORE one breath off being called, and all he had to do was keep his sight on the window while the kill loaded and say the word that ended her. He had done the hard part. The play was perfect. He only had to watch.
+
+The cool thing closed.
+
+It was like a breaker thrown. Not a flicker, not a fade. One instant the deep layer was lit, the core annotated in his sight, the failure point burning down its clock. The next instant the Operator layer went out from the inside. Every gray comment line snapped dark at once, the overlay collapsing like a tunnel sealing behind him. The exposed core, the split, the window, gone. Shut off. He was looking at black water and a monster and nothing under it.
+
+> [ SYSTEM ]
+> ACCOUNT KESSLER, A.: review action.
+> Operator read depth: capped.
+> Deep layer access: restricted.
+> Mechanic resolution: surface only.
+> Decode throttled. Duration: open.
+> No level change. No skill change.
+
+He read it through the one eye that still worked, and understood it the way he understood a thing built to hurt exactly him.
+
+It had not patched her.
+
+That was the cruelty of it, landing a beat after the dark. He waited for the seal to write itself back, for SHELL_INTEGRITY to climb off zero and rob him of the window the honest way. It did not. The core was still open out there, still mortal, still a breath from dead in a window still burning down. The administrator had not saved the monster. It did not need to. The monster was never the dangerous thing in this lair.
+
+He was.
+
+So it took him instead. It reached past the boss it could not bother to defend and shut off the one thing that made him worth defending against, at the one beat that thing mattered, and left her exposed because exposed was harmless once the reader had gone blind. He had read her failure condition. The administrator had answered by making him fail to read at all. Not louder. Not a wall. Just a hand over the lens, and the patient cool of something that wanted to see what he did with his sight gone.
+
+"Aaron." Tess, from the pillar, already committed, blade out in the surge. "Call it. Where."
+
+The window was closing. He could feel the clock he could no longer see, the second and three-fifths running out somewhere behind the dark, the shell about to write itself shut around a core one strike from dead. Marcus stood in the open with the killing alley held and everything leaning into it. Priya had her hands on him. Tess was looking at him for the seam, the exact place, the read he had promised them, the read that was theirs.
+
+He opened his mouth.
+
+He had nothing. No core, no window, no line in the light to point at. The split was out there and he could not find it. The instrument was driving into a failure point only he could see, and he had just gone blind.
+
+"I can't read her," he said.
