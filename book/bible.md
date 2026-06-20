@@ -19,10 +19,10 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 9** mid-Ch 10 (annotation #7 dropped him Level 9 -> Level 6 in s2,
-  then he ground back Level 6 -> Level 9 in s3 via honest kills; recovery to >= 9 achieved). Sheet (Aaron /
-  NULL_OPERATOR): HP 130/130, Strength 5, Agility 6, Vitality 6, Perception 26, Wits 18 (formulas: HP =
-  40 + 10*Level, Perception = 10 + 2*(Level-1), Wits = 10 + 1*(Level-1)). **Skills: Analyze** (first skill his classless sheet ever
+- Current level / key stats: **Level 10** mid-Ch 11 (climbed Level 9 -> 10 clearing the Drowned Mother's
+  first wave; honest kill grind, no edit). Sheet (Aaron / NULL_OPERATOR): HP 140/140, Strength 5, Agility 6,
+  Vitality 6, Perception 28, Wits 19 (formulas: HP = 40 + 10*Level, Perception = 10 + 2*(Level-1), Wits =
+  10 + 1*(Level-1)). **Skills: Analyze** (first skill his classless sheet ever
   carried; surfaces one target's hidden status block instantly, on will; a locked permanent annotation).
   Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 20 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
   reached L5 / debt 3; in Ch 5 spent 3 levels on the reward-redirect (annotation #4, L5 -> L2, debt 6),
@@ -2223,3 +2223,24 @@ load-bearing beats).
   way Aaron reads code); Aaron at the core, in the gap. Hands into s3 (running the play).
 - **No mechanical change:** READ only. decode_debt 20/100, Level 9, holds Analyze, ledger ends at #7. No
   System reveal (throttle is the s6 hook).
+
+### Ch 11 (Sec 3) established facts now known to the reader
+- **THE DESCENT + FIRST PHASE (peak-crew power fantasy).** The crew wades down into the flooded lower subway
+  (thigh-deep black rift-oiled water) to the Drowned Mother's lair and sets up to the assigned roles WITHOUT
+  a word (the trust visible in how little they say): Marcus a wall at the platform-mouth/stairs chokepoint
+  (does not chase); Priya on a dry ledge, mender's light ready; Tess on the pillar high-water mark on the
+  CLOCK (calls "Surge" a beat early); Aaron at the core line, knee-deep, reading at full strength. "This was a
+  machine, every part of it trusting every other part to hold, and it was his."
+- **FIRST SURGE = first wave (NOT the core window).** The Mother committed and birthed a spawn-wave of
+  eel-bodied clawed brood in escalating sets, hunting the stairs at Marcus's back. The plan HELD: Marcus held
+  center, Tess called each set early, Priya healed Marcus's bone-deep shoulder rake mid-fight, Aaron read the
+  swimmers and called the kills. They cleared the wave. The boss was NOT killed; her shell re-sealed for the
+  next cycle. The window they strike is the NEXT surge (s4-s5).
+- **NORMAL-LADDER PAYOUT: LEVEL UP, Level 9 -> Level 10** (+2 Perception, +1 Wits), earned with blade and held
+  line, "not one edit spent." decode_debt UNCHANGED at 20/100 (kill grind, no annotation; ledger ends at #7).
+  Aaron now **Level 10, decode_debt 20/100, holds Analyze** (HP 140/140, Per 28, Wits 19). Guardrail satisfied
+  (Level >= 9, climbing).
+- **COMMITTED IN THE LAIR (the win is the trap).** Surviving the first surge means they did not run, so they
+  are committed: four people standing in the lair with the wave dead at their feet, the Mother's clock already
+  counting toward the next surge they will strike into. Hands into s4 (setting the trigger). Crew: Tess,
+  Marcus, Priya. Hutch DEAD. No System reveal (throttle is s6).
