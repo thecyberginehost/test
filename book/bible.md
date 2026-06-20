@@ -1179,3 +1179,34 @@ load-bearing beats).
 - **No mechanical change for Aaron:** read only, decode_debt stays 3/100, stays Level 5.
 - **Hand-off into s03:** the night gathers (spawn pressure building wider than the single node, from
   several sources out where the overpass meets the road). Aaron turns to read the depot's spawn rules.
+
+### Ch 5 (Sec 3) established facts now known to the reader
+- **Spawn-rule read (read-and-exploit, NO annotation, NO debt/level change; stays Level 5,
+  decode_debt 3/100). Spawn-rule overlay (canonical for the depot, verbatim, no em dashes):**
+
+      > # ZONE: transit depot (rift-saturated, instanced)
+      > # spawn nodes: 4. ranked by density.
+      > #   N1 overpass mouth (road grade): primary. heaviest. opens first.
+      > #   N2 collapsed bay 2 (under slab): secondary. tier 0 trickle.
+      > #   N3 fare-gate line (east): tertiary. flankers, delayed.
+      > #   N4 service tunnel (south, flooded): slow. late wave.
+      > # cadence: N1 fires on the 0. waves stack +1 tier every third.
+      > #   N3 wakes only after N1 sustains. routes spawns toward nearest read account.
+      > # note: flow is deterministic. it does not improvise. it pours where it is told.
+
+- **Depot spawn mechanics (canon):** four nodes. N1 (overpass mouth) primary/heaviest, fires first,
+  +1 tier every third wave. N2 (under bay 2 slab) tier 0 trickle. N3 (east fare-gate) wakes after N1
+  sustains, throws flankers toward the nearest "read account" (routes toward Aaron, leash undertone).
+  N4 (south flooded tunnel) slow late wave. Flow is deterministic, which is what makes it exploitable.
+- **Defense arrangement (plain classes turned into a machine):** Marcus (Bulwark) in the overpass
+  mouth to meet the heaviest pour (the System funnels the worst into his line by design); Tess
+  (Scout/Spotter) up the dead signal mast calling the cadence, the tier-ups, the east flankers; Priya
+  (Mender) staged center behind Marcus, reaching mast and gate, out of the pour; depot survivors
+  split to feed Marcus and cover the east gate.
+- **Character beats:** Marcus, unable to see the overlay, defers to Aaron's read because it is too
+  specific to be a guess; starts solving placement himself. Aaron the quiet force multiplier and
+  reluctant leader. Tess: "You put the Bulwark on the firehose."
+- **Self-deception seeded (light):** Aaron insists he is only doing this for the grind ("I'm not
+  running anyone's defense," "I'm staying for the levels"); nobody answers, they just take their posts.
+- **Hand-off:** defenses set; N1 fires on the 0; the first wave comes down the overpass exactly where
+  he put Marcus. Into s04 (the "only for the grinding" beat and the reward redirect, annotation #4).
