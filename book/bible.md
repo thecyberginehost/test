@@ -19,12 +19,12 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 7** as of end of Ch 6. Current sheet: HP 110/110; Strength 5,
-  Agility 6, Vitality 6, Perception 22, Wits 16 (Perception/Wits high, +2 Per / +1 Wits per level
-  off the Level 1 baseline Per 10 / Wits 10; HP = 40 + 10*Level). **Skills: Analyze** (first skill his
-  classless sheet ever carried; surfaces one target's hidden status block instantly, on will; a locked
-  permanent annotation). Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt =
-  14 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
+- Current level / key stats: **Level 6** mid-Ch 8 (after annotation #6; climbing back, Ch 8 must close
+  at Level >= 8). Was Level 8 at end of Ch 7. Sheet baseline (Aaron / NULL_OPERATOR): HP = 40 + 10*Level,
+  Perception = 10 + 2*(Level-1), Wits = 10 + 1*(Level-1); Strength 5, Agility 6, Vitality 6 fixed. So
+  Level 6 = HP 100/100, Per 20, Wits 15. **Skills: Analyze** (first skill his classless sheet ever
+  carried; surfaces one target's hidden status block instantly, on will; a locked permanent annotation).
+  Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 17 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
   reached L5 / debt 3; in Ch 5 spent 3 levels on the reward-redirect (annotation #4, L5 -> L2, debt 6),
   then climbed L2 -> L8 on the night assault; in Ch 6 ground L8 -> L14, then spent 8 levels to author
   the skill Analyze (annotation #5, Tier 2, L14 -> L6, debt 14, a SANCTIONED DEEP-EDIT TROUGH), and
@@ -217,8 +217,14 @@ load-bearing beats).
       author skills this way again); Analyze itself is permanent and was NOT revoked. The patch landed
       within minutes of first use (vs hours/days for the tower patches), and pointedly left the decode
       tax / decode_debt untouched (leash beat). Closed Ch 6 at Level 7 after grinding one rung back.
-
-  DECODE-DEBT PROJECTION (the clock; rough, recompute as edits are logged). The per-edit LEVEL cost
+    - #6 (Ch 8, s2): re-pointed a rift-elite WARDEN's FOCUS / target-selection routine off-account onto
+      the warden's own swarm, by exploiting a "left-open" hole (precondition gate present but not
+      enforced) he had identified deliberately as a bait test. Tier 1 (mechanic-wide rule edit). Progress
+      cost: -3 levels (Level 8 -> Level 5). decode_debt += 3. Running decode_debt = 17 / 100. Effect
+      local to that engagement (a spent edit to a monster routine, not a permanent self-skill); only the
+      decode_debt is permanent. A clear from the won wave then took him Level 5 -> Level 6. NOTE: Tier 1
+      is NOT a sanctioned trough, so Ch 8 must CLOSE at Level >= 8 (recovery to be ground out across
+      s3-s6). The bait experiment's counter-patch is read in s3 (confirms the hole was left open). The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
   as he climbs he can afford Tier 1, then Tier 2/3. A Tier-0-only curve would top out near 22 and
   UNDERSHOOT the ceiling, so Act Three is designed to FORCE Tier 2 and 3 edits that spike the clock
@@ -1725,3 +1731,31 @@ load-bearing beats).
   test, failure mode is somebody dying), then watch the patch response. The edit itself is s02.
 - **No mechanical change this section:** no annotation, decode_debt stays 14/100, Level stays 8, holds Analyze.
   Only PATCH 0007 and PATCH 0011 exist. Mystery stays at SUSPICION (confirmation is s03).
+
+### Ch 8 (Sec 2) established facts now known to the reader
+- **ANNOTATION #6 EXECUTED (Tier 1): warden FOCUS re-point.** Inside a real rift fight (transit-loop tunnel
+  under the depot, two wardens anchoring a wave plus a feeding swarm), Aaron put his hand on the wall and
+  exploited the open FOCUS seam, re-pointing both wardens' targeting off the crew and onto their own swarm.
+  Cost: -3 levels (Level 8 -> Level 5), decode_debt 14 -> 17/100 (second-heaviest cost so far). The tax bit
+  harder at high cumulative debt (eye-spike, nosebleed before the write finished, knees going). Canonical
+  block (verbatim):**
+
+      [ SYSTEM ]
+      ANNOTATION ACCEPTED.  Account: KESSLER, A.
+      Target: rift-elite (warden), FOCUS routine.
+      FOCUS re-pointed off-account, by your write.
+      Scope: wardens in immediate context. This engagement.
+      Cost paid: -3 Levels.  Decode tax applied.
+
+- **The edit is SPENT/LOCAL:** an edit to a monster routine, scoped to the wardens in his immediate context,
+  lasting that engagement only (NOT a permanent self-skill; only the decode_debt is permanent). The wardens
+  butchered their own swarm; the crew turned a certain loss into a rout.
+- **CREW DID NOT SEE THE COST.** To the band it was another impossible miracle (two elites turned suicidal).
+  They did not see the wall under his hand or the levels torn out of him. Tess alone clocked something
+  ("What."); Aaron deflected ("Don't ask. Take it.").
+- **NORMAL-LADDER PAYOUT: LEVEL UP, Level 5 -> Level 6** (+2 Perception, +1 Wits) from the cleared wave. He
+  is climbing back. (Ch 8 must still close at Level >= 8.)
+- **HOOK:** the System immediately reaches to patch the hole ("fast, the way it had learned to be fast").
+  The patch content is read in s3. Aaron waits to read what it writes back.
+- **State after s2:** Level 6, decode_debt 17/100, holds Analyze. Priya's Mender skill "Stabilize" referenced
+  (consistent). Hutch dead and absent (referenced as the gap-death precedent).
