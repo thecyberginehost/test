@@ -235,6 +235,22 @@ load-bearing beats).
       FULL Tier-1 price for a worse result, buying OPACITY with power. New ANNOTATION ACCEPTED variant line:
       "Method: blunt overwrite. (low resolution. crude.)". NOTE: Tier 1 is NOT a sanctioned trough, so Ch 10
       must CLOSE at Level >= 9 (recovery ground out across s3-s6).
+    - #8 (Ch 13, s5): WAGER READ-GATE PRY. Edited the read-gate on SETTLEMENT_TRIAL's sealed terms (sealed ->
+      legible to account) to read the deepest wager terms; the deep terms are ACCESS-SEALED, not merely hard, so
+      READING could not reach them and an EDIT was required. Tier 1 (a mechanic-wide read-access rule on the
+      wager). Progress cost: -3 levels (Level 12 -> Level 9; stats reverted to L9: HP 130, Per 26, Wits 18).
+      decode_debt += 3. Running decode_debt = 23 / 100. Effect local to this read (spent edit; only decode_debt
+      permanent). Body cost read WORSE than earlier edits (double nosebleed, eye-spike that stayed, overlay to
+      static for a beat, slower recovery): "the tab finally telling on him." ANNOTATION ACCEPTED block (canonical,
+      "> " prefix):
+        > [ SYSTEM ]
+        > ANNOTATION ACCEPTED.  Account: KESSLER, A.
+        > Target: SETTLEMENT_TRIAL, sealed terms (read-gate).
+        > Read-gate revised: sealed -> legible to account.
+        > Scope: this account. This read.
+        > Cost paid: -3 Levels.  Decode tax applied.
+      NOTE: Tier 1 is NOT a sanctioned trough, so Ch 13 must CLOSE at Level >= 12 (recovery ground out in s6 via
+      the dying district's final surge). This is the End-of-Act-Two ~23 debt mark, on the projected curve.
 
   The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -2576,3 +2592,25 @@ load-bearing beats).
 - **SETS UP s5:** the crew can brace, but Aaron still cannot read whether bracing is enough or whether there is
   any give in the terms, because the deepest terms sit behind the LOCK, "and the lock would not open for free."
   He turns back toward it. "Some doors you read. Some you break." (Seeds the Tier-1 pry in s5.)
+
+### Ch 13 (Sec 5) established facts now known to the reader
+- **THE COSTLY PRY (LEDGER #8; the chapter's load-bearing edit).** The deepest wager terms were not merely hard
+  to read; they were ACCESS-SEALED behind a read-gate that refused his account. READING cannot pass a gate;
+  only an EDIT can. So Aaron WROTE: revised the read-gate (sealed -> legible to account). See LEDGER #8 above.
+- **MECHANICAL (exact):** TIER 1 edit. **Level 12 -> 9** ("Twelve to nine"; "Three levels ripped loose"). Stats
+  reverted to L9: **HP 160 -> 130, Perception 32 -> 26, Wits 21 -> 18** (arithmetic confirmed against formulas).
+  **decode_debt 20 -> 23** ("Annotation eight"; "Twenty-three"; permanent, never ground back). Still holds
+  Analyze; class still NULL_OPERATOR / unhandled. Body cost worse than before (the tab "telling on him").
+- **WHAT HE FOUND (the discovery, NOT yet resolved):** with the gate open he reads the real bottom of the terms
+  (Sample / Threshold / Cleared, as flat as before) and, at the very floor, "fine print inside the fine print,"
+  a HIDDEN CLAUSE that should not exist: ONE account flagged apart from the sample, CARVED OUT of the settlement,
+  an EXEMPTION in a function written to admit no exceptions. "A loophole. In the settlement. In the thing with
+  no appeal." He can read THAT the exemption exists and roughly what it grants (a single account set free of the
+  bet's terms, exempt from the clearing). He CANNOT yet read WHOSE: "He could read that the exemption was. He
+  could not read whose." (The identifier sits behind one more veil he lacks the blood to break at Level 9.
+  WHOSE-account = his is RESERVED for s6.)
+- **ENDS AT LEVEL 9 (no recovery this section).** Recovery to >= 12 is OWED in s6 (guardrail: Tier-1 is not a
+  sanctioned trough). SETS UP s6: the dying district convulses; the collapsing rift heaves a FINAL SURGE (last
+  brood rising, floodwater boiling white), Tess calling it. "A wave was coming, and he was Level 9." (This surge
+  is the s6 recovery-grind vehicle.) NO Chapter-14 specifics revealed. Administrator silent (the ANNOTATION
+  ACCEPTED block is the System acknowledging the edit, which is canon).
