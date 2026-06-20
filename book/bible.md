@@ -1316,3 +1316,36 @@ load-bearing beats).
 - **Chapter hook (warm, hard):** his care made undeniable and public; the mask is down; bonds deepen;
   the SETTLEMENT/wager clock still runs; a rift breathes under the floor; Act Two underway, into Ch 6
   (the quieter decode-tax chapter, "learning what each new edit cost him").
+
+### Ch 6 (Sec 1) established facts now known to the reader
+- **Time-skip / grind:** over ~two days from the depot, the crew runs a loop of three local rifts
+  to climb the normal ladder. Crew roles: Marcus (Bulwark) front, Tess (Scout/Spotter) calls the
+  field with amber pings, Priya (Mender) center, Aaron kills off Marcus's shoulder.
+- **Normal-ladder climb (front-loads levels for the later deep edit):** Aaron climbs from Level 8 through 11 and 12
+  up to Level 14 by day two. Level-up + stat block (canonical; the stat block MUST include the "Level:
+  14" line for consistency with prior sheets):
+
+      [ SYSTEM ]
+      Hostile entity eliminated: shell-stalker (tier 1).
+      EXP awarded.
+      LEVEL UP.  You are now Level 14.
+      +2 Perception.  +1 Wits.
+
+      Aaron Kessler
+      Class: NULL_OPERATOR   status: unhandled
+      Level: 14
+      HP 180/180
+      Strength 5   Agility 6   Vitality 6
+      Perception 36   Wits 23
+
+  (HP = 40 + 10*14 = 180; Per 36 = 10 + 2*13; Wits 23 = 10 + 1*13.)
+- **Decode-faster / literacy as a skill:** Aaron trains reading speed. In the tower he parsed a line
+  at a time; now blocks resolve nearly instantly, var names and tick intervals landing before he
+  finishes the first line. He reads "ahead of the fight." Patterns rhyme, so he stops reading word by
+  word. Literacy framed as an earned, leveling skill.
+- **No annotation, decode_debt unchanged at 6/100.** The grind pays in "plain coin" that does not
+  charge the tax.
+- **Cost starting to bite (into s02):** the decode is easier to START but more expensive to HOLD; on a
+  late deep read the right-eye spike drives in harder and earlier than the read warrants, the tab at
+  six "leaning its whole weight." Closing line: "The decode got easier to start. It was getting more
+  expensive to hold."
