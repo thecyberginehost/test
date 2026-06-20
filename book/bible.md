@@ -19,13 +19,14 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 3** as of end of Ch 3. Current sheet: HP 70/70; Strength 5,
-  Agility 6, Vitality 6, Perception 14, Wits 12 (Perception/Wits high, +2 Per / +1 Wits per level
-  off the Level 1 baseline Per 10 / Wits 10). Class field still reads NULL_OPERATOR / status:
-  unhandled. **decode_debt = 2 / 100** (cumulative, never resets; see the ledger and ANNOTATION
-  RULES). History: hit Level 2 on the Ch 1 crawler kill; spent it on the Ch 2 Suffocation cap
-  (annotation #1, back to Level 1); spent another level on the Ch 3 integrity door (annotation #2);
-  re-climbed Level 1 to 3 on the Ch 3 descent grind. Annotation progress cost is set by rule
+- Current level / key stats: **Level 5** as of end of Ch 4. Current sheet: HP 90/90; Strength 5,
+  Agility 6, Vitality 6, Perception 18, Wits 14 (Perception/Wits high, +2 Per / +1 Wits per level
+  off the Level 1 baseline Per 10 / Wits 10; HP = 40 + 10*Level). Class field still reads
+  NULL_OPERATOR / status: unhandled. **decode_debt = 3 / 100** (cumulative, never resets; see the
+  ledger and ANNOTATION RULES). History: L2 on the Ch 1 crawler kill; spent it on the Ch 2
+  Suffocation cap (annotation #1); spent a level on the Ch 3 integrity door (annotation #2),
+  re-climbed to L3 on the descent; spent a level on the Ch 4 lock_state edit (annotation #3, down to
+  L2), then climbed L2->L5 on the Ch 4 Tier-up wave. Annotation progress cost is set by rule
   depth/tier, not by his level. (Writer: keep logging exact numbers here each chapter.)
 
 ## Cast
@@ -196,6 +197,10 @@ load-bearing beats).
     - #2 (Ch 3, s2): stairwell fire-door integrity revised to 0. Tier 0 (shallow local). Progress
       cost: -1 level (drained the descent sliver; stayed Level 1 at the time). decode_debt += 1.
       Running decode_debt = 2 / 100. (Closed Ch 3 at Level 3 after re-climbing on the descent grind.)
+    - #3 (Ch 4, s3): freight-shutter lock_state revised LOCKED -> UNLOCKED (after PATCH 0007 closed
+      the integrity route). Tier 0 (shallow local). Progress cost: -1 level (Level 3 -> Level 2).
+      decode_debt += 1. Running decode_debt = 3 / 100. (Closed Ch 4 at Level 5 after the Tier-up
+      wave grind. End of Act One: decode_debt 3/100, on the projected curve.)
 
   DECODE-DEBT PROJECTION (the clock; rough, recompute as edits are logged). The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -1092,3 +1097,30 @@ load-bearing beats).
 - **No mechanical change:** no annotation, decode_debt stays 3/100, stays Level 5. Closing: the wave
   broke, they reached the dock hardpoint, bond newly forged; a line resolved at the bottom of the
   dead patch note, not addressed to an account, into Section 6.
+
+### Ch 4 (Sec 6) established facts now known to the reader
+- **Aaron rereads PATCH 0007 in full** in the dock lull, the slow after-the-fire way (to understand
+  the corpse), his core habit of studying the enemy. The interesting part is what the System chose
+  NOT to touch.
+- **Leash-undertone seed (light, not concluded):** the patch hunted his door exploit by name but
+  conspicuously LEFT THE DECODE TAX / decode_debt untouched. It closed the hole he uses to open doors
+  but never touched the one cost quietly running him down (the tab at three behind his eyes, never
+  resets). A reader careful enough to scope a fix to one account would have seen the tax; it "left it
+  open." He files it, does not conclude it.
+- **Bug-vs-invitation planted explicitly:** "A thing being patched closed, or a thing being kept." He
+  does not know which he is; the not-knowing sits colder than the wave.
+- **THE LINE MEANT FOR HIM (the antagonist speaks, first time, obliquely). Closing `> #` block,
+  verbatim, no em dashes:**
+
+      > # PATCH 0007  end.
+      > #   emitted to: account KESSLER, A.
+      > #
+      > # you read the whole thing.
+      > #   they never do.
+
+  The grammar shifts from third-person clerk to something shorter, present-tense, that knows he is
+  reading now and says so. Eerie, intimate: it noticed him, did not threaten or explain, acknowledged
+  it was on the other side of the page the whole time he thought he read alone.
+- **No mechanical change:** no annotation, stays Level 5, decode_debt 3/100.
+- **Chapter hook (closes Act One into Act Two):** the god spoke to him by name; the SETTLEMENT TRIAL
+  clock still runs ("sixty-some hours and falling"); Aaron "did not answer. Not yet."
