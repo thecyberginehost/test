@@ -55,7 +55,8 @@ copyrighted passages into this file.
 - System notifications in a set, consistent visual block. Example shape:
       [ SYSTEM ]
       You have reached Level 5.
-      +3 Strength. New skill available: Analyze.
+      +3 Perception. New skill available: Analyze.
+  (Format example only. Aaron gains Perception and Wits by the bible formula, never Strength.)
 - Stat blocks formatted consistently every time they appear.
 - Level-ups, new skills, and rewards should land as earned beats, not clutter.
 - Keep all numbers and mechanics consistent with book/bible.md at all times.

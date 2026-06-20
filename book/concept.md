@@ -29,8 +29,9 @@ Two intertwined ladders, one loop. (1) Normal climb: levels, stats, skills, dung
 clears, all earned and visibly escalating. (2) The Operator loop: every System
 notification arrives with a hidden second layer only Aaron can surface. Spending
 effort to *decode* a mechanic lets him **annotate** it: a one-time edit (rename a
-debuff into a buff, redirect a quest reward, expose a boss's real failure
-condition). Each annotation is permanent but narrow, and the AI ships counter-
+debuff into a buff, redirect a quest reward, lower a boss's enrage threshold).
+Reading a mechanic is free, even exposing a boss's real failure condition; only the
+edit that changes a value costs. Each annotation is permanent but narrow, and the AI ships counter-
 patches that close exploited holes, so old tricks go stale and force new reads.
 Progression is literacy: the better Aaron reads the AI, the bigger the edits he can
 justify, and the more the AI learns to write code he cannot understand. The numbers

@@ -256,29 +256,47 @@ load-bearing beats).
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
   as he climbs he can afford Tier 1, then Tier 2/3. A Tier-0-only curve would top out near 22 and
   UNDERSHOOT the ceiling, so Act Three is designed to FORCE Tier 2 and 3 edits that spike the clock
-  to the threat zone right as the climax peaks. Projected decode_debt by act:
-    - End of Act One (Ch 4): about 3. Three Tier 0 edits (Suffocation Ch 2, the integrity door Ch 3,
-      a fresh read after the first patch Ch 4). He is too low-level to afford anything deeper.
-    - End of Act Two (Ch 13): about 23. ACTUAL ledger to date: #4 reward-redirect Ch5 (+3 -> 6),
-      #5 self-skill-grant Ch6 Tier 2 (+8 -> 14), #6 bait hole Ch8 (+3 -> 17), #7 teaching-the-enemy
-      sloppy edit Ch10 (+3 -> 20). NOTE: Ch 11 (the city boss) was DEBT-NEUTRAL (a read/exposure play,
-      no annotation; stayed 20), and Ch 12 adds none (stays 20). The wager read Ch13 is the next Tier 1
-      (+3 -> 23). He can now afford the occasional deep edit but the apex has not yet forced his hand.
-    - Ch 15 (Forging Passage): about 51. FORCED Tier 3 (+20): rewriting who the dungeon admits is a
-      load-bearing access rule, the biggest edit of the book, and it nearly kills him.
-    - Ch 16 (Dungeon Reads Back, Tess dies): about 67. The stale-floor curriculum FORCES fresh Tier 2
-      edits per floor (+8 each). The high debt is now blurring his reads, which is WHY he cannot read
-      the killing floor fast enough to save Tess: the cost of his own literacy kills the reader most
-      like him.
-    - Ch 18 (the deepest read): about 87. Threat zone. Reading the core grammar is a Tier 2-heavy edit.
-    - Ch 20 (Playing Yourself): about 98. One edit from dark. The boss has every old trick patched, so
-      only a brand-new deep read can touch it.
-    - Ch 21 (chosen final edit): crosses 100. Overlay goes dark, blind. The win and the blinding are
-      one act (see DECODE-DEBT CEILING).
-  FORCING SITUATIONS pinned in Act Three so the clock actually reaches the ceiling: Ch 15 forge crew
-  access (Tier 3), Ch 16 stale-floor curriculum forcing fresh Tier 2 edits per floor, Ch 18 reading
-  the core grammar (deepest), Ch 20 to 21 the boss with every old trick patched forcing brand-new
-  deep edits. (These are pinned in book/outline.md as well.)
+  to the threat zone right as the climax peaks.
+
+  PRE-COMMITTED ACT THREE LEDGER (the exact DECODE-DEBT PROJECTION; running totals append-only; the
+  numbers are PINNED so the 100-guard is provable. What each edit IS may flex in the prose; the totals
+  may not.):
+    - End of Act One (Ch 4): 3. Three Tier 0 edits (Suffocation Ch 2, the integrity door Ch 3, a fresh
+      read after the first patch Ch 4). Too low-level to afford anything deeper.
+    - End of Act Two (Ch 13): 23. Ledger #4 reward-redirect Ch5 (+3 -> 6), #5 self-skill-grant Ch6
+      Tier 2 (+8 -> 14), #6 bait hole Ch8 (+3 -> 17), #7 teaching-the-enemy sloppy edit Ch10 (+3 -> 20),
+      #8 wager read-gate pry Ch13 Tier 1 (+3 -> 23). Ch 11 (city boss) and Ch 12 (throttle) were both
+      DEBT-NEUTRAL (read/exposure plays, no annotation; stayed 20).
+    - Ch 14 (Apex Opens): +8 (Tier 2). Running 23 -> 31. The apex's personally-tuned hidden layer is
+      ACCESS-SEALED (like the Ch 13 wager terms, but apex-deep): surfacing and holding it open to read
+      that the dungeon was written for him requires a Tier-2 read-gate edit, not a free read.
+    - Ch 15 (Forging Passage): +20 (Tier 3, FORCED). Running 31 -> 51. Rewriting who the dungeon admits
+      is a load-bearing access rule, the biggest edit of the book; it nearly kills him. Touching a
+      settlement access term at all is only possible because his account is EXEMPT (Ch 13).
+    - Ch 16 (Dungeon Reads Back, Tess dies): +8 +8 (two Tier 2, FORCED). Running 51 -> 67. The
+      stale-floor curriculum forces a fresh Tier-2 edit per killing floor. The high debt now BLURS his
+      reads, which is WHY he cannot read the floor that kills Tess fast enough: the cost of his own
+      literacy kills the reader most like him.
+    - Ch 17 (The Cost Of Literacy): +0. Running stays 67. DEBT-NEUTRAL. The grief chapter spends no
+      annotation.
+    - Ch 18 (The Code It Thought Was Past Him): +8 +8 (two Tier 2). Running 67 -> 83. The core grammar
+      is sealed twice over; reading it takes two Tier-2 edits. Threat zone. (Note: 83, not the old ~87.)
+    - Ch 19 (Not An Accident): +8 (Tier 2). Running 83 -> 91. Prying the boss's sealed derivation to
+      read that it is built from his own playbook is a Tier-2 edit.
+    - Ch 20 (Playing Yourself): +8 (Tier 2). Running 91 -> 99. The boss has every old trick patched, so
+      landing anything on it takes one brand-new deep edit. One edit from the ceiling.
+    - Ch 21 (chosen final edit): the single win-condition value-flip crosses 100 -> blind. He enters at
+      99 (one edit from dark) and chooses it. The win and the blinding are ONE act (see DECODE-DEBT
+      CEILING). The edit is only PERMITTED because his account is EXEMPT from the settlement's terms
+      (Ch 13); an account bound by the settlement cannot touch its win condition.
+  This holds him at or under 99 through Ch 20 and crosses 100 only at Ch 21, keeping the GUARD with a
+  one-point margin (which is also the "enters the climax one edit from the ceiling" beat).
+  FORCING SITUATIONS pinned across Act Three so the clock actually reaches the ceiling: Ch 14 prying
+  the apex's access-sealed personal layer (Tier 2), Ch 15 forging crew access (Tier 3), Ch 16 the
+  stale-floor curriculum forcing a fresh Tier 2 per floor, Ch 18 reading the twice-sealed core grammar
+  (two Tier 2), Ch 19 prying the boss's derivation (Tier 2), Ch 20 the fully-patched boss forcing one
+  brand-new deep edit, Ch 21 the chosen win-condition flip that crosses 100. (Pinned in
+  book/outline.md as well.)
 - **Counter-patches:** The administrator ships counter-patches that close holes Aaron
   exploits. Early patches (Act 1) are slow and arrive hours/days later. By Ch 6 they
   arrive within minutes (near real-time watching). Patches are **too cleanly aimed**,
@@ -290,8 +308,10 @@ load-bearing beats).
 
       [ SYSTEM ]
       You have reached Level 5.
-      +3 Strength. New skill available: Analyze.
+      +3 Perception. New skill available: Analyze.
 
+  (Format example only. Aaron's level-ups raise Perception and Wits by formula and never
+  Strength; the writer fills the real earned numbers from his sheet.)
   Stat blocks are formatted identically every appearance. Level-ups, new skills, and
   rewards land as earned beats, not clutter. No em dashes anywhere. Aaron's hidden
   Operator layer renders distinctly (debug/comment styling) and only he sees it.
