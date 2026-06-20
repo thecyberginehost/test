@@ -2192,3 +2192,34 @@ load-bearing beats).
 - **No mechanical change:** reads only. decode_debt 20/100, Level 9, holds Analyze, ledger ends at #7. Timing:
   "the third night" (lands the Ch10 "three days out" hook). Crew: Tess, Marcus, Priya. Hutch DEAD. No
   System reveal (the mid-fight throttle is the chapter hook, s6).
+
+### Ch 11 (Sec 2) established facts now known to the reader
+- **READING THE DROWNED MOTHER AT FULL STRENGTH (power-fantasy payoff).** Aaron reads her from a maintenance-
+  gallery ledge one platform above the flooded yard. The read comes up CLEAN, no blur, no pushback (notable
+  after weeks of crude/guarded reads; he reads the way he was built to, without a price). FREE read, no debt.
+- **THE DROWNED MOTHER'S FAILURE CONDITION (canonical mechanics).** Decode block (verbatim):**
+
+      # RIFT-BROOD SPAWNER: the Drowned Mother (tier 2)
+      # HP --/-- (sealed). armor: SHELL_INTEGRITY, persistent.
+      #   while SHELL_INTEGRITY active: damage discarded. core unreadable.
+      # behavior: SPAWN_CYCLE (scheduled). times district waves.
+      #   on surge: vent OPENS to expel brood. SHELL drops to commit.
+      #     brood-vent exposes CORE for 1.8s post-commit.
+      #     core readable, core mortal, only in this window.
+      #   note: shell re-seals on cycle end. window does not repeat early.
+
+  She is invulnerable while armored (SHELL_INTEGRITY discards damage, core unreadable). ONLY during a
+  scheduled spawn-surge does she drop the shell and expose her soft mortal CORE, for exactly **1.8 seconds**
+  post-commit. The window opens on HER clock (the same clock that times the district waves), cannot be forced
+  early, and does not repeat early. So the kill is an ALL-OR-NOTHING TIMING PLAY on one 1.8s beat; miss it and
+  the crew stands a full cycle under the wave she just birthed.
+- **CHAPTER 1 CALLBACK (accurate, scaled up):** this is the same shape as the hollow-crawler's post-tick regen
+  gap from Aaron's first kill (glass-walled conference room, broken carafe as a glass fang, empty hands;
+  buffer vulnerable 0.4s post-tick). "A thing that healed itself was briefly mortal, because the act of
+  protecting itself was the act that left it open." Now the thing is a district boss and the window is his
+  whole climb laid over the same trick.
+- **CREW ROLES assigned (peak coordination):** Marcus holds the platform mouth/stairs flank; Priya staged to
+  keep alive whoever stands in the window; Tess on the CLOCK (calls the surge a beat early, reads timing the
+  way Aaron reads code); Aaron at the core, in the gap. Hands into s3 (running the play).
+- **No mechanical change:** READ only. decode_debt 20/100, Level 9, holds Analyze, ledger ends at #7. No
+  System reveal (throttle is the s6 hook).
