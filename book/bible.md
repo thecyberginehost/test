@@ -2474,3 +2474,39 @@ load-bearing beats).
 - **Chapter close:** Aaron ends Ch 12 at **Level 12, decode_debt 20/100, holds Analyze**, NULL_OPERATOR /
   unhandled, throttle lifted. Crew: Tess, Marcus, Priya. Hutch DEAD. On the projected curve (Ch 12 added no
   debt; Ch 13 wager-read is the next Tier-1, 20 -> 23).
+
+### Ch 13 (Sec 1) established facts now known to the reader
+- **CONTINUOUS FROM Ch 12 CLOSE.** The Drowned Mother is dead; the district rift she anchored is COLLAPSING
+  (failing, not cleanly closing): the vent heaves and does not draw back, floodwater draining, residual
+  motherless brood still twitching. The intersection is NOT safe (seeds the chapter's later aftermath combat).
+- **THE MASTER CLOCK READ.** Aaron, sight restored and stronger at Level 12, turns his read on the global
+  SETTLEMENT TRIAL countdown (first seen Ch 3 s6). It now reads LOW: **04:11:36** (about four hours left),
+  ticking down toward the apex/zero (Ch 14). Confirms the ~72h master clock is nearly spent. Canonical public
+  block reused (rendered "> [ SYSTEM ]" frame, matching Ch 12 s06 style):
+  > [ SYSTEM ]
+  > GLOBAL EVENT: SETTLEMENT TRIAL.
+  > A measurement of your species is scheduled.
+  > Adapt, or be found wanting.
+  > Time to event: 04:11:36
+- **THE COUNTDOWN RESOLVES INTO THE WAGER.** He reads the hidden "> #" layer cleanly for the first time
+  (in Ch 3 his literacy was too low). Canonical now-state of the wager layer (first line is a now-variation,
+  the rest echoes Ch 3 s6 verbatim):
+  > # event SETTLEMENT_TRIAL: countdown active. settlement imminent.
+  > #   public framing: threat. accepted by subject population.
+  > # internal: this is not a warning. this is a WAGER.
+  > #   stake posted. counterparty: [redacted]. terms: sealed.
+  > #   subject of the bet: species KESSLER-class origin, sample = humanity.
+  > #   instrument: 1 variable. read-capable. account flagged.
+  Interpretation now firm on the page: a god has put money down on humanity, against an unseen counterparty;
+  Aaron is the instrument/variable the bet is measured through. Tutor-warmth callback ("The god liked his work.
+  The god had bet on his work.").
+- **THE DEEPER TERMS REMAIN SEALED** (reserved for s5 pry): "> #   terms beyond instrument: not legible to
+  this read. / comprehension insufficient. defer." But the seal now has EDGES; Aaron senses he is finally
+  literate enough to break it ("`comprehension insufficient` was not `comprehension impossible`"). Sets up the
+  costly pry.
+- **TWO-READERS SEED (light):** Tess clocks him going still, reading "the air around his face the way she reads
+  terrain," names that he is reading UNDER the countdown ("counting down to something else"). Real two-readers
+  beat is s4.
+- **NO mechanical change:** READING is FREE. No annotation, no edit. **Stays Level 12, decode_debt 20/100**,
+  NULL_OPERATOR / unhandled, holds Analyze. Crew present: Marcus, Tess. No premature reveal (no bet-on-adaptation
+  specifics, no apex=settlement, no exempt-account clause yet).
