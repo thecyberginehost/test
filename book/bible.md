@@ -2263,3 +2263,30 @@ load-bearing beats).
 - **No mechanical change:** positioning/reads only, free. decode_debt 20/100, Level 10, holds Analyze, ledger
   ends at #7. Boss sealed/unkilled. No System reveal (throttle is the s6 hook). Crew: Tess, Marcus, Priya.
   Hutch DEAD.
+
+### Ch 11 (Sec 5) established facts now known to the reader
+- **THE TRIGGER FIRES, REAL (the crest).** On Tess's call ("Now") the Drowned Mother surges, the shell drops,
+  the vent opens exactly where Aaron's ledge read predicted, and he drags the failure condition into the
+  light in the 1.8s window. It is REAL. Canonical exposed-core block (verbatim):**
+
+      # BOSS CORE: DROWNED MOTHER (tier 2 spawner)
+      # state: EXPOSED.  seal dropped.  window 1.8s.
+      # SHELL_INTEGRITY: 0 (surge-gated; re-seals on cycle close)
+      # failure condition: core unprotected during birth-write.
+      #   FAIL_CORE reachable. mortal this window. no save.
+      #   damage written here is NOT regenerated.
+      # window open. clock running.
+
+  The core is EXPOSED and mortal, damage written in the window is NOT regenerated, the boss is killable for
+  the first time. "He had read the one second and three-fifths in which [her invulnerability] was a lie."
+- **THE CREW LANDS THE PLAY (peak power fantasy, the read made flesh).** Marcus holds the killing lane, Tess
+  strikes the exposed seam from the pillar, Priya keeps Aaron upright through a straggler hit. The band drives
+  the kill into the hole Aaron tore. "He was the edge of the instrument. The crew was the instrument." The
+  district boss cracked open by one read at the exact wrong moment for it, in front of all of them.
+- **CREST AND CUT (cliff into s6):** the section ends at the absolute peak. SHELL_INTEGRITY at zero, FAIL_CORE
+  "one strike from called," the killing blow LOADING, the window still open, the clock not run out. She is "a
+  breath from dead." Then the final-line SEED of the reversal: "behind his right eye, something cool brushed
+  against his sight that was not the read." This is the s6 throttle seed; the throttle does NOT fire here.
+- **No mechanical change:** READ/exposure only (not an annotation; the kill is the crew's weapons on the
+  exposed core). decode_debt 20/100, Level 10, holds Analyze, ledger ends at #7. Boss ALIVE at section end
+  (the throttle steals the kill in s6). Ch 1 callback accurate (glass fang / regen tick / first Tuesday).
