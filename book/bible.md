@@ -1920,3 +1920,24 @@ load-bearing beats).
   since the warden patch (PATCH 0012), NOT a counter-patch, NOT aimed at his thread, reading "almost like a
   hand held out." Tess names it and pushes him to read it. No content decoded yet.
 - **No mechanical change:** confession, free. decode_debt 17/100, Level 9, holds Analyze.
+
+### Ch 9 (Sec 4) established facts now known to the reader
+- **TESS'S RESPONSE (load-bearing two-readers bond beat).** She reacts as a HUMAN, not an engineer: anger on
+  his behalf ("I'm mad it landed on you"), then a hard, fearless steadiness. She REFUSES the trap's terms:
+  she does not solve the cosmic problem ("I read terrain, not gods") but rejects him carrying it alone and
+  reframes the stakes to human scale (the crew is alive tonight; he is a person, not only a variable in the
+  experiment; "it doesn't get to decide you stop being a person... that part's not in its grant").
+- **SHE SHARES THE WEIGHT / KEEPS THE SECRET (the "second pair of hands" promised end of Ch 8 lands here).**
+  She vows to keep all of it (the class, the edits, that it reads him back) from Priya and Marcus UNTIL Aaron
+  says. Tess is now the SOLE confidant. (Consistent: Priya only ever got the "glitch" half-truth; Marcus only
+  clocks that Aaron "doesn't read like the rest.")
+- **THE HUMAN COUNTERWEIGHT (thematic payoff).** The horror that the only other mind that reads the world like
+  him is the administrator is answered, humanly, by Tess: she reads the world raw, by instinct, from the
+  outside ("I'm on a controller, same game"), so he is NOT actually alone in his way of seeing. That footing
+  ("not relief, footing") is what lets him risk the deep read.
+- **Tess detail (consistent):** she is sixteen (within the bible's "sixteen or seventeen"). Reads "by what it's
+  about to do, not what it says it's doing."
+- **HAND-OFF to s5:** steadied, Aaron decides to READ the "different" fragment (the hand-held-out one). Ends on
+  "Let's see what it's saying." Not decoded here.
+- **No mechanical change:** fireside scene, free. decode_debt 17/100, Level 9, holds Analyze. Marcus/Priya
+  asleep; Hutch DEAD.
