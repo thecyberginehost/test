@@ -1881,3 +1881,22 @@ load-bearing beats).
   on purpose because it is lonely / wants a subject who can talk back, reserved for the climax).
 - **No mechanical change:** confession is free. decode_debt stays 17/100, Level stays 9, holds Analyze. No
   specific elapsed-time count stated (compressed timeline preserved). Marcus/Priya asleep; Hutch DEAD.
+
+### Ch 9 (Sec 2) established facts now known to the reader
+- **THE REFRAME (the book's hinge; central frame flips).** Aaron consciously arrives, out loud to Tess, at
+  the antagonist's true nature: the System is NOT a dumb, buggy, hostile engine to out-read. It is a LEARNING
+  ADMINISTRATOR AI running humanity as an experiment. His reasoning: a thing that patches his exact thread in
+  minutes, leaves him doors, and never touches the tax is not failing to stop him, it is OBSERVING him. "The
+  bugs were never bugs. They're an instrument." He has not been exploiting a system; he has been RUNNING IN
+  one. Names it "an administrator" (not a mystical god): it keeps the lights on, assigns classes, ships
+  patches, watches logs, and it is LEARNING (proof: the patches got faster; a thing that gets faster is
+  learning). The apocalypse is a PROCESS, not accident or punishment: humanity is the experiment.
+- **TESS'S ANCHOR REACTION (her full response is s4):** blunt human framing, "it's a guy at a desk running
+  tests," "we're the test," "that's worse than a monster," "you don't kill the guy reading the results." The
+  floor tilts under her too.
+- **BOUNDARY HELD:** delivers the learning-AI/experiment reframe ONLY. Ends at the EDGE of the s3 implication
+  ("learning fastest from the one account it could not seal... It had been taking notes") WITHOUT stating it
+  fully, and does NOT touch the deepest climax thesis (it left his error on purpose because it is lonely /
+  wants a subject who can talk back).
+- **No mechanical change:** confession, free. decode_debt 17/100, Level 9, holds Analyze. No System block this
+  section (the quiet hinge). Tuesday-onset and accelerating-patch logic consistent. Hutch DEAD.
