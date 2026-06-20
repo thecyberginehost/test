@@ -242,9 +242,11 @@ load-bearing beats).
   to the threat zone right as the climax peaks. Projected decode_debt by act:
     - End of Act One (Ch 4): about 3. Three Tier 0 edits (Suffocation Ch 2, the integrity door Ch 3,
       a fresh read after the first patch Ch 4). He is too low-level to afford anything deeper.
-    - End of Act Two (Ch 13): about 23. The Ch 6 self-skill-grant is a Tier 2 (+8); the rest are
-      Tier 1 edits across the bait hole, teaching-the-enemy, the city boss, the wager read (+3 each).
-      He can now afford the occasional deep edit but the apex has not yet forced his hand.
+    - End of Act Two (Ch 13): about 23. ACTUAL ledger to date: #4 reward-redirect Ch5 (+3 -> 6),
+      #5 self-skill-grant Ch6 Tier 2 (+8 -> 14), #6 bait hole Ch8 (+3 -> 17), #7 teaching-the-enemy
+      sloppy edit Ch10 (+3 -> 20). NOTE: Ch 11 (the city boss) was DEBT-NEUTRAL (a read/exposure play,
+      no annotation; stayed 20), and Ch 12 adds none (stays 20). The wager read Ch13 is the next Tier 1
+      (+3 -> 23). He can now afford the occasional deep edit but the apex has not yet forced his hand.
     - Ch 15 (Forging Passage): about 51. FORCED Tier 3 (+20): rewriting who the dungeon admits is a
       load-bearing access rule, the biggest edit of the book, and it nearly kills him.
     - Ch 16 (Dungeon Reads Back, Tess dies): about 67. The stale-floor curriculum FORCES fresh Tier 2
