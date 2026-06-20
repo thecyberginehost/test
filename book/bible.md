@@ -2532,3 +2532,25 @@ load-bearing beats).
 - **NO mechanical change:** FREE read, no annotation. **Stays Level 12, decode_debt 20/100**, NULL_OPERATOR /
   unhandled, holds Analyze. Tess present (light two-readers touch: "Heavy." / "Heavy."). He does NOT yet tell the
   crew the wager (that is s4). NO premature reveal of apex=settlement, timeline/price, or the exempt clause.
+
+### Ch 13 (Sec 3) established facts now known to the reader
+- **STILL A FREE READ (lock untouched).** Aaron reads how the wager pays out and what failing it costs, all by
+  reading (no edit). "The lock still sat behind its wall and he left it there." Stays Level 12, decode_debt
+  20/100.
+- **THE SETTLEMENT INSTRUMENT = THE APEX (Act-Three threat NAMED for the first time).** Canonical "> #" block:
+  > #   settlement instrument: APEX construct. class: dungeon. tier: apex.
+  > #   delivery: scheduled at countdown zero. target: this metro sample.
+  > #   on settlement: instrument performance measured against threshold.
+  > #   failure: sample below threshold -> sample cleared. no appeal.
+  The wager does not resolve on paper; it resolves THROUGH an APEX-tier dungeon/construct. Apex is "off the top
+  of the scale" (above rifts, the tower, the district boss). It is a dungeon BUILT TO MEASURE.
+- **TIMELINE:** the apex is DELIVERED at countdown ZERO. The master clock is its FUSE. Banner shows **04:08:51**
+  in this section (decreasing from s1's 04:11:36). About FOUR HOURS to the apex. (Apex opens onto the city =
+  Ch 14, the zero mark.)
+- **THE PRICE:** "TARGET: this metro sample." Not the whole world. This CITY (depot, towers, survivors, the
+  crew). Failure = the SAMPLE is CLEARED (wiped; "reset the experiment"). "NO APPEAL" is a property of the
+  function (no save, no grace), explicitly likened to FAIL_RESPIRATION from the first night. The body count is
+  scheduled, with the crew inside it (Priya, Marcus, Tess named).
+- **NOT REVEALED (reserved):** that the apex was written for Aaron / tuned to his edge / only opens for an error
+  (all Ch 14); and the exempt-account-is-his clause (s5/s6, still behind the LOCK). Administrator does NOT speak
+  in plain dialogue. He now knows the test, the timeline, and the price (pulls into s4: telling the crew).
