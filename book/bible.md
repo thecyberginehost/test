@@ -1634,3 +1634,25 @@ load-bearing beats).
 - **No mechanical progression:** no annotation, no level-up, decode_debt stays 14/100, Aaron stays Level 8.
   Only Hutch dies. Tess, Marcus, Priya, plus the unnamed survivors all live. Section ends on raw shock;
   grief and Aaron's reckoning are s04.
+
+### Ch 7 (Sec 4) established facts now known to the reader
+- **CREW GRIEF (distinct registers, character canon).** Priya (Mender): worked the body though there was
+  no call to make, "hands built to fix meeting the one thing that does not take a repair." Marcus
+  (Bulwark): guilt of the shield, the half-step he spent taking the third husk wide while the ramp's
+  second mouth bowed open. Tess (Scout): sat close to Aaron and read him without pushing or talking (light
+  touch, NOT a load-bearing bond beat; her load-bearing beats are Ch 8, 9, 12).
+- **AARON'S RECKONING (mask cracks, does not come off).** He confronts that his arm's-length detachment
+  ("not caring") did NOT protect him from the loss; it only put the lag in (slower to read, slower to act,
+  the half-second that killed Hutch). He indicts himself with the green-dashboard lie ("the pose of
+  detachment was just a dashboard describing itself instead of the world") and names himself DWYER, his
+  pre-System manager who called it fine while the node was dead. This is the first real crack in the
+  "rather debug a boss than admit he cares" mask. Load-bearing for the Ch 9 confession.
+- **Detail pinned:** Hutch tried to thank Aaron THREE times across Act One and was brushed off each time.
+  The carpenter pencil was pressed on Aaron by Hutch that first day at the depot ("Take it, you write more
+  than I do"); Aaron never said thanks. Pencil now lives in Aaron's pocket.
+- **NEW CAPABILITY SEED: residual data.** A body throws a "residual" System window when it is pulled off
+  the active roster. Aaron can see Hutch's residual still open in his sight. He resolves to READ it (the one
+  thing he can still do for Hutch). This sets up s05 (reading another person's hidden layer) and s06 (proof
+  holes are left open). The s05/s06 reveals are NOT delivered here.
+- **No mechanical change:** no annotation, no level/stat change, decode_debt 14/100, Aaron Level 8, holds
+  Analyze.
