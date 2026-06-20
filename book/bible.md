@@ -19,12 +19,12 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 9** mid-Ch 8 (after annotation #6 dropped him to Level 6, then he
-  ground back up; recovery above the pre-edit Level 8 achieved). Sheet (Aaron / NULL_OPERATOR): HP 130/130,
-  Strength 5, Agility 6, Vitality 6, Perception 26, Wits 18 (formulas: HP = 40 + 10*Level, Perception =
-  10 + 2*(Level-1), Wits = 10 + 1*(Level-1)). **Skills: Analyze** (first skill his classless sheet ever
+- Current level / key stats: **Level 6** mid-Ch 10 (after annotation #7 dropped him Level 9 -> Level 6;
+  climbing back, Ch 10 must close at Level >= 9). Was Level 9 at end of Ch 9. Sheet baseline (Aaron /
+  NULL_OPERATOR): HP = 40 + 10*Level, Perception = 10 + 2*(Level-1), Wits = 10 + 1*(Level-1); Strength 5,
+  Agility 6, Vitality 6 fixed. So Level 6 = HP 100/100, Per 20, Wits 15. **Skills: Analyze** (first skill his classless sheet ever
   carried; surfaces one target's hidden status block instantly, on will; a locked permanent annotation).
-  Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 17 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
+  Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 20 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
   reached L5 / debt 3; in Ch 5 spent 3 levels on the reward-redirect (annotation #4, L5 -> L2, debt 6),
   then climbed L2 -> L8 on the night assault; in Ch 6 ground L8 -> L14, then spent 8 levels to author
   the skill Analyze (annotation #5, Tier 2, L14 -> L6, debt 14, a SANCTIONED DEEP-EDIT TROUGH), and
@@ -224,7 +224,18 @@ load-bearing beats).
       local to that engagement (a spent edit to a monster routine, not a permanent self-skill); only the
       decode_debt is permanent. A clear from the won wave then took him Level 5 -> Level 6. NOTE: Tier 1
       is NOT a sanctioned trough, so Ch 8 must CLOSE at Level >= 8 (recovery to be ground out across
-      s3-s6). The bait experiment's counter-patch is read in s3 (confirms the hole was left open). The per-edit LEVEL cost
+      s3-s6). The bait experiment's counter-patch is read in s3 (confirms the hole was left open).
+    - #7 (Ch 10, s2): SLOPPY-READ workaround. Blunt-overwrote a rift-spawn PRIMER's charge value to zero
+      (a crude brute-force edit instead of an elegant re-point), to win the fight while exposing little of
+      his method to the administrator. Tier 1 (mechanic-wide spawn-burst routine). Progress cost: -3 levels
+      (Level 9 -> Level 6). decode_debt += 3. Running decode_debt = 20 / 100. Effect local to the engagement
+      (spent edit; only decode_debt permanent). KEY RULE (corollary): sloppiness does NOT reduce cost (price
+      is set by rule DEPTH/tier, never by edit quality); it only reduces the INFORMATION given away. He pays
+      FULL Tier-1 price for a worse result, buying OPACITY with power. New ANNOTATION ACCEPTED variant line:
+      "Method: blunt overwrite. (low resolution. crude.)". NOTE: Tier 1 is NOT a sanctioned trough, so Ch 10
+      must CLOSE at Level >= 9 (recovery ground out across s3-s6).
+
+  The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
   as he climbs he can afford Tier 1, then Tier 2/3. A Tier-0-only curve would top out near 22 and
   UNDERSHOOT the ceiling, so Act Three is designed to FORCE Tier 2 and 3 edits that spike the clock
@@ -2020,3 +2031,30 @@ load-bearing beats).
   workaround): win without teaching too much. He has the PRIMER window but not yet a way to take it opaquely.
   Crew: Tess (sees the shape, not the function), Marcus (Bulwark/shield), Priya (Mender). Hutch DEAD. System
   is the curious learning administrator (not reverted to a dumb engine).
+
+### Ch 10 (Sec 2) established facts now known to the reader
+- **ANNOTATION #7 EXECUTED (Tier 1): the SLOPPY-READ / blunt-overwrite workaround.** Instead of an elegant
+  re-point of the PRIMER's burst (which would teach the administrator his method), Aaron bludgeoned the
+  charge value to zero, a crude brute-force overwrite, "swinging a sledge where he could have picked a lock."
+  It suppressed the burst and saved Marcus. Cost: -3 levels (Level 9 -> Level 6), decode_debt 17 -> 20/100.
+  Canonical block (verbatim):**
+
+      [ SYSTEM ]
+      ANNOTATION ACCEPTED.  Account: KESSLER, A.
+      Target: rift-spawn (PRIMER), charge value.
+      Method: blunt overwrite. (low resolution. crude.)
+      Effect: charge zeroed. burst suppressed.
+      Cost paid: -3 Levels.  Decode tax applied.
+
+- **THE "THIRD THING" (new technique, load-bearing for the chapter).** He can win without teaching, but only
+  by being a WORSE Operator on purpose: paying FULL Tier-1 price for a deliberately crude edit, buying
+  OPACITY with raw spent power. KEY RULE corollary (consistent with locked tiered-cost rule): sloppiness does
+  NOT reduce cost (price set by rule depth/tier, never by edit quality); it reduces only the INFORMATION he
+  gives away. The System logged the edit "crude / low resolution" on its own, without being told it was
+  deliberate, which is the whole point: it saw a man hit a value with a hammer, not which seam he read.
+- **Severity scaling on the page:** the tax bit worse at debt 20 than at 17 (deeper level-tear, harder
+  eye-spike), reaffirming higher cumulative debt = worse toll.
+- **State after s2:** Aaron is **Level 6, decode_debt 20/100, holds Analyze**, NULL_OPERATOR / unhandled. The
+  edit is spent/local (PRIMER charge value, this engagement); only decode_debt is permanent. Tier 1 is NOT a
+  sanctioned trough, so Ch 10 must CLOSE at Level >= 9 (grind back across s3-s6). No counter-patch yet (the
+  administrator's response is s5-s6). Crew alive: Marcus (saved), Tess, Priya. Hutch DEAD.
