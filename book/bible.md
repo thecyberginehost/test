@@ -2343,3 +2343,25 @@ load-bearing beats).
 - **No mechanical change:** decode_debt STAYS 20/100, Level STAYS 10, Analyze retained (THROTTLED, not removed,
   surface-only). Ledger ends at #7. Throttle motive stays OPAQUE here (that it was a TEST is the s6 reveal).
   Crew: Tess, Marcus, Priya. Hutch DEAD. CANON NOTE: only Aaron has Analyze (do not attribute it to others).
+
+### Ch 12 (Sec 2) established facts now known to the reader
+- **THE CREW CARRIES HIM (humbling reliance; plain competence at peak).** The Drowned Mother's brood-wave
+  hits while Aaron is blind (throttled). With no deep read, there is no clever door: the fight is won on plain
+  plain-class work. MARCUS (Bulwark) holds the alley chokepoint (a gap two bodies wide between a stalled bus
+  and a brick face) by being an immovable WALL, "the one thing a wave cannot read its way past, because there
+  is nothing written in it to exploit." The Bulwark hold renders as a blue line on the shield rim. Aaron sees
+  fully, maybe for the first time, that Marcus has been doing this uncredited the whole time ("the exception
+  had taken the credit; the wall had taken the wave").
+- **PRIYA (Mender) keeps the dying breathing**, hands in a depot man's bone-deep arm wound, green warmth from
+  her palms, triage by feel, the load-bearing work that holds the crew together. CALLBACK: Aaron's class CANNOT
+  touch flesh (locked Ch 2); he "never once put a cursor on a wound," tied to Hutch (he had the whole machine
+  in his sight and not one line that would close a body). Priya does the one thing his exception never could.
+- **AARON REDUCED TO ORDINARY HANDS.** He takes a flank as "an ordinary body in their machine," Strength 5,
+  bad/graceless blade work, no read to make him special. The man who insisted he carried them is being
+  carried. Humbled.
+- **HOLDING, NOT WINNING.** The wave comes up faster than the alley can clear it; Marcus gives ground; Priya's
+  count of the dying climbs. Ends with Tess (Scout) calling terrain Aaron is blind to ("Get off the bus, right
+  now"), handing into s3.
+- **No mechanical change:** decode THROTTLED (surface only), decode_debt 20/100, Level 10, holds Analyze,
+  ledger ends at #7. Boss sealed/armored, brood-wave the threat, NOT killed. No System reveal (throttle test
+  is s6). Crew: Tess, Marcus, Priya. Hutch DEAD.
