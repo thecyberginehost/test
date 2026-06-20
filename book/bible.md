@@ -1458,3 +1458,40 @@ load-bearing beats).
   levels will grind back; the skill will not leave). Class still NULL_OPERATOR / unhandled.
 - **Aaron is now Level 6, decode_debt 14/100, holds the skill Analyze.** Hand-off: he has NOT tested
   Analyze yet (testing is s05).
+
+### Ch 6 (Sec 5) established facts now known to the reader
+- **Analyze CONFIRMED working, at zero cost.** Aaron tested it in a fight. The hidden block surfaced
+  the instant his eyes found the target, with no parse-lag, no heat, no nosebleed, no debt. Using the
+  skill is free (a leased ability fired, not a fresh decode). decode_debt UNCHANGED at 14/100.
+- **New monster: dock-render (tier 1).** Plated dorsal (80% damage reduction on spine hits), soft
+  ventral seam exposed only mid-charge, cannot abort a charge once committed (0.6s window). Canonical
+  hidden block (verbatim, the form Analyze surfaces, lower-case decode style):**
+
+      # RIFT SPAWN: dock-render (tier 1)
+      # HP 46/46.  charge-strike on closing.
+      # armor: plated dorsal. damage reduced 80% on spine hits.
+      # passive: none.
+      # weak: ventral seam unarmored. exposed only mid-charge.
+      #   note: cannot abort charge once committed. 0.6s window.
+
+- **The kill:** Aaron baited the charge into open lane, slipped the line, drove a length of rebar (left
+  propped by Hutch, who is alive this chapter) up into the seam. The render's own momentum killed it,
+  one pass, 46 HP, no regen. "He had seen the seam before the seam saw him."
+- **Normal-ladder payout: LEVEL UP, Level 6 -> Level 7** (a real climb-back rung the chapter after the
+  trough). Canonical System block: "LEVEL UP. You are now Level 7. +2 Perception. +1 Wits. +10 HP."
+  New sheet (Level 7, formulas: HP = 40 + 10*L; Per = 10 + 2*(L-1); Wits = 10 + 1*(L-1)):**
+
+      Aaron Kessler
+      Class: NULL_OPERATOR   status: unhandled
+      Level: 7
+      HP 110/110
+      Strength 5   Agility 6   Vitality 6
+      Perception 22   Wits 16
+      Skills: Analyze
+
+- **Tess bond/observation beat (light):** she watched him "read a fight at the speed of looking" and
+  FILED it (her Scout eye clocking what no one else can). Her "Clean" carried a near-question. Sets up
+  her two-readers attention deepening.
+- **HOOK (seeds s06 patch):** the read surfaced "too easily," and it bothered him. The unease sits
+  under his ribs. No mechanical patch yet (the fast counter-patch lands in s06). Aaron closes the
+  section at Level 7, decode_debt 14/100, holding Analyze.
