@@ -1759,3 +1759,35 @@ load-bearing beats).
   The patch content is read in s3. Aaron waits to read what it writes back.
 - **State after s2:** Level 6, decode_debt 17/100, holds Analyze. Priya's Mender skill "Stabilize" referenced
   (consistent). Hutch dead and absent (referenced as the gap-death precedent).
+
+### Ch 8 (Sec 3) established facts now known to the reader
+- **PATCH 0012 (the bait confirmation).** The counter-patch to annotation #6 lands. It does NOT re-enforce
+  the precondition gate (the generic dumb fix). Instead it is SHAPED to Aaron's exact maneuver: off-account
+  FOCUS re-point is refused at write (target-selection may no longer be written to entities outside a
+  warden's own wave by his account); the precondition gate is left UNCHANGED, and the decode tax UNCHANGED.
+  Canonical block (verbatim):**
+
+      [ SYSTEM ]
+      PATCH 0012
+      Account KESSLER, A.: exploited path closed.
+      FOCUS routine: off-account re-point now refused.
+        target-selection may no longer be written to entities
+        outside the warden's own wave by this account.
+      The specific maneuver is rejected at write.
+      precondition gate: unchanged.
+      decode tax: unchanged.
+
+- **LOCAL CONFIRMATION (mystery beat, mechanism-level only).** The fix being cut to his MOVE (not the seam)
+  is the proof: the hole was LEFT OPEN as a test, he was allowed through, and the patch is the System
+  learning his specific maneuver ("it patched the man, not the seam, answered the hand, not the cards"). The
+  bait experiment worked exactly as designed. NOTE: this is mechanism-level confirmation ONLY; the full
+  book-climax thesis (the administrator left his whole error on purpose because it wants a subject who can
+  talk back) is STILL HIDDEN, reserved for ~Ch 18-21. Do not re-reveal or over-state.
+- **LEASH detail (new, logged):** the patch leaves the precondition gate propped and a FRESH ADJACENT SEAM
+  half-open under it, "as if the conversation was meant to keep going." Consistent with the leash/invitation
+  design (the System keeping the dialogue open). The decode tax again untouched (PATCH 0007/0011 precedent).
+- **THE DREAD (sets up s4):** the proof cuts both ways. He came to study the System; the data says the System
+  is studying him back, "the faster student of the two." Triumph poisoned. Patches are now DATA, not just
+  obstacles.
+- **No mechanical change:** reading the patch is free. decode_debt stays 17/100, Level stays 6, holds Analyze.
+  Patch sequence to date: 0007, 0011, 0012. Tess goes quiet watching him stare at nothing (sets up s5/s6).
