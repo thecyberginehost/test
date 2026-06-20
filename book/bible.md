@@ -2510,3 +2510,25 @@ load-bearing beats).
 - **NO mechanical change:** READING is FREE. No annotation, no edit. **Stays Level 12, decode_debt 20/100**,
   NULL_OPERATOR / unhandled, holds Analyze. Crew present: Marcus, Tess. No premature reveal (no bet-on-adaptation
   specifics, no apex=settlement, no exempt-account clause yet).
+
+### Ch 13 (Sec 2) established facts now known to the reader
+- **FREE DEEP READ (canon reaffirmed on the page):** Aaron pushes past s1's "comprehension insufficient. defer."
+  gate by READING the mid-layer terms his Level 12 literacy can now hold, WITHOUT touching the lock. Explicit:
+  "No prompt surfaced. No bill came due. Reading was free." (Reading, even strenuous, never adds decode_debt;
+  only edits do. The costly pry of the locked clause is reserved for s5.)
+- **THE WAGER'S QUESTION = ADAPTATION.** Canonical "> #" read-block (reuse the framing):
+  > #   wager question: can subject species adapt faster than it is culled?
+  > #   hypothesis under test: KESSLER-class origin. adaptation observable.
+  > #   instrument: 1 variable. you. every read recorded. every edit recorded.
+  > #   the species is the subject. the variable is the measure.
+  The bet is on SPEED OF CHANGE, not strength: whether humanity can rewrite itself fast enough to outrun the
+  rate the System culls it. The public line "Adapt, or be found wanting" is now revealed as the LITERAL wager
+  question, not a slogan. The species is reduced to a tested hypothesis.
+- **AARON IS THE VARIABLE / INSTRUMENT (Ch 9 seed named and given function).** A species is too big to read off
+  cleanly; the System measures THROUGH one needle and reads the verdict off it. Aaron is the needle. Every read,
+  every edit, every clear and climb since the first morning is DATA the wager is settled on. The flagged account
+  was never about him being a threat to patch; it is because he is the instrument the bet is measured with (the
+  fastest learner it has). "The verdict on his whole species is being read through him."
+- **NO mechanical change:** FREE read, no annotation. **Stays Level 12, decode_debt 20/100**, NULL_OPERATOR /
+  unhandled, holds Analyze. Tess present (light two-readers touch: "Heavy." / "Heavy."). He does NOT yet tell the
+  crew the wager (that is s4). NO premature reveal of apex=settlement, timeline/price, or the exempt clause.
