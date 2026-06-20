@@ -19,14 +19,14 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 1** as of Ch 2 Sec 3. He reached Level 2 on the Ch 1
-  crawler kill (HP 60/60, Perception 12, Wits 11), then spent that level as the cost of his
-  FIRST ANNOTATION (capping Suffocation), dropping back to Level 1. Current Level 1 sheet:
-  HP 50/50; Strength 5, Agility 6, Vitality 6, Perception 10, Wits 10 (the +2 Perception / +1
-  Wits from Level 2 reverted with the lost level). Class field still reads NULL_OPERATOR /
-  status: unhandled. **decode_debt = 1 / 100** (cumulative, never resets; see the Annotation
-  ledger and ANNOTATION RULES). Annotation progress cost is set by rule depth/tier, not by his
-  level. (Writer: keep logging exact numbers here as he climbs and as edits cost him.)
+- Current level / key stats: **Level 3** as of end of Ch 3. Current sheet: HP 70/70; Strength 5,
+  Agility 6, Vitality 6, Perception 14, Wits 12 (Perception/Wits high, +2 Per / +1 Wits per level
+  off the Level 1 baseline Per 10 / Wits 10). Class field still reads NULL_OPERATOR / status:
+  unhandled. **decode_debt = 2 / 100** (cumulative, never resets; see the ledger and ANNOTATION
+  RULES). History: hit Level 2 on the Ch 1 crawler kill; spent it on the Ch 2 Suffocation cap
+  (annotation #1, back to Level 1); spent another level on the Ch 3 integrity door (annotation #2);
+  re-climbed Level 1 to 3 on the Ch 3 descent grind. Annotation progress cost is set by rule
+  depth/tier, not by his level. (Writer: keep logging exact numbers here each chapter.)
 
 ## Cast
 | Name | Role | Traits | Status | First appears |
@@ -193,6 +193,9 @@ load-bearing beats).
   DECODE-DEBT LEDGER (append one line per annotation, never edit past entries):
     - #1 (Ch 2, s3): Suffocation threshold cap. Tier 0 (shallow local). Progress cost: -1 level
       (Level 2 -> Level 1). decode_debt += 1. Running decode_debt = 1 / 100.
+    - #2 (Ch 3, s2): stairwell fire-door integrity revised to 0. Tier 0 (shallow local). Progress
+      cost: -1 level (drained the descent sliver; stayed Level 1 at the time). decode_debt += 1.
+      Running decode_debt = 2 / 100. (Closed Ch 3 at Level 3 after re-climbing on the descent grind.)
 
   DECODE-DEBT PROJECTION (the clock; rough, recompute as edits are logged). The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
