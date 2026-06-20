@@ -2440,3 +2440,37 @@ load-bearing beats).
 - **SEED INTO s6:** at the very end, behind his eyes, gray text half-catches "like a feed coming back after a
   long outage." **The throttle is BEGINNING to lift.** (The throttle was in effect the ENTIRE kill; it only
   starts to release here. The "not punishment, a test" reveal is s6.)
+
+### Ch 12 (Sec 6) established facts now known to the reader
+- **THROTTLE FULLY RELEASED (it was TEMPORARY).** Decode/Operator deep-read sight returns, "the way a stalled
+  service comes back," in pieces. Read access restored. This closes the Ch 11 -> Ch 12 throttle arc.
+- **THE VERDICT (canonical, delivered as a READ review-action notice, NOT plain administrator dialogue; "> # "
+  overlay voice, reuse the framing not necessarily verbatim):** the throttle was a deliberate TEST. Block read:
+  > # ACCOUNT KESSLER, A.: review action complete.
+  > #   throttle imposed: deep layer withheld, full engagement.
+  > #   query under test: does subject prevail absent exploit?
+  > #   instrument observed to win on earned ladder. no edit. no annotation.
+  > #   result: comprehension confirmed independent of tool.
+  > #   subject has learned. not merely leaned.
+  > # throttle released. read access restored.
+- **THE REVEAL: not punishment, a TEST.** The administrator blinded Aaron at the climax to find out whether he
+  could win WITHOUT his exploit ("whether the trick was him, or whether he was only the trick"). He passed a
+  test he did not know he was sitting inside. KEY CANON FOR THE TUTOR ARC: there is no malice in the verdict;
+  there is "something worse," the PATIENCE of a vast thing with "one student it found interesting, raising him,
+  measuring him, glad of how he was coming along." Aaron feels the wrongness of being GRADED and APPROVED OF by
+  the thing that runs his species. ("The god liked his work.") This deepens the administrator-as-tutor framing.
+- **NO mechanical change:** reading is FREE. Stays **Level 12, decode_debt 20/100, NULL_OPERATOR / unhandled,
+  holds Analyze.** No edit, no annotation. Closing stat block (canonical):
+  > [ SYSTEM ]
+  > Operator read access: restored.
+  > NULL_OPERATOR / unhandled
+  > Level 12   decode_debt 20 / 100
+  > Skill: Analyze
+- **HOOK INTO Ch 13:** with sight back and now stronger (Level 12), Aaron's read reaches PAST the verdict on
+  its own toward the master clock / global countdown first glimpsed Ch 3 s6 ("A bet. One variable. Account
+  flagged."). He can finally read it. Chapter ends: "He turned his eyes toward the wager." (The wager's actual
+  TERMS, the bet-on-adaptation, and the exempt-account-is-his clause are RESERVED for Ch 13 and NOT revealed
+  here.)
+- **Chapter close:** Aaron ends Ch 12 at **Level 12, decode_debt 20/100, holds Analyze**, NULL_OPERATOR /
+  unhandled, throttle lifted. Crew: Tess, Marcus, Priya. Hutch DEAD. On the projected curve (Ch 12 added no
+  debt; Ch 13 wager-read is the next Tier-1, 20 -> 23).
