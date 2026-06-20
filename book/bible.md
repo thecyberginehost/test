@@ -2165,3 +2165,30 @@ load-bearing beats).
   out" and already loading under the district. Crew: Tess, Marcus, Priya. Hutch DEAD. Aaron ends Ch 10 at
   Level 9, decode_debt 20/100 (annotation #7 the chapter's logged edit, on the projected curve). NOTE: Aaron
   knows the System as "the experiment," NOT yet "the wager" (that term is reserved for later).
+
+### Ch 11 (Sec 1) established facts now known to the reader
+- **THE BLEED IDENTIFIED (a cascading-outage read).** Aaron reads the district's death-map and sees the
+  killing waves are NOT independent rifts: they are twelve leaks off ONE source on a fixed schedule (the
+  quiet between surges always the same length). "We've been mopping the floor with the tap running." He
+  traces it with Analyze (free read) down to the flooded subway / lower transit platform.
+- **NEW DISTRICT BOSS: THE DROWNED MOTHER (canonical).** A Tier-2 rift-brood SPAWNER nesting in the flooded
+  transit line, lower platform. It does NOT fight directly; it BIRTHS the waves that kill, on a schedule, and
+  will keep birthing until the district has no one left. It dwarfs the warden/charger tier (the whole warden
+  ladder a rung beneath it). Canonical public banner (verbatim):**
+
+      [ SYSTEM ]
+      DISTRICT THREAT: established.
+      Source designate: THE DROWNED MOTHER (rift-brood spawner).
+      Tier 2. Nesting: flooded transit line, lower platform.
+      Note: this source originates the recurring waves. Active.
+
+- **FORCED FIGHT:** clearing the source is the only way to stop the bleed (it kills more survivors every day
+  it stands; "there's no version where we run," per Priya). No clever door. The crew is four (Aaron, Tess,
+  Marcus, Priya) plus a room of survivors who can't hold a line.
+- **AARON GOES IN AT FULL STRENGTH (Ch10 tutor payoff).** The sloppy-read era is over: the administrator
+  refused his crude work and asked for his best, so it gets his best. He will read this boss the way he read
+  his first monster in the glass box, only larger, the purest version of his power. Plan: find the boss's
+  FAILURE CONDITION ("everything written does"), then "drown the tap."
+- **No mechanical change:** reads only. decode_debt 20/100, Level 9, holds Analyze, ledger ends at #7. Timing:
+  "the third night" (lands the Ch10 "three days out" hook). Crew: Tess, Marcus, Priya. Hutch DEAD. No
+  System reveal (the mid-fight throttle is the chapter hook, s6).
