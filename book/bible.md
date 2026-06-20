@@ -792,3 +792,26 @@ load-bearing beats).
   left it open. He files it. The patch lands in Ch 4, not here.
 - **The door opens** into the dark stairwell. His line to Priya: "I told it the door was already
   broken. It believed me." Tess and Hutch still NOT introduced (held for Section 3).
+
+### Ch 3 (Sec 3) established facts now known to the reader
+- **Tess Calloway introduced (first appearance):** sixteen or seventeen, oversized threadbare
+  hoodie, beanie, grime under the nails, carries a length of broken handrail as a weapon. Blunt,
+  fearless, gamer-fluent. She reads the building's spawn flow on pure instinct ("ten thousand hours
+  into things that spawn stuff"), calling where a crawler will appear a beat to a second before
+  Aaron's overlay lights the node, and calling its movement correctly. No overlay, no class card she
+  can read yet (class unresolved until Ch 5).
+- **The kinship beat (load-bearing TESS INTRO):** for the first time Aaron meets another reader.
+  Tess clocks that he is "doing it too, from inside," that he sees the thing she has to guess at.
+  Aaron registers the recognition both ways; no one has ever named what he does. He takes her hand,
+  which he notes he does not usually do.
+- **Hutch (Daniel "Hutch" Boyd) introduced:** older delivery driver in a courier vest with a lanyard and key
+  fob, soft build, easy to like and easy to miss. Keeps trying to thank Aaron for the door and gets
+  brushed off. Helps in a crawler kill (caves the slit with a fire extinguisher on Aaron's count),
+  wants to be told he did all right; Aaron does not answer, Tess answers warmly for him. Aaron holds
+  him at arm's length (planted; no death foreshadowed on the page).
+- **Encounter:** a single hollow-crawler (tier 0) came over the rail as Tess called it; Lena's blue
+  guard bought the moment, Aaron read the regen window, Hutch landed the blow in the post-tick gap.
+  Ordinary sliver of reward (bar nudges), no edit.
+- **No class resolved for Tess (Ch 5). No annotation, no level or debt change.** Aaron remains Level
+  1, decode_debt 2/100. The group descends together, now five-plus, Tess at the front beside Aaron,
+  Hutch at the rear with the wounded. Into Section 4 (the hunting pack).
