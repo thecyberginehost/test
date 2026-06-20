@@ -1069,3 +1069,26 @@ load-bearing beats).
   bright channel of seams in front of him); the field past arm's reach goes gray. He misses a
   shell-stalker coming wide on his blind right, dropping its head to charge his ribs. He does not see
   it. Section ends on "Tess did." (Sets up the load-bearing two-readers save in s05.)
+
+### Ch 4 (Sec 5) established facts now known to the reader
+- **THE SAVE IS HERS (load-bearing two-readers beat):** mid-wave a shell-stalker flanked Aaron on
+  his blind right (behind the dumpster), inside his Perception tunnel vision. Tess called it a
+  half-second before it landed, no overlay, pure pattern sense ("Right. Your right, behind the
+  dumpster, NOW"). Aaron moved on the word alone, pivoted in time; the charge caught his hip glancing
+  instead of gutting his ribs, and he killed it on the seam. Her read covered his blind spot,
+  unambiguously her save.
+- **THE TRADE:** they traded how they each read. Tess reads by feel and ten thousand hours of games,
+  a sense the room is "about to be wrong," no overlay, on instinct. Aaron reads the debug layer, the
+  System talking to itself. Her framing: "We read the same world. You just get the dev console and
+  I'm on a controller." She is blunt, fearless, gamer-fluent, unsettled by none of it, at home
+  with what he does where everyone else goes careful around him. First kindred reader unafraid of him.
+- **THE HALF-ADMISSION:** Aaron told Tess MORE than anyone (deliberately not the "glitch" he gave
+  Priya). He admitted he sees a hidden second layer under every card and that he can sometimes change
+  it (reading AND editing). He did NOT name NULL_OPERATOR, did NOT say his card is flagged/unhandled,
+  did NOT reveal he is the watched variable. The full confession is reserved for Ch 9.
+- **HUTCH beat:** Hutch hauled the torn-thigh man across to the dock for Priya, working the gaps
+  Aaron's reads opened. Everyone thanked him (Tess included). Aaron alone did not, letting the thanks
+  pass "like water around a stone." Arm's-length distance reinforced; no death foreshadowing.
+- **No mechanical change:** no annotation, decode_debt stays 3/100, stays Level 5. Closing: the wave
+  broke, they reached the dock hardpoint, bond newly forged; a line resolved at the bottom of the
+  dead patch note, not addressed to an account, into Section 6.
