@@ -19,10 +19,10 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 6** mid-Ch 10 (after annotation #7 dropped him Level 9 -> Level 6;
-  climbing back, Ch 10 must close at Level >= 9). Was Level 9 at end of Ch 9. Sheet baseline (Aaron /
-  NULL_OPERATOR): HP = 40 + 10*Level, Perception = 10 + 2*(Level-1), Wits = 10 + 1*(Level-1); Strength 5,
-  Agility 6, Vitality 6 fixed. So Level 6 = HP 100/100, Per 20, Wits 15. **Skills: Analyze** (first skill his classless sheet ever
+- Current level / key stats: **Level 9** mid-Ch 10 (annotation #7 dropped him Level 9 -> Level 6 in s2,
+  then he ground back Level 6 -> Level 9 in s3 via honest kills; recovery to >= 9 achieved). Sheet (Aaron /
+  NULL_OPERATOR): HP 130/130, Strength 5, Agility 6, Vitality 6, Perception 26, Wits 18 (formulas: HP =
+  40 + 10*Level, Perception = 10 + 2*(Level-1), Wits = 10 + 1*(Level-1)). **Skills: Analyze** (first skill his classless sheet ever
   carried; surfaces one target's hidden status block instantly, on will; a locked permanent annotation).
   Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 20 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
   reached L5 / debt 3; in Ch 5 spent 3 levels on the reward-redirect (annotation #4, L5 -> L2, debt 6),
@@ -2058,3 +2058,21 @@ load-bearing beats).
   edit is spent/local (PRIMER charge value, this engagement); only decode_debt is permanent. Tier 1 is NOT a
   sanctioned trough, so Ch 10 must CLOSE at Level >= 9 (grind back across s3-s6). No counter-patch yet (the
   administrator's response is s5-s6). Crew alive: Marcus (saved), Tess, Priya. Hutch DEAD.
+
+### Ch 10 (Sec 3) established facts now known to the reader
+- **RECOVERY: ground Level 6 -> Level 9 via honest kills** (three level-ups L7/L8/L9, each +2 Per / +1 Wits)
+  in a flooded multi-level parking structure with a hot core rift. decode_debt UNCHANGED at 20/100 (normal
+  KILL grind, no annotation; ledger still ends at #7). Recovery to Level 9 satisfies the guardrail (Ch 10
+  closes >= 9). Aaron back to **Level 9, decode_debt 20/100, holds Analyze** (HP 130/130, Per 26, Wits 18).
+- **THE DUAL-LADDER BITE DRAMATIZED (the vise).** To stay ahead on the climb he must read DEEP (which teaches
+  the administrator); to stay opaque he fights stupid/sloppy (which keeps him weaker than the next rift
+  demands). "Every choice fed one ladder by starving the other. There was no clean square on the board." On
+  the charger fight he DECLINED the clean momentum-edit (would have ended it in a breath) and fought it the
+  stupid way; it cost Priya HP margin she should not have lost. (He did NOT make that edit; no debt change.)
+- **THE TREADMILL framing (canonical):** the levels the climb hands back are the same ones his sloppy edits
+  keep tearing loose ("running up a down escalator"); the only number that never moves is decode_debt 20,
+  the one cost he cannot grind off.
+- **NEW MONSTER: "charger"** (battering-ram body on six legs; has a momentum value and a turn radius; the
+  clean kill is a single edit to its momentum). No numeric stats fixed.
+- **Tess names the bind** ("You're fighting with one hand tied. On purpose."), sets up s4 (crew pays / Tess
+  reads with him). No counter-patch yet. System still the curious learning administrator.
