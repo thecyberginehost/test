@@ -560,3 +560,34 @@ CREW DEATHS LOCKED (do not change):
 - **Priya begins to clock Aaron:** she noticed the Suffocation count stopped climbing at 11 ("I have
   never once seen a debuff change its mind"), which no Mender or Sentinel could have done. Section
   ends with her eyes narrowing on him, on the verge of asking about his class (held for Section 6).
+
+### Ch 2 (Sec 6) established facts now known to the reader
+- **Aftermath state:** the conference room survives; forty-plus people breathe again, each with a
+  Suffocation counter sitting at eleven and inert above them. Aaron stays kneeling, both hands on
+  the saved man's chest. Thesis held: the room breathes because of Aaron (the air), the man breathes
+  because of Priya (the wound), and Aaron knows hers is the one that matters more.
+- **Priya clocks him and asks point blank.** She reasons aloud: he is not a Mender and not a
+  Sentinel, no class she knows touches air, yet the count "sat down at eleven, all of them at once,"
+  which "does not happen." She says where his card would be there is "nothing there I can read. A
+  blank. A hole." She asks directly, twice: "What's your class. What are you, Engineer?" She frames
+  it as practical (she makes better calls knowing what she works with) and extends trust in advance.
+- **The trust-vs-self-protection bind (rendered).** The true answer arrives in Aaron's mouth fully
+  formed; the instinct to lie comes faster, rooted in a decade of staying quiet. Explicit to the
+  reader: his hidden layer says "flag for administrator review," he is the one input the System
+  could not place, an error left standing while the administrator has not decided what to do with
+  him, and admitting it is dangerous, especially to the one person who can now heal him and the rest.
+- **His character sheet shown again, still unhandled (verbatim, NO em dashes):**
+
+      [ SYSTEM ]
+      Aaron Kessler
+      Class: NULL_OPERATOR
+      status: unhandled
+
+  The cursor still rests on the status word, still blinking, refusing to commit even after he gained
+  a level, spent a level, and moved the death-wall. Final image of the chapter.
+- **Descent / more danger seeded:** the building coughs again three floors down (another rift tearing
+  wide, felt through his shoes); the air will thicken and the eleven will matter again; there is no
+  way out of the tower that does not lead down. They cannot stay. (Forward pull into Ch 3's descent.)
+- **The question is left UNANSWERED into Ch 3.** Aaron opens his mouth; the answer and the lie both
+  sit there; "He had not chosen yet." His actual reply (the half-truth, "no class, a glitch") is NOT
+  given here, reserved for Chapter 3.
