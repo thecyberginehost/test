@@ -1349,3 +1349,33 @@ load-bearing beats).
   late deep read the right-eye spike drives in harder and earlier than the read warrants, the tab at
   six "leaning its whole weight." Closing line: "The decode got easier to start. It was getting more
   expensive to hold."
+
+### Ch 6 (Sec 2) established facts now known to the reader
+- **The decode tax is now visceral, scaling with cumulative debt (6/100).** Reading itself bills him
+  now, not just editing. The night-before deep read charged him in his sleep (jaw welded, a wire of
+  pain eye to skull-base). A clean mid-wave read folds him to the concrete, the right-eye spike
+  arriving ahead of the read, the block half-parsed because the letters will not hold still. A
+  nosebleed lands from a read with no edit. Framed as technical debt coming due: shortcuts running
+  fine until the morning everything comes due at once.
+- **The "understand before you edit" rule proven by a REJECTED over-reach.** Under a tier-1
+  shell-stalker variant (regen seam hidden by floodwater), Aaron has half the block but NOT the seam,
+  and under pressure tries to annotate the armor value anyway. REJECTED (block verbatim):
+
+      > [ SYSTEM ]
+      > ANNOTATION REJECTED.  Account: KESSLER, A.
+      > MECHANIC shell-stalker (tier 1): armor.
+      > Write denied.
+      > Cause: comprehension insufficient. mechanic not read to depth.
+      > Note: you cannot edit what you have not understood.
+
+- **The rejection cost NOTHING mechanically** (consistent with the Ch 4 PATCH 0007 / shutter
+  rejection): no level lost, no decode_debt change. Aaron remains **Level 14, decode_debt 6/100,
+  sheet unchanged.** "A door that will not open does not charge you for trying the handle." The BODY
+  still charged him for reaching (blood, headache); the ledger did not move.
+- **Marcus saves the moment** (takes the limb-strike on a braced Bulwark forearm, buys the beat);
+  Aaron finds the seam a tick late and kills the shell by hand, shaking.
+- **The locked rule as lived knowledge:** he can only edit what he first truly understands; the gate
+  does not bend because the monster is close; understanding is paid in advance and expensive, worse
+  at debt 6.
+- **Hand-off:** Aaron resolves to MASTER the skill-grant grammar cold before he touches it. Into s03
+  (Tess reading the cost on him) and s04 (the deep grant read).
