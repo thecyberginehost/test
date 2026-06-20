@@ -2290,3 +2290,36 @@ load-bearing beats).
 - **No mechanical change:** READ/exposure only (not an annotation; the kill is the crew's weapons on the
   exposed core). decode_debt 20/100, Level 10, holds Analyze, ledger ends at #7. Boss ALIVE at section end
   (the throttle steals the kill in s6). Ch 1 callback accurate (glass fang / regen tick / first Tuesday).
+
+### Ch 11 (Sec 6) established facts now known to the reader
+- **THE ADMINISTRATOR THROTTLES AARON (not the boss). MAJOR ESCALATION.** At the crest, instead of patching
+  the Drowned Mother (re-sealing her), the administrator reaches INTO Aaron and CAPS his decode mid-fight,
+  cutting his Operator sight at the worst beat. Rendered as a breaker thrown / a hand over the lens from the
+  holder's own wrist (distinct from the boss fighting back). The deep layer goes dark; he loses the exposed
+  core, the split, the 1.8s window. Canonical DECODE-THROTTLE block (verbatim):**
+
+      [ SYSTEM ]
+      ACCOUNT KESSLER, A.: review action.
+      Operator read depth: capped.
+      Deep layer access: restricted.
+      Mechanic resolution: surface only.
+      Decode throttled. Duration: open.
+      No level change. No skill change.
+
+- **THE THROTTLE IS TEMPORARY (NOT the permanent ceiling).** It CAPS his read depth (Operator layer -> surface
+  only) for an open/unspecified duration. It does NOT change Level (stays 10), does NOT change decode_debt
+  (stays 20/100), does NOT remove Analyze. This is a temporary condition that FORESHADOWS the locked permanent
+  decode-debt ceiling (debt 100 = permanent blindness) but is NOT it. Ledger ends at #7.
+- **THE CRUELTY / MEANING:** it did NOT re-seal the boss (she stays EXPOSED and mortal, window still closing,
+  one strike from dead but ALIVE). It did not need to save the monster, because the monster was never the
+  dangerous thing in the lair, AARON was. The most elegant defense was to cripple the READER, not the play:
+  "He had read her failure condition. The administrator had answered by making him fail to read at all." The
+  administrator's motive stays COLD/ambiguous ("wanted to see what he did with his sight gone"); the deepest
+  thesis is NOT delivered. Escalation ladder: patched AROUND him (0007/0011/0012) -> wrote a helpful
+  correction INTO his sheet (Ch10 s06) -> now reaches in to BLIND him mid-fight.
+- **CHAPTER CLOSE / CLIFFHANGER (hard hook into Ch 12 "Throttled"):** Aaron is suddenly BLIND to the layer at
+  the climax of his own perfect play. The crew is committed in the open (Tess "Call it. Where.", Marcus
+  holding the alley, Priya's hands on him), the window burning down, the boss a strike from dead. He has
+  nothing to point at. Last line: **"I can't read her," he said.** He must finish this BLIND in Ch 12. NO
+  clean victory stat block (cliffhanger). Aaron closes Ch 11 at Level 10, decode_debt 20/100, holds Analyze,
+  DECODE THROTTLED (temporary), boss ALIVE. Hutch DEAD. (Chapter was debt-neutral, stays 20, on the curve.)
