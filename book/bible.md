@@ -2244,3 +2244,22 @@ load-bearing beats).
   are committed: four people standing in the lair with the wave dead at their feet, the Mother's clock already
   counting toward the next surge they will strike into. Hands into s4 (setting the trigger). Crew: Tess,
   Marcus, Priya. Hutch DEAD. No System reveal (throttle is s6).
+
+### Ch 11 (Sec 4) established facts now known to the reader
+- **SETTING THE TRIGGER (the coiled wait).** Between surges the shell re-seals (sound "like a wet door
+  closing"); a thin trickle of straggler brood harasses the crew. The Mother's clock counts toward the next
+  surge. The crew moves into strike geometry ON THE SEAL, not the surge: Aaron at the core line squared to
+  where the vent WILL open (standing in the right empty space before there is anything in it to kill); Marcus
+  angled off the stair mouth to keep a clean strike LANE ("anything in this lane dies before it reaches you");
+  Priya in the shallows directly behind Aaron to keep him standing through the half-second he is a target;
+  Tess on the pillar on the CLOCK. AGREED: Tess's early surge-call IS the trigger to strike (not the surge
+  itself).
+- **THE SINGLE-BEAT PROBLEM:** in the 1.8s window Aaron must not just SEE the core (seeing is easy now, the
+  read clean) but find the failure point and do the thing that kills her, in under two seconds. "The thing he
+  was best in the world at, through the world's smallest window." Miss it = the shell re-seals, a full cycle
+  under a fresh wave. Crew-as-one-instrument: he is "the edge of the instrument... the point where it met the
+  boss"; the play needs Tess's call perfect, Marcus's lane held, Priya keeping him up.
+- **THRESHOLD / cliff into s5:** clock out, "Tess's hand began to close." Trigger NOT yet fired (fires s5).
+- **No mechanical change:** positioning/reads only, free. decode_debt 20/100, Level 10, holds Analyze, ledger
+  ends at #7. Boss sealed/unkilled. No System reveal (throttle is the s6 hook). Crew: Tess, Marcus, Priya.
+  Hutch DEAD.
