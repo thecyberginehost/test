@@ -1812,3 +1812,25 @@ load-bearing beats).
 - **Strain showing:** sharper and more exhausted at once ("draining a battery faster than sleep could fill
   it"). Cannot tell the crew (it would sound like a man cracking). Sets up s5 (arguing with a patch note) and
   s6 (Tess's question). decode_debt 17/100, Level 9. Patches to date: 0007, 0011, 0012.
+
+### Ch 8 (Sec 5) established facts now known to the reader
+- **CREW BELONGING (warm, earned).** Night camp in a transit depot (oil-drum fire, roller doors wedged with a
+  bench). Tess saves Aaron a portion of food unprompted; Marcus and Priya banter at his expense and he is
+  allowed inside it; Marcus (who does not give things away) knocks a shoulder against him in gruff respect.
+  Aaron is one of them now, a belonging he earned by being the man whose reading keeps them breathing. He
+  carries the secret weight alone behind the warmth.
+- **THE PROPPED SEAM RESOLVES (consistent with PATCH 0012's left-open adjacent seam).** Reading idly, Aaron
+  finds the propped gate from the tunnel resolved into a depot spawn-throttle, precondition half-disabled FOR
+  him, "shaped to him," one door propped and the next propped behind it, as if the conversation is meant to
+  keep going. He only READS it (does NOT take it): no annotation, no debt change, no level change.
+- **"ARGUING WITH THE TEXT" (major thread beat; foreshadows the book/series ending).** Aaron catches himself
+  MUTTERING ALOUD back at the patch text only he can see, arguing with the System as a correspondent ("You
+  don't leave the second door open. You don't tutor the man who's robbing you." / "You read me, I read you.
+  You want to keep going." / "You're lonely," unsure which of them he means). The System has stopped being an
+  engine to him and become someone he TALKS TO; the dialogue is the most honest relationship he has, because
+  the only other mind that reads the world his way is the administrator running the apocalypse. NOTE: felt /
+  dawning level only; this FORESHADOWS the ending (an administrator that talks back / leaves him patch notes)
+  but does NOT deliver it, and does not confirm the full climax thesis.
+- **TESS arrives unheard at the very end** (a foot scuffs concrete; "He had not heard Tess come up"), setting
+  up her load-bearing question in s6. She is the human echo of the only-other-mind-that-reads thread.
+- **No mechanical change:** Level 9, decode_debt 17/100, holds Analyze. Patches: 0007, 0011, 0012.
