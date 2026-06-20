@@ -1012,3 +1012,60 @@ load-bearing beats).
   the patch did not make the door harder, it made him read better. Staleness pushes him a layer down.
 - **Wave looms (into Sec 4):** an unseen public System block punches in (bright, counting UP not
   down); the sky peels open in multiple places. Tess: "That's not one rift." The Tier-up wave begins.
+
+### Ch 4 (Sec 4) established facts now known to the reader
+- **Tier-up wave event (new canonical public block, verbatim, no em dashes):**
+
+      [ SYSTEM ]
+      TIER-UP WAVE.  District event.
+      Rift density: critical.
+      Spawn tier raised: 0 -> 1.
+      Hostile saturation rising. Seek hardpoint.
+
+  District-scale event; floods the area with tier 1 monsters, counts UP, severs the crew from
+  shelter. Only hardpoint in reach is the just-opened loading dock, and the wave is between Aaron and
+  it. Crew strung out across ~40 feet of open ground.
+- **New monster: shell-stalker (tier 1). Hidden block (Operator overlay, verbatim, no em dashes):**
+
+      > # RIFT SPAWN: shell-stalker (tier 1)
+      > # HP 48/48.  contact damage on charge.
+      > # passive: PLATING.  front arc reduces hits.
+      > #   note: plating thin at the joint seam. flank only.
+
+  Half again bigger than the crawler, faster, gray-green plated. HP 48. PLATING reduces front-arc
+  hits; the exploit is the thin joint seam, flank only. Aaron kills by stepping off the charge line
+  and driving a weapon into the seam.
+- **Crew fighting together:** Aaron, Tess (holds the shutter, calls the field), Priya (waving them
+  in), Hutch (dragging the torn-thigh survivor to cover), Lena, Dwyer. (Marcus is NOT present yet,
+  first appears Ch 5; the section must not name him.)
+- **LEVEL-UP climb (guardrail in action; tier 1 kills pay more). Verbatim level-up blocks:**
+
+      [ SYSTEM ]
+      LEVEL UP.  You are now Level 3.
+      +2 Perception.  +1 Wits.
+
+      [ SYSTEM ]
+      LEVEL UP.  You are now Level 4.
+      +2 Perception.  +1 Wits.
+
+      [ SYSTEM ]
+      LEVEL UP.  You are now Level 5.
+      +2 Perception.  +1 Wits.
+
+- **Aaron's new sheet (CANONICAL; HP follows the established +10/level progression: L2=60, L3=70,
+  so L5 = 90):**
+
+      Aaron Kessler
+      Class: NULL_OPERATOR   status: unhandled
+      Level: 5
+      HP 90/90
+      Strength 5   Agility 6   Vitality 6
+      Perception 18   Wits 14
+
+  (NOTE: the section's drafted stat block showed HP 60/60 in error; the editor must correct it to
+  HP 90/90 to match the progression. Per 18 / Wits 14 are correct per the +2/+1 formula.)
+- **No annotation; decode_debt unchanged at 3/100.** Climbed Level 2 -> Level 5 on the wave.
+- **Hand-off into s05:** Aaron's high Perception makes him greedy and narrow (tunnel vision on the
+  bright channel of seams in front of him); the field past arm's reach goes gray. He misses a
+  shell-stalker coming wide on his blind right, dropping its head to charge his ribs. He does not see
+  it. Section ends on "Tess did." (Sets up the load-bearing two-readers save in s05.)
