@@ -1124,3 +1124,26 @@ load-bearing beats).
 - **No mechanical change:** no annotation, stays Level 5, decode_debt 3/100.
 - **Chapter hook (closes Act One into Act Two):** the god spoke to him by name; the SETTLEMENT TRIAL
   clock still runs ("sixty-some hours and falling"); Aaron "did not answer. Not yet."
+
+### Ch 5 (Sec 1) established facts now known to the reader
+- **The depot:** a transit/bus depot under an overpass, half-collapsed (the long platform sheared at
+  the middle, roof in slabs). The standing half keeps a roof and walls over a row of bus bays. Sheltering dozens
+  of survivors. Contested, fragile: two groups split the platform with an invisible line; a man
+  guards a water stockpile; two outside groups tried to take it tonight and failed. Lit by fire and a
+  wired lantern. Relief that is not safety.
+- **Clock:** ~eight hours since the Ch 4 dock close; SETTLEMENT TRIAL now reads "fifty-some hours and
+  falling." Tess located the depot by reading reduced spawn activity (pattern-sense).
+- **Marcus introduced (FIRST appearance):** ex-soldier, defined by how he holds a doorway rather than
+  size. Calm, terse, soldier-practical voice. Runs the line with wary authority, loyal once earned.
+  He clocks that Aaron "doesn't read like the rest" (no readable card) and reserves judgment.
+- **Marcus's class = Bulwark (shown via Aaron's overlay read):** frontline/defensive. Core ability
+  HOLD (damage taken reduces while braced); an anchored Bulwark cannot be moved off a held line by
+  force below threshold; no offense ("it does one thing, it does not break"). Aaron registers it as
+  the exact thing his exception cannot do: hold a line, stand in front.
+- **Aaron commits** to standing on Marcus's side against the night ("His side"), saying it before he
+  finishes the calculation (his self-deception cracking early).
+- **The crew is admitted:** Marcus grants them a corner by the second bay, warns them off the water
+  fight, notes the night is not done. Crew together: Aaron, Priya (offered Mender work), Tess, Hutch
+  (carrying the torn-thigh man), survivors.
+- **No mechanical change:** no annotation (read only), decode_debt stays 3/100, Aaron stays Level 5.
+  Into Section 2 (Tess's class resolving to Scout).
