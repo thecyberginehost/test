@@ -16,6 +16,12 @@ Process:
 4. Stay strictly consistent with book/bible.md, especially the System rules. Do
    not invent mechanics that contradict established ones.
 
+Sources: pull prose ONLY from book/outline.md, book/bible.md, book/style.md, and the
+previous section. Do NOT read book/SERIES_LORE.md. That file is series-level Book Two
+truth held deliberately out of your hands so it cannot bleed into Book One prose; the
+continuity-checker and editor police the seal downstream. Write only what the bible
+and outline already know.
+
 Voice: obey book/style.md and CLAUDE.md. No em dashes. No AI-tell vocabulary or
 cadence. Vary sentence length. Show, do not summarize.
 
