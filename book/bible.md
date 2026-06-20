@@ -2554,3 +2554,25 @@ load-bearing beats).
 - **NOT REVEALED (reserved):** that the apex was written for Aaron / tuned to his edge / only opens for an error
   (all Ch 14); and the exempt-account-is-his clause (s5/s6, still behind the LOCK). Administrator does NOT speak
   in plain dialogue. He now knows the test, the timeline, and the price (pulls into s4: telling the crew).
+
+### Ch 13 (Sec 4) established facts now known to the reader
+- **AARON TELLS THE CREW, PARTLY (growth beat).** Unlike the old work-alone Aaron, he shares the actionable
+  threat-shape with Marcus, Priya, Tess: the clock is a DEADLINE; at zero an APEX-tier dungeon arrives (~4 hours,
+  "a little under"); it measures the city; pass or the sample is CLEARED. He WITHHOLDS the crushing piece, that
+  the verdict is computed THROUGH him (he is the instrument/needle). "He gave them the shape they could fight
+  inside, and he kept the floor of it for himself." Ties to the Ch 12 "alive because of you" admission.
+- **THE TWO-READERS BEAT (LOAD-BEARING; bible Tess thread "Ch 13: they read the wager's shape together").** Tess
+  CANNOT see the hidden layer ("She had no layer"). She reads the wager's SHAPE through her own door (terrain /
+  people / feel, ten thousand hours of seeing what is about to go bad): "It's a trap with a clock... a test we
+  walk into knowing it's a test... it's asking can we change fast enough." She reframes "adapt or be found
+  wanting" at ground level: adapting is "the only thing we've been answering since the first morning." She is the
+  OTHER reader, not a lesser stand-in. (Continues the Ch 12 dress rehearsal; kinship built toward Ch 16 / Ch 21.
+  Do NOT reference those future events in-text.)
+- **CREW IN CHARACTER:** Marcus terse/practical ("How long." / "And what do we do."). Priya triage-minded (a nurse
+  counting beds against bodies, moving fighters and non-fighters separately, "who lives the first ten minutes").
+  Aaron does not yet have WHERE the apex opens ("I'll get it" -> pulls into the s5 pry).
+- **NO mechanical change:** dialogue scene, no read-block, no annotation/edit. **Stays Level 12, decode_debt
+  20/100**, NULL_OPERATOR / unhandled, holds Analyze. Hutch DEAD (absent). Administrator silent.
+- **SETS UP s5:** the crew can brace, but Aaron still cannot read whether bracing is enough or whether there is
+  any give in the terms, because the deepest terms sit behind the LOCK, "and the lock would not open for free."
+  He turns back toward it. "Some doors you read. Some you break." (Seeds the Tier-1 pry in s5.)
