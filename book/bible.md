@@ -1855,3 +1855,29 @@ load-bearing beats).
   pre-edit Level 8 achieved (guardrail rule 4 satisfied). Mystery: bait experiment confirmed the hole was
   LEFT OPEN and the System learns his moves (local/mechanism level); the full bug-vs-invitation thesis is
   still reserved for the climax. Crew: Tess (now partly in the secret), Marcus, Priya. Hutch DEAD.
+
+### Ch 9 (Sec 1) established facts now known to the reader
+- **THE MIDPOINT CONFESSION (full structural truth told to Tess).** By the depot fire, continuing straight
+  from Ch 8 s6, Aaron tells Tess the whole structural truth for the first time to any crew member:
+  - His class assignment FAILED mid-write that Tuesday. Everyone else got a clean SEALED card; he got a crash
+    and an editable sheet. His class reads NULL_OPERATOR / status: unhandled, "an uncaught exception... the
+    error it kept running with."
+  - That failed seal is why he can read AND edit the System's hidden debug overlay (its self-talk layer):
+    his is "the one door it forgot to lock," where every other account is sealed (the Hutch contrast).
+  - He lays out the FOUR-POINT EVIDENCE case (clean restatement for the reader): (1) patches aimed at his
+    exact hole and nothing adjacent (too clean for a blind sweep); (2) holes left open for him after each
+    patch (Hutch died in one such gap); (3) accelerating speed (early fixes took days, recent ones minutes =
+    real-time watching); (4) the decode tax NEVER touched by any patch. Conclusion: "somebody's reading every
+    line he writes. To me. Specifically."
+- **TESS NOW KNOWS THE FULL STRUCTURAL TRUTH** (failed assignment, editable exception, NULL_OPERATOR/
+  unhandled, debug overlay, the watched-variable case). She takes it without running or treating him as
+  broken; she presses for clarity like a Scout reading terrain. (Supersedes the earlier "partly in the
+  secret" note: as of Ch 9 s1 she has the structural truth; the deepest thesis is still to come.)
+- **CONTINUITY DETAIL (now canonical):** Aaron VERBALLY TOLD Tess about Hutch's sealed card after Hutch's
+  death (off-page), establishing for her that everyone's account is locked except his. (He read Hutch's
+  residual alone in Ch 7 s05; only he can see the layer; he relayed it to her.)
+- **BOUNDARY HELD / NO OVER-REVEAL:** s1 ends at the EDGE. Aaron has thrown out "sloppiness" but has NOT yet
+  named the "learning administrator AI" reframe (that is s2-s3) or the full climax thesis (it left his error
+  on purpose because it is lonely / wants a subject who can talk back, reserved for the climax).
+- **No mechanical change:** confession is free. decode_debt stays 17/100, Level stays 9, holds Analyze. No
+  specific elapsed-time count stated (compressed timeline preserved). Marcus/Priya asleep; Hutch DEAD.
