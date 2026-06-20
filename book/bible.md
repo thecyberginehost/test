@@ -38,7 +38,7 @@ every section. Append facts, never rewrite history.
 | Aaron Kessler | Protagonist, Null Operator | Dry, stubborn, evidence-driven, lone exploiter who secretly cares | Alive | Ch 1 |
 | Priya Anand | Crew, triage nurse, Mender class | Steady, blunt, keeps people alive (the one thing Aaron's class cannot) | Alive | Ch 2 |
 | Tess Calloway | Crew, teen ex-gamer, Scout class | Reads terrain/spawns like Aaron reads code, sharp, fearless, sees through Aaron; his kindred reader and closest mirror | Alive (dies Ch 16) | Ch 3 |
-| Daniel "Hutch" Boyd | Crew adjunct, older delivery driver, plain class | Easy to like, easy to overlook; keeps trying to thank Aaron and getting brushed off; the man Aaron refuses to let himself care about | Alive (dies Ch 7) | Ch 3 |
+| Daniel "Hutch" Boyd | Crew adjunct, older delivery driver, plain class | Easy to like, easy to overlook; kept trying to thank Aaron and got brushed off; the man Aaron refused to let himself care about | DEAD (Ch 7, s3: husk post-death trigger, in the gap Aaron's withheld read left) | Ch 3 |
 | Marcus | Crew, ex-soldier, Bulwark class | Immovable front line, calm under fire, loyal | Alive | Ch 5 |
 | Dwyer | Aaron's manager (pre-System); System class: Quartermaster | Manages by reflection, soft-deflects, sided with the green dashboard over Aaron's read; not cruel. Quartermaster: manages stores/supply, has an inventory | Alive (offscreen after Ch 1) | Ch 1 |
 | Lena | Aaron's coworker (pre-System); System class: Sentinel | Cheerful, quick; took credit for the connection-pool/cart fix Aaron shipped. Sentinel: a guard/protector class, got a Vitality stat | Alive (offscreen after Ch 1) | Ch 1 |
@@ -1597,3 +1597,40 @@ load-bearing beats).
   husk with rebar through its slit, stepped back before thanks. Nobody thanked him; Aaron clocked it and
   said nothing, as always. Arm's-length distance reinforced one beat before his death.
 - **No annotation; decode_debt stays 14/100.** Only mechanical change is the level-up (L7 -> L8).
+
+### Ch 7 (Sec 3) established facts now known to the reader
+- **HUTCH IS DEAD. The locked first crew death has occurred (Ch 7, s3).** Daniel "Hutch" Boyd, the older
+  delivery driver in the courier vest, killed mid-useful act (hauling a "dead" husk onto the heap walling
+  the ramp's second mouth) by a husk's hidden post-death trigger. He dies unthanked; Aaron's last live
+  interaction with him was clocking his work and saying nothing (s02). UPDATE his status from "Alive
+  (dies Ch 7)" to DEAD as of Ch 7. He is gone from the active crew for the rest of the book.
+- **HUSK HIDDEN DEATH-STATE (canonical mechanic).** A tier-1 husk at 0 HP is NOT finished: the carapace
+  splits at 0 and it makes one blind lunge on a stored charge. "Dead" is a posture; the trigger fires on
+  handling. This is exactly the kind of fine print Analyze surfaces for free. Husk HP baseline 46 (matches
+  the tier-1 dock-render). Canonical decode block (lower-case decode style, verbatim):**
+
+      # RIFT SPAWN: husk (tier 1)
+      # HP 0/46.  status: not finished.
+      #   carapace splits at 0. one blind lunge on a stored charge.
+      #   "dead" is a posture. trigger fires on handling.
+
+- **THE CAUSAL LINE (the cost of caution).** The warning was a FREE read (no debt, no level cost). Aaron
+  withheld reads all day (s02) to avoid teaching the watcher, so he caught the husk's wrongness a
+  half-second late and the overlay surfaced "grudging and stiff, like a door swollen in its frame," the
+  words landing a quarter-second after the carapace split. His principled caution against the watcher is
+  what left the cover thin and got Hutch killed. This is load-bearing for his Ch 9 confession and guilt.
+- **Cold System death notification (canonical, verbatim, no reward, no ceremony):**
+
+      [ SYSTEM ]
+      Crew member eliminated: Boyd, D.
+      Cause: rift spawn (tier 1), post-death trigger.
+      Body removed from active roster.
+
+  The System paid NOTHING for the loss (no reward color), logging it "the way it logged a cleared latency
+  tile." The indifference reinforces the administrator-as-cold-engine thread.
+- **Confirmed limit:** Aaron's class cannot touch flesh/wounds ("no value over this, no threshold, no
+  overlay to put a cursor on. Just a wound. The one thing his class could never touch."), consistent with
+  the Ch 2 locked limit. Priya (Mender) knelt though there was no call left to make.
+- **No mechanical progression:** no annotation, no level-up, decode_debt stays 14/100, Aaron stays Level 8.
+  Only Hutch dies; Tess, Marcus, Priya and the unnamed survivors live. Section ends on raw shock; grief and
+  Aaron's reckoning are s04.
