@@ -1567,3 +1567,33 @@ load-bearing beats).
 - **No mechanical change:** no annotation, decode_debt stays 14/100, Aaron stays Level 7, holds Analyze.
   Crew all alive and present (Tess, Marcus, Priya implied, Hutch lending the pencil). Hutch does NOT die
   here (he dies in s03).
+
+### Ch 7 (Sec 2) established facts now known to the reader
+- **THE THEORY (held, unspoken).** Aaron has fully formed the theory and tells NO ONE: the administrator
+  is not defending blindly, it is reading him back, live or close to live. Two reasons for silence: it
+  sounds like the kind of thing that makes the crew watch him sideways, and saying it would make it true
+  (force him to act like a man who believes it). He already acts like one.
+- **CAUTION AS FLAW (new tactical change).** Spooked, Aaron now deliberately WITHHOLDS Analyze and deep
+  reads on runs, reading only shallow/surface, on the logic that every deep read is "a sentence the
+  watcher gets to study." This is psychological/strategic, NOT a mechanical cost (Analyze is free, no
+  debt, no level cost; the text states this). The restraint makes runs slower and leaves the crew
+  thinner cover than they are used to. Flagged in-story as the right call against the watcher and the
+  wrong call for the people in front of him. (This is the gap that gets Hutch killed in s03.)
+- **NORMAL-LADDER PAYOUT: LEVEL UP, Level 7 -> Level 8.** Earned the honest way (axe and ordinary stats)
+  on a tier-1 husk-node clear under a parking structure six blocks east. Canonical System block:**
+
+      [ SYSTEM ]
+      RIFT CLEARED.  Hostile node neutralized.
+      EXP awarded.
+      LEVEL UP.  You are now Level 8.
+      +2 Perception.  +1 Wits.
+
+  Level 8 sheet (not printed in-section, canonical): HP 120/120, Strength 5, Agility 6, Vitality 6,
+  Perception 24, Wits 17, Skills: Analyze. This RESTORES the pre-edit Level 8 after the Ch 6 trough;
+  recovery strictly ABOVE 8 is still owed by Ch 9 (guardrail rule 4). Closing Level non-decreasing.
+- **New generic spawn label: "husk" / husk-things** (tier-1, armored backs, a throat-gap/slit vulnerable
+  point hittable without the overlay). No canonical numbers attached.
+- **Hutch beat (alive, unthanked):** worked the unwatched flank, walled the ramp's second mouth, killed a
+  husk with rebar through its slit, stepped back before thanks. Nobody thanked him; Aaron clocked it and
+  said nothing, as always. Arm's-length distance reinforced one beat before his death.
+- **No annotation; decode_debt stays 14/100.** Only mechanical change is the level-up (L7 -> L8).
