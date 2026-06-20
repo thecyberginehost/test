@@ -952,3 +952,29 @@ load-bearing beats).
   change (stays 2/100). The rejected write cost no level and no toll.
 - **Cliffhanger:** `Cause: see patch` points him into Section 2's diagnosis (the surgical counter-
   patch). The detailed patch is NOT read here. Tess light beat: "You did the thing and it didn't work."
+
+### Ch 4 (Sec 2) established facts now known to the reader
+- **Counter-patch found and read (PATCH 0007).** It closed Aaron's exact integrity-to-zero exploit,
+  SURGICAL not general: scoped to his account by name, denies only his write of integrity below 1,
+  and conspicuously leaves the integrity mechanic fully open for every other account and adjacent
+  object vars (mass, lock_state, hinge). Doors all over the district still run the same soft seam.
+  The fix stepped around the broad mechanic on purpose. His surfacing read cost a small eye-spike,
+  no level or debt change.
+- **Patch block (verbatim, no em dashes):**
+
+      > # PATCH 0007  scope: account KESSLER, A.
+      > #   target: annotation-class "integrity -> 0 on threshold object"
+      > #   action: this account may not write integrity below 1.
+      > #   on attempt: deny write. emit ANNOTATION REJECTED.
+      > #   note: applies to KESSLER, A. only.
+      > #   note: integrity mechanic unchanged for all other accounts.
+      > #   note: adjacent object vars (mass, lock_state, hinge) untouched.
+
+- **Arms-race reveal:** precision this tight cannot come from a blind automated sweep. Aaron reframes
+  it from "a nightly cron job" to "a reader" who read his flagged account and answered a specific
+  argument. He calls the patch a "reply," not a "wall." Watched-and-read-back theory SEEDED but NOT
+  concluded (filed privately, disturbed; he does NOT yet read the personal line, does NOT run a
+  bait-hole test). Leash-undertone reinforced: the patch hunts HIS account and leaves the world alone.
+- **No level/debt change:** stays Level 3, decode_debt 2/100. No annotation.
+- **Hand-off:** Aaron accepts the trick is dead and puts his sight back into the seam to improvise a
+  deeper read (into Section 3, annotation #3).
