@@ -1941,3 +1941,27 @@ load-bearing beats).
   "Let's see what it's saying." Not decoded here.
 - **No mechanical change:** fireside scene, free. decode_debt 17/100, Level 9, holds Analyze. Marcus/Priya
   asleep; Hutch DEAD.
+
+### Ch 9 (Sec 5) established facts now known to the reader
+- **FIRST READ OF THE ADMINISTRATOR'S OWN VOICE (the core/source grammar).** Aaron reaches past the debug-
+  comment layer into the System's core grammar and decodes a PARTIAL source fragment. New canonical block
+  type: **[ SYSTEM // core ]** ("<< source fragment, partial decode >>"), visibly distinct from the public
+  "[ SYSTEM ]" notices and the lower-case "> #" debug overlay. It is fragmentary/alien (marked [unreadable]
+  spans) and ends MID-WORD ("the question is whether it will"). Canonical fragment text is in
+  book/chapters/ch09/s05.md lines 21-32.
+- **THE TONE IS CURIOUS, NOT HOSTILE (major antagonist beat).** The administrator's own voice calls Aaron
+  "interesting," notes "it edits, it is the only one that edits," that he "reads back" ("unprecedented in the
+  sample"), and poses the question "what does a watched thing do when it learns it is watched?" It is patient,
+  warm, without malice, the attention of something that found one moving part in a machine of seven billion
+  still ones and bent close to watch it move. Aaron, who braced for the cold indifference that logged Hutch
+  ("Working as intended"), finds curiosity instead, which is "worse" and more intimate than hostility. Dread
+  shades into fascination ("something in him leaned back the way you lean toward any voice in a long silence").
+  NOTE: this is interested-observer CURIOSITY only; it does NOT confess the climax thesis (left his error on
+  purpose because it is lonely / wants a subject who can talk back). Reserve that for the climax.
+- **RULES NUANCE REAFFIRMED (canonical):** a DEEP READ is FREE of decode_debt. The strenuous read past his
+  level carries a real PHYSICAL toll (both-socket eye-pressure, nosebleed, vertigo) but does NOT increment the
+  decode_debt tab. decode_debt stays at 17, "unmoved." (Reading never adds debt; only EDITS/annotations do.)
+  No annotation, no level change. Aaron stays Level 9, decode_debt 17/100, holds Analyze.
+- **SETUP for s6:** the fragment ended MID-WORD, "stopped clean, on the edge of a question, like a door left
+  open a hand's width on purpose." Aaron registers the cutoff as feeling DELIBERATE without yet interpreting
+  it; s6 reads it as an open question left for him on purpose. Tess beside him as anchor/confidant.
