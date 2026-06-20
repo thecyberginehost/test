@@ -755,3 +755,40 @@ load-bearing beats).
 - **Cliffhanger:** they reach the stairwell fire door, webbed with a brighter solid grid of light.
   The bar will not move; the light pulses once and holds. First sealed obstacle, into Section 2.
 - **No annotation, no debt or level change this section.** Aaron remains Level 1, decode_debt 1/100.
+
+### Ch 3 (Sec 2) established facts now known to the reader
+- **Integrity-door mechanic (Operator overlay, canonical, no em dashes):**
+
+      > # OBJECT: stairwell fire door (threshold, sealed)
+      > #   var: integrity (int). value: 40.
+      > #   gate holds while integrity > 0.
+      > #   on integrity <= 0: structure fails. threshold opens.
+      > #   integrity passive: none. no regen. static value.
+
+  A sealed threshold door carries one `integrity` integer (here 40); the gate holds while it is
+  above 0, and at 0 the structure fails and the threshold opens. Static, no regen, no seam. The
+  only answer is to edit the field.
+- **Annotation #2 EXECUTED (Tier 0, shallow local).** Aaron decoded the field then annotated
+  `integrity` to 0 so the gate cannot hold. One value on one object. Permanent and narrow.
+- **System confirmation block (Ch 2 ANNOTATION ACCEPTED shape, verbatim, no em dashes):**
+
+      [ SYSTEM ]
+      ANNOTATION ACCEPTED.  Account: KESSLER, A.
+      OBJECT stairwell fire door: integrity revised to 0.
+      Threshold gate fails. Structure opens.
+      Scope: this account, this object. Permanent. Narrow.
+      Cost paid: -1 Level.  Decode tax applied.
+
+- **Scope:** this account, this object (a stationary thing in contact range), consistent with the
+  locked SCOPE rule.
+- **Cost paid:** -1 level of earned progress (drained the sliver he had earned in the descent; he
+  REMAINS Level 1, scraping the floor of the bar). **decode_debt now 2 / 100** (ticked 1 to 2).
+  Aaron clocks it as a running tab: the level can be re-ground, decode_debt never resets. "One, and
+  now two."
+- **Physical toll (smaller than Ch 2):** a single thread of blood over his lip, heat then a flicker
+  behind the right eye, a half-step shortening of breath.
+- **Seeded worry (no patch shown yet):** Aaron registers the door is "too clean" (one unguarded
+  integer, no regen/save/grace), the kind of hole that gets closed right after someone asks who
+  left it open. He files it. The patch lands in Ch 4, not here.
+- **The door opens** into the dark stairwell. His line to Priya: "I told it the door was already
+  broken. It believed me." Tess and Hutch still NOT introduced (held for Section 3).
