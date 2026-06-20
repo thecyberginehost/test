@@ -1404,3 +1404,57 @@ load-bearing beats).
 - **No annotation, no level/debt change.** Aaron remains Level 14, decode_debt 6/100.
 - **Hand-off:** the lull breaks; Aaron turns back to the skill-grant grammar, now carrying the small
   weight that someone is watching the cost. Into Section 4 (the deep grant read, the Tier 2 grant).
+
+### Ch 6 (Sec 4) established facts now known to the reader
+- **Skill-grant grammar MASTERED (read off Tess's Spotter as the example).** A skill is leased FROM a
+  class, not owned. SKILL_GRANT overlay (canonical, verbatim, no em dashes):
+
+      > # SKILL_GRANT (template-bound): Spotter
+      > #   owner-class: Scout. grant on class resolution.
+      > #   structure: { handler: Scout, payload: Spotter, bind: account CALLOWAY }
+      > #   grant routine: CLASS.emit_skill(account, payload)
+      > #     precondition: account.class == handler. else: deny.
+      > #   note: skills are leased FROM the class. no class, no lease.
+
+- **The exploit:** handler = the class, payload = the skill, precondition `account.class == handler`.
+  The whole system assumes the handler is a real class. Aaron's handler field is VACANT (NULL_OPERATOR
+  / unhandled), which is why his sheet had no skills AND exactly the gap he exploits: the precondition
+  can be bypassed because the handler field is WRITABLE when vacant. (Ties the skill exploit to his
+  broken-class nature.)
+- **Annotation #5 EXECUTED (Tier 2, deep class-rule edit). NEW SKILL: Analyze.** Aaron authored a
+  skill payload directly onto his own account, bypassing the class precondition (the first ability his
+  classless sheet ever carried). **Analyze: surface one target's hidden status block instantly, on
+  will** (the read he already does, made an instant active act with no parse-lag, one target). Named
+  Analyze deliberately, "the thing he is with the friction filed off."
+- **ANNOTATION ACCEPTED block (canonical, verbatim, no em dashes):**
+
+      [ SYSTEM ]
+      ANNOTATION ACCEPTED.  Account: KESSLER, A.
+      SKILL authored to account directly: Analyze.
+      Class precondition bypassed. Handler field: vacant.
+      Effect: surface one target's hidden status block instantly, on will.
+      Scope: this account. Permanent. Narrow.
+      Cost paid: -8 Levels.  Decode tax applied.
+
+- **Cost (heaviest yet, a SANCTIONED DEEP-EDIT TROUGH, guardrail rule 4):** -8 Levels (Level 14 ->
+  Level 6), decode_debt += 8, **running decode_debt now 14 / 100.** Running-tab beat: "Fourteen."
+- **New sheet (Level 6, NOW WITH A SKILL). CANONICAL numbers (stats revert with lost levels, per the
+  Ch 2 precedent: HP = 40 + 10*L; Per = 10 + 2*(L-1); Wits = 10 + 1*(L-1); so Level 6 = HP 100, Per
+  20, Wits 15). NOTE: the draft sheet showed Per 32 / Wits 21 in ERROR; the editor must correct to Per
+  20 / Wits 15:**
+
+      Aaron Kessler
+      Class: NULL_OPERATOR   status: unhandled
+      Level: 6
+      HP 100/100
+      Strength 5   Agility 6   Vitality 6
+      Perception 20   Wits 15
+      Skills: Analyze
+
+- **The toll (heaviest yet, debt 14):** eight levels tore loose at once; knees gave, he sat hard;
+  nosebleed a hot rope; the right-eye spike drove in and STAYED (no pull-back); near-collapse. "This
+  receipt was a long one."
+- **The trade:** eight hard-won levels for one permanent skill. Frames it as grimly worth it (the
+  levels will grind back; the skill will not leave). Class still NULL_OPERATOR / unhandled.
+- **Aaron is now Level 6, decode_debt 14/100, holds the skill Analyze.** Hand-off: he has NOT tested
+  Analyze yet (testing is s05).
