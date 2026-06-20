@@ -19,15 +19,14 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 5** as of end of Ch 4. Current sheet: HP 90/90; Strength 5,
-  Agility 6, Vitality 6, Perception 18, Wits 14 (Perception/Wits high, +2 Per / +1 Wits per level
+- Current level / key stats: **Level 8** as of end of Ch 5. Current sheet: HP 120/120; Strength 5,
+  Agility 6, Vitality 6, Perception 24, Wits 17 (Perception/Wits high, +2 Per / +1 Wits per level
   off the Level 1 baseline Per 10 / Wits 10; HP = 40 + 10*Level). Class field still reads
-  NULL_OPERATOR / status: unhandled. **decode_debt = 3 / 100** (cumulative, never resets; see the
-  ledger and ANNOTATION RULES). History: L2 on the Ch 1 crawler kill; spent it on the Ch 2
-  Suffocation cap (annotation #1); spent a level on the Ch 3 integrity door (annotation #2),
-  re-climbed to L3 on the descent; spent a level on the Ch 4 lock_state edit (annotation #3, down to
-  L2), then climbed L2->L5 on the Ch 4 Tier-up wave. Annotation progress cost is set by rule
-  depth/tier, not by his level. (Writer: keep logging exact numbers here each chapter.)
+  NULL_OPERATOR / status: unhandled. **decode_debt = 6 / 100** (cumulative, never resets; see the
+  ledger and ANNOTATION RULES). History: through Ch 4 reached L5 / debt 3; in Ch 5 spent 3 levels on
+  the reward-redirect (annotation #4, L5 -> L2, debt 6), then climbed L2 -> L8 on the night assault.
+  Annotation progress cost is set by rule depth/tier, not by his level. (Writer: keep logging exact
+  numbers here each chapter.)
 
 ## Cast
 | Name | Role | Traits | Status | First appears |
@@ -201,6 +200,10 @@ load-bearing beats).
       the integrity route). Tier 0 (shallow local). Progress cost: -1 level (Level 3 -> Level 2).
       decode_debt += 1. Running decode_debt = 3 / 100. (Closed Ch 4 at Level 5 after the Tier-up
       wave grind. End of Act One: decode_debt 3/100, on the projected curve.)
+    - #4 (Ch 5, s4): depot DEFENSE_BONUS payout routine redirected (winner-take -> split across all
+      defenders). Tier 1 (mechanic-wide reward routine). Progress cost: -3 levels (Level 5 -> Level
+      2). decode_debt += 3. Running decode_debt = 6 / 100. (Closed Ch 5 at Level 8 after the night
+      assault grind. On the projected curve.)
 
   DECODE-DEBT PROJECTION (the clock; rough, recompute as edits are logged). The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -1282,3 +1285,34 @@ load-bearing beats).
 - **Hand-off to s06:** the last wave thins, dawn-gray sky, the depot stands with every starting body
   alive. The reward color gathers for dawn (DEFENSE_BONUS resolving, addressing the field of accounts
   Aaron quietly made everyone; the redirect-to-whole-group not yet revealed to the crew).
+
+### Ch 5 (Sec 6) established facts now known to the reader
+- **Dawn. DEFENSE_BONUS resolves on the held zone, addressed to the WHOLE GROUP** (because of the s4
+  redirect). It rises over the depot in public-block air. Reward block (verbatim, no em dashes):
+
+      [ SYSTEM ]
+      ZONE HELD. Cycle survived.
+      DEFENSE_BONUS issued.
+      Recipients: all bodies holding this zone (12).
+      +1 to a stat, scaled to threat cleared, to each defender.
+      EXP distributed across the standing defense.
+      Routing note: payout redirected from top-ranked account
+      (KESSLER, A.) by annotation. This account: 0.
+
+- **The reward NAMES Aaron and gives him zero.** Twelve defenders each get +1 stat (scaled) plus
+  distributed EXP. The routing note states the payout was redirected from top-ranked account KESSLER,
+  A. by annotation; his share reads "This account: 0." The crew can see he ranked 1 and gave it all up.
+- **The mask slips; crew reactions (distinct, restrained):** Tess already knew (watched him in s4),
+  "It's already a thing." Marcus counts the zero, comes off his line, does NOT thank him (thanks is
+  cheap), "You ranked one. The whole purse was yours" / "The System tells it different." Priya prices
+  the giver not the gift, holds his chin, names "Three levels," tells him to stop saying he doesn't
+  care. Depot survivors' thanks goes down the line one at a time.
+- **Aaron deflects ("It was tactical") and cannot make it stick** (the System gave the deflection a
+  number). Concedes dryly: "Fine. I care a little. Don't make it a thing."
+- **The toll is visible (decode tax at debt 6):** dried black nosebleed to his collar (the fourth
+  Priya waved off), the slow right pupil where the eye-spike lives, the three spent levels she counts.
+- **No annotation, no level change, no debt change:** decode_debt stays 6/100, class NULL_OPERATOR /
+  unhandled, Aaron remains Level 8 (closes Ch 5 at Level 8, above his Ch 4 close of Level 5).
+- **Chapter hook (warm, hard):** his care made undeniable and public; the mask is down; bonds deepen;
+  the SETTLEMENT/wager clock still runs; a rift breathes under the floor; Act Two underway, into Ch 6
+  (the quieter decode-tax chapter, "learning what each new edit cost him").
