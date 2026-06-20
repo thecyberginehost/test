@@ -2129,3 +2129,39 @@ load-bearing beats).
 - **HOOK to s6:** "no patch issued," but something is LOADING INTO HIS SHEET, not a patch, not against his
   hands, "reaching for the work itself." This is the administrator about to CORRECT his read (s6). Crew:
   Tess (three steps ahead), Marcus, Priya. Hutch DEAD.
+
+### Ch 10 (Sec 6) established facts now known to the reader
+- **THE UNWRITTEN ANNOTATION (major escalation; the administrator writes INTO his sheet for the first time).**
+  Instead of patching his sloppiness, the administrator leaves a single annotation in Aaron's OWN account/
+  sheet, the one place that has always been his alone. Every prior patch was AROUND him (PATCH 0007 integrity,
+  0011 grant path after Analyze, 0012 warden maneuver) and never INTO his account. This is the FIRST write
+  TO him. It takes NOTHING (no value edited, no docking, no hole closed). It CORRECTS his last crude read:
+  spells out the elegant re-point he declined on the PRIMER. Canonical block (verbatim):**
+
+      [ SYSTEM ]
+      account KESSLER, A.: review note, continued.
+      last read: rift-spawn PRIMER, charge value.
+      method on record: blunt overwrite. (low resolution. crude.)
+      annotation, unwritten:
+        PRIMER targets nearest hostile by FOCUS routine.
+        re-point FOCUS off-account. charge resolves into source.
+        one value. surgical. the result you declined.
+      filed to your sheet for reference.
+      the operator is reading below comprehension. this is the read.
+
+- **THE MESSAGE / TUTELAGE (deepens curious-observer -> TUTOR).** It would rather he read WELL than read SAFE.
+  It does not want his opacity and does not even punish the dodge; it corrects his FORM, the way you set a
+  corrected page before a student who knew better. "The thing he was feeding wanted to be fed better. It was
+  teaching him to teach it." Insulted by sloppiness the way Aaron is insulted by a green dashboard over a dead
+  node. NOTE: tutelage is FELT; the deepest climax thesis (lonely / left his error on purpose / wants a
+  subject who can talk back) is NOT delivered, reserved for the climax.
+- **THE SLOPPY-READ STRATEGY IS DEAD.** The administrator read the plan and declined it; Aaron cannot win by
+  being worse on purpose. It has asked, "in the only voice it had, for his best." A starved part of him (read
+  wrong his whole life) wants to give it / take the lesson, which is the vertigo, worse than any patch.
+- **No mechanical change:** the correction is a teaching gesture, not a stat edit. Aaron stays **Level 9,
+  decode_debt 20/100, holds Analyze**, NULL_OPERATOR / unhandled. Ledger ends at #7.
+- **CHAPTER CLOSE / HOOK to Ch 11 (The City Boss):** the only way left is forward, reading at FULL STRENGTH,
+  feeding the administrator his best because it will not accept less. The subway/district boss is "three days
+  out" and already loading under the district. Crew: Tess, Marcus, Priya. Hutch DEAD. Aaron ends Ch 10 at
+  Level 9, decode_debt 20/100 (annotation #7 the chapter's logged edit, on the projected curve). NOTE: Aaron
+  knows the System as "the experiment," NOT yet "the wager" (that term is reserved for later).
