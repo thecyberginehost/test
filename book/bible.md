@@ -2325,3 +2325,21 @@ load-bearing beats).
   nothing to point at. Last line: **"I can't read her," he said.** He must finish this BLIND in Ch 12. NO
   clean victory stat block (cliffhanger). Aaron closes Ch 11 at Level 10, decode_debt 20/100, holds Analyze,
   DECODE THROTTLED (temporary), boss ALIVE. Hutch DEAD. (Chapter was debt-neutral, stays 20, on the curve.)
+
+### Ch 12 (Sec 1) established facts now known to the reader
+- **BLIND IN THE DARK (stripped to ordinary).** Continuing the Ch11 cliffhanger: Aaron reaches for the deep
+  layer and finds nothing (decode throttled = surface only). He can still see the public DROWNED MOTHER
+  banner / HP bar (what any survivor sees) but NOT the core, the window, or the failure condition. The terror
+  of being ORDINARY again: "a man with HP 140 and a blade he swung worse than Marcus, slower than Tess, and
+  no read to make any of it matter." First time without his sight since Ch 1.
+- **THE WINDOW IS LOST.** He calls the surge on instinct ("Now. The back."); Tess strikes but the timing is
+  off (he can't see the clock); the Mother's shell RE-SEALS. The one-strike-from-dead window is gone.
+  Canonical surface block: "[ SYSTEM ] / DROWNED MOTHER: shell integrity restored. / Spawn cycle resuming."
+  She is NOT killed (killed later in the chapter, the hard way), and a fresh brood-wave is incoming.
+- **THE PIVOT (arc turn begins).** With the boss sealed and the crew committed in the open, Aaron understands
+  he cannot do this alone or blind. He gives his first orders "not from the layer": Marcus to hold the alley,
+  Priya to keep them breathing ("I can't see it coming"). "They were going to have to save him." The
+  exception becomes just one member of the crew, leaning on the plain classes he said he did not need.
+- **No mechanical change:** decode_debt STAYS 20/100, Level STAYS 10, Analyze retained (THROTTLED, not removed,
+  surface-only). Ledger ends at #7. Throttle motive stays OPAQUE here (that it was a TEST is the s6 reveal).
+  Crew: Tess, Marcus, Priya. Hutch DEAD. CANON NOTE: only Aaron has Analyze (do not attribute it to others).
