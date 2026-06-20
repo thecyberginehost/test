@@ -1998,3 +1998,25 @@ load-bearing beats).
   adds none). The frame has flipped (learning administrator AI / experiment); the antagonist is now curious,
   not just hostile; Tess is the sole confidant carrying the secret. The door stays open at the edge of his
   sight, "waiting for him to either walk through or learn that holding it shut taught it just as much."
+
+### Ch 10 (Sec 1) established facts now known to the reader
+- **THE VOW FAILS INSIDE ONE FIGHT (the failed boundary test).** Two days after the Ch 9 confession, Aaron
+  tries to fight a rift WITHOUT deep reads or edits (the Ch 9 s6 vow: hold reads tight, refuse the door,
+  starve the AI). It works for ninety seconds, then breaks: a threat he refuses to read deep nearly kills the
+  crew. He breaks the vow and DROPS into the deep read to save them. No one dies. Realization: he can keep
+  them alive or keep his mouth shut, not both; "the vow had never been survivable."
+- **HUTCH ECHO (load-bearing parallel).** The withheld-read gap is explicitly the same kind of gap that killed
+  Hutch in Ch 7. This time Aaron catches it and breaks the vow before anyone dies, but it is "a breath from
+  another Hutch." The starved part of him is relieved to reopen the door (the conversation resuming).
+- **NEW MONSTERS (canonical):** "runners" (mottled gray, many-legged, faster than hollow-crawlers) and a
+  larger "PRIMER" variant that reads low-threat on the surface (fat HP, low damage) but charges a ranged
+  BURST, tell = the water/air going still in a ring, with a wind-up WINDOW only the deep layer surfaces.
+  Setting: a rift in the loading dock of a flooded grocery, shin-deep water, a tier above what Aaron reads
+  cold.
+- **NO mechanical change:** READS only this section (free; a deep read costs physical toll, not debt). NO new
+  annotation, NO level change, decode_debt STAYS 17/100, Level 9, holds Analyze. The costly Tier-1 annotation
+  is s02.
+- **HAND-OFF to s02:** Aaron needs a "third thing," a middle way "ugly on purpose" (the sloppy-read
+  workaround): win without teaching too much. He has the PRIMER window but not yet a way to take it opaquely.
+  Crew: Tess (sees the shape, not the function), Marcus (Bulwark/shield), Priya (Mender). Hutch DEAD. System
+  is the curious learning administrator (not reverted to a dumb engine).
