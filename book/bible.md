@@ -815,3 +815,44 @@ load-bearing beats).
 - **No class resolved for Tess (Ch 5). No annotation, no level or debt change.** Aaron remains Level
   1, decode_debt 2/100. The group descends together, now five-plus, Tess at the front beside Aaron,
   Hutch at the rear with the wounded. Into Section 4 (the hunting pack).
+
+### Ch 3 (Sec 4) established facts now known to the reader
+- **Pack aggro mechanic (read-and-exploit, NO edit, NO debt):** two spawn nodes seeded a PACK of 4
+  linked hollow-crawlers (tier 0). Shared behavior `PACK_AGGRO` targets by `NOISE_VALUE`: each body
+  holds the last-heard noise source as TARGET, the lock holds until a louder noise registers, the
+  pack converges on the loudest. Aaron READS this via the overlay (a `> #` block, no ANNOTATION
+  ACCEPTED block). The pack was locked on the torn-thigh man's ragged breathing.
+- **The misdirection exploit:** Aaron hurls the fire extinguisher down the shaft; it rings loudly as
+  it falls, overwriting the pack's TARGET fields, and all four crawlers chase the dead echo down and
+  away. The group threads past. A READ, not an annotation. **No edit, no decode_debt change (still
+  2/100), no level cost.**
+- **Normal-ladder climb (paid):** Aaron then fights ordinary crawlers and earns two clean level-ups,
+  Level 1 to Level 3. Verbatim blocks:
+
+      [ SYSTEM ]
+      Hostile entities eliminated: hollow-crawler (tier 0) x3.
+      EXP awarded.
+      LEVEL UP.  You are now Level 2.
+      +2 Perception.  +1 Wits.
+
+      [ SYSTEM ]
+      Hostile entities eliminated: hollow-crawler (tier 0) x2.
+      EXP awarded.
+      LEVEL UP.  You are now Level 3.
+      +2 Perception.  +1 Wits.
+
+      Aaron Kessler
+      Class: NULL_OPERATOR   status: unhandled
+      Level: 3
+      HP 70/70
+      Strength 5   Agility 6   Vitality 6
+      Perception 14   Wits 12
+
+- **Aaron's new sheet (Level 3):** HP 70/70; Strength 5, Agility 6, Vitality 6, Perception 14, Wits
+  12. Class still NULL_OPERATOR / unhandled. decode_debt unchanged at 2/100. (Consistent with Level 1
+  baseline Per 10 / Wits 10: +2 Perception, +1 Wits per level-up.)
+- **Tess kinship beat:** Tess calls the pack moving "as a unit" and that they have a fix on someone a
+  half-beat before Aaron's overlay lights the aggro rule. Closing line: "We're fast on opposite ends
+  of the same thing."
+- **Reaching the exit:** the section ends at the ground-level fire door (unsealed, open), smoke and
+  wrong daylight bleeding through. "The city came in." Into Section 5 (the street). No annotation.
