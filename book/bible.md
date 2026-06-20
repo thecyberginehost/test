@@ -438,3 +438,44 @@ CREW DEATHS LOCKED (do not change):
   Dwyer's flee instinct fails (the whole building is the hazard, worse lower down).
 - **Section-end action:** Aaron pushes his Operator sight under the public block to read the
   debuff's internals (into Section 2). He has NOT yet spent the annotation.
+
+### Ch 2 (Sec 2) established facts now known to the reader
+- **Suffocation's internal mechanics (Operator overlay, debug/comment style, only Aaron sees;
+  canonical, NO em dashes):**
+
+      > # STATUS: Suffocation  (env-sourced, stacking)
+      > # owner: rift-tainted atmosphere. applied to all bodies in zone.
+      > # var: stacks (int). init 1.
+      > # tick: +1 stack / 6.0s while exposed.
+      > # threshold: 12 (const).
+      > #   on stacks >= threshold: call FAIL_RESPIRATION(body).
+      > #     FAIL_RESPIRATION: write HP -> 0. flag: dead.
+      > #   note: threshold compared each tick. no grace. no save.
+
+- **Mechanic specifics:** Suffocation is a stacking integer `stacks`, init 1, +1 per 6.0s while
+  exposed. Death threshold is a constant 12 (flat, does not scale with stats, identical for
+  everyone). At 12, FAIL_RESPIRATION writes HP to 0 and flags dead. No grace, no save, threshold
+  compared each tick. There is NO hidden seam/exploit window inside the debuff itself (unlike the
+  crawler's regen gap), so the only answer is to edit the rule.
+- **Comprehension gates editing:** reading the mechanic to full depth ("comprehension sufficient")
+  is what makes the edit permitted.
+- **The standing `[ annotate? ]` prompt re-aimed at Suffocation (canonical cost block, verbatim,
+  NO em dashes):**
+
+      > # account KESSLER, A.: target acquired.
+      > #   mechanic read to depth. comprehension sufficient. edit permitted.
+      > #   editable: 1 value on this mechanic. permanent. narrow.
+      > # COST OF ANNOTATION:
+      > #   - paid from earned progress: -1 level (and EXP to floor).
+      > #   - paid from body: respiration debt, hemorrhage (decode tax).
+      > #   - this account only. no refund. no undo. patchable by administrator.
+      > # [ annotate? ]   y / n
+
+- **Annotation cost (now canon):** one value on a mechanic he has read, edited once, permanent and
+  narrow. Price: -1 level (plus EXP dropped to the floor of the new level) AND a physical toll
+  (the decode tax: respiration debt and hemorrhage/nosebleed). Account-only, no refund, no undo,
+  patchable by the administrator later.
+- **Suffocation kept ticking during the read:** the in-line counter climbed from 3 (end s01) up
+  through 4 to 5.
+- **Aaron commits but has NOT executed:** he puts the cursor on `y` at section's end. He has not
+  pushed it or renamed anything yet, and has not spent a level or taken the toll (held for s03).
