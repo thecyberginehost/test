@@ -1379,3 +1379,28 @@ load-bearing beats).
   at debt 6.
 - **Hand-off:** Aaron resolves to MASTER the skill-grant grammar cold before he touches it. Into s03
   (Tess reading the cost on him) and s04 (the deep grant read).
+
+### Ch 6 (Sec 3) established facts now known to the reader
+- **Depot-as-home (by day three):** the transit depot is the crew's base. Survivors claimed corners;
+  dead emergency lights wired back to a salvaged battery so the dark "has edges"; non-crew keep to the
+  far platform, the near platform is the crew's. A lull between rift runs.
+- **Crew beats (distinct, brief):** Priya patches him with a damp rag, blunt care, counts the
+  nosebleeds ("That's the fifth"), says he is worse when he talks; Aaron deflects ("Allergies. Dust").
+  Marcus reads him in passing on his fence-line circuit, never asks, leaves a ration bar by his boot.
+  Hutch is loud and gentle and thanked by every mouth in the depot, brings Aaron a duplicate bar;
+  Aaron takes it without looking and says nothing (the thanks Aaron owes him stays "unspent, like a
+  level he kept meaning to pay down" - Ch 7 cost seeded).
+- **THE CH 6 TESS BOND BEAT (load-bearing):** Aaron is hiding the decode tax. Tess clocks it, reading
+  the cost on him the way she reads terrain ("You're terrain. You've been giving for three runs"),
+  naming the slow right eye, the headaches, the knees, that he hides it well but not from her. She
+  calls it out QUIET, only to him, not exposing him to the others. Kinship deepens: she reads him off
+  the surface the way he reads a mechanic, no overlay needed. Worried, not pitying. "Somebody's
+  watching the meter."
+- **Exactly what Aaron admits/withholds:** he admits only "It costs me. The reading. It costs more
+  than it used to. That's all." Pressed, gives a non-answer ("Enough that I'm careful"). He does NOT
+  say the tab/debt number, does NOT say "ceiling" (and is uncertain of its shape himself; dread
+  implicit). No NULL_OPERATOR / administrator-flag confession (reserved Ch 9). He asks her not to put
+  it on the others; she agrees ("I won't").
+- **No annotation, no level/debt change.** Aaron remains Level 14, decode_debt 6/100.
+- **Hand-off:** the lull breaks; Aaron turns back to the skill-grant grammar, now carrying the small
+  weight that someone is watching the cost. Into Section 4 (the deep grant read, the Tier 2 grant).
