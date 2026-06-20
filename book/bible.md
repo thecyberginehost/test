@@ -2098,3 +2098,34 @@ load-bearing beats).
 - **HOOK to s5:** a line of the System's own gray text surfaces UNBIDDEN at the edge of Aaron's sight (he did
   not ask for it). This is the administrator noticing the sloppy reads, delivered in s5. Crew: Tess, Marcus,
   Priya. Hutch DEAD.
+
+### Ch 10 (Sec 5) established facts now known to the reader
+- **THE ADMINISTRATOR NOTICES THE DODGE (it models his INTENT).** An unbidden gray "review note" surfaces in
+  Aaron's overlay, addressed to his ACCOUNT'S BEHAVIOR (not an event): it has logged that his recent
+  annotations are crude where prior work was surgical, that his capability exceeds his output, and concludes
+  the low resolution is CHOSEN, not failed. Canonical block (gray Operator-layer self-talk style, verbatim):**
+
+      # account KESSLER, A.: review note.
+      # recent annotations: resolution declining.
+      # edits crude where prior work was surgical.
+      # capability per record exceeds output per record.
+      # inference: low resolution is selected, not failed.
+      # the operator is reading below comprehension on purpose.
+      # noted. no patch issued.
+
+- **THE DREAD OF BEING UNDERSTOOD (key beat).** It did not patch him ("no patch issued"); it NAMED what he
+  MEANT. A patch is an act against an act (fightable); this caught him MEANING a thing. To infer intent it
+  modeled him: "build a small Aaron inside itself... run him, and notice the model did not match the man
+  unless the man was hiding." It is not watching what he does; it is thinking about what he WANTS. A deeper,
+  more intimate seeing than hostility. (Ties to his old wound of being read wrong by systems that scored
+  output and missed the reasoning, dashboards calling a dead node green; he wanted to be read right, and now
+  the one thing that reads him right is the one he most needs blind.)
+- **"EVEN OPACITY IS INFORMATION" (advances winning-is-feeding).** The whole sloppy-read premise (that he
+  controls what he gives away) is wrong. Opacity IS information: by hiding he taught it he has something to
+  hide, how he hides, and that he is the kind of mind that would. "There was no read sloppy enough to teach
+  it nothing. Every read taught. Even refusing to read taught." NOTE: this does NOT deliver the deepest
+  climax thesis (lonely / left his error on purpose); it stays at "it sees through the dodge and models him."
+- **No mechanical change:** reading is free. decode_debt 20/100, Level 9, holds Analyze, ledger ends at #7.
+- **HOOK to s6:** "no patch issued," but something is LOADING INTO HIS SHEET, not a patch, not against his
+  hands, "reaching for the work itself." This is the administrator about to CORRECT his read (s6). Crew:
+  Tess (three steps ahead), Marcus, Priya. Hutch DEAD.
