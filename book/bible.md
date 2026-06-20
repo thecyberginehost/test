@@ -1542,3 +1542,28 @@ load-bearing beats).
 - **Chapter close:** Aaron ends Ch 6 at **Level 7, decode_debt 14/100, holding the skill Analyze**,
   the vacant-handler route closed, now aware he is being watched in near real time. Crew intact (Tess,
   Marcus, Priya, Hutch all alive; Hutch dies Ch 7).
+
+### Ch 7 (Sec 1) established facts now known to the reader
+- **THE PATCH LOG (new ongoing artifact).** Aaron keeps a deliberate, ongoing written log of every
+  System counter-patch, scratched in carpenter's pencil (lent by Hutch) on the bare cinderblock of a
+  depot maintenance corridor off the main bay (paint blistered off where an old heater ran), a battery
+  lantern angled for relief light. Format: condensed entries with `hole:`, `landed:`, `reach:` lines.
+  This is his chapter-1 crash-log discipline turned on the administrator ("the dashboard had been green
+  the whole time the node was dead; the only defense against a system that lies is a record it does not
+  control"). He logs DATA, refuses to write theories on the wall.
+- **CANONICAL: there are exactly TWO administrator counter-patches to date.** PATCH 0007 (Ch 4, tower:
+  closed the integrity-to-zero door exploit; landed SLOW, hours to ~1 day) and PATCH 0011 (Ch 6, depot:
+  hardened the class-grant precondition / guarded the vacant-handler write path; landed in MINUTES).
+  NOTE for continuity: the Ch 4 "lock_state LOCKED->UNLOCKED" freight-shutter event was AARON'S OWN
+  annotation #3, NOT a System patch. Do not miscount it as a third patch. (PATCH 0007 left lock_state
+  open beside the integrity route it closed, which is how Aaron pried the shutter via annotation #3.)
+- **THE PATTERN (central bug-vs-invitation clue, now explicit to the reader via Aaron).** Laid side by
+  side the patches are TOO CLEANLY AIMED: each closes his exact hole and nothing adjacent (0011 even
+  spared Analyze, the skill built through the hole). A blind automated sweep over-corrects and scorches
+  a margin; these do not. The cadence is ACCELERATING (0007 slow, 0011 in minutes). And neither patch
+  ever reached for his decode tax / decode_debt, the thing actually bleeding him (leash undertone, Ch 4
+  and Ch 6 precedent). Aaron's gut reads this as aimed, not blind. He HOLDS the theory (the administrator
+  is reading him back) and does not say it aloud yet.
+- **No mechanical change:** no annotation, decode_debt stays 14/100, Aaron stays Level 7, holds Analyze.
+  Crew all alive and present (Tess, Marcus, Priya implied, Hutch lending the pencil). Hutch does NOT die
+  here (he dies in s03).
