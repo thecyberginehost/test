@@ -19,10 +19,10 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 6** mid-Ch 8 (after annotation #6; climbing back, Ch 8 must close
-  at Level >= 8). Was Level 8 at end of Ch 7. Sheet baseline (Aaron / NULL_OPERATOR): HP = 40 + 10*Level,
-  Perception = 10 + 2*(Level-1), Wits = 10 + 1*(Level-1); Strength 5, Agility 6, Vitality 6 fixed. So
-  Level 6 = HP 100/100, Per 20, Wits 15. **Skills: Analyze** (first skill his classless sheet ever
+- Current level / key stats: **Level 9** mid-Ch 8 (after annotation #6 dropped him to Level 6, then he
+  ground back up; recovery above the pre-edit Level 8 achieved). Sheet (Aaron / NULL_OPERATOR): HP 130/130,
+  Strength 5, Agility 6, Vitality 6, Perception 26, Wits 18 (formulas: HP = 40 + 10*Level, Perception =
+  10 + 2*(Level-1), Wits = 10 + 1*(Level-1)). **Skills: Analyze** (first skill his classless sheet ever
   carried; surfaces one target's hidden status block instantly, on will; a locked permanent annotation).
   Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 17 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
   reached L5 / debt 3; in Ch 5 spent 3 levels on the reward-redirect (annotation #4, L5 -> L2, debt 6),
@@ -1791,3 +1791,24 @@ load-bearing beats).
   obstacles.
 - **No mechanical change:** reading the patch is free. decode_debt stays 17/100, Level stays 6, holds Analyze.
   Patch sequence to date: 0007, 0011, 0012. Tess goes quiet watching him stare at nothing (sets up s5/s6).
+
+### Ch 8 (Sec 4) established facts now known to the reader
+- **"STUDIED WHILE HE STEALS" (the poisoned-triumph frame).** Aaron internalizes that every hole he takes
+  also teaches the System. He feels the "second thing" each time he edits/exploits: being read at the moment
+  of the trick, his hand laid open for "a student who never blinked." Winning a fight and feeding the enemy
+  are the same motion of the same hand. He cannot stop (the crew lives on his edits; the careful version of
+  himself killed Hutch), so he leans back into the exploits and carries the dread. SEEDS the Ch 9/10 dilemma.
+- **NORMAL-LADDER RECOVERY (montage, several days of rift clears).** He ground back from the Level 6 trough:
+  Level 6 -> 7 (tier-0 swarm) -> 8 (a warden's smaller cousin) -> 9 (tier-1 rift-warden, parking-structure
+  rift, day four). Final canonical block: "LEVEL UP. You are now Level 9. +2 Perception. +1 Wits." This
+  is normal KILL grind, NOT annotation: decode_debt UNCHANGED at 17/100, ledger still ends at #6. Recovery
+  ABOVE the pre-edit Level 8 ACHIEVED (guardrail rule 4 satisfied, ahead of the Ch 9 deadline).
+- **Aaron now at Level 9, decode_debt 17/100, holds Analyze.** Sheet: HP 130/130, Strength 5, Agility 6,
+  Vitality 6, Perception 26, Wits 18.
+- **CREW WARMS / TRUST GROWS.** Marcus reads Aaron's hand-signal for a seam and holds on faith; Marcus laughs
+  out loud for the first time the crew has heard. Priya stopped flinching at edits. Tess and Aaron run fights
+  in tandem (she calls spawns, he calls the hidden ones under them). The band leans into the exception that
+  keeps saving them. Belonging Aaron cannot refuse, set against the secret weight he carries alone.
+- **Strain showing:** sharper and more exhausted at once ("draining a battery faster than sleep could fill
+  it"). Cannot tell the crew (it would sound like a man cracking). Sets up s5 (arguing with a patch note) and
+  s6 (Tess's question). decode_debt 17/100, Level 9. Patches to date: 0007, 0011, 0012.
