@@ -509,3 +509,25 @@ CREW DEATHS LOCKED (do not change):
   the System acknowledging his rewrite directly, not his dim gray overlay.
 - **Outcome NOT yet confirmed:** section ends before it is shown whether the cap holds across the
   room. Counter at 7 and climbing; Aaron watches it, bleeding, breath shallow (held into Sec 4).
+
+### Ch 2 (Sec 4) established facts now known to the reader
+- **The cap HELD.** The Suffocation counter climbed 8 to 9 to 10 to 11 and then STALLED across
+  the entire room, refusing the twelfth stack on the next tick. Every counter in Aaron's sight
+  (every body sharing his air) held at 11 at the same instant. FAIL_RESPIRATION never reached.
+  Visible proof the annotation reworked reality.
+- **People survived:** the choking stopped; survivors drew full breaths again without understanding
+  why. Nobody but Aaron knows the death-wall was moved.
+- **Earned-ladder tick (normal climb):** the System paid a small sliver of EXP for surviving the
+  hazard (ordinary reward color), NOT a level. Aaron remains **Level 1**, sheet unchanged (HP
+  50/50, Perception 10, Wits 10). His EXP bar toward the next level has a little in it again.
+- **Aftermath of the toll (decode tax paid in s03):** the lost level felt like a tooth socket;
+  collar wet with the stopped nosebleed; the spike behind his right eye dulled to a deep ache
+  pulsing on the six-second tick; hands shaking; respiration debt still thinning every breath.
+- **Thesis beat:** Aaron sits with the contradiction. It feels like cheating and like the first
+  honest thing the world has handed him since the update (the log finally told the truth about how
+  a man dies, and he could reach in and change the answer). He lets it be both.
+- **Turn toward the limit:** a badly wounded survivor (came up the stairwell ahead of the crawler,
+  most of one thigh torn open, bleeding out, gone gray) becomes the focus. Aaron's sight drops
+  toward him hunting for a value/threshold/function to annotate and finds nothing, because the man
+  is flesh, not fine print. The Suffocation count holds at 11 over his head and means nothing to
+  the wound. Section ends on this need (into Section 5; Priya not yet named).
