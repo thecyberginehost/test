@@ -1244,3 +1244,41 @@ load-bearing beats).
   the depot stands; everyone in it will be paid now and none know it yet. Tess has stopped watching
   the east gate and is watching Aaron (seeds the dawn reveal in s06; the redirect-to-whole-group is
   NOT yet revealed). Into s05 (the night holds, climb back from Level 2).
+
+### Ch 5 (Sec 5) established facts now known to the reader
+- **The night assault holds.** Waves pour down N1 on the count, tier climbing every third wave (tier 1
+  shell-stalkers). The depot holds because the machine Aaron built works.
+- **The band fights as a UNIT for the first time, each plain class doing what Aaron's exception
+  cannot:** Marcus (Bulwark) holds the overpass-mouth line, never gives a step, the heavy pour breaks
+  on him by design; Tess (Scout/Spotter) calls the field from the signal mast, her Spotter ping
+  flagging threats in amber for the whole group; Priya (Mender) works center, Stabilizes the wounded,
+  never touches a monster; Aaron kills off Marcus's shoulder by reading dying things and calling
+  kill-windows for the survivors.
+- **NORMAL-LADDER CLIMB (guardrail in action).** Aaron climbs back from Level 2 through L3/L4/L5
+  (old ceiling reclaimed) up to **Level 8** by the last wave; kill-grind out-earns the redirect drain.
+  Level 8 sheet (verbatim):
+
+      [ SYSTEM ]
+      Hostile entity eliminated: shell-stalker (tier 1).
+      EXP awarded.
+      LEVEL UP.  You are now Level 8.
+      +2 Perception.  +1 Wits.
+
+      Aaron Kessler
+      Class: NULL_OPERATOR   status: unhandled
+      Level: 8
+      HP 120/120
+      Strength 5   Agility 6   Vitality 6
+      Perception 24   Wits 17
+
+  (HP = 40 + 10*8 = 120; Per 24 = 10 + 2*7; Wits 17 = 10 + 1*7.)
+- **No annotation; decode_debt unchanged at 6/100.** Aaron CLOSES Ch 5 at **Level 8** (above his Ch 4
+  close of Level 5; Ch 5 is not a sanctioned trough, so the guardrail holds).
+- **Fellowship despite himself (earned):** in a lull Aaron stops narrating the defense as "the
+  building," watches the crew move as one, feels the warmth under his sternum he keeps denying, lets
+  it be there without naming it.
+- **The toll shows:** crusted-black nosebleed, the right-eye spike pulsing slow and out of time, legs
+  giving out so he sits. The debt "will charge interest."
+- **Hand-off to s06:** the last wave thins, dawn-gray sky, the depot stands with every starting body
+  alive. The reward color gathers for dawn (DEFENSE_BONUS resolving, addressing the field of accounts
+  Aaron quietly made everyone; the redirect-to-whole-group not yet revealed to the crew).
