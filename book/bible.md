@@ -409,3 +409,32 @@ CREW DEATHS LOCKED (do not change):
   a schedule." The world keeps opening below as the chapter ends.
 - **Lena (Sentinel)** survives; her blue guard-seam goes dark; she looks toward the prompt only
   Aaron can see, at empty air, and says his name.
+
+### Ch 2 (Sec 1) established facts now known to the reader
+- **Continuity:** opens straight off Ch 1's end. Aaron at Level 2, still in the glass-walled
+  conference room (single door) with Lena (Sentinel), Dwyer (Quartermaster), and survivors; the
+  hollow-crawler dead; the glass-fang carafe neck still in his hand (set down at section's end);
+  the unused "[ annotate? ]   y / n" Operator prompt still hanging in his sight, unspent.
+- **Rift-tainted air reaches the room:** after new rifts cough open below, a slow wave of
+  rift-tainted atmosphere rolls in. Smells of wet copper with something burnt under it (the reek
+  that preceded the crawler). Invisible; first registers as held-breath staleness.
+- **Public Suffocation debuff block (new canonical public hazard block; fires for EVERYONE in the
+  room at once; NO em dashes; verbatim):**
+
+      [ SYSTEM ]
+      ENVIRONMENTAL HAZARD: rift-tainted atmosphere.
+      Status applied: [ Suffocation ]  (stacking)
+      Stacks: 1
+      +1 stack / 6s while exposed.
+      At 12 stacks: respiration fails. Death.
+
+- **Suffocation mechanics (canonical):** stacking debuff, +1 stack every 6 seconds while exposed,
+  death at 12 stacks ("respiration fails. Death."). In-line counter renders `[ Suffocation ]
+  Stacks: N`, visible to everyone. Over the section it ticks 1 to 2 to 3.
+- **It is public, and only Aaron can touch it:** every person in the room receives the block at
+  once; panic and coughing follow (a woman by the whiteboard drops to one knee). Sentinel, 
+  Quartermaster, and the rest have no mechanic that interacts with the air. Lena's blue guard-seam
+  tries to surface and dies (nothing to stand in front of, the threat is already inside everyone);
+  Dwyer's flee instinct fails (the whole building is the hazard, worse lower down).
+- **Section-end action:** Aaron pushes his Operator sight under the public block to read the
+  debuff's internals (into Section 2). He has NOT yet spent the annotation.
