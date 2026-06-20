@@ -978,3 +978,37 @@ load-bearing beats).
 - **No level/debt change:** stays Level 3, decode_debt 2/100. No annotation.
 - **Hand-off:** Aaron accepts the trick is dead and puts his sight back into the seam to improvise a
   deeper read (into Section 3, annotation #3).
+
+### Ch 4 (Sec 3) established facts now known to the reader
+- **Adjacent var edited (annotation #3):** locked out of `integrity` by PATCH 0007, Aaron reads
+  deeper and finds the shutter is held by its latch: the gate holds while `lock_state == LOCKED`, with
+  `integrity <= 0` as the alternate smash route (now write-locked for his account). He annotates the
+  adjacent enum `lock_state` from LOCKED to UNLOCKED; the latch releases and the shutter rolls up. New, deeper exploit than
+  integrity-zero. The shutter goes slack; Tess heaves it up.
+- **Deeper-object overlay block (new canonical, no em dashes):**
+
+      > # OBJECT: roll-down freight shutter (sealed)
+      > #   var: integrity (int). value: 35.  [WRITE LOCKED: KESSLER, A.]
+      > #   var: mass (float). value: 41.2.
+      > #   var: hinge (struct). state: seated.
+      > #   var: lock_state (enum). value: LOCKED.
+      > #     gate logic: hold while lock_state == LOCKED.
+      > #   open paths: lock_state == UNLOCKED, or integrity <= 0 (smash; write-locked for this account).
+
+- **ANNOTATION ACCEPTED block (verbatim, no em dashes):**
+
+      [ SYSTEM ]
+      ANNOTATION ACCEPTED.  Account: KESSLER, A.
+      OBJECT freight shutter: lock_state revised to UNLOCKED.
+      Open condition met. Threshold opens.
+      Scope: this account, this object. Permanent. Narrow.
+      Cost paid: -1 Level.  Decode tax applied.
+
+- **Annotation #3 EXECUTED (Tier 0, shallow local).** Cost: **-1 Level (Level 3 -> Level 2;** HP
+  now 60/60), **decode_debt += 1, running decode_debt = 3 / 100**. Running-tab beat: "Three." (one
+  conference room, two fire door, three here). The level can be re-ground; decode_debt never resets.
+- **Small toll:** a thread of blood over the lip, the right-eye heat flaring once, breath half-short.
+- **Literacy-forced-deeper point:** same level cost (one) but it "felt more expensive in the head";
+  the patch did not make the door harder, it made him read better. Staleness pushes him a layer down.
+- **Wave looms (into Sec 4):** an unseen public System block punches in (bright, counting UP not
+  down); the sky peels open in multiple places. Tess: "That's not one rift." The Tier-up wave begins.
