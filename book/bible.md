@@ -1705,3 +1705,23 @@ load-bearing beats).
   unhandled. No annotation this chapter (debt unchanged from 14, on the projected curve). Recovery to the
   pre-edit Level 8 achieved (s2); recovery strictly ABOVE 8 still owed by Ch 9. Crew down one: HUTCH DEAD.
   New capability gained: can read others' hidden layers. Mystery state: invitation suspected, not confirmed.
+
+### Ch 8 (Sec 1) established facts now known to the reader
+- **AARON GOES ON THE EPISTEMIC OFFENSIVE.** Reframes himself from exploiter-in-hiding to reliability
+  engineer running a controlled experiment on a hostile system: isolate a variable, run it under real load,
+  read the raw response. The variable he kills first is his own caution (the thing that got Hutch killed).
+  He STOPS hiding his reads (reverses the Ch 7 s02 withholding) and goes hunting holes openly.
+- **He can now distinguish a LEFT-OPEN hole from a FOUND hole.** Found/sloppy holes have rough edges (a
+  genuinely unfinished thing the System has not gotten to). Left-open holes have the surgical, too-convenient
+  signature: a precondition gate present but NOT enforced, a seam a little too reachable, hung for him the way
+  his own vacant handler sat open. He passes over two ordinary holes (a resource-tile threshold, a lazy spawn
+  timer) and fixes on the bait.
+- **THE BAIT (identified, NOT yet taken): rift-elite "warden" target-selection.** New canonical spawn type:
+  rift-elite (warden class), the armored leaders that anchor a rift wave and choose targets by a weighting
+  rule. Its target-selection routine writes to FOCUS(self); the precondition guarding FOCUS is present but not
+  enforced, leaving FOCUS re-pointable from Aaron's account. Decode block (lower-case style, verbatim) in
+  book/chapters/ch08/s01.md lines 17-22. If taken, Aaron could turn a warden's focus off the crew onto a wall.
+- **PLAN:** he will take the hole under cover of a REAL rift fight the crew must win (real stakes, honest
+  test, failure mode is somebody dying), then watch the patch response. The edit itself is s02.
+- **No mechanical change this section:** no annotation, decode_debt stays 14/100, Level stays 8, holds Analyze.
+  Only PATCH 0007 and PATCH 0011 exist. Mystery stays at SUSPICION (confirmation is s03).
