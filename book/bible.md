@@ -877,3 +877,46 @@ load-bearing beats).
 - **Section ends** as a global event notification begins writing itself across everyone's vision, the
   first digit of a countdown starting. Into Section 6 (the wager).
 - **No annotation, no level change (Level 3), no decode_debt change (2/100).** He is between climbs.
+
+### Ch 3 (Sec 6) established facts now known to the reader
+- **Public global-event countdown block (visible to EVERYONE; verbatim, no em dashes):**
+
+      [ SYSTEM ]
+      GLOBAL EVENT: SETTLEMENT TRIAL.
+      A measurement of your species is scheduled.
+      Adapt, or be found wanting.
+      Time to event: 71:59:58
+
+  Publicly framed as a warning with no named consequence; a live countdown (~72 hours) running in
+  everyone's sight. The whole street stops to read it.
+- **TIMELINE NOTE (pin for later chapters):** the SETTLEMENT TRIAL countdown is the master clock of
+  the book. It is the wager's settlement (revealed Ch 13) and it expires at the APEX DUNGEON / the
+  settlement (Ch 14). So Ch 3 through Ch 14 span roughly this ~72-hour window; later chapters should
+  keep the countdown decreasing consistently and treat the apex as the zero mark. (Approximate, not
+  to-the-minute; keep it directionally honest.)
+- **Hidden wager layer (Aaron alone, dim `> #` style; verbatim, no em dashes):**
+
+      > # event SETTLEMENT_TRIAL: publish as warning. confirmed.
+      > #   public framing: threat. accepted by subject population.
+      > # internal: this is not a warning. this is a WAGER.
+      > #   stake posted. counterparty: [redacted]. terms: sealed.
+      > #   subject of the bet: species KESSLER-class origin, sample = humanity.
+      > #   instrument: 1 variable. read-capable. account flagged.
+
+  And on pushing for more (terms opaque, reserved for Ch 13):
+
+      > #   terms beyond instrument: not legible to this read.
+      > #   comprehension insufficient. defer.
+      > # note: instrument continues to read. acceptable. preferred.
+
+- **The reveal:** the countdown is a WAGER, a bet placed on humanity (the experiment frame cracking
+  open). It contains one variable, "read-capable," "account flagged"; Aaron knows this is his
+  NULL_OPERATOR account. He IS the variable being watched. Terms still opaque (counterparty
+  `[redacted]`, terms `sealed`, "comprehension insufficient. defer."), held for Ch 13.
+- **Admin-leash undertone seed (light):** the dim line `note: instrument continues to read.
+  acceptable. preferred.` reads oddly like the admin is glad he keeps looking. Aaron files it beside
+  the "too clean" door from s02 ("Two things now, in the same hand"). Not over-explained.
+- **Tess beat (two readers):** Tess sees Aaron is reading a second layer she cannot ("Everybody's
+  reading it as a warning. You're not."); recognition both ways. Chapter closes on Aaron: "It's not a
+  warning. It's a bet. And we're what's on the table."
+- **No annotation, no level change (Level 3), no decode_debt change (2/100).** He is reading.
