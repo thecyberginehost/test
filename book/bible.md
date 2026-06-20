@@ -856,3 +856,24 @@ load-bearing beats).
   of the same thing."
 - **Reaching the exit:** the section ends at the ground-level fire door (unsealed, open), smoke and
   wrong daylight bleeding through. "The city came in." Into Section 5 (the street). No annotation.
+
+### Ch 3 (Sec 5) established facts now known to the reader
+- **The street's ruin:** the city rendered as one wound at scale. A vertical rift vents above a near
+  intersection into a wrong-colored sky (bruised yellow, no proper hour). A toppled bus and peeled
+  roof on the crosswalk. Across the river a distant rift flickers. Smoke and copper.
+- **Human-faction threat (social apocalypse):** class-card-drunk strangers sorted into factions over
+  territory and loot. A roughly dozen-strong group holds a hardware store (a front man with an orange
+  ability seam); a thinner group strips a delivery van. NEAR-MISS: violence boils across the exact
+  intersection the crew stood on eight seconds earlier, kicked off when a fleeing man bolts.
+- **Aaron's overlay is useless on people:** a sealed class card reads surface-only (the dead finish,
+  like Lena's), no hidden layer, no value. People are not rules he can read. That is the point.
+- **Tess crowd-read kinship beat:** she reads the human crowd the way she read the spawns, calling
+  who will break and bolt (a gray-jacket man checking the alley), that it will trigger the hardware
+  group, and steers the crew clear, her call a half-beat early and exactly right. Aaron believes her
+  before he can say why and starts relying on her eyes. Her line: "It's the same game. People just
+  respawn slower."
+- **Cast together:** Priya, Tess, Hutch (courier vest, at the rear), Lena, Dwyer, the torn-thigh
+  survivor, unnamed survivors. They retreat into a bank entrance and down a side street Tess picks.
+- **Section ends** as a global event notification begins writing itself across everyone's vision, the
+  first digit of a countdown starting. Into Section 6 (the wager).
+- **No annotation, no level change (Level 3), no decode_debt change (2/100).** He is between climbs.
