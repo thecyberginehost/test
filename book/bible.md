@@ -1834,3 +1834,24 @@ load-bearing beats).
 - **TESS arrives unheard at the very end** (a foot scuffs concrete; "He had not heard Tess come up"), setting
   up her load-bearing question in s6. She is the human echo of the only-other-mind-that-reads thread.
 - **No mechanical change:** Level 9, decode_debt 17/100, holds Analyze. Patches: 0007, 0011, 0012.
+
+### Ch 8 (Sec 6) established facts now known to the reader
+- **TESS'S QUESTION (load-bearing two-readers bond beat).** Tess catches Aaron muttering at the air and asks
+  the question he has dodged all book: "Who are you fighting?" She names what she has seen (impossible wins,
+  reading a gap before it exists, arguing with nothing) without naming the mechanism. His deflections (the
+  glitch line, "don't worry about it") fail because she is the kindred reader who half-sees it already. The
+  "dev console / I'm on a controller / same game" framing resurfaces as her established line.
+- **PARTIAL CONFESSION ONLY (boundary held; full confession is Ch 9).** Aaron crosses from deflecting to
+  confessing the PREMISE: "It hears me." / "it reads back ... It's not a machine running. It's somebody
+  answering." / "And I talk back." He then AGREES to tell her the whole thing ("Sit down. Tell me." / "He
+  started to talk."), and the chapter CUTS before the details. He does NOT name NULL_OPERATOR, does NOT say
+  his card is flagged/unhandled, does NOT reveal he is the watched/exempt variable. Those remain reserved
+  for the Ch 9 midpoint confession. (Updates the bible's earlier note: as of end of Ch 8, Tess now knows the
+  System reads him back and he talks to it; the structural/identity truth is still owed.)
+- **HOOK INTO Ch 9 (The Midpoint Read):** the full confession to Tess. The thing Aaron has carried alone
+  "since the Tuesday the world froze" is about to have a second pair of hands on it, and they are hers.
+- **Chapter close:** Aaron ends Ch 8 at **Level 9, decode_debt 17/100, holds Analyze**, NULL_OPERATOR /
+  unhandled. Chapter's logged edit was annotation #6 (warden FOCUS, Tier 1, +3 -> debt 17). Recovery above the
+  pre-edit Level 8 achieved (guardrail rule 4 satisfied). Mystery: bait experiment confirmed the hole was
+  LEFT OPEN and the System learns his moves (local/mechanism level); the full bug-vs-invitation thesis is
+  still reserved for the climax. Crew: Tess (now partly in the secret), Marcus, Priya. Hutch DEAD.
