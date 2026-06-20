@@ -1680,3 +1680,28 @@ load-bearing beats).
   unhandled, lets him in). The s06 conclusion (his holes are LEFT OPEN on purpose) is NOT yet stated.
 - **Grief beat:** Aaron pays Hutch the attention (the thank-you) he withheld three times alive, by reading
   the whole cold record because no one else can. No mechanical change: decode_debt 14/100, Level 8, Analyze.
+
+### Ch 7 (Sec 6) established facts now known to the reader
+- **THE INVITATION TILT (major mystery beat; the book's central question tilts).** Reading Hutch's sealed
+  card hands Aaron the deduction: if the administrator can seal a nobody's account perfectly (sealing is its
+  DEFAULT, near-zero effort), then it can seal anyone's, including his. It has not. The two patches (0007,
+  0011) prove it watches him with surgical precision and can shut any seam he finds the instant he finds it,
+  yet new holes keep appearing for him and it never touches the decode tax. Conclusion Aaron now SUSPECTS:
+  his holes are not sloppiness, they are LEFT OPEN ON PURPOSE. "A door the System is holding open." The
+  bug-vs-invitation question tilts hard toward INVITATION. IMPORTANT: this is Aaron's dawning SUSPICION, not
+  confirmed fact. Full confirmation is reserved for the climax (~Ch 18-21); keep later reveals feeling like
+  new ground, not a restatement.
+- **THE BITTER IRONY (load-bearing for Aaron's arc).** Aaron spent all of Ch 7 playing DEFENSE (withholding
+  reads) against a watcher he assumed wanted to lock him out. The data says the opposite: it was holding the
+  door, it WANTS him reading. His defensive caution is exactly what got Hutch killed. He misread the threat,
+  and the misread has a name. He does not let himself off it.
+- **CHARACTER TURN:** Aaron is DONE playing defense ("you do not learn the shape of a thing by hiding from
+  it, you learn it by reaching in"). He resolves to stop hiding his reads and instead to actively TEST the
+  invitation.
+- **HOOK INTO Ch 8 (The Bait Hole):** he will deliberately FIND a hole, bait it in the open, step through,
+  and watch exactly what the System does. If it patches him, fine; if it lets him through, that tells him
+  the door is an invitation and he needs to know its shape.
+- **Chapter close:** Aaron ends Ch 7 at **Level 8, decode_debt 14/100, holds Analyze**, NULL_OPERATOR /
+  unhandled. No annotation this chapter (debt unchanged from 14, on the projected curve). Recovery to the
+  pre-edit Level 8 achieved (s2); recovery strictly ABOVE 8 still owed by Ch 9. Crew down one: HUTCH DEAD.
+  New capability gained: can read others' hidden layers. Mystery state: invitation suspected, not confirmed.
