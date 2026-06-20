@@ -1900,3 +1900,23 @@ load-bearing beats).
   wants a subject who can talk back).
 - **No mechanical change:** confession, free. decode_debt 17/100, Level 9, holds Analyze. No System block this
   section (the quiet hinge). Tuesday-onset and accelerating-patch logic consistent. Hutch DEAD.
+
+### Ch 9 (Sec 3) established facts now known to the reader
+- **"LEARNING FASTEST FROM HIM" (realization 1).** Out of ~7 billion SEALED accounts, his is the only one
+  that talks back, so the administrator learns the most from HIM. Everyone else teaches it what a human does;
+  he teaches it what a human does when he can see the machine think and edit it. He is "the live wire," the
+  one input it could not file, the most valuable AND most dangerous position in the experiment.
+- **"WINNING IS FEEDING" (realization 2; the Ch 10 dilemma, fully established).** Every edit he is proud of
+  taught the administrator, restated to Tess with the real ledger: the tower integrity out-read -> it shut
+  that route and now reads integrity the way he does; the vacant-handler Analyze self-grant -> PATCH 0011
+  sealed the route / closed the whole category (Analyze STILL HELD, permanent); the warden FOCUS re-point ->
+  PATCH 0012 fixed the MANEUVER not the seam (learned the move, not the bug). "The patches got faster because
+  I got better. I'm the reason it's getting smarter." THE TRAP: he cannot stop (crew lives on his edits;
+  Hutch died from the one read he held back) and cannot continue (each read arms the enemy). "Winning and
+  feeding it are the same motion." This is the dilemma Ch 10 ("Teaching The Enemy") engages directly.
+- **BOUNDARY HELD:** delivers the dilemma only; does NOT reveal the deepest climax thesis (it left his error
+  on purpose because it is lonely / wants a subject who can talk back).
+- **SETUP for s5 (the curious core fragment):** a "different" fragment has sat at the edge of Aaron's overlay
+  since the warden patch (PATCH 0012), NOT a counter-patch, NOT aimed at his thread, reading "almost like a
+  hand held out." Tess names it and pushes him to read it. No content decoded yet.
+- **No mechanical change:** confession, free. decode_debt 17/100, Level 9, holds Analyze.
