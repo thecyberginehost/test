@@ -19,13 +19,13 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 12** end of Ch 12 (double level-up Level 10 -> 12 on the honest blind
-  kill of the Drowned Mother, Tier-2 district boss; no edit, decode throttled, won on Tess's timing and his
-  pre-throttle memory of the core window). Sheet (Aaron / NULL_OPERATOR): HP 160/160, Strength 5, Agility 6,
-  Vitality 6, Perception 32, Wits 21 (formulas: HP = 40 + 10*Level, Perception = 10 + 2*(Level-1), Wits =
+- Current level / key stats: **Level 13** end of Ch 13 (dipped to Level 9 on the s5 Tier-1 wager-pry, then
+  ground back Level 9 -> 13 the honest way on the dying district's final surge; closes one above the Level 12 he
+  carried into the chapter). Sheet (Aaron / NULL_OPERATOR): HP 170/170, Strength 5, Agility 6,
+  Vitality 6, Perception 34, Wits 22 (formulas: HP = 40 + 10*Level, Perception = 10 + 2*(Level-1), Wits =
   10 + 1*(Level-1)). **Skills: Analyze** (first skill his classless sheet ever
   carried; surfaces one target's hidden status block instantly, on will; a locked permanent annotation).
-  Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 20 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
+  Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 23 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
   reached L5 / debt 3; in Ch 5 spent 3 levels on the reward-redirect (annotation #4, L5 -> L2, debt 6),
   then climbed L2 -> L8 on the night assault; in Ch 6 ground L8 -> L14, then spent 8 levels to author
   the skill Analyze (annotation #5, Tier 2, L14 -> L6, debt 14, a SANCTIONED DEEP-EDIT TROUGH), and
@@ -2614,3 +2614,40 @@ load-bearing beats).
   brood rising, floodwater boiling white), Tess calling it. "A wave was coming, and he was Level 9." (This surge
   is the s6 recovery-grind vehicle.) NO Chapter-14 specifics revealed. Administrator silent (the ANNOTATION
   ACCEPTED block is the System acknowledging the edit, which is canon).
+
+### Ch 13 (Sec 6) established facts now known to the reader
+- **THE RECOVERY (normal kill-grind, NO debt change).** The dying district's final surge hits; the crew clears it
+  (Marcus holds, Priya keeps them up, Tess reads flanks). UNLIKE Ch 12, Aaron's sight is BACK, so he fights the
+  full way (blade plus live reads), "the reader, back at the front." A dying Tier-2 district "dumps" its residual
+  brood at once (dense, high-value), and at Level 9 the levels come fast. **Level 9 -> 13** (normal ladder, NO
+  edit/annotation; decode_debt UNCHANGED at 23/100). Level-up block (canonical):
+  > [ SYSTEM ]
+  > Rift collapse cleared.  District contained.
+  > LEVEL UP.  You are now Level 13.
+  > +8 Perception.  +4 Wits.
+  He paid 3 levels for the s5 pry (12->9) and ground back 4 (9->13), closing ONE ABOVE his pre-pry Level 12.
+  Theme: "The levels came back... They always came back," but decode_debt (23) never does. Sheet now: **Level 13,
+  HP 170/170, Strength 5, Agility 6, Vitality 6, Perception 34, Wits 22, holds Analyze, decode_debt 23/100.**
+- **THE REVEAL (FREE read; the account is HIS).** The s5 gate is still open, so resolving the last veil is a READ
+  (no new edit, no debt). Now strong enough (Level 13), he reads the exemption's identifier. Canonical "> #"
+  block:
+  > #   settlement exemption: 1 account. exempt from clearing.
+  > #   permitted: act outside experiment terms.
+  > #   account: NULL_OPERATOR. KESSLER, A.
+  **The single account carved out of the settlement, permitted to act OUTSIDE the experiment's terms, is Aaron's
+  NULL_OPERATOR account.** He is BOTH the variable the verdict is read through (s2) AND the one piece the verdict
+  cannot touch. "It should have felt like winning. It felt like being chosen, and chosen was worse." TUTOR FRAME
+  DEEPENED (light, not over-explained): the god set its instrument outside the rules it holds over everyone else,
+  ON PURPOSE ("the way you keep one tool clean while the rest go in the fire"). Kept alive. Kept free. "For what,
+  he did not let himself finish." (Chosen-not-accident; do NOT state the purpose outright in book one.)
+- **HOOK INTO Ch 14:** under four hours on the clock; at zero the apex comes for the city, and Aaron is "the one
+  thing in it the bet did not own." Aims at the apex opening (Ch 14). Closing stat block (canonical):
+  > [ SYSTEM ]
+  > KESSLER, A.  NULL_OPERATOR / unhandled
+  > Level 13   decode_debt 23 / 100
+  > Skill: Analyze
+- **CHAPTER CLOSE:** Aaron ends Ch 13 at **Level 13, decode_debt 23/100, holds Analyze**, NULL_OPERATOR /
+  unhandled. Crew: Tess, Marcus, Priya. Hutch DEAD. GUARDRAIL satisfied: closes Level 13 (>= 12; strictly above
+  Ch 12's 12). On the projected curve (End of Act Two ~23 debt; next big spike is the Ch 15 forge Tier-3).
+  RESERVED for Act Three: the apex's internal mechanics (written for him / tuned to his edge / only opens for an
+  error, all Ch 14); the PURPOSE of the exemption.
