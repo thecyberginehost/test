@@ -24,8 +24,9 @@ every section. Append facts, never rewrite history.
   FIRST ANNOTATION (capping Suffocation), dropping back to Level 1. Current Level 1 sheet:
   HP 50/50; Strength 5, Agility 6, Vitality 6, Perception 10, Wits 10 (the +2 Perception / +1
   Wits from Level 2 reverted with the lost level). Class field still reads NULL_OPERATOR /
-  status: unhandled. Annotations cost -1 level each plus the decode tax. (Writer: keep logging
-  exact numbers here as he climbs and as edits cost him.)
+  status: unhandled. **decode_debt = 1 / 100** (cumulative, never resets; see the Annotation
+  ledger and ANNOTATION RULES). Annotation progress cost is set by rule depth/tier, not by his
+  level. (Writer: keep logging exact numbers here as he climbs and as edits cost him.)
 
 ## Cast
 | Name | Role | Traits | Status | First appears |
@@ -69,6 +70,70 @@ CREW DEATHS LOCKED (do not change):
   a quest reward, set a rule's value (e.g. door "integrity") to zero, expose a
   boss's hidden failure condition, grant himself a skill by reading how grants are
   written, forge crew access into a dungeon built to admit only him.
+- **ANNOTATION RULES (LOCKED in Ch 2, binding on every later chapter; pin these so no future
+  chapter can widen them):**
+
+  SCOPE (locked, cannot be widened): an annotation edits exactly ONE value on ONE mechanic, and
+  it binds ONLY to Aaron's own account and to bodies sharing his immediate physical context (the
+  "this account and bodies sharing its air" bound the Ch 2 Suffocation edit established).
+  "Immediate context" means the people and things Aaron is directly present with and in contact
+  range of at the instant he writes the edit (the same room, the same air, the surface under his
+  hand). He CANNOT annotate a rule for a person, monster, place, or object he is not directly in
+  contact with; cannot edit at range; cannot edit the world at large; and an edit does NOT follow
+  people once they leave his immediate context. No later chapter may broaden this. An edit that
+  would reach beyond his immediate context is by definition not an annotation and is not available
+  to him.
+
+  PER-EDIT PROGRESS COST (scales with how FUNDAMENTAL the rule is, NOT with Aaron's level): every
+  annotation costs earned progress up front, measured in LEVELS of earned progress (the same
+  currency as the normal climb), paid immediately (it can drop his Level, as the Ch 2 edit dropped
+  him from 2 to 1). The cost is set by the rule's DEPTH/tier, so the edits that would trivialize
+  stakes are by definition the most expensive and god-mode is structurally impossible:
+    - Tier 0, shallow local rule (a single debuff threshold, one stat value on one body, a door's
+      integrity value): about 1 level. (The Ch 2 Suffocation cap is this tier.)
+    - Tier 1, mechanic-wide rule (a skill's cost, an aggro/targeting rule, a spawn rule, one reward
+      routine): about 3 to 4 levels.
+    - Tier 2, deep class or zone rule (how a class grants skills, a dungeon's access rule, a Tier's
+      scaling): about 8 to 12 levels.
+    - Tier 3, load-bearing systemic rule (a core handler, gravity, the death function
+      FAIL_RESPIRATION itself, the wager's settlement terms): tens of levels, effectively
+      unaffordable until very high level and out of reach for nearly the whole book.
+  Because cost tracks depth and not his level, leveling up never makes fundamental edits cheap.
+
+  DECODE DEBT (the PRIMARY, permanent, accumulating cost; the long-term spine, not the level): every
+  annotation also adds to a single tracked value, decode_debt, that NEVER resets and can NEVER be
+  re-ground or paid down. It is the body-and-mind cost (the nosebleed, the eye-spike, the
+  respiration debt) made CUMULATIVE. Frame it explicitly as technical debt: a reliability engineer
+  keeping the system up with shortcuts that compound invisibly until they all come due at once. That
+  framing is the spine of Aaron's character and must stay legible on the page. Each edit adds debt by
+  tier: Tier 0 +1, Tier 1 +3, Tier 2 +8, Tier 3 +20. Symptom severity scales with CURRENT
+  decode_debt: low debt is a nosebleed that stops; high debt bleeds symptoms into the spaces between
+  edits (reading gets harder, the body fails in idle, the shortcuts come due unbidden). decode_debt
+  climbs toward a HARD CEILING of 100 points. The progress/level cost is the immediate bill;
+  decode_debt is the cost that actually ends him, and it only ever goes up.
+
+  DECODE-DEBT CEILING (NOT YET LOCKED; pending human decision, do NOT write the event): when
+  decode_debt reaches 100 something catastrophic and irreversible happens. The specific consequence
+  is an Act-3 plot beat and is deliberately UNWRITTEN until the human picks from the proposed
+  options. Until it is locked, no chapter may push decode_debt past about 90 or stage the ceiling
+  event.
+
+  GUARDRAIL INVARIANT (checkable; the progression must not flatline): Aaron's ordinary kill-grind
+  must OUT-EARN the progress drained by annotation, so the level ladder still trends upward across
+  the book. Rules a continuity-checker can enforce against the Levels logged in this bible:
+    1. Lifetime levels EARNED (from kills and clears) must always exceed lifetime levels SPENT (on
+       annotations).
+    2. From the END of Ch 3 onward, Aaron's Level at each chapter's close must be >= his Level at the
+       previous chapter's close, and must strictly increase at least once every two chapters.
+    3. The ONLY sanctioned trough is Ch 1 to Ch 2 (Level 2 at end of Ch 1 down to Level 1 at end of
+       Ch 2, paying for the first annotation). This dip is grandfathered; no further net-negative
+       chapter is allowed.
+  If a planned chapter would violate any of these, the annotation load is too high: cut edits or
+  raise the kill-grind before the chapter passes.
+
+  DECODE-DEBT LEDGER (append one line per annotation, never edit past entries):
+    - #1 (Ch 2, s3): Suffocation threshold cap. Tier 0 (shallow local). Progress cost: -1 level
+      (Level 2 -> Level 1). decode_debt += 1. Running decode_debt = 1 / 100.
 - **Counter-patches:** The administrator ships counter-patches that close holes Aaron
   exploits. Early patches (Act 1) are slow and arrive hours/days later. By Ch 6 they
   arrive within minutes (near real-time watching). Patches are **too cleanly aimed**,
