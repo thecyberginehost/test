@@ -19,9 +19,10 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 10** mid-Ch 11 (climbed Level 9 -> 10 clearing the Drowned Mother's
-  first wave; honest kill grind, no edit). Sheet (Aaron / NULL_OPERATOR): HP 140/140, Strength 5, Agility 6,
-  Vitality 6, Perception 28, Wits 19 (formulas: HP = 40 + 10*Level, Perception = 10 + 2*(Level-1), Wits =
+- Current level / key stats: **Level 12** end of Ch 12 (double level-up Level 10 -> 12 on the honest blind
+  kill of the Drowned Mother, Tier-2 district boss; no edit, decode throttled, won on Tess's timing and his
+  pre-throttle memory of the core window). Sheet (Aaron / NULL_OPERATOR): HP 160/160, Strength 5, Agility 6,
+  Vitality 6, Perception 32, Wits 21 (formulas: HP = 40 + 10*Level, Perception = 10 + 2*(Level-1), Wits =
   10 + 1*(Level-1)). **Skills: Analyze** (first skill his classless sheet ever
   carried; surfaces one target's hidden status block instantly, on will; a locked permanent annotation).
   Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 20 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
@@ -2410,3 +2411,32 @@ load-bearing beats).
   Boss NOT killed (falls in s5).
 - **No mechanical change:** no annotation, no level/debt change. decode_debt 20/100, Level 10, holds Analyze
   (throttled), ledger ends at #7. No System reveal (throttle test is s6). Crew: Tess, Marcus, Priya. Hutch DEAD.
+
+### Ch 12 (Sec 5) established facts now known to the reader
+- **THE BOSS FALLS, THE HONEST WAY.** Aaron kills the Drowned Mother BLIND: Tess calls the split/timing, Marcus
+  holds the lane, Priya keeps Marcus up, Aaron strikes from MEMORY (1.8s core window, "low and right of center,
+  under the third rib") read three nights before the throttle. No skill fired, no annotation, no overlay. The
+  blade goes in past the third rib; the surge dies mid-push, the brood drops slack all at once, the Mother caves
+  in, the two-day rift bleed stops.
+- **CANONICAL SYSTEM BLOCK (verbatim, reuse exactly, note the "> " prefix and the double spaces):**
+  > [ SYSTEM ]
+  > DISTRICT BOSS DEFEATED: The Drowned Mother (Tier 2).
+  > District threat cleared. Rift bleed terminated.
+  > EXP awarded.
+  > LEVEL UP.  You are now Level 11.
+  > LEVEL UP.  You are now Level 12.
+  > +4 Perception.  +2 Wits.
+- **MECHANICAL: double level-up Level 10 -> 11 -> 12** (Tier-2 district boss). +4 Perception (28 -> 32), +2 Wits
+  (19 -> 21). HP 140 -> 160 (40 + 10*12). decode_debt UNCHANGED at 20/100 (honest kill, no edit; ledger ends at
+  #7). Class field STILL reads NULL_OPERATOR / unhandled (the boss EXP pays into the same unnamed account; the
+  reward color comes up "warm" twice, "the same ones any survivor on the ladder would have earned"). Sheet now:
+  **Level 12, HP 160/160, Strength 5, Agility 6, Vitality 6, Perception 32, Wits 21, holds Analyze, decode_debt
+  20/100.**
+- **CHARACTER PIVOT (load-bearing Tess/crew beat):** Aaron realizes he did NOT save them this time. Every prior
+  fight had a seam that was his alone; tonight he was "one body in a line." He drops the "I work alone / I don't
+  care" lie he built himself on, explicitly tied to Hutch (whom he brushed off, who died in a gap his caution
+  opened). He says it aloud to the crew: "I'm alive because of you people. Don't make me do it again." He lets
+  Tess's "You're welcome" land instead of brushing it ("Yeah. I am.").
+- **SEED INTO s6:** at the very end, behind his eyes, gray text half-catches "like a feed coming back after a
+  long outage." **The throttle is BEGINNING to lift.** (The throttle was in effect the ENTIRE kill; it only
+  starts to release here. The "not punishment, a test" reveal is s6.)
