@@ -19,13 +19,17 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 8** as of end of Ch 5. Current sheet: HP 120/120; Strength 5,
-  Agility 6, Vitality 6, Perception 24, Wits 17 (Perception/Wits high, +2 Per / +1 Wits per level
-  off the Level 1 baseline Per 10 / Wits 10; HP = 40 + 10*Level). Class field still reads
-  NULL_OPERATOR / status: unhandled. **decode_debt = 6 / 100** (cumulative, never resets; see the
-  ledger and ANNOTATION RULES). History: through Ch 4 reached L5 / debt 3; in Ch 5 spent 3 levels on
-  the reward-redirect (annotation #4, L5 -> L2, debt 6), then climbed L2 -> L8 on the night assault.
-  Annotation progress cost is set by rule depth/tier, not by his level. (Writer: keep logging exact
+- Current level / key stats: **Level 7** as of end of Ch 6. Current sheet: HP 110/110; Strength 5,
+  Agility 6, Vitality 6, Perception 22, Wits 16 (Perception/Wits high, +2 Per / +1 Wits per level
+  off the Level 1 baseline Per 10 / Wits 10; HP = 40 + 10*Level). **Skills: Analyze** (first skill his
+  classless sheet ever carried; surfaces one target's hidden status block instantly, on will; a locked
+  permanent annotation). Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt =
+  14 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
+  reached L5 / debt 3; in Ch 5 spent 3 levels on the reward-redirect (annotation #4, L5 -> L2, debt 6),
+  then climbed L2 -> L8 on the night assault; in Ch 6 ground L8 -> L14, then spent 8 levels to author
+  the skill Analyze (annotation #5, Tier 2, L14 -> L6, debt 14, a SANCTIONED DEEP-EDIT TROUGH), and
+  ground one rung back to L7. Recovery above the pre-edit Level (8) is owed by Ch 9 per guardrail rule
+  4. Annotation progress cost is set by rule depth/tier, not by his level. (Writer: keep logging exact
   numbers here each chapter.)
 
 ## Cast
@@ -204,6 +208,15 @@ load-bearing beats).
       defenders). Tier 1 (mechanic-wide reward routine). Progress cost: -3 levels (Level 5 -> Level
       2). decode_debt += 3. Running decode_debt = 6 / 100. (Closed Ch 5 at Level 8 after the night
       assault grind. On the projected curve.)
+    - #5 (Ch 6, s4): authored the skill Analyze directly onto his own account via the vacant-handler
+      write path (bypassing the class-grant precondition). Tier 2 (deep class-rule edit). Progress
+      cost: -8 levels (Level 14 -> Level 6). decode_debt += 8. Running decode_debt = 14 / 100. This is
+      a SANCTIONED DEEP-EDIT TROUGH (guardrail rule 4): Level dips below the prior chapter close, with
+      recovery above the pre-edit Level (8) owed within 3 chapters (by Ch 9). PATCH 0011 (Ch 6, s6)
+      then hardened the grant precondition and CLOSED the vacant-handler exploit ROUTE (he cannot
+      author skills this way again); Analyze itself is permanent and was NOT revoked. The patch landed
+      within minutes of first use (vs hours/days for the tower patches), and pointedly left the decode
+      tax / decode_debt untouched (leash beat). Closed Ch 6 at Level 7 after grinding one rung back.
 
   DECODE-DEBT PROJECTION (the clock; rough, recompute as edits are logged). The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -1495,3 +1508,37 @@ load-bearing beats).
 - **HOOK (seeds s06 patch):** the read surfaced "too easily," and it bothered him. The unease sits
   under his ribs. No mechanical patch yet (the fast counter-patch lands in s06). Aaron closes the
   section at Level 7, decode_debt 14/100, holding Analyze.
+
+### Ch 6 (Sec 6) established facts now known to the reader
+- **PATCH 0011 (the near-real-time counter-patch).** Within MINUTES of Aaron first using Analyze, a
+  surgical patch reached into his account and hardened the class-grant precondition. Canonical block
+  (verbatim, no em dashes):**
+
+      [ SYSTEM ]
+      PATCH 0011 applied.  Account flagged: KESSLER, A.
+      Class-grant precondition hardened.
+      Vacant-handler write path: now guarded.
+      An unclaimed kill no longer exposes the grant routine.
+      Status: closed.
+
+- **What it closed: the ROUTE, not the asset.** The vacant-handler write path is now guarded; Aaron
+  can NEVER author himself another skill that way again. Analyze STAYS (locked permanent annotation,
+  not revoked). His sheet is unchanged: Level 7, Skills: Analyze.
+- **SPEED is the reveal (watched-back thread escalates).** The early "tower" patches (e.g. PATCH 0007,
+  the integrity route) landed slow, hours to a day after he used a hole. PATCH 0011 came in minutes,
+  aimed at his exact hole and nothing beside it. Aaron's conclusion: the administrator is responding
+  in near real time, as if watching the account LIVE, not reading logs after the fact. "Something
+  standing at his shoulder."
+- **LEASH BEAT (locked admin-leash undertone, load-bearing for the mystery).** The patch had every
+  chance, in the same write, to touch the decode tax / decode_debt that is actually killing him, and
+  it pointedly LEFT IT ALONE. Canonical in-text line shown: "decode_debt: 14 / 100" (untouched). It
+  closed the cheap power route and left wide open the slow lethal cost. Read: the administrator is not
+  trying to stop him reading. This unsettles Aaron more than the speed did. (Consistent with the Ch 4
+  s6 precedent where a patch left the decode tax untouched, and with the locked ceiling/leash design.)
+- **Aaron resolves to start LOGGING** (seeds Ch 7 pattern-logging): tie to his backstory ("the
+  dashboard had been green the whole time the node was dead"); the only defense against a system that
+  lies is a record it does not control. He will log every patch and the gap between his hand and
+  theirs to find the shape of the thing reading over his shoulder.
+- **Chapter close:** Aaron ends Ch 6 at **Level 7, decode_debt 14/100, holding the skill Analyze**,
+  the vacant-handler route closed, now aware he is being watched in near real time. Crew intact (Tess,
+  Marcus, Priya, Hutch all alive; Hutch dies Ch 7).
