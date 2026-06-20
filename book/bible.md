@@ -1958,6 +1958,11 @@ load-bearing beats).
   shades into fascination ("something in him leaned back the way you lean toward any voice in a long silence").
   NOTE: this is interested-observer CURIOSITY only; it does NOT confess the climax thesis (left his error on
   purpose because it is lonely / wants a subject who can talk back). Reserve that for the climax.
+- **CANONICAL [ SYSTEM ] NOTICE (the System registers his deep read; reinforces "it's watching").** As Aaron
+  crosses into the source layer, the System surfaces an ordinary public notice (verbatim): "[ SYSTEM ] /
+  Notice: read access at source layer. / Depth beyond comprehension grade. / Observed." The final word
+  "Observed." ties to the core fragment's "it knows now." It is a notice only: NO mechanical change, no debt,
+  no level cost. (He reads it and goes on anyway.)
 - **RULES NUANCE REAFFIRMED (canonical):** a DEEP READ is FREE of decode_debt. The strenuous read past his
   level carries a real PHYSICAL toll (both-socket eye-pressure, nosebleed, vertigo) but does NOT increment the
   decode_debt tab. decode_debt stays at 17, "unmoved." (Reading never adds debt; only EDITS/annotations do.)
