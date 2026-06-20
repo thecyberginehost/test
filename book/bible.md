@@ -1965,3 +1965,31 @@ load-bearing beats).
 - **SETUP for s6:** the fragment ended MID-WORD, "stopped clean, on the edge of a question, like a door left
   open a hand's width on purpose." Aaron registers the cutoff as feeling DELIBERATE without yet interpreting
   it; s6 reads it as an open question left for him on purpose. Tess beside him as anchor/confidant.
+
+### Ch 9 (Sec 6) established facts now known to the reader
+- **THE CUTOFF READ AS DELIBERATE (the midpoint turn completes).** Aaron, who knows every way a message
+  truncates (buffer, lost packet, interrupt), rules them all out: the fragment's mid-word stop was PLACED,
+  clean on the edge of a question, with room to finish that it chose not to use. A person does that when they
+  trail off and leave the end hanging for the other to finish. The administrator left him a door mid-thought
+  ON PURPOSE. "Not hunted. Invited." It wants him to keep reading, keep talking. The invitation is FELT; the
+  full WHY (lonely / left his whole error on purpose / wants a subject who can talk back) is NOT stated and
+  stays reserved for the climax.
+- **THE PULL (intimacy + dread).** Aaron feels the door pull at him: he is starved for someone who reads the
+  world the way he does, and the only such mind in seven billion is the administrator. "Nobody had ever left
+  him the last word." (The "lonely" register appears only as AARON'S loneliness, not as a stated claim about
+  the System.)
+- **SITTING IN THE HINGE (book's central turn).** He holds both truths at once: he CAN win (the single account
+  that edits, told so in the System's own grammar), AND every win teaches it (the exchange is the experiment,
+  win and feed are the same act). He reframes himself: "not a man exploiting a dumb system anymore... a man in
+  a conversation with a learning god, and the conversation was the cage."
+- **THE DOOMED VOW (sets up Ch 10's failed boundary test).** Aaron vows to TRY to win WITHOUT teaching it:
+  hold his reads tighter, take only what he must, refuse the door. He knows it sounds thin even as he says it
+  (the crew lives on his edits; every wall he holds is a sentence the door reads back) and suspects he cannot
+  do it. "A vow made out of dread, not certainty." Tess answers "Try" (not agreement, the word you give
+  someone about to attempt a thing that will not hold). This is the resolve Ch 10 ("Teaching The Enemy") tests
+  and breaks.
+- **CHAPTER CLOSE (midpoint complete):** Aaron ends Ch 9 at **Level 9, decode_debt 17/100, holds Analyze**,
+  NULL_OPERATOR / unhandled. NO annotation this chapter (debt unchanged at 17, on the projected curve: Ch 9
+  adds none). The frame has flipped (learning administrator AI / experiment); the antagonist is now curious,
+  not just hostile; Tess is the sole confidant carrying the secret. The door stays open at the edge of his
+  sight, "waiting for him to either walk through or learn that holding it shut taught it just as much."
