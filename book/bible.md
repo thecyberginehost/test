@@ -1210,3 +1210,37 @@ load-bearing beats).
   running anyone's defense," "I'm staying for the levels"); nobody answers, they just take their posts.
 - **Hand-off:** defenses set; N1 fires on the 0; the first wave comes down the overpass exactly where
   he put Marcus. Into s04 (the "only for the grinding" beat and the reward redirect, annotation #4).
+
+### Ch 5 (Sec 4) established facts now known to the reader
+- **Defense-reward mechanic (DEFENSE_BONUS):** the depot defense is an instanced contested-zone
+  event. On the zone being held through a cycle, the System issues DEFENSE_BONUS to the single
+  highest-contribution account ("winner-take, one account, routed to top reader of the field"): a
+  stat infusion plus EXP scaled to threat cleared. Aaron ranks 1, so by default the whole purse would
+  have gone to him at dawn.
+- **Annotation #4 EXECUTED (Tier 1, mechanic-wide reward routine):** Aaron decoded the
+  payout-targeting routine, then redirected its destination from the top reader to the whole standing
+  defense, so the bonus splits across every body holding the depot through the night. Framed aloud as
+  tactical (reward holds the building, building holds the rifts, rifts hold his grind); actually
+  spending his own progress to pay everyone else.
+- **ANNOTATION ACCEPTED block (verbatim, no em dashes):**
+
+      [ SYSTEM ]
+      ANNOTATION ACCEPTED.  Account: KESSLER, A.
+      EVENT depot defense: payout routine redirected.
+      DEFENSE_BONUS no longer routes to top reader.
+      On zone held: bonus splits across all bodies holding this zone.
+      Scope: this account, this zone's defense routine. Permanent. Narrow.
+      Cost paid: -3 Levels.  Decode tax applied.
+
+- **Cost paid:** -3 Levels (Level 5 -> Level 2; warm reward color guttered as the levels tore loose).
+  decode_debt += 3, **running decode_debt now 6 / 100.**
+- **The worse toll (debt at six):** a real nosebleed (a spill, not a thread), the right-eye spike
+  drove deeper and lasted instead of pulling back, his knees registered the loss. "The body kept the
+  receipt." Running-tab beat lands on "Six." Symptoms heavier at higher debt per the rule.
+- **The self-deception:** Aaron says (to no one) it is "for the building," "tactical." The reader sees
+  he wanted the payout and gave it away anyway. He waves Priya off and stays standing so the cost will
+  not show.
+- **Hand-off into s05:** the first push holds (Marcus breaks the first wave at the overpass mouth);
+  the depot stands; everyone in it will be paid now and none know it yet. Tess has stopped watching
+  the east gate and is watching Aaron (seeds the dawn reveal in s06; the redirect-to-whole-group is
+  NOT yet revealed). Into s05 (the night holds, climb back from Level 2).
