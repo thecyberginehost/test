@@ -1147,3 +1147,35 @@ load-bearing beats).
   (carrying the torn-thigh man), survivors.
 - **No mechanical change:** no annotation (read only), decode_debt stays 3/100, Aaron stays Level 5.
   Into Section 2 (Tess's class resolving to Scout).
+
+### Ch 5 (Sec 2) established facts now known to the reader
+- **A small Tier 0 rift is cleared near the depot.** Tess reads a spawn node a beat before it
+  instantiates; Marcus and two of his people clear the hollow-crawler (his Bulwark frame absorbing
+  the limb-blow); the kill pays out. The depot sweeps small spawns as routine.
+- **This kill triggers TESS's class to resolve (the System's doing, NOT Aaron's edit).**
+- **Tess's public Scout class card (canonical, verbatim, no em dashes):**
+
+      [ SYSTEM ]
+      CLASS RESOLVED: Scout.
+      You read terrain and spawn flow on instinct. The System has named it.
+      New skill: Spotter. Threats you read aloud are flagged for your group.
+
+  Tess's class is now **Scout** with the **Spotter** skill (threats she reads aloud are flagged for
+  her group; this powers her calling threats in the night (s05) and her catching Aaron out in Ch 8).
+- **Tess's reaction:** delight; gamer-fluent; fearless ("Scout. I called it... Took you long enough"),
+  grins, tests the new "ping."
+- **THE TWO-LAYERS BOND BEAT (Ch 5 Tess thread). Hidden layer Aaron reads under her card (canonical,
+  verbatim, no em dashes):**
+
+      > # subject CALLOWAY, T.: pattern-recognition sustained above class baseline.
+      > # behavior precedes data. subject reads spawn flow pre-instantiation.
+      > # template match: Scout (terrain/threat awareness). assigning.
+      > # note: subject reads the world in two layers. like one other account.
+
+  The System sets Tess and Aaron in the same sentence ("like one other account"). Tess clocks Aaron
+  reading the air, asks what it says; Aaron tells her plainly ("It says you read the world in two
+  layers. Like one other account"). She knows the other account is him. They share the moment as the
+  only two who see the field in two layers. Kinship deepens, her gift made official.
+- **No mechanical change for Aaron:** read only, decode_debt stays 3/100, stays Level 5.
+- **Hand-off into s03:** the night gathers (spawn pressure building wider than the single node, from
+  several sources out where the overpass meets the road). Aaron turns to read the depot's spawn rules.
