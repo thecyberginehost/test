@@ -2675,7 +2675,7 @@ load-bearing beats).
 ### Ch 14 (Sec 1) established facts now known to the reader
 - **THE APEX MANIFESTS.** The Ch 13 citywide clock hits ZERO and the apex dungeon arrives. It does not tear
   like a rift; it UNWRITES roughly six downtown blocks (the old financial/tower spine) and rises from beneath,
-  a structure the SIZE OF A DISTRICT, dark and faceted, wrong-angled, surface-only (echoes the Ch 1 dead-server
+  a structure the SIZE OF A DISTRICT. Dark and faceted, wrong-angled, surface-only (echoes the Ch 1 dead-server
   dashboard: a surface that describes itself with nothing real underneath). Felt as ground-pressure before
   sound, then a sustained machine HUM ("powering on to stay on"); surviving glass crumbles to dust; the wrong
   sky bends taut toward it. Mass citywide human screaming. Crew reactions: Priya hand to mouth, Marcus frozen
