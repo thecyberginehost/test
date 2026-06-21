@@ -2814,7 +2814,7 @@ load-bearing beats).
   Marcus, Priya physically cannot cross.
 - **THE LONE-WOLF TEMPTATION, REFUSED (arc payoff).** The dungeon offers Aaron exactly the solitude the
   old him insisted on (walk in alone). He REFUSES it. Callbacks honored: the stairwell "I work alone," the
-  1 a.m. fixes, Hutch and the delivery vest. "He was not going in without them." Continuous with Ch 12
+  1 a.m. fixes, plus Hutch and the delivery vest. "He was not going in without them." Continuous with Ch 12
   dropping the "I don't care" lie; the man who refused to admit he needed anyone will not enter the worst
   place in the world without his crew.
 - **THE RESOLVE TO FORGE (Ch 15 hook).** Aaron resolves to FORGE the crew's access: to write a hole into the
