@@ -3699,3 +3699,19 @@ load-bearing beats).
   notifications come in s5/s6). Crew of three: Marcus (Bulwark, wrecked, behind a shield he can no longer hold
   square), Priya (Mender, spent). Tess and Hutch dead. SEAL: nothing structural; this fight, this world; no WHY /
   standing seat / other worlds / prior readers / no-handler inversion.
+
+### Ch 21 (Sec 4) established facts now known to the reader
+- **THE DUNGEON CLEARS; THE CLIMB MADE VISIBLE.** The apex dungeon clears: the rift/seam-light drains out, the
+  way up reopens (stairs, the seal open, daylight above), the deepest floor in the world goes quiet. NO
+  mechanical change (Aaron Level 1, decode_debt 100/100, blind, Analyze inert). He takes the clear through
+  ordinary senses + the crew (the draining light "taken on her voice"; the open exit from Marcus); his L1 body
+  goes into shock. THE PAYOFF BY CONTRAST: from the Ch1 Tuesday office worker losing an argument to a dashboard
+  that swore a dead server was healthy, and a crew that could barely clear a stairwell, to three survivors
+  standing at the cleared apex of the whole settlement. The climb is real and far higher than where he started.
+- **TESS BRAIDED INTO THE TRIUMPH.** Her absence is in the measurement: she read terrain like he read code, she
+  should have called this floor clear, and the ground they stand on was bought partly with her (she died on the
+  surge-gate floor, Ch16). The triumph is not clean, by his choice. Crew: "Three of them stood up" (Aaron,
+  Marcus down/torn surviving, Priya spent surviving). Tess and Hutch dead.
+- **NO System block, no delivered notification yet** (the wager-settles notice is s5, the reopen is s6). SEAL:
+  this world, this settlement, this apex; no WHY / standing seat / other worlds / prior readers / no-handler
+  inversion.
