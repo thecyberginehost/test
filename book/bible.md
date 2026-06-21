@@ -2778,3 +2778,32 @@ load-bearing beats).
   permanent cost is decode_debt 23 -> 31. He is positioned at full strength (Level 13) for the Ch 15 forge.
   Crew alive: Tess, Marcus, Priya. Hutch DEAD. Sets up s05 (the threshold rejects clean classes, opens for
   his error).
+
+### Ch 14 (Sec 5) established facts now known to the reader
+- **THE THRESHOLD REJECTS CLEAN CLASSES.** The apex's entrance is a vertical seam (where two facets meet,
+  floor to ceiling, no handle or hinge; opens with a wet-copper, burnt breath). Class cards are now physical
+  objects survivors carry and present (a "license"). The threshold reads each account and REFUSES every clean,
+  resolved class: a transit worker (new survivor, class TRANSIT-WARD tier 2), then Marcus (BULWARK), and the
+  rest of the crew. Framed as a lock, not malice ("This account is handled. Sealed."). Canonical refusal blocks
+  (verbatim, "> " prefix): the TRANSIT-WARD denial ("ACCESS DENIED. ... resolved class ... Threshold requires:
+  unresolved account. This account is handled. Sealed.") and the BULWARK denial ("ACCESS DENIED: resolved
+  class (BULWARK). This account is handled. Threshold sealed against it.").
+- **IT OPENS FOR HIS ERROR.** The threshold opens for exactly one account, Aaron's. Canonical GRANT block
+  (verbatim, "> " prefix):
+  > [ SYSTEM ]
+  > Account: KESSLER, A.
+  > Class field: NULL_OPERATOR   status: unhandled.
+  > Threshold requires: unhandled account.
+  > Match.
+  >
+  > ACCESS GRANTED: NULL_OPERATOR / unhandled.
+  The door was built for the exception, and the exception is him. Chosen confirmed MECHANICALLY: the one thing
+  wrong with him is the one key that fits. Bitter, vindicating, frightening.
+- **SEAL (held, load-bearing this section):** the threshold key stays strictly SINGULAR to Aaron. Canon lines
+  to honor: "a door that only an error could open, and there was one error"; "exactly one account on the
+  rubble, and it was the broken one"; "the one key cut to fit." The "requires unhandled account" line is
+  nailed to Aaron as the ONE error, NEVER a category/recurring seat. No other readers/worlds/standing seat, no
+  why-exempt.
+- **NO mechanical change:** pure read of the refusals/grant. State holds **Level 13, decode_debt 31/100,
+  Analyze, NULL_OPERATOR / unhandled.** Crew alive: Tess, Marcus, Priya. Hutch DEAD. Sets up s06 (the crew
+  cannot follow; the cruel choice; the resolve to forge a hole that is not there yet).
