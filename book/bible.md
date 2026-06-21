@@ -18,13 +18,15 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 13** end of Ch 13 (dipped to Level 9 on the s5 Tier-1 wager-pry, then
-  ground back Level 9 -> 13 the honest way on the dying district's final surge; closes one above the Level 12 he
-  carried into the chapter). Sheet (Aaron / NULL_OPERATOR): HP 170/170, Strength 5, Agility 6,
+- Current level / key stats: **Level 13** mid-Ch 17 (ACT THREE journey: forged the crew's apex passage in
+  Ch 15 at a Tier-3 cost that crashed him to the Level-1 floor, the settlement carrying the overflow; two
+  Tier-2 floor edits in Ch 16 drove decode_debt to 67 while his level stayed pinned at L1; he ground Level
+  1 -> 13 back on the Ch 17 descent, recovering his pre-forge level. The levels came back. decode_debt and
+  Tess did not). Sheet (Aaron / NULL_OPERATOR): HP 170/170, Strength 5, Agility 6,
   Vitality 6, Perception 34, Wits 22 (formulas: HP = 40 + 10*Level, Perception = 10 + 2*(Level-1), Wits =
   10 + 1*(Level-1)). **Skills: Analyze** (first skill his classless sheet ever
   carried; surfaces one target's hidden status block instantly, on will; a locked permanent annotation).
-  Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 23 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
+  Class field still reads NULL_OPERATOR / status: unhandled. **decode_debt = 67 / 100** (cumulative, never resets; see the ledger and ANNOTATION RULES). History: through Ch 4
   reached L5 / debt 3; in Ch 5 spent 3 levels on the reward-redirect (annotation #4, L5 -> L2, debt 6),
   then climbed L2 -> L8 on the night assault; in Ch 6 ground L8 -> L14, then spent 8 levels to author
   the skill Analyze (annotation #5, Tier 2, L14 -> L6, debt 14, a SANCTIONED DEEP-EDIT TROUGH), and
@@ -3137,3 +3139,21 @@ load-bearing beats).
   this chapter, ledger #11 + #12, 51 -> 59 -> 67). HOOK into Ch 17: "He had stopped reading the dungeon to
   survive it. Below... he would read it to understand the thing that wrote her a condolence." Recovery above
   the pre-Ch15-edit Level 13 is still OWED by Ch 18 (guardrail rule 4); Ch 17 (+0) is the recovery window.
+
+### Ch 17 (Sec 1-3) established facts now known to the reader
+- **s1 (the death lands; Aaron breaks):** immediate aftermath; the "I work alone / I don't care" mask shears
+  off entirely (arc-payoff; Ch12 cracked it, this splits it). No mechanical change (Level 1, debt 67), no
+  System block (he refuses to read). Crew three: Aaron, Marcus (L17, wounded), Priya. Tess + Hutch DEAD.
+- **s2 (the crew grieves; sitting in the wound):** the crew mourns Tess with specific memories (Marcus: her
+  flank-call a half-second early at the Drowned Mother subway fight; Priya: the borrowed trauma-shears); the
+  two-readers bond pays off as the thing now gone. No mechanical change (Level 1, debt 67).
+- **s3 (the numb descent; THE RECOVERY):** only exit is down. The crew clears the lower floors; Aaron, gutted
+  and on autopilot, GRINDS **Level 1 -> Level 13** on the normal ladder (NO edit; decode_debt UNCHANGED at
+  67/100). Hollow climb: the reward color lands on nothing. LOAD-BEARING THEME (canonical): "two ledgers, two
+  permanences", the levels re-ground but Tess and the debt do not, "the System would only ever give him back
+  the one that did not matter." Level-up block lands him at Level 13. Sheet restored: **Level 13, HP 170/170,
+  Strength 5, Agility 6, Vitality 6, Perception 34, Wits 22, holds Analyze, NULL_OPERATOR / unhandled,
+  decode_debt 67/100.** GUARDRAIL rule 4: recovery to >= 13 reached HERE in Ch 17 (on track / early; the
+  margin above 13 for Ch 18's edits is ground at the core in Ch 18). Close-turn seed: he starts to see the
+  debt/dungeon as written deliberately (-> s4, surviving to understanding). SEAL: singular/local; the admin's
+  clear voice and the "chose not to" admission are s5/s6, NOT here.
