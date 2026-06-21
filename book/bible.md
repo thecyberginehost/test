@@ -2695,3 +2695,30 @@ load-bearing beats).
   decode_debt 23/100, holds Analyze, NULL_OPERATOR / unhandled, HP 170/170, Per 34, Wits 22.** Crew alive:
   Tess, Marcus, Priya. Hutch DEAD. SEAL intact (singled-out-to-Aaron as feeling only; no other worlds, no
   recurring seat, no prior readers). Sets up s02 (the public timer and the factions).
+
+### Ch 14 (Sec 2) established facts now known to the reader
+- **THE CLEARANCE TIMER (public, citywide).** A second, distinct System clock writes itself over the apex
+  AFTER it manifests: the time-to-clear window (NOT the Ch 13 until-arrival clock, which already hit zero in
+  s01). Canonical PUBLIC block (verbatim, "> " prefix):
+  > [ SYSTEM ]
+  > SETTLEMENT TRIAL: clearance window open.
+  > Apex must be cleared before the window closes.
+  > TIME REMAINING: 03:47:12
+  > On expiry: all accounts in zone settled with the sample.
+  > No extension. No appeal.
+  Shown in flat font to every survivor citywide. Window is just under four hours (reuse 03:47:12 as the
+  Ch 14 opening clearance time; it counts down through Act Three).
+- **SURVIVOR FACTIONS (new canon for the finale's social layer):**
+  - **"The marshals"** (Marcus's term): a disciplined column of about fifty from the old market district,
+    shield wall on point (a Bulwark leading, two more behind), a healer spending freely, wounded carried in
+    the middle. Priya reads them as a group that does not leave people behind. WORKABLE ALLIES.
+  - **"The eastern churn":** a disorganized armed mass from the dead blocks dragging carts and belongings,
+    already killing each other over territory at intersections before the monsters engage. A LIKELY THREAT.
+  - The crew reads the human crowd by their established knacks: Tess reads human terrain/flow, Marcus reads it
+    tactically, Priya reads it triage-wise (who carries their wounded).
+- **SOCIAL THESIS for the finale:** the apex is not what kills most people; the next ~three hours of every
+  faction arriving at the same door is. Aaron keeps "the question had his name on it" as private FEELING only
+  (no structural claim; the pry is s03).
+- **NO mechanical change:** no annotation, no edit, no level/debt change. State holds **Level 13, decode_debt
+  23/100, Analyze, NULL_OPERATOR / unhandled.** Crew alive: Tess, Marcus, Priya. Hutch DEAD. SEAL intact.
+  Sets up s03 (the costly pry: written for him, tuned to his edge).
