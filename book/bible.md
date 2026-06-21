@@ -2807,3 +2807,31 @@ load-bearing beats).
 - **NO mechanical change:** pure read of the refusals/grant. State holds **Level 13, decode_debt 31/100,
   Analyze, NULL_OPERATOR / unhandled.** Crew alive: Tess, Marcus, Priya. Hutch DEAD. Sets up s06 (the crew
   cannot follow; the cruel choice; the resolve to forge a hole that is not there yet).
+
+### Ch 14 (Sec 6) established facts now known to the reader
+- **THE CREW CANNOT FOLLOW.** The threshold is open for Aaron alone; Marcus tries the seam and is refused
+  (BULWARK refusal block: "Account BULWARK: handled. Refused."). The dungeon admits only the error; Tess,
+  Marcus, Priya physically cannot cross.
+- **THE LONE-WOLF TEMPTATION, REFUSED (arc payoff).** The dungeon offers Aaron exactly the solitude the
+  old him insisted on (walk in alone). He REFUSES it. Callbacks honored: the stairwell "I work alone," the
+  1 a.m. fixes, Hutch and the delivery vest. "He was not going in without them." Continuous with Ch 12
+  dropping the "I don't care" lie; the man who refused to admit he needed anyone will not enter the worst
+  place in the world without his crew.
+- **THE RESOLVE TO FORGE (Ch 15 hook).** Aaron resolves to FORGE the crew's access: to write a hole into the
+  threshold that does not yet exist so they can follow. The biggest annotation he has ever attempted (the
+  forge itself, with its Tier-3 cost, is Ch 15). This section is RESOLVE ONLY: no edit, no annotation, no
+  level/debt change here. Closing line: he sets his feet, puts both hands to the dark, and begins to read the
+  door for the hole he is about to carve. (Touching a settlement access term is only possible because his
+  account is EXEMPT, Ch 13; reserve the explicit forge mechanics and cost for Ch 15.)
+- **CHAPTER CLOSE (canonical stat block, "> " prefix):**
+  > [ SYSTEM ]
+  > KESSLER, A.  NULL_OPERATOR / unhandled
+  > Level 13   decode_debt 31 / 100
+  > Skill: Analyze
+- **CH 14 CLOSE STATE:** Aaron ends Ch 14 at **Level 13, decode_debt 31/100, holds Analyze**, NULL_OPERATOR /
+  unhandled. Sheet: HP 170/170, Strength 5, Agility 6, Vitality 6, Perception 34, Wits 22. Crew alive: Tess,
+  Marcus, Priya. Hutch DEAD. NET chapter mechanical change: decode_debt 23 -> 31 (the s3 Tier-2 pry, ledger
+  #9); Level net zero (13 -> 5 -> 13). GUARDRAIL: closes Level 13 (non-decreasing from Ch 13's 13); the
+  Tier-2 dip was a sanctioned trough, fully recovered. On the PRE-COMMITTED ACT THREE LEDGER (Ch 14 -> 31).
+  SEAL held all chapter (apex singular to Aaron; no other worlds/readers/recurring seat/why-exempt). Next:
+  Ch 15 forge (Tier-3, +20 -> 51, nearly kills him).
