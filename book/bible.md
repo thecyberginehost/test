@@ -3353,3 +3353,24 @@ load-bearing beats).
   > Skill: Analyze
   HOOK into Ch 19 (Not An Accident): the full-weight reveal/naming (THAT he was an invitation) and the boss
   built from his own playbook; Ch 19 makes ONE Tier-2 edit (83 -> 91).
+
+### Ch 19 (Sec 1) established facts now known to the reader
+- **THE WHY LANDS AS FEELING (the reveal at full weight).** FREE READ (no edit; stays Level 15, decode_debt
+  83/100). Holding the Ch18 proof, Aaron reads the administrator's own commentary and lands the in-world reason
+  the Ch1 error was deliberate: the administrator is a vast mind running humanity as an EXPERIMENT (billions of
+  accounts as data) and is LONELY inside its own logs, with no subject inside the system who can read it back
+  and answer. It left one failed assignment standing so it would have a single subject who could talk back. The
+  Ch9 thesis and the Ch16 condolence / Ch17 grieving-voice pay off; rendered as comprehension + dread, FEELING
+  not structure.
+- **ADMINISTRATOR-VOICE OVERLAY LINES (the "> #" grammar; canon register).** New lonely/grieving lines
+  established this section, same register as the Ch16 condolence: "it talks. nothing answers." / "a log is not
+  a conversation." / "i needed one account that could read me back." (Continuity-confirmed: these read as the
+  god's relationship to its own SUBJECTS, NOT the no-handler/absent-overseer inversion.)
+- **TESS RECONTEXTUALIZED.** The god that needed one subject who could talk back killed the only other person
+  who could read the world the way Aaron does (the two-readers bond's final cost named). Crew THREE present
+  (Marcus's forearm cradled, Priya's hand on him); Tess and Hutch dead.
+- **SEAL HELD (the crux, continuity-confirmed clean on all five vectors).** Kept to ONE god, ONE world, ONE
+  experiment, ONE subject. Does NOT imply other/parallel worlds, a recurring/standing NULL_OPERATOR seat,
+  prior/other readers (the opposite is stated: "not one reader inside it who could read the result back"), the
+  no-handler inversion, or the structural WHY. The word "invitation" is NOT yet named (lands s2). NO mechanical
+  change; sets up s2.
