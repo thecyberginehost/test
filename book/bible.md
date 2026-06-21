@@ -3489,3 +3489,19 @@ load-bearing beats).
   > Skill: Analyze
   HOOK into Ch 20 (Playing Yourself): the climax fight against the self-built boss; Aaron cannot win by repeating
   himself (every old trick patched); Ch 20 makes ONE Tier-2 edit (91 -> 99), one off the ceiling.
+
+### Ch 20 (Sec 1) established facts now known to the reader
+- **THE CLIMAX FIGHT OPENS; EVERY OLD TRICK PATCHED.** NO successful edit (decode_debt STAYS 91/100, Level STAYS
+  23). The apex boss (built from Aaron's ledger #1-#14) moves FIRST and fights like Aaron, reading his pre-move
+  tells because it was built from his logs. Aaron ATTEMPTS three known exploits and ALL FAIL (canon-accurate
+  callbacks): (1) the FOCUS OVERRIDE re-point (warden #6) throws / DENIED; (2) a read-and-edit on the boss's
+  inherited REWARD ROUTING (depot #4) hits an ACCESS-SEALED gate carrying Aaron's OWN prior pry-marks (a hole he
+  once broke, now welded shut, #8/#9/#13/#14); (3) a sideways attempt on the boss's THRESHOLD HOLD cap
+  (Suffocation #1) finds the patch-for-the-patch stacked under it. The boss's denial notices speak in Aaron's
+  own grammar ("try the next one"), sharpening the mirror dread. Repetition CANNOT win.
+- **NO mechanical change.** decode_debt UNCHANGED at 91/100 ("the tab stayed at ninety-one"), Level UNCHANGED at
+  23 (HP 270, Per 54, Wits 32). At debt 91 his sight is unreliable (deep threat-zone blur, "a page read through
+  water"). His first SUCCESSFUL fresh edit comes in s3. Crew of three fighting: Marcus (Bulwark) holds the line,
+  the healing forearm seam reopening under impact; Priya (Mender) keeps him standing; Tess's absence felt as the
+  missing timing-call. SEAL: HIS logs, THIS world, self-versus-self; the Ch18-code answer and win-condition edit
+  are NOT yet named (s4-s6); no WHY / standing seat / other worlds / prior readers / no-handler inversion.
