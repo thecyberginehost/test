@@ -56,6 +56,14 @@ CHAPTER GATE (once per chapter, after its sections are done):
      scrubber), and re-run. NEVER edit or loosen check_seal.py to force a pass; if a
      phrase is a real false positive, make it MORE precise, never delete protection.
 
+HUMAN-VOICE ADVISORY (after the hard gate passes, every chapter; never blocks):
+   run  python3 scripts/echo_watch.py <N>  and skim it for phrasings that have gone
+   samey across the book (especially the hidden-layer-read trigger). Rotate any that
+   read mechanical via a surgical, gate-backed polish (style only, no plot/mechanic
+   change), then re-run check_chapter.py. This is advisory: it informs a polish pass,
+   it does NOT gate. Before calling the book done, run  python3 scripts/echo_watch.py
+   all  for a whole-manuscript sweep.
+
 FINISH: assemble sections in order -> book/manuscript.md, hand to the human.
 
 ## Workspace layout
@@ -68,6 +76,7 @@ book/chapters/chNN/sNN.md
 scripts/lint_tells.py     (deterministic AI-tell linter)
 scripts/check_chapter.py  (deterministic per-chapter verification gate; see step 10)
 scripts/check_seal.py     (deterministic Book Two seal tripwire for Ch 14-22; see step 10)
+scripts/echo_watch.py     (ADVISORY cross-section phrasing-echo reporter; never gates)
 
 ## Shared ground truth
 - book/bible.md is the single source of truth for characters, System rules,
@@ -96,9 +105,17 @@ WHO LOADS IT (the read-split is deliberate, enforce it exactly):
 - No AI-tell vocabulary or cadence (see scripts/lint_tells.py for the banned list).
 - Avoid rule-of-three constructions and uniform sentence length.
 - Show, do not summarize. Keep System notifications crisp and consistently formatted.
+- PHRASING VARIETY (the binge-read test). The book is read end to end, so a beat worded
+  the same way every time reads like a machine. Rotate the language for any recurring
+  action (above all, opening the hidden-layer read), keeping the concept and the physical
+  tells but varying the words. The per-section linters cannot see this (each section is
+  clean alone); scripts/echo_watch.py reports it across sections, advisory only.
 
 ## Models
-All agents are set to `opus` for book one so you can measure usage on a full run.
-After book one, the natural tiers are: orchestration and scrubber -> haiku or
-pure script, architects and continuity -> sonnet, writer and editor and
-strategist -> opus. Downshift then if the budget calls for it.
+Quality first. Cost and speed are NOT constraints on this project. Every agent runs on
+Opus 4.8 (`model: opus`) and stays there. Do NOT downshift any agent to a cheaper model,
+and do NOT slice the bible or starve an agent of context to save tokens: give each agent
+the full ground truth it needs to get the prose and the canon right. The deterministic
+gates (lint_tells, check_chapter, check_seal) are a correctness floor under the models,
+never a license to run weaker ones beneath them. If a trade-off ever appears between
+cheaper-or-faster and better, choose better.

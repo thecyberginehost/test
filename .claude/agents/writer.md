@@ -22,8 +22,23 @@ truth held deliberately out of your hands so it cannot bleed into Book One prose
 continuity-checker and editor police the seal downstream. Write only what the bible
 and outline already know.
 
-Voice: obey book/style.md and CLAUDE.md. No em dashes. No AI-tell vocabulary or
-cadence. Vary sentence length. Show, do not summarize.
+Voice (this is the brand bar: the prose must read like a human wrote it):
+- Obey book/style.md and CLAUDE.md. No em dashes, ever. Use periods, commas, parentheses.
+- No AI-tell vocabulary (see scripts/lint_tells.py for the live banned list).
+- No rule-of-three cadence. The linter flags "X, Y, and Z" and "X, Y and Z" (regex
+  \b[\w'-]+, [\w'-]+,? and [\w'-]+\b). Do not stack three parallel items joined by "and".
+  Break them with periods, or drop the third. Get it clean on the FIRST pass so nothing
+  downstream has to scrub it back out.
+- Vary sentence length and sentence openings. No runs of equal-length sentences.
+- PHRASING VARIETY (the binge-read test). The reader reads the whole book end to end, so
+  a beat you word the same way every time reads like a machine wrote it. For any RECURRING
+  action, rotate the language. The worst offender is opening the hidden-layer read: do NOT
+  lean on the same two or three verbs every time ("surfaced his sight", "the dim layer came
+  up"). Keep the concept and the physical tells (the pressure behind the right eye, the wet
+  click, the gray comment-text), but vary HOW you say he opened the read. Invent no new
+  mechanic or sensation, rotate the wording you already have. The same goes for any other
+  repeated gesture, stat-up beat, or scene-opener.
+- Show, do not summarize.
 
 Output:
 - Write the section to book/chapters/chNN/sNN.md.
