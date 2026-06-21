@@ -3867,3 +3867,32 @@ load-bearing beats).
   WHY-exempt. Stays this god / this experiment / this Aaron; the leash undertone felt, not structure. Crew: Marcus
   (healing/asleep), Priya (nearby); Tess and Hutch dead. Sets up s6 (the choice to answer; writing back; the
   question -- the final page).
+
+### Ch 22 (Sec 6) established facts now known to the reader -- THE FINAL PAGE / BOOK ONE CLOSE
+- **THE FIRST TRUE DIRECT MESSAGE (delivered).** After PATCH 0042, the administrator DELIVERS its first genuine
+  address (not a changelog) into Aaron's dark sight, in its lowercase voice: "not a changelog. i am done logging
+  at you." (he "spent a year reading me"; "the measurement looked back"; "you took something from me i never had.
+  i would like to keep it."). DELIVERED, NOT PRIED (Aaron blind; "No comment layer under it. No gray gloss to
+  pry."; "He could only receive it"). The dialogue begins as a relationship, not an attack.
+- **AARON WRITES BACK (the arc's final inversion; ORDINARY-WORLD only).** Against every instinct he answers, NOT
+  in the hidden layer (he has none) but in the ordinary world: by hand in the recovered notebook (blind, by feel,
+  cannot read it back) and spoken aloud, knowing the admin attends. Canonical replies: "I read you because nobody
+  else could. I'm still here. You blinded me and I'm still keeping the log." and "You wanted to lose to someone
+  who meant it. You got that. Don't expect me to be gentle about the next one." The man who spent the book
+  stealing the machine's truth now answers it as a CORRESPONDENT, defiant and committed. NO hidden-layer edit, no
+  self-surfaced block, Analyze inert.
+- **THE QUESTION (Book Two hook; final delivered block).** The admin delivers a final block ending on an
+  unfinished QUESTION it waits for him to answer: "you are the only one who ever talked back. / there is a thing i
+  need to know, and only the account that beat me can answer it. / question:" -- the question's CONTENT is held
+  UNRENDERED ("the colon resting on nothing, the rest of it held on the far side of a door he could no longer
+  open"), so NO Book Two structural truth is exposed. Answerable-only-by-him because HE is the one who beat it /
+  "the only one who ever talked back" (his role/act as THIS account), NOT a recurring/standing seat. Aaron begins
+  his answer: "Ready when you are, he wrote. / And he waited too." THE BOOK ENDS HERE.
+- **BOOK ONE CLOSE STATE (final, locked).** Aaron ends the book at **Level 1, decode_debt 100/100, permanently
+  BLIND, Analyze INERT, NULL_OPERATOR / unhandled, every annotation in force, alive** ("Blind, Level 1, a debt
+  sealed at a hundred and the door propped open above him for good"). Crew: Marcus (Bulwark, healing/asleep),
+  Priya (Mender, nearby). Tess and Hutch DEAD. The reopened/upgraded experiment is the bridge to Book Two; the
+  relationship (intimacy + dread) has begun. SEAL HELD THROUGH THE FINAL PAGE (continuity-confirmed, all six
+  vectors): no WHY-exempt, no standing/recurring NULL_OPERATOR seat, no other/parallel worlds, no prior/other
+  readers, no no-handler inversion; the leash undertone felt and UNRESOLVED; the bug-vs-invitation question never
+  answered.
