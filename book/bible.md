@@ -3783,3 +3783,15 @@ load-bearing beats).
   tending Aaron); both stand the grave-watch with him. Tess and Hutch dead/buried. SEAL: nothing structural; this
   world, this city, these people; the Aaron/Tess "saw in two layers" kinship stays singular (not a recurring seat
   / prior reader); no WHY / standing seat / other worlds / prior readers / no-handler inversion.
+
+### Ch 22 (Sec 2) established facts now known to the reader
+- **THE CREW CARRIES HIM OUT (the "I work alone" arc's FINAL CLOSE; the emotional core).** Blind and Level 1 (HP
+  50), Aaron physically cannot navigate, cross broken ground, or manage alone. Marcus and Priya CARRY/guide him:
+  Priya talks the ground aloud for him (curbs, glass, rebar) as his sight; Marcus (good arm; strapped arm still
+  healing) takes his weight on his bad side. THE ARC PAYOFF: the "I work alone / didn't need anyone / didn't
+  care" mask (seeded Ch1, cracked Ch12, split Ch16-17) gets its final answer here. He is alive only because of
+  the two he claimed not to need; he resists, then says "I can't do this part" and lets himself be carried,
+  stopping fighting their hands. The ordinary man who beat a god is now the one being held up. Tess's and
+  Hutch's absence felt (the two do for what was more). NO mechanical change (Level 1, decode_debt 100/100, blind,
+  Analyze inert); Aaron reads NOTHING (ordinary senses + the crew); no System block / no delivered notification
+  (the god's talking-back is s4). SEAL: nothing structural; this world, these people, this bond.
