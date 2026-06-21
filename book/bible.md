@@ -334,6 +334,21 @@ load-bearing beats).
       SECOND seal is now visible behind it (sets up s4/s5). SEAL: the exemption appears ONLY as the bare fact that
       his account CAN touch the read-gate (as Ch13/14), never WHY; CORE_GRAMMAR is local to this dungeon (Earth);
       no other readers/worlds/recurring seat, no no-handler inversion.
+    - #14 (Ch 18, s5): CORE INNER READ-SEAL PRY. Aaron breaks the SECOND (inner) read-seal of CORE_GRAMMAR with
+      a Tier-2 read-gate pry (sealed -> legible to account), through the door he recognized in s4; same maneuver
+      as #8/#9/#13. Tier 2. Progress cost: 8 levels. At Level 23 (22 above the Level-1 floor, exceeds 8) the
+      OVERFLOW clause does NOT fire: PAID IN FULL, -8 Levels (Level 23 -> 15), CARRIED 0 ("nothing carried and
+      nothing owed back ... no settlement reaching in to cover what he could not pay"). decode_debt += 8. Running
+      decode_debt = 83 / 100 (THREAT ZONE: "Eighty-three out of a hundred ... the air thinned"; sight now
+      expensive/unreliable, the high-debt blur from Ch16 active, "a loan he kept extending, and the lender ...
+      very close to done"). Body cost real but survives STANDING. ANNOTATION ACCEPTED block (canonical "> "
+      prefix, read-gate format, NO Carried line): Target CORE_GRAMMAR, inner read-seal (read-gate); Read-gate
+      revised: sealed -> legible to account; Scope: this account. This read; "Cost paid: -8 Levels.  Decode tax
+      applied." SECOND of Ch 18's two Tier-2 read-gate prys; CLOSES the Ch 18 debt progression at 83 (67 -> 75 ->
+      83), on the pinned curve. The read bends BACK to his real Chapter 1 ORIGINAL ERROR (the glass office, the
+      failed class-assignment, NULL_OPERATOR / unhandled); the grammar "was built to turn there" (proof lands s6).
+      SEAL: does NOT name the Ch19 invitation thesis; exemption = bare mechanical fact only; no WHY, no standing
+      seat / other worlds / prior readers / no-handler inversion.
 
   The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -3286,3 +3301,22 @@ load-bearing beats).
   assignment that blinked unhandled). He resolves to open the second seal and read back toward his first error.
   Section ENDS with him about to make the second Tier-2 edit (the edit lands in s5, NOT here). NO mechanical
   change this section. Crew of three present (Marcus, Priya); Tess's absence felt.
+
+### Ch 18 (Sec 5) established facts now known to the reader
+- **SECOND CORE READ-SEAL BROKEN; SECOND EDIT PAYS IN FULL (ledger #14); DEBT CLOSES AT 83.** Aaron breaks the
+  core's INNER read-seal with his second Tier-2 read-gate pry (through the s4 door). At Level 23 he affords it:
+  cost 8 levels PAID IN FULL (Level 23 -> 15), CARRIES NOTHING (overflow clause does not fire). decode_debt
+  += 8: **75 -> 83 / 100** (THREAT ZONE; the pinned Ch18 close). The ANNOTATION ACCEPTED block again has NO
+  "Carried" line. He survives standing.
+- **STATS NOW LEVEL 15.** HP 190/190, Strength 5, Agility 6, Vitality 6, Perception 38, Wits 24, holds Analyze,
+  NULL_OPERATOR / unhandled, **decode_debt 83/100**. At 83 the high-debt blur is active and his sight is
+  expensive ("a loan he kept extending, and the lender ... very close to done"); he can feel the edge of the
+  100 ceiling. Tie-back: this is the same blur that cost the half-second when Tess died (Ch16).
+- **THE READ REACHES HIS CHAPTER 1 ORIGINAL ERROR.** The inner seal carries his read BACK to where his story
+  began: the core grammar is the same dialect / same hand as the failed class-assignment that left him
+  NULL_OPERATOR / unhandled (the glass office, the founding event). The grammar does NOT break going into the
+  unhandled field; it TURNS, and it "was built to turn there." He reaches the last clause before his own
+  beginning, the proof opening under his hand. Sets up s6 ("written that way on purpose"). SEAL: does NOT yet
+  name the Ch19 invitation thesis; exemption stays the bare mechanical fact; the original error is HIS, this
+  world's, Chapter 1's; no other worlds / readers / standing seat / no-handler inversion. Crew of three; Tess
+  and Hutch dead.
