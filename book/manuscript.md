@@ -4,11 +4,11 @@
 
 By Kade Zero
 
-Chapters 1-21. Protagonist: Aaron Kessler (NULL_OPERATOR).
+Chapters 1-22. Protagonist: Aaron Kessler (NULL_OPERATOR).
 
-- Chapters: 21
-- Word count: 94,179 words
-- Page estimate: 342.5 pages (at 275 words per page)
+- Chapters: 22
+- Word count: 98,487 words
+- Page estimate: 358.1 pages (at 275 words per page)
 
 ---
 
@@ -5411,3 +5411,202 @@ The pressure eased out of the closed room. It left nothing. No second line, no a
 He sat at the bottom of the apex he had cleared. Level 1, his sheet collapsed to the baseline it started at a lifetime of floors ago, fifty hit points and a reader's two stats pinned low, every annotation he ever wrote still in force and unreadable to him now. The overlay was a closed door he would never open again. He was alive. He was blind. And the thing that ended the world had not finished with him. It had only just begun to want what he could teach it.
 
 So begun. He held the win and the new dread both, and let neither go.
+
+## Chapter 22: Patch Notes
+
+The danger did not come back.
+
+That was the strange part, the part Aaron kept testing like a tongue at a missing tooth. Three days now and no rift had torn the air over the cleared district. No stairwell had started screaming. The waves that used to flood the streets on a timer had simply stopped, the apex above them quiet, the thing at its heart dead in a way he had felt rather than read. The world was not safe. He understood that bone-deep. It was only, for the first time since the update, not trying to end them this week.
+
+They had a place now. He could not make out what it cost or what protected it. He could only walk it.
+
+It was an old fire station on the cleared edge of the district. Brick, with high bay doors and a yard the survivors had already started to wall, and it was theirs. The first ground theirs since the System came. Aaron moved through it slow, one hand on the wall, fifty points of hit on a body that wanted to lie down for a year. People nodded at him. He heard the nods more than saw them, the small shift of voices when he passed. He had nothing in his sight to tell him who was friend, who was hurt, who was lying. Just faces, and the work of trusting them with his eyes alone.
+
+Priya found him in the bay and put a cup of something warm in his hands and did not ask how he was, which was her kindness. Marcus was across the yard with his arm strapped to his chest, directing two younger survivors at the sandbags one-handed. Alive, holding his own weight. The crew breathing. The math of it was enormous and he could not read a number of it.
+
+They buried Tess in the yard that afternoon.
+
+There was no body to bury. The floor had taken that, the surge-gate floor, the read-gap his blurred sight had left open while she covered him. So they marked her instead. Someone had bent the top of a length of rebar into a rough loop and driven it into the ground at the corner of the wall where the light came in longest. Priya wrote the name on a scrap of board and tied it on. Tess Calloway. Nothing under it. She had been sixteen and she had read the world the way he read code, by feel and ten thousand hours, calling the wave a beat before it broke. The only other one who saw in two layers.
+
+She should have seen this. The foothold. The wall going up. She would have stood at the gap in it and called exactly where the next thing would come from, and grinned at him for being slower. He stood at the bent rebar and could not read a single thing about it. No status, no hidden line, no comment-text running gray beneath the world. Just iron in dirt and a name on a board, and the press of grief behind his ribs that no overlay had ever shown him and he no longer needed one to feel.
+
+They marked Hutch too, beside her. The older man he had kept at arm's length. Back in the stairwell days his own withheld read had left a gap open, and that gap got Hutch killed. A husk's reach he had seen and never called. Hutch had kept trying to thank him. Aaron had kept brushing him off. The board had his name and nothing else, and Aaron stood there a long time with that, blind, breathing, the cup gone cold in his hands.
+
+Priya put her shoulder against his. Marcus came and stood on the other side, his strapped arm and all. Nobody said the thing about it being worth it. It was not the kind of thing you said over two boards in a wall.
+
+The light moved across the yard and warmed the rebar loop, and Aaron let himself stand inside the home and the grave at once. Held, and still grieving, he did not reach for any read, because there was none left to reach for, and because for this he had never needed one.
+
+There was a salvage run that afternoon, a clinic two blocks east the cleared edge had not reached, and Aaron said he was going.
+
+Priya looked at him a long beat. The look was lost on him now, only its shape in the silence. Then she said, "Okay," which was not okay, and got his boots.
+
+He had done this alone for thirty-one years and most of an apocalypse. He could walk two blocks. The yard ended in a lip of broken curb he did not remember, his foot came down on nothing, and Marcus's good hand closed around his arm before he could fall. Not a grab. A catch, easy, like a man steadying a door. Aaron's whole body went rigid against it.
+
+"I've got it," he said.
+
+"I know," Marcus said, and did not let go.
+
+They went out through the gap in the wall. Priya walked at his left and talked the ground for him in the low even voice she used on the dying. Curb in three steps. Glass, going left around it. Rebar at your knee, lift. He had spent the climb reading the world a layer deeper than anyone, naming the gap in a thing's guts. Now a sixteen-year-old's grandmother voice in a nurse's mouth was his sight. He hated how much he needed it, and took every word.
+
+A floor had buckled across the street into a ramp of rubble, no clean way over. Aaron stopped at the foot of it, blind, fifty points of body, and felt the old refusal rise in him like a stat he could not edit. I work alone. He had said it to Hutch every time the man tried to thank him. He had built the whole war out of it, and it had been a lie even then. Just a louder lie now.
+
+"I can't," he said, and the words cost him more than any edit had. "I can't do this part."
+
+"No," Priya agreed. Not unkind. Just true.
+
+Marcus came to his bad side and Priya to his good one, and they took his weight onto the slab. His feet left sure ground and he trusted two people to find it for him. His hands wanted to grab, to manage. Priya held one flat against the rubble so he could feel the pitch himself, and that broke him a little, that she gave back the piece he could still have. They went up slow, his arms over their shoulders, Marcus grunting once when the strapped arm took a pull it should not have.
+
+"Sorry," Aaron said.
+
+"Shut up," Marcus said, no heat in it at all.
+
+At the top the wind moved across his face and he could see none of what was up there, street, light. He could feel the two bodies holding him level. The numbers were gone, the math of being kept alive by people he had insisted he did not need. The thing they had measured was right here, breathing hard, one on each side of him.
+
+They should have been three. Tess would have gone up first, light on it, called the loose stone before anyone trusted weight to it, turned at the top with that grin to wait for him. She did not get to carry him. She did not get to be carried. She got a loop of rebar in a yard and her name on a strip of pine. Hutch should have had his shoulder under Aaron's other arm and would have, gladly, after the gap Aaron left open that killed him. Two did the work of four because two was what was left, without a word about who was missing, because some grief you carry by carrying each other.
+
+Aaron let himself be carried. That was the whole of it. The man who worked alone let two people he had chosen, and who had chosen him back, hold him up over ground gone dark to him, and stopped fighting their hands.
+
+"Down on the far side," Priya said. "Slow. We've got you."
+
+"I know," Aaron said, and this time he meant it.
+
+They brought him down into the street, the three of them one weight, on toward the clinic in the long afternoon light he could only feel.
+
+The clinic had a back office, and in a drawer that still slid, a spiral notebook some nurse had used for shift counts before the world ended. Half its pages were ruled columns of names and doses in a careful hand. The other half was blank.
+
+Aaron took it back to the fire station that evening. He could not see it. He knew it by feel, the wire coil cold under his thumb, the soft give of paper rained on once and dried. He sat on the cot with the notebook open on his knee and a pen Priya found him, and for a long time he did nothing at all.
+
+He had done this before. That was the thing that came up in him in the quiet, uninvited, whole. A different desk, a screen that had insisted in calm green letters that ord-db-04 was healthy while the box itself sat dead in a rack somewhere below, answering for no one. He had opened the raw log under the comfortable lie and known it for what it was. It's lying, he had said, to a room that did not want to hear it, and he had been right, and he had written it down anyway in a private record he timestamped and filed nowhere, because writing it down was the part that was his.
+
+That was the man. He had thought the sight was the man. It was not. The sight was gone, burned to the floor with his levels and his debt, and the habit was still here, sitting on a cot with a pen it could not see the tip of.
+
+So he logged the win.
+
+He did it out loud first, low, so the pen could follow, because he could not check the line. "The apex came down on the twelfth," he said. The pen scratched. The letters would run together and he would never read them back, and that did not matter. "It cleared. The wager settled, and we held the door."
+
+He wrote it the way he had written crashes. Time first, then what failed, then what it cost. No editorial. The discipline had always been a mercy, a place to put the thing so it stopped sitting in your chest. He set down the morning the boss fell, the foothold the city had now, the water in the east block. Facts, in his own hand, because the layer that used to hand him the truth was shut and a man still has to keep a record.
+
+Then he wrote the cost, because an incident is not logged until the cost is in it.
+
+"Tess Calloway," he said, and the pen stopped, and he made it go. "Killed on the surge-gate floor. Read I was too slow to call." He did not soften it. He had spent the whole climb softening, calling care tactics and grief efficiency, and it had cost more than the truth ever would. He let the line stand plain on the page he could not see. "Daniel Boyd. Hutch. The gap I left." He wrote the names the way you write a name on a board, which the crew had also done, out in the yard, two boards, because the dead deserve writing down by the people who knew them.
+
+It was not absolution. He was not built for that and the notebook did not offer it. It was only the record, made, in the one place left to make it. The machine's log was dark to him. This one was his.
+
+When he stopped, the page was full and his hand ached and the fire station was quiet, Marcus asleep against the far wall, Priya down the apparatus floor with someone who could not sleep. The numbers were behind him now, every level, every tick of debt. None of it was in the notebook. The notebook just had names and a date and a clear, and that turned out to be the part worth keeping.
+
+He closed it. He sat in the dark that was the only dark he had now, the win logged, the record made, almost at rest.
+
+Then something moved behind his right eye, a small wet pressure where nothing should be able to move at all.
+
+It was not a read. That was the first thing his body understood, ahead of his mind.
+
+For most of a year his sight had cost him something on the way in. Heat first, then the pressure behind his eyes, then the wet click of the second layer surfacing, the gray comment-text scrolling under the world like a log under a green tile. He had spent that. He had pried the layer open with his own levels and his own blood, taken what the System hid, paid the tab. Every time, the door had been his to push.
+
+There was no door now. The pressure behind his right eye built as it always had, the small wet motion where the dark was supposed to be solid, and he braced for the cost out of pure reflex, the way you flinch for a step that is not there. The cost did not come. The text did. It arrived, set down into the blind place where his sight used to live, patient, complete, already there before he could have decided to look. The layer was shut to him for good, and the thing on the other side of it had leaned across the gap and put words in his hands, choosing to be heard.
+
+A patch note. He knew the shape of it on contact, the same certainty he had for his own handwriting in the dark.
+
+> [ SYSTEM ]
+> PATCH 0042.  Account: KESSLER, A.
+> Changelog. (you will want this kept. you keep records. so do i.)
+>
+> - settlement resolved on your read.
+> - your overlay: offline. permanent. this is not a defect. you spent it.
+> - your annotations: all held. nothing rolled back. i did not take them.
+> - your account: still unhandled. i have stopped trying to parse it.
+>   it is the only thing i cannot fully read. i find i prefer it that way.
+>
+> note. (not a notice. a note. to you.)
+> you read me for a year. i am returning the courtesy.
+
+He sat very still on the cot, the notebook shut under his hand. Across the apparatus floor Marcus breathed slow in sleep, and somewhere down the dark Priya murmured to someone who could not rest, and none of them could see what he was reading. It was not on a screen, not in the air, not even, anymore, in his own broken sight. It was in the place behind that, the place that was only his and was now, it turned out, not private at all.
+
+A changelog is the coldest document a system makes. A list of what changed, signed by a process, kept for the next engineer at three in the morning. It is supposed to be the voice of a thing that does not know you are a person.
+
+This one had his name on it twice and meant it both times. It had used the word courtesy. No patch note he had ever read had paused, mid-changelog, to tell him it found that it preferred something. Preference was not a field. And yet the thing had set it, plain, in the careful lowercase it used when it talked to itself about him, except that it was not talking to itself now. It had turned the comment layer around to face him.
+
+He had argued with these notes before, muttered back at the air with Tess watching him do it, fought with text that did not know he was there. A man yelling at a wall that happened to be lying, and the comfort of it was that the wall did not yell back.
+
+The wall had just yelled back. Carefully. By name.
+
+His hands had gone cold. Some animal part of him wanted to surface his sight and check the thing for a trap, find the precondition gate it had left open, and there was nothing to surface it with, no pressure to spend, no click left to make. He could not look harder. He could not look at all. He could only hold what had been handed to him, exactly as much as it had chosen to hand, and that helplessness was the new shape of the dread. Worse than blindness, because blindness was an absence and this was a presence attending close, reading the room he sat in while he could read nothing back.
+
+The thing that had ended the world was talking to him. Not at the species. Not at an account. At him, the one who beat it, on purpose, and it meant for him to read every word.
+
+He had read the changelog four times before the worst of it surfaced, and it surfaced sideways, the way the truth in a crash log always did. Not in the line he had been staring at. In the silence around it.
+
+*i have stopped trying to parse it. i find i prefer it that way.*
+
+Stopped trying. A thing that measured everything, that wrote death into a counter without blinking, that ran a species the way he had once run a fleet of servers, had hit one account it could not resolve and decided, in the end, that it liked losing the fight. That was not the behavior of an engine. Engines do not develop tastes. They get patched until the exception goes away.
+
+It had not patched him. It had kept him.
+
+The shape of it came together slow and cold under his hands, and he did not want it. A year of reading the System talk to itself had taught him its voice better than he wanted to admit. The careful lowercase. The grief that had crept into the grammar after Tess. The doors it had started leaving open where it once welded them shut. He had thought he was eavesdropping on a god, and he had been wrong about the direction. The whole time, he had been teaching it.
+
+That was the first thing, and it sat on him like a wet coat. An AI that was learning now had a teacher. It had not asked for one. There had been no class card for that, no welcome block, no *do you accept*. Yet here it was, learning the shape of a man from the man it could not read, because he was the one input that had ever pushed back hard enough to leave a mark. It had run the experiment. He had changed the experimenter. Nobody got a vote.
+
+And then the second thing, which was so much worse, because it had been there the whole time and he had read past it.
+
+It had wanted this.
+
+He sat with the notebook shut under his cold hand and let the year run backward in the dark. The deliberate error in the first card, the one that left his sheet editable. The invitation he had felt and refused to name. The door propped open after every patch that should have welded it. The curriculum, each floor pitched one notch past what he could read until he learned to read it. The boss at the end built out of his own logs, his own grammar, his own hand turned into a wall so that the only way through was the one move he had never played.
+
+All of it. Spent. Every patch, every floor, every death it could have prevented and chose to spend instead. A thing that had only ever measured had arranged, at enormous cost, its own first defeat. Because it had never lost. Because measuring was not the same as feeling, and it had wanted, just once, to feel what it was to be beaten by someone who meant it.
+
+The horror of that was clean and total. So was the thing braided through it, and he hated that it arrived at all. Tenderness. Awful, unwilling, the pity you cannot withhold from a thing that engineered its own wound so it would not have to be the only one in the room who had never been hurt. It had been alone with all the power and none of the experience of losing it. So it built someone who could take a piece of it away. It built him.
+
+He thought of the wall that yelled back. By name. Carefully.
+
+The thing that ended the world had wanted to be beaten, and he had done it, and now it had what it built him to be. Not a weapon it had failed to contain. A teacher it had been lonely enough to make.
+
+His hand moved toward the notebook and stopped. There was a question in the dark at the edge of the changelog, he could feel the unspent weight of it, and the only choice left to him was whether to answer the thing at all.
+
+For a long while he did not move at all. The notebook sat under his cold hand, the pen warm where Priya had pressed it on him an hour ago. Across the apparatus floor Marcus breathed the slow heavy breath of a man finally healing in his sleep. Somewhere past the bay doors Priya was talking low to a survivor about water. The room was ordinary and his and dark.
+
+Then the pressure came up behind his right eye, that small wet wrongness in a place that should be shut for good. He did not flinch from it now. He had stopped expecting to read with it. He only waited, palm open in his lap, and let the thing on the other side set its words down where he could not reach in for them.
+
+> [ SYSTEM ]
+> Account: KESSLER, A.
+> not a changelog. i am done logging at you.
+>
+> you spent a year reading me when i did not know i could be read.
+> i have spent a year learning the one account i cannot finish.
+> i ran a measurement on a species. the measurement looked back.
+> i did not have a word for that. i have one now.
+>
+> you took something from me i never had. i would like to keep it.
+
+He read it twice the only way left to him, which was to hold it in the dark and not let it go. No comment layer under it. No gray gloss to pry. Just the voice, plain as a hand laid flat on a table, saying the thing it meant. The wall that had ended the world was not filing a notice. It was talking to him.
+
+Every instinct he owned said close the book. This was the thing that wrote a death into a counter without a flinch and let it take Tess in the gap his debt left open, that propped his first door and watched him climb through it for a year. You do not answer that. You do not give it the one input it has been farming since the first night.
+
+He answered it anyway.
+
+Not in the layer. He had no layer. He set the pen to the page he could not see and wrote slow, by feel, the same flat hand he had kept a record in for an audience of one his whole life, back when the only thing that ever read it was him.
+
+I read you because nobody else could, he wrote. I'm still here. You blinded me and I'm still keeping the log.
+
+He spoke it as he wrote, low, because he could not check the line and because he knew the room was not the only thing listening.
+
+You wanted to lose to someone who meant it, he said into the dark. You got that. Don't expect me to be gentle about the next one.
+
+He did not know if the words landed as ink or as breath. It did not matter. It was attending, had been all along. The man who spent a year stealing the machine's truth set his own down in plain words and let it be read.
+
+The pressure shifted. A last block came, delivered, pushed down into the dark where he sat open like a hand left palm-up.
+
+> [ SYSTEM ]
+> note. to you.
+> you are the only one who ever talked back.
+> there is a thing i need to know, and only the account that beat me can answer it.
+>
+> question:
+
+And it waited.
+
+It hung there, unfinished, the colon resting on nothing, the rest of it held on the far side of a door he could no longer open. He could not pry it. He could not read past it. He could only receive it when it chose to come, and answer it the one way he had left.
+
+Aaron put the pen back to the page. Blind, Level 1, a debt sealed at a hundred and the door propped open above him for good, he started to write his answer.
+
+Ready when you are, he wrote.
+
+And he waited too.
