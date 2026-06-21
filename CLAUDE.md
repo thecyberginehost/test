@@ -56,6 +56,19 @@ CHAPTER GATE (once per chapter, after its sections are done):
      scrubber), and re-run. NEVER edit or loosen check_seal.py to force a pass; if a
      phrase is a real false positive, make it MORE precise, never delete protection.
 
+     CANON STRUCTURE GUARD (every chapter, part of the same HARD gate): the gate ALSO
+     runs
+        python3 scripts/check_canon.py
+     and it must print CANON OK and exit 0 before you may move on. It refuses to pass if
+     a multi-chapter canon file lost structure (book/outline.md missing any chapter
+     header 1..22 or fallen below a line floor; book/bible.md below its floor or missing
+     a LOCKED anchor). This exists because an agent once full-rewrote and CLOBBERED
+     outline.md down to a single chapter; the guard makes such a clobber from ANY source
+     fail the gate instead of slipping through. It also runs from the git pre-push hook.
+     On CANON DAMAGED: STOP, restore the file from git (the last good commit), and re-run.
+     NEVER weaken this guard to pass; if the planned chapter count truly changes, update
+     EXPECTED_CHAPTERS in the script, never delete the check.
+
 HUMAN-VOICE ADVISORY (after the hard gate passes, every chapter; never blocks):
    run  python3 scripts/echo_watch.py <N>  and skim it for phrasings that have gone
    samey across the book (especially the hidden-layer-read trigger). Rotate any that
@@ -76,7 +89,9 @@ book/chapters/chNN/sNN.md
 scripts/lint_tells.py     (deterministic AI-tell linter)
 scripts/check_chapter.py  (deterministic per-chapter verification gate; see step 10)
 scripts/check_seal.py     (deterministic Book Two seal tripwire for Ch 14-22; see step 10)
+scripts/check_canon.py    (deterministic canon-structure guard: outline/bible not clobbered; see step 10)
 scripts/echo_watch.py     (ADVISORY cross-section phrasing-echo reporter; never gates)
+githooks/pre-push         (git pre-push hook; runs check_canon.py, blocks push on CANON DAMAGED)
 
 ## Shared ground truth
 - book/bible.md is the single source of truth for characters, System rules,

@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+# Canon-structure pre-push guard.
+#
+# Refuses to push if a multi-chapter canon file (book/outline.md / book/bible.md)
+# lost structure, e.g. an agent full-rewrote and clobbered it. This is the deterministic
+# backstop that pairs with the chapter gate (scripts/check_canon.py) so a clobber from
+# ANY source cannot reach the remote silently.
+#
+# Activate (once per clone):  git config core.hooksPath githooks
+# This file is version-controlled so the guard travels with the repo.
+
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel)"
+guard="$repo_root/scripts/check_canon.py"
+
+if [ ! -f "$guard" ]; then
+  echo "pre-push: scripts/check_canon.py not found; refusing to push (canon guard missing)." >&2
+  exit 1
+fi
+
+if ! python3 "$guard"; then
+  echo "" >&2
+  echo "pre-push BLOCKED: canon structure check failed (CANON DAMAGED above)." >&2
+  echo "A canon file lost structure. Restore it from the last good commit, then push." >&2
+  exit 1
+fi
+
+exit 0
