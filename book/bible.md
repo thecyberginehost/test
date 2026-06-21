@@ -2884,3 +2884,26 @@ load-bearing beats).
 - **NO mechanical change:** still **Level 13, decode_debt 31/100, holds Analyze, NULL_OPERATOR / unhandled.**
   Crew alive: Tess, Marcus, Priya. Hutch DEAD. Sets up s3 (the write begins; the PROGRESS-COST OVERFLOW
   fires; level crash 13 -> 1).
+
+### Ch 15 (Sec 3) established facts now known to the reader
+- **THE WRITE BEGINS; THE OVERFLOW FIRES.** Aaron starts writing the second admission clause (the biggest
+  annotation of the book). The Tier-3 PROGRESS CHARGE is **47 levels**. He has **12** above the Level-1
+  floor; the System tears them out all at once and he crashes **Level 13 -> 1** (rendered Thirteen / Nine /
+  Five / Three / One). The PROGRESS-COST OVERFLOW rule fires exactly: a non-exempt account's write would
+  FAIL for insufficient progress, but his EXEMPT account is floored and the **remainder, 35 levels, is
+  carried by SETTLEMENT_TRIAL** ("cannot bill an account it refuses to parse"). Overflow numbers (canonical,
+  reuse in s4): charge 47, paid 12 to floor, 35 carried. Operator "> #" reads recorded verbatim in the
+  section (request -> progress charge 47 -> paying down -> floor/remainder/ruling -> write continuing).
+- **STAT COLLAPSE AT THE FLOOR (sensory, formulas hold):** Level 1 -> HP 50, Perception 10, Wits 10
+  (Strength 5, Agility 6, Vitality 6 fixed). Vision tunnels, body to water. Holds Analyze, NULL_OPERATOR /
+  unhandled.
+- **SEAL HELD:** the overflow registers as LOCAL/MECHANICAL only ("The bill it could not collect, it paid
+  itself"; "a column that did not balance"). The why is explicitly REFUSED ("The why of it was a door of its
+  own and he was empty"). "no name for him it could send the bill to" reads as a property of his broken
+  account, NOT a chair filled before. No other worlds / recurring seat / prior readers / unsupervised-god /
+  why-exempt.
+- **DEBT NOT YET TICKED.** decode_debt is STILL **31/100** at section end (the +20 -> 51 and the formal
+  ANNOTATION ACCEPTED block land in s4 when the write completes). No "[ SYSTEM ]" acceptance block here. The
+  write is UNFINISHED ("One clause. Then the door would open. If he lived to close it."). State at s3 close:
+  **Level 1, decode_debt 31/100**, mid-write, on the brink of collapse. Crew: Tess, Marcus, Priya (holding
+  him up). Hutch DEAD. Sets up s4 (completion, ledger #10, debt -> 51, collapse).
