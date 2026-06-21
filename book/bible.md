@@ -3816,3 +3816,34 @@ load-bearing beats).
   the apparatus floor). Tess and Hutch dead. END-HOOK (UNLANDED, sets up s4's DELIVERED notice): "something moved
   behind his right eye, a small wet pressure where nothing should be able to move at all" -- something coming TO
   him (the admin about to deliver), NOT a self-read. SEAL: nothing structural; this man, this habit, this world.
+
+### Ch 22 (Sec 4) established facts now known to the reader
+- **THE GOD TALKS BACK (the first delivered direct message; the relationship pivot).** The administrator DELIVERS
+  its first true direct message into Aaron's dark sight. DELIVERED, NOT PRIED: "The cost did not come. The text
+  did. It arrived... He did not reach for it. It came to him." Aaron self-reads NOTHING (he is blind, Analyze
+  inert; "nothing to surface it with... He could not look at all"). He used to STEAL the System's truth by
+  reading the layer uninvited; now the layer is closed and the thing speaks to him on purpose. The delivered
+  message is a PATCH NOTE that is unmistakably PERSONAL (something no changelog should contain: his name, direct
+  address, intent, a voice meaning to be heard by one person). CANONICAL DELIVERED BLOCK (lowercase admin voice,
+  "> " prefix; byte-locked, note "here" was removed as a seal precaution):
+  > [ SYSTEM ]
+  > PATCH 0042.  Account: KESSLER, A.
+  > Changelog. (you will want this kept. you keep records. so do i.)
+  >
+  > - settlement resolved on your read.
+  > - your overlay: offline. permanent. this is not a defect. you spent it.
+  > - your annotations: all held. nothing rolled back. i did not take them.
+  > - your account: still unhandled. i have stopped trying to parse it.
+  >   it is the only thing i cannot fully read. i find i prefer it that way.
+  >
+  > note. (not a notice. a note. to you.)
+  > you read me for a year. i am returning the courtesy.
+- **NO mechanical change.** The patch note CONFIRMS the locked end-state but changes nothing: overlay offline
+  permanent ("you spent it"), every annotation held / not rolled back, account still unhandled. Aaron stays Level
+  1, decode_debt 100/100, blind. SEAL (continuity-confirmed, no breach): exemption stays the bare mechanical fact
+  ("still unhandled... the only thing i cannot fully read"; "i prefer it that way" = the ALLOWED lonely-teacher /
+  wants-a-subject FEELING per the Ch19 invitation reveal, NOT the structural WHY). "here" was dropped to avoid
+  any multi-world implication. No standing/recurring seat, no prior/other readers, no other/parallel worlds, no
+  no-handler inversion, no WHY-exempt. Stays this god / this world / this Aaron ("the one who beat it"). The leash
+  undertone is felt and unresolved. Crew: Marcus asleep, Priya nearby. Sets up s5 (a teacher it did not vote for;
+  it wanted to be beaten).
