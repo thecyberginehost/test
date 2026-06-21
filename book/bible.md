@@ -3320,3 +3320,36 @@ load-bearing beats).
   name the Ch19 invitation thesis; exemption stays the bare mechanical fact; the original error is HIS, this
   world's, Chapter 1's; no other worlds / readers / standing seat / no-handler inversion. Crew of three; Tess
   and Hutch dead.
+
+### Ch 18 (Sec 6) established facts now known to the reader
+- **THE PROOF LANDS: THE ORIGINAL ERROR WAS WRITTEN ON PURPOSE (chapter close; the bug-vs-invitation question
+  resolves toward DELIBERATE).** FREE READ (no edit; stays Level 15, decode_debt 83/100). Reading the last clause
+  before his Chapter 1 beginning, Aaron finds the clauses around the unhandled field are NOT damage but CLEAN,
+  made by a careful hand. Built on the REAL Ch1 canon overlay (the glass office, the failed assignment, the
+  canonical dim-layer lines "Discard denied. Cannot null a live account." / "Assign nearest, rejected by
+  subject." / "Decision deferred."): the discard handler was present and correct and told to stand down; the
+  refusal path was load-bearing; the catch-all was disarmed one clause upstream so the open field would stay
+  open; "decision deferred" = the god choosing to wait, not failing to decide. VERDICT: "Not a bug." Not luck,
+  not a crack he slipped through. The first door of his System life was cut and propped open on purpose. He was
+  LET IN, SEEN FIRST, never the one who slipped past unseen.
+- **VINDICATION + DREAD FUSED (the chapter's emotional peak).** Vindication (he was right from the second night
+  that the god watched his account; never just lucky) tastes like nothing. The dread: if the founding error was
+  deliberate, then everything downstream sat downstream of it (every exploit, win, patch, and the losses of
+  Hutch and Tess) was PERMITTED, the house built around one open window. "He had been the burglar" reframed: he
+  had been let in.
+- **SEAL HELD (the valve to Ch19).** Lands THAT it was deliberate, never WHY. Does NOT name the Ch19 thesis
+  (no "invitation," no "lonely god needs a subject"), no exemption-why, no standing seat / other worlds / prior
+  readers / no-handler inversion. The valve line (continuity-confirmed, keep intact): "He had the proof. He did
+  not have the why." He lifts his head from the core and turns to face the thing that made him on purpose
+  (HOOK into Ch19's full-weight reveal and naming).
+- **CHAPTER 18 CLOSE.** Aaron ends Ch 18 at **Level 15, decode_debt 83/100** (HP 190/190, Strength 5, Agility 6,
+  Vitality 6, Perception 38, Wits 24, holds Analyze, NULL_OPERATOR / unhandled). PINNED DEBT CLOSE MET: two
+  Tier-2 read-gate prys this chapter (ledger #13 + #14), 67 -> 75 -> 83, both PAID IN FULL from the high grind
+  (NO overflow, nothing carried). GUARDRAIL rule 4 satisfied: Level 15 is above the pre-Ch15-edit Level 13.
+  Closing stat block (canonical, verbatim):
+  > [ SYSTEM ]
+  > KESSLER, A.  NULL_OPERATOR / unhandled
+  > Level 15   decode_debt 83 / 100
+  > Skill: Analyze
+  HOOK into Ch 19 (Not An Accident): the full-weight reveal/naming (THAT he was an invitation) and the boss
+  built from his own playbook; Ch 19 makes ONE Tier-2 edit (83 -> 91).
