@@ -3682,3 +3682,20 @@ load-bearing beats).
   other worlds / prior readers / no-handler inversion. Section ENDS on the edit landed and Aaron blind; the boss
   has NOT fallen yet (the win-flag has only begun to count); his fall is s3, felt physically. Crew of three; Tess
   and Hutch dead.
+
+### Ch 21 (Sec 3) established facts now known to the reader
+- **THE BOSS FALLS (felt, not read).** With the win-condition flipped (s2) to credit the defenders, the apex boss
+  (built from Aaron's ledger to enforce the trial) FALLS: the trial it enforced has nothing left to enforce. It
+  comes apart from the inside; the standing pressure of its presence lifts off the room; the immediate threat
+  ends. NO mechanical change (Aaron stays Level 1, decode_debt 100/100, blind).
+- **BLIND-CONSISTENCY (the reversal, load-bearing).** Aaron is now permanently blind to the hidden layer and
+  reads NOTHING here: no decode, no overlay, no gray comment-text, no self-surfaced System block. He experiences
+  the fall ENTIRELY through the physical world (sound, the seam-light reversing, the concussion up through his
+  boots and shins, the dust sheet his ordinary eyes can finally own) and through the CREW NARRATING it for him
+  (Marcus "It's down"; Priya holding him up). The man who read everything must now be TOLD it is over: he
+  believes the victory because the two people he claimed not to need tell him so. The strange grief of winning
+  blind.
+- **NO System block this section** (only the administrator could DELIVER text after the blinding; the delivered
+  notifications come in s5/s6). Crew of three: Marcus (Bulwark, wrecked, behind a shield he can no longer hold
+  square), Priya (Mender, spent). Tess and Hutch dead. SEAL: nothing structural; this fight, this world; no WHY /
+  standing seat / other worlds / prior readers / no-handler inversion.
