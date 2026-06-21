@@ -3795,3 +3795,23 @@ load-bearing beats).
   Hutch's absence felt (the two do for what was more). NO mechanical change (Level 1, decode_debt 100/100, blind,
   Analyze inert); Aaron reads NOTHING (ordinary senses + the crew); no System block / no delivered notification
   (the god's talking-back is s4). SEAL: nothing structural; this world, these people, this bond.
+
+### Ch 22 (Sec 3) established facts now known to the reader
+- **LOGGING THE WIN (the Ch1 callback, transformed).** Aaron keeps a plain HANDWRITTEN record: a spiral notebook
+  recovered from the clinic back office (a former nurse's shift-count book, half its pages used in a careful hand
+  with names and doses, half blank). Priya gives him a pen; he writes by FEEL, dictating low to himself, because
+  he is blind and cannot read the page back. He logs the apex win as an incident report in his own hand (time,
+  then what failed, then the cost): the apex came down "on the twelfth" and cleared, the wager settled, the city
+  has a foothold (a held wall, water in the east block). He logs the dead plainly: "Tess Calloway. Killed on the
+  surge-gate floor. Read I was too slow to call." and "Daniel Boyd. Hutch. The gap I left."
+- **THE TRANSFORMATION (Ch1 loop closed).** In Ch1 he read a hidden truth no one else could see (the dashboard
+  lying that the dead server ord-db-04 was "green/healthy"; "It's lying"; the unread ticket) and stayed quiet.
+  Now he can read NO hidden truth at all, and writes his OWN down so it is not lost: "The machine's log was dark
+  to him. This one was his." The engineer's HABIT of logging, not the lost sight, is the deeper thing that makes
+  him who he is. "The numbers were all behind him now... None of it was in the notebook. The notebook just had
+  names and a date and a clear, and that turned out to be the part worth keeping."
+- **NO mechanical change.** Aaron stays Level 1, decode_debt 100/100, blind, Analyze inert; reads NOTHING in the
+  hidden layer (works entirely in the ordinary world). Crew: Marcus (asleep, healing), Priya (gave the pen, down
+  the apparatus floor). Tess and Hutch dead. END-HOOK (UNLANDED, sets up s4's DELIVERED notice): "something moved
+  behind his right eye, a small wet pressure where nothing should be able to move at all" -- something coming TO
+  him (the admin about to deliver), NOT a self-read. SEAL: nothing structural; this man, this habit, this world.
