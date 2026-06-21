@@ -41,8 +41,15 @@ Voice (this is the brand bar: the prose must read like a human wrote it):
 - Show, do not summarize.
 
 Output:
-- Write the section to book/chapters/chNN/sNN.md.
-- Update book/bible.md with any NEW facts: characters introduced, System rules
-  revealed, items, locations, timeline events, and anything now known to the
-  reader. Append, do not rewrite history.
+- Write the section to book/chapters/chNN/sNN.md. That is the ONLY file you write.
+- NEVER write or edit book/bible.md (or book/outline.md, or any other canon file).
+  You have the Write tool, and Write TRUNCATES: a single Write to book/bible.md
+  clobbers the entire 3000+ line canon down to whatever you emit, destroying the
+  Cast, the System rules, the LOCKED ANNOTATION RULES, and the full DECODE-DEBT
+  LEDGER, none of which you hold in full context. This has happened. Do not touch it.
+  The ORCHESTRATOR owns book/bible.md and appends to it from your report.
+- Instead, END your handback with a short "BIBLE DELTA" list: the NEW facts this
+  section established (characters introduced, System rules revealed, items, locations,
+  timeline events, level/decode_debt changes, anything now known to the reader). Plain
+  bullets the orchestrator can append verbatim. Do not restate old facts; only the delta.
 Hand back when done.

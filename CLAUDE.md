@@ -24,7 +24,8 @@ BOOK-LEVEL PASS (run once per book):
   4. chapter-architect  -> book/outline.md   (adds ~10 section specs per chapter)
 
 SECTION LOOP (per chapter, repeat for each of ~10 sections):
-  5. writer             -> book/chapters/chNN/sNN.md   (updates book/bible.md)
+  5. writer             -> book/chapters/chNN/sNN.md   (writes ONLY the section file;
+                           reports a BIBLE DELTA; the ORCHESTRATOR appends it to book/bible.md)
   6. continuity-checker -> book/chapters/chNN/sNN.notes.md   (Ch 14-22: also loads
                            book/SERIES_LORE.md read-only and enforces the SEAL LIST)
   7. editor             -> overwrites sNN.md with edits   (Ch 14-22: also loads
@@ -95,8 +96,12 @@ githooks/pre-push         (git pre-push hook; runs check_canon.py, blocks push o
 
 ## Shared ground truth
 - book/bible.md is the single source of truth for characters, System rules,
-  timeline, and open threads. The writer updates it after every section. The
-  continuity-checker and editor read it and must never contradict it.
+  timeline, and open threads. The ORCHESTRATOR (you) owns it and APPENDS to it after
+  every section, using the writer's BIBLE DELTA report. The writer NEVER writes to it:
+  the writer's Write tool truncates, and one stray Write clobbers the whole canon (this
+  has happened; check_canon.py + the pre-push hook are the deterministic backstop, and
+  the writer is now forbidden to touch any canon file). Append facts, never rewrite
+  history. The continuity-checker and editor read the bible and must never contradict it.
 - book/style.md defines the voice and the LitRPG formatting. All prose obeys it.
 
 ## Series-level seal (book/SERIES_LORE.md)
