@@ -251,6 +251,22 @@ load-bearing beats).
         > Cost paid: -3 Levels.  Decode tax applied.
       NOTE: Tier 1 is NOT a sanctioned trough, so Ch 13 must CLOSE at Level >= 12 (recovery ground out in s6 via
       the dying district's final surge). This is the End-of-Act-Two ~23 debt mark, on the projected curve.
+    - #9 (Ch 14, s3): APEX PERSONAL-LAYER READ-GATE PRY. The apex's personal/build layer is ACCESS-SEALED to his
+      account ("read denied. gate held against KESSLER, A."); reading could not reach it, so an EDIT was required
+      to break the read-gate. Tier 2 (apex-deep access rule). Progress cost: -8 levels (Level 13 -> Level 5, a
+      SANCTIONED DEEP-EDIT TROUGH; he grinds 5 -> 13 back in s4 on the opening incursion). decode_debt += 8.
+      Running decode_debt = 31 / 100. Effect local to this read (spent edit; only decode_debt permanent). Body
+      cost heavy (double nosebleed, eye-spike that stayed, overlay to static). What the opened layer reads:
+      difficulty TUNED, calibration source = his account, target = the exact edge of what he can comprehend, "not
+      a barrier, a measurement of one reader." ANNOTATION ACCEPTED block (canonical, "> " prefix):
+        > [ SYSTEM ]
+        > ANNOTATION ACCEPTED.  Account: KESSLER, A.
+        > Target: APEX, personal layer (read-gate).
+        > Read-gate revised: sealed -> legible to account.
+        > Scope: this account. This read.
+        > Cost paid: -8 Levels.  Decode tax applied.
+      This realizes the PRE-COMMITTED ACT THREE LEDGER Ch 14 entry (+8 -> 31). SEAL: the read stays SINGULAR to
+      Aaron ("Him. Only him."); no other readers/worlds/recurring seat, no WHY.
 
   The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -2722,3 +2738,24 @@ load-bearing beats).
 - **NO mechanical change:** no annotation, no edit, no level/debt change. State holds **Level 13, decode_debt
   23/100, Analyze, NULL_OPERATOR / unhandled.** Crew alive: Tess, Marcus, Priya. Hutch DEAD. SEAL intact.
   Sets up s03 (the costly pry: written for him, tuned to his edge).
+
+### Ch 14 (Sec 3) established facts now known to the reader
+- **THE COSTLY PRY (ledger #9; the chapter's load-bearing edit).** The apex's personal/build layer is
+  ACCESS-SEALED to Aaron's account (overlay: "read denied. gate held against KESSLER, A."). He cannot read it,
+  he has to break the read-gate, which is an EDIT. Tier 2. **decode_debt 23 -> 31/100.** Level cost **-8
+  (Level 13 -> Level 5)**, a SANCTIONED deep-edit trough (grinds back in s4). Heavy body toll (double
+  nosebleed, eye-spike that stays, overlay guttering to static). Reading is free; the pry/edit is what costs.
+- **WHAT HE READS (the apex was written for him).** Once the gate opens: difficulty TUNED, calibration source
+  = his own account, target = the exact edge of what he can comprehend. "Not a barrier. A measurement of one
+  reader." It is an EXAM built for him, not a wall. He is flattered and trapped. Overlay blocks (verbatim,
+  reuse): the SEALED denial ("> # APEX: personal layer. ... read denied. ... gate held against KESSLER, A.")
+  and the build-parameters read ("> # APEX: build parameters. # difficulty: TUNED. # calibration source:
+  account KESSLER, A. # target: the exact edge of what this account can comprehend. # not harder. not easier.
+  fitted. # note: this is not a barrier. this is a measurement of one reader."). ANNOTATION ACCEPTED block as
+  recorded in ledger #9.
+- **SEAL (held):** the read is strictly SINGULAR ("Him. Only him."). NO other readers/worlds/parallel
+  settlements, NO recurring or standing seat, NO unsupervised-Administrator, NO why-he-is-exempt. The wonder
+  stops at "it built a thing precisely for me."
+- **SECTION CLOSE:** Aaron at **Level 5, decode_debt 31/100**, holds Analyze, NULL_OPERATOR / unhandled
+  (momentary L5 sheet: HP 90, Per 18, Wits 14). Crew alive: Tess, Marcus, Priya. Hutch DEAD. Sets up s04 (the
+  crew commits; he grinds Level 5 -> 13 back on the apex's opening incursion).
