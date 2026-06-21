@@ -2865,7 +2865,7 @@ load-bearing beats).
 
 ### Ch 15 (Sec 2) established facts now known to the reader
 - **THE DEEP READ (free).** Aaron reads the threshold's admission grammar to its floor, the deepest read
-  yet (strenuous and physical, heat and pressure behind the right eye). It is a READ: no decode_debt, no level
+  yet (strenuous and physical: heat behind the right eye, pressure in the socket). It is a READ: no decode_debt, no level
   cost. Overlay reads (verbatim, reuse): admission is a SETTLEMENT ACCESS TERM, a property of the settlement
   not the door, binding on all accounts; "edit precondition: account must stand OUTSIDE settlement terms;
   default: no account stands outside its own settlement."
