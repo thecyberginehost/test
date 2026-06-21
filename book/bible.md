@@ -318,6 +318,22 @@ load-bearing beats).
       67 / 100 (51 -> 59 -> 67), on the pinned curve. At 67 his reads BLUR (high-debt symptom), which sets up the
       killing floor (s5). SEAL: overflow local/mechanical, the curriculum is the AI teaching ITSELF by making HIM
       teach it (singular to Aaron), no WHY.
+    - #13 (Ch 18, s3): CORE OUTER READ-SEAL PRY. The dungeon's core (CORE_GRAMMAR) is ACCESS-SEALED, twice over;
+      a plain read slides off it. Aaron breaks the OUTER read-seal with a Tier-2 read-gate pry (sealed -> legible
+      to account), the same maneuver as #8 (Ch13) and #9 (Ch14). Tier 2. Progress cost: 10 levels. He had ground
+      to Level 33 (32 above the Level-1 floor), which EXCEEDS the 10-level cost, so per the LOCKED PROGRESS-COST
+      OVERFLOW rule the overflow clause does NOT fire: PAID IN FULL, -10 levels (Level 33 -> 23), CARRIED 0. This
+      is the FIRST edit since the Ch15 forge to clear in full (thematic: "he can afford his own literacy again";
+      he braces for the floor-crash and instead the bill just pays, no carry, no Priya catch). Body cost real
+      (double nosebleed, eye-spike past its crest, overlay strobing) but he survives it STANDING. decode_debt
+      += 8. Running decode_debt = 75 / 100. Stats at L23: HP 270/270, Per 54, Wits 32 (Str 5/Agi 6/Vit 6). ANNOTATION
+      ACCEPTED block (canonical "> " prefix, read-gate format, NO Carried line, the deliberate contrast to #10's
+      forge block): Target CORE_GRAMMAR, outer read-seal (read-gate); Read-gate revised: sealed -> legible to
+      account; Scope: this account. This read; "Cost paid: -10 Levels.  Decode tax applied." First of Ch 18's two
+      Tier-2 read-gate prys (67 -> 75 -> 83). Opens the god's hardest code to his account for this read; a deeper
+      SECOND seal is now visible behind it (sets up s4/s5). SEAL: the exemption appears ONLY as the bare fact that
+      his account CAN touch the read-gate (as Ch13/14), never WHY; CORE_GRAMMAR is local to this dungeon (Earth);
+      no other readers/worlds/recurring seat, no no-handler inversion.
 
   The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -3233,3 +3249,21 @@ load-bearing beats).
   decode_debt 67/100**. Crew (Marcus's hand at his back, the forearm pink/healing from Priya's Mend; Priya's
   voice from the dark) are human ground only: reading was never their job (it was his, and Tess's). Despair, the
   bar set impossibly high. Sets up s3 (he attempts the read anyway and breaks the first seal with an edit).
+
+### Ch 18 (Sec 3) established facts now known to the reader
+- **FIRST CORE READ-SEAL BROKEN; FIRST EDIT THAT PAYS IN FULL (ledger #13).** Aaron breaks the core's OUTER
+  read-seal with a Tier-2 read-gate pry (CORE_GRAMMAR, sealed -> legible to account), the Ch13/Ch14 maneuver.
+  At Level 33 he can AFFORD it: cost 10 levels PAID IN FULL (Level 33 -> 23), CARRIES NOTHING (the overflow
+  clause does NOT fire; available levels exceed the cost). decode_debt += 8: **67 -> 75 / 100**. This is the
+  FIRST edit since the Ch15 forge to clear in full: thematic payoff, "he can afford his own literacy again."
+  He braces reflexively for the floor-crash / the System carrying the remainder, and instead the bill just pays,
+  clean, no carry, no near-death, no Priya catch. The ANNOTATION ACCEPTED block has NO "Carried" line (the point
+  of the beat; contrast the Ch15 forge block's "Paid: 12 (to floor). Carried: 35."). Body cost real (double
+  nosebleed, eye-spike, overlay strobing) but he survives it STANDING. See ledger #13.
+- **Stats now LEVEL 23.** HP 270/270, Strength 5, Agility 6, Vitality 6, Perception 54, Wits 32, holds Analyze,
+  NULL_OPERATOR / unhandled, **decode_debt 75/100**. The outer seal broken, the god's hardest code (CORE_GRAMMAR)
+  is legible to his account for this read; a deeper SECOND read-seal is now visible behind it, and the grammar's
+  convergence point where the writing goes loose/unfinished is in view. Sets up s4 (where the god is sloppy, and
+  the door) and s5 (the second seal / reading into the original error). SEAL: exemption = bare mechanical fact
+  only (his account can touch the gate), never WHY; CORE_GRAMMAR local to this dungeon; no other readers/worlds/
+  recurring seat / no-handler inversion. Crew of three; Tess and Hutch dead.
