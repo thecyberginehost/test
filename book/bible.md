@@ -3413,3 +3413,22 @@ load-bearing beats).
   and weapon inseparable. He is not yet ready to let the crew's presence answer the god (that lands in s4). SEAL
   HELD (continuity-confirmed): "chosen" stays singular to this one subject (no "chosen again" / recurring seat),
   Earth-only, no prior/other readers, no no-handler inversion, no structural WHY. Crew of three; Tess/Hutch dead.
+
+### Ch 19 (Sec 4) established facts now known to the reader
+- **THE CREW GROUNDS HIM; HE CHOOSES HIS OWN ANSWER.** The human rebuttal to the god's design: Priya and Marcus
+  CHOSE to follow Aaron, by their own decision the administrator did not author. Priya chose him in the tower
+  after he told her he was a glitch and to find a real class (compresses the canon Ch2-3 join); Marcus left a
+  depot line he could have held to stand behind Aaron (canon Ch5 depot/Bulwark origin). Aaron takes OWNERSHIP of
+  his answer: he accepts he is the invited subject yet refuses to let the administrator have the last word on
+  what he is. HINGE resolves by his decision, not by answering the god's why: "It could name the door. It did
+  not get to name him." SEAL OK (continuity-confirmed): "chosen by the god" stays singular; "chosen by the crew"
+  is the counter-weight; no recurring seat / prior readers / other worlds / no-handler inversion / structural why.
+- **THE APPROACH-GRIND: Level 15 -> 34 (NEW HIGHEST), debt UNCHANGED at 83.** As the crew pushes the last
+  gauntlet toward the boss arena, Aaron GRINDS the normal ladder Level 15 -> 24 -> 34 (two LEVEL UP blocks, +2
+  Per / +1 Wits each), surpassing the Ch18 Level-33 peak. NO EDIT: decode_debt STAYS 83/100 ("the debt ...
+  refusing to move because none of this touched it"; the grind is free of the tab). This grind is what makes the
+  s5 Tier-2 boss-derivation pry AFFORDABLE (pays in full). At Level 34: HP 380/380, Strength 5, Agility 6,
+  Vitality 6, Perception 76, Wits 43, holds Analyze, NULL_OPERATOR / unhandled, decode_debt 83/100.
+- **REACHES THE BOSS ARENA.** The crew reaches the lip of the apex boss arena; the settlement begins folding
+  toward its FINAL FORM, descending into the arena's center, as Aaron sets his feet to read it. Sets up s5 (the
+  Tier-2 boss-derivation read-gate pry, 83 -> 91). Crew of three; Tess and Hutch dead.
