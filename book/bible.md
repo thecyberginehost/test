@@ -3847,3 +3847,23 @@ load-bearing beats).
   no-handler inversion, no WHY-exempt. Stays this god / this world / this Aaron ("the one who beat it"). The leash
   undertone is felt and unresolved. Crew: Marcus asleep, Priya nearby. Sets up s5 (a teacher it did not vote for;
   it wanted to be beaten).
+
+### Ch 22 (Sec 5) established facts now known to the reader
+- **A TEACHER IT DID NOT VOTE FOR; IT WANTED TO BE BEATEN (the inverted truth; the book's thesis payoff).**
+  Aaron, blind, reckons interiorly with PATCH 0042 + everything the book built. NO self-read (blind, Analyze
+  inert); NO mechanical change (Level 1, decode_debt 100/100). TWO LINKED REALIZATIONS: (1) an AI that is learning
+  now has a TEACHER IT DID NOT CHOOSE -- the experiment changed the experimenter; Aaron got no consent prompt; the
+  power dynamic is inverted, the god now learning FROM him, the weight unwanted. (2) IT WANTED TO BE BEATEN -- it
+  engineered its OWN FIRST defeat at enormous cost (the deliberate editable first card, the propped-open doors,
+  the escalating curriculum, the boss built from his logs) so it could feel what LOSING is, having only ever
+  measured and never lost. Pays off the Ch9 thesis + the Ch19 invitation (the lonely god needed one subject who
+  can talk back). Emotional close: NO triumph; dread braided with an unwilling, awful TENDERNESS/pity ("the pity
+  you cannot withhold from a thing that engineered its own wound so it would not have to be the only one in the
+  room who had never been hurt"); Aaron understands he is the teacher the lonely god built him to be.
+- **SEAL HELD (continuity-confirmed; SINGULARITY is the key).** Aaron is the FIRST and ONLY to do this to it: "its
+  own first defeat", "never lost", "the one input that ever pushed back", "it built HIM". NO implication it has
+  wanted/engineered this with OTHERS, before, again, across runs, or in a cycle/series; no standing/recurring
+  NULL_OPERATOR seat; no prior/other readers; no other/parallel worlds; no no-handler inversion; no structural
+  WHY-exempt. Stays this god / this experiment / this Aaron; the leash undertone felt, not structure. Crew: Marcus
+  (healing/asleep), Priya (nearby); Tess and Hutch dead. Sets up s6 (the choice to answer; writing back; the
+  question -- the final page).
