@@ -3764,3 +3764,22 @@ load-bearing beats).
   Perception 10, Wits 10, holds Analyze (INERT, cannot self-surface). Crew of three: Marcus (Bulwark, torn,
   upright), Priya (Mender, spent, moving). Tess and Hutch dead. HOOK into Ch 22 (the denouement): the god now
   DELIVERS text to him; the reopened/upgraded experiment is the bridge to Book Two.
+
+### Ch 22 (Sec 1) established facts now known to the reader
+- **THE DANGER GONE; A HOME AND A GRAVE.** Three days after the apex climax: the immediate threat is over (no
+  rifts, no timed waves, the apex above gone quiet); the world is not safe but no longer actively trying to end
+  them. NEW CANON (world-building, non-contradicting): the crew's first permanent HOME since the System came is
+  an old FIRE STATION on the cleared edge of the apex district (brick, high bay doors, a yard the survivors are
+  walling) -- the first ground that has ever been theirs. GRAVES in the station yard: Tess Calloway (no body, the
+  floor took it; marker = a length of rebar bent into a loop, driven in at the corner of the wall, her name on a
+  board) and Hutch (Daniel "Hutch" Boyd; a board with his name). Joy and loss braided; the peace cost people.
+- **BLIND-CONSISTENCY / NO mechanical change.** Aaron is permanently blind and reads NOTHING here (no decode,
+  overlay, gray text, self-surfaced block, Analyze): he moves through the home and stands at the graves through
+  ordinary senses alone, one hand on the wall to keep his bearings ("did not reach for any read, because there
+  was none left to reach for"). Stays Level 1, decode_debt 100/100, blind (HP 50). The man who read the hidden
+  layer of everything now stands at a grave he can only feel, in a home he can only touch. Tess is rendered with
+  weight (the other reader, who should have seen this foothold); her age is SIXTEEN (per bible canon).
+- **CREW.** Aaron (blind, L1, recovering), Marcus (Bulwark, arm strapped to his chest, healing), Priya (Mender,
+  tending Aaron); both stand the grave-watch with him. Tess and Hutch dead/buried. SEAL: nothing structural; this
+  world, this city, these people; the Aaron/Tess "saw in two layers" kinship stays singular (not a recurring seat
+  / prior reader); no WHY / standing seat / other worlds / prior readers / no-handler inversion.
