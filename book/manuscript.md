@@ -2,11 +2,13 @@
 
 *Anomaly Detected* (Book One)
 
-Chapters 1-13 (Acts One and Two). Protagonist: Aaron Kessler (NULL_OPERATOR).
+By Kade Zero
 
-- Chapters: 13
-- Word count: 59,528 words
-- Page estimate: 216.5 pages (at 275 words per page)
+Chapters 1-20. Protagonist: Aaron Kessler (NULL_OPERATOR).
+
+- Chapters: 20
+- Word count: 89,936 words
+- Page estimate: 327.0 pages (at 275 words per page)
 
 ---
 
@@ -430,7 +432,7 @@ Whether it held was a different question, and the room had not answered it yet.
 
 The counter climbed. Aaron wiped his mouth, found his hand shaking, and watched it.
 
-[ Suffocation ]  Stacks: 8
+    [ Suffocation ]  Stacks: 8
 
 He counted it the way he used to count the gap between an alarm and a page. Eight. The room was still drowning. The woman by the whiteboard made a sound like a straw at the bottom of a glass, and the man near the door had both hands flat on the table, breathing in short hauls that gave him nothing. The block had told them they died at twelve. Nobody in the room could see the wall had moved.
 
@@ -3492,4 +3494,1723 @@ Under four hours on the clock. At zero the apex came for the city, and he was th
 > [ SYSTEM ]
 > KESSLER, A.  NULL_OPERATOR / unhandled
 > Level 13   decode_debt 23 / 100
+> Skill: Analyze
+
+## Chapter 14: The Apex Opens
+
+The clock ran out one second at a time, indifferent to what it was counting toward.
+
+Aaron stood on the rim of the dead district with the crew and watched it go. The public timer hung over the city in everyone's sight at once, a thin string of numbers stripped of color, and it did not hurry at the end. It did not toll. It reached zero and held there for a breath, blank, the way a screen sits blank in the instant after you hit the command and before the thing you started actually happens.
+
+Then the city's heart opened.
+
+This was not a rift. Those were tears, ragged holes monsters fell out of. This was deliberate. Six blocks of downtown, the old financial spine where the towers stood, simply stopped being. The buildings did not fall. They were unwritten. Here, then not. Into the space they left, the apex came up from underneath like something surfacing from very deep water.
+
+It was the size of a district. Aaron's mind refused the scale for a second and then took it, and taking it was worse. The structure climbed past where the towers had been and kept climbing. Dark and faceted, wrong in a way his eyes could not hold still, every plane of it meeting every other plane at angles that should not have closed. It was not a building. It wore the idea of a building the way the dashboard had worn the idea of a healthy server. A surface that described itself, and nothing real underneath.
+
+The sound arrived a half-second behind the sight, because it was that big. A low pressure came up through the soles of his boots before his ears found it, and then a tone under everything, not a roar, a hum, the note a vast machine makes when it powers on and means to stay on. Glass that had survived the whole apocalypse went to dust along the avenues. The wrong sky bent toward the new shape and held there, sucked taut.
+
+Around him the city screamed. Not the monster-scream he had learned to read. The human kind, thousands of throats at once from every shelter and broken street, the sound of a species seeing the thing it could not fight. Priya had a hand over her mouth. Marcus had gone still, his own version of flinching, shield half-raised at nothing, at all of it. Tess was not screaming. She was staring up at the apex with her head tilted, reading it, and her face had the look his own face had when the layer showed him something the surface was lying about.
+
+"It's not for them," she said. Quiet, just to him, under the noise. "It doesn't move like it's hunting. It moves like it's waiting."
+
+He did not answer yet. He let the public block write itself across his sight with everyone else's. Terse, clinical, the System speaking to the whole city in the voice it used when it wanted to be believed.
+
+> [ SYSTEM ]
+> SETTLEMENT TRIAL: apex dungeon manifested.
+> The wager will now be measured.
+> One structure. One outcome.
+> All accounts assessed by the result.
+> Clear the apex, or be settled with the sample.
+
+The sample. He read the word and felt it land in the others a beat later, watched it move through the crowd as a fresh wave of noise, people grabbing for what it meant and finding the bottom of it. Clear it or die. A timer with the whole species inside it.
+
+That was what they saw. Aaron saw the frame under the frame, the thing he had pried open in the dying district an hour ago, the bet and its needle and the one account carved out of the count. This was not the end of the world arriving. This was the test arriving, dressed as the end of the world, because the test landed harder that way. He knew what it was. He could not yet read how it had been built, and he already suspected the answer was going to be personal.
+
+Down on the streets below, the survivors were already moving toward it. All of them. From every direction at once.
+
+They came from everywhere, and Aaron watched the city decide what kind of animal it was going to be.
+
+The loners moved first, the ones who had survived this long by not being where anyone else was. They peeled off rooftops and out of stairwells and made for the apex the way iron filings find a magnet, because the System had named the only door that mattered, and after months of running there was a relief in being told. Then the timer wrote itself over the apex for everyone at once, hung in the wrong sky beside the structure like a price tag.
+
+> [ SYSTEM ]
+> SETTLEMENT TRIAL: clearance window open.
+> Apex must be cleared before the window closes.
+> TIME REMAINING: 03:47:12
+> On expiry: all accounts in zone settled with the sample.
+> No extension. No appeal.
+
+The numbers counted down in flat font for the whole city, and Aaron felt the avenues below him change pitch. Three hours to walk into a thing the size of downtown and come out the far end. The screaming thinned, not because the fear had eased but because fear costs breath, and people had started to do math instead.
+
+"There," Tess said. She was not looking at the apex now. She had her chin down, eyes tracking the streets, reading the crowd's movement. "South channel. That's a whole group moving as a group. See how the front holds a line?"
+
+Aaron found them. Fifty bodies pouring up the avenue from the old market district in a column that did not break or scatter, a shield wall at the head catching loose debris the way a plow turns soil. Class-card drunk strangers did not move like that. That was drilled. That was somebody's faction, and somebody ran it.
+
+"Marshals," Marcus said, low, the word coming out of the ex-soldier in him. "Or playing at it. That's a Bulwark on point, two more behind. They've got a healer in the pocket and they're spending her like she's free." His jaw worked. "They'll clear a path. They'll also walk over anybody standing in it."
+
+Priya had come up on Aaron's other side, reading the column for the thing she always read. "They've got wounded in the middle. A lot of them. Carried." She said it like a diagnosis. "Whoever leads that doesn't leave people behind. That's a tell. You can deal with a group that doesn't leave its people."
+
+From the east a second mass was building, and this one had no line at all. It came up out of the dead blocks in a churn, dragging carts and whatever had been people's whole lives, and where the southern column flowed the eastern one ground. Two cars locked fenders at an intersection and nobody yielded and a knife came out before the monsters had so much as twitched. Aaron watched a man die over six feet of cracked asphalt with a god-sized exam looming over both their heads, and the obscenity of it sat in his chest like a swallowed stone.
+
+"That's the part nobody plans for," Tess said, gone quiet under the noise, just for him. "It's not the apex that kills most of these people. It's the next three hours of everybody arriving at the same door."
+
+She was right. She was always right, reading it from the outside with no overlay to lean on. The clock did not unite them. It pressed them, took every feud and frightened cluster in the city and shoved them down the same funnel with a knife already out. The social apocalypse was older than the rifts. The rifts had only given it a deadline.
+
+Aaron made himself count. The marshal column would reach the apex first and try to own the threshold. The eastern churn would arrive behind them. They came armed and would not be owned by anyone. Smaller groups sniffed the edges. Some would cooperate to survive. Some would turn the instant the door did something they did not understand.
+
+And it was going to do something none of them understood. He knew that better than anyone here. The apex above him was not a wall but a question, and the question had his name on it, and they were going to throw themselves at a door that would never open for a clean class.
+
+He looked away from the crowd, up at the dark facets, and let the pressure build behind his eye.
+
+The pressure behind his right eye thickened to a point, and the apex surfaced under it, edges first.
+
+The surface read like nothing. A faceted shell with the wager's flat public grammar bolted across it, clear-it-or-die in a font built for anyone. He pushed under that. The dim layer answered with the wet click he knew in his back teeth, gray comment-text scrolling against the dark facets, and he reached for the part that would tell him how the thing was built.
+
+The read stopped at a wall.
+
+> # APEX: personal layer.
+> # access: SEALED to account.
+> #   this layer is not legible. read denied.
+> #   gate held against KESSLER, A.
+
+He pushed harder and the gate did not give. This was not difficulty. He knew difficulty, the deep grammar that fought him because it ran past his level. This was a door locked specifically against him. The wager's sealed terms again, the fine print he had pried open three hours ago, except this sat apex-deep and had his name on the lock.
+
+He could not read it. He had to break it open. That was an edit.
+
+The standing offer resolved against the gate, the gray text quoting him the price, no mercy in it.
+
+"Tess." His voice came out wrong. "Don't let me fall."
+
+"What are you doing?"
+
+"Reading something it doesn't want me to."
+
+He put his will on the gate and revised the one value that held it, sealed to legible, and pushed.
+
+The cost tore loose all at once. Eight levels did not feel like one. The warm weight of the climb ripped out of him in a single sheet, and he guttered down through the numbers, 13, 11, 9, 7. Then it stopped at 5, like a tooth coming out by the root. His HP cinched in. His Perception fell off a cliff and the whole city went dimmer, less sharp, a man with worse eyes. The decode tax came in on the heels of it, the tab telling on him now, eight points of debt clawing in at once where the wager-pry had only charged three. Blood came in a hard double rush over his lip, then his chin. The spike behind his eye drove deeper and stayed. His overlay stuttered to static, came back, stuttered, the dim layer flickering like a feed about to drop.
+
+> [ SYSTEM ]
+> ANNOTATION ACCEPTED.  Account: KESSLER, A.
+> Target: APEX, personal layer (read-gate).
+> Read-gate revised: sealed -> legible to account.
+> Scope: this account. This read.
+> Cost paid: -8 Levels.  Decode tax applied.
+
+Then the sealed layer was just there, open under his ruined sight, and he read it, and it was worse than a wall.
+
+> # APEX: build parameters.
+> #   difficulty: TUNED.
+> #   calibration source: account KESSLER, A.
+> #   target: the exact edge of what this account can comprehend.
+> #   not harder. not easier. fitted.
+> #   note: this is not a barrier. this is a measurement of one reader.
+
+He read it twice because the first time his mind slid off it, refusing. The dungeon was not built to keep him out. It was built to be read by him, every floor pitched to the precise lip of what he could decode and no further, the way you set a test against one student's transcript. Not a wall. Not even a fight. An exam, written to fit him, the size of a district.
+
+Something in him lifted at that. Ugly, helpless, the flattery of it. Out of every survivor screaming under that wrong sky, the thing had built itself around the one set of eyes that could read it. Him. Only him.
+
+And it was a trap with his measurements in it. Built to his edge meant built to never let him rest, every floor the hardest thing he could just barely do, right up to the limit of himself.
+
+"Aaron." Tess had him by the collar. His knees were in the rubble. He had not felt them go.
+
+"It's not a wall," he managed. The static cleared by inches. He spat red. "It's an exam. It wrote me an exam."
+
+Level 5. He could feel how far he had fallen, thirty-one points of debt behind his eye, and the apex hummed back, patient, waiting for him to come up to where it could grade him.
+
+The apex answered the word *exam* by emptying itself.
+
+Aaron heard it before he saw it, a held breath let go through a thousand throats. The facets split along new seams and the brood came out. Not one rift but a hundred, the near wall unzipping into hostile geometry, the things inside spilling down the rubble toward the factions like water finding low ground. The apex's grammar made flesh, wet gray things on too many joints, and not slow.
+
+"Up," Tess said, already on her feet, reading the slope with her chin and not her eyes. "Both flanks. Go."
+
+He could not go anywhere. Level 5, a city of debt behind his eye, the slope tilting. The field had dimmed when his Perception fell off, crawling now with shapes his ruined sight could barely sort. He found his knees, and under his hand the rebar he had wielded for two districts, and closed his fist on it.
+
+The factions to his left broke and reformed. Someone screamed a name. His crew, the three of them left, did not run.
+
+Marcus stepped past him and planted, shield-arm out, and the first thing off the slope folded against him and went nowhere. "Behind me," he said, not loud. "All of you." That was his whole speech.
+
+Priya had a hand fisted in Aaron's collar and her other lit, the Mender warmth holding the bleed at his lip to a trickle. "We're not splitting," she said, flat. "You don't go in alone. Whatever it wrote you, it wrote you with us standing here."
+
+"It's an exam for one," he started.
+
+"Then we'll be the part it didn't grade for." Tess grinned at him, fierce, sure past her fifteen thousand hours, and called the next spawn before it crested. "Left, two, tall one's leading. Marcus, half-step."
+
+Marcus half-stepped. The tall one died on his shield.
+
+So that was decided, without a vote, in the middle of a thing trying to eat them. The apex had cut a door to fit an error, and the error's family would walk through at his back whether the door liked it or not. Something in his chest that had insisted all book it did not care sat down.
+
+Then the thing it had built him paid out, as he had read it would.
+
+Far under his real strength, every kill landed like a windfall. At Level 5 these chores were a fortune, and the incursion threw them by the dozen. He got the rebar into the wet slit of the first in the gap Marcus opened, felt the EXP hit warm, and the corner of his sight brightened.
+
+> [ SYSTEM ]
+> LEVEL UP.  You are now Level 6.
+
+He took the next on the backswing. Tess called the one flanking him a half-beat early and he turned into it instead of away. Marcus held the line, Priya kept him upright, and the levels came back the only honest way, one body at a time, no annotation, no edit, the tab behind his eye reading what it had since the pry and not a point more.
+
+> [ SYSTEM ]
+> LEVEL UP.  You are now Level 9.
+> +Perception.  +Wits.
+
+His sight sharpened by inches. The slope resolved, the gray comment-text steadying, the field going from smear to detail. He stopped flinching at what he should be carving, and started carving.
+
+The last of it came as one block, the climb closing over the hole the edit had torn.
+
+> [ SYSTEM ]
+> LEVEL UP.  You are now Level 13.
+> +Perception.  +Wits.
+>
+> Aaron Kessler
+> Class: NULL_OPERATOR   status: unhandled
+> HP 170/170
+> Strength 5   Agility 6   Vitality 6
+> Perception 34   Wits 22
+
+He came back into his body whole, the climb seated where the pry had ripped it loose, his eyes his own again. The decode tab had not moved. Thirty-one, the cost that did not grind back.
+
+The incursion thinned to nothing, the slope littered, the factions counting dead. His crew was still standing. Bloody, but standing.
+
+Tess wiped her face and looked up the rubble, at the seam where the apex had spat its brood. The door under it was dark and waiting.
+
+"So," she said. "We knocking, or what."
+
+Marcus shouldered his shield. Priya stepped up on Aaron's other side. The four of them turned toward the place the world had built for one.
+
+The seam under the apex was not a door so much as a wound the structure kept shut.
+
+It ran floor to ceiling where two facets met, a vertical dark, no handle, no hinge. As the crew climbed the last of the rubble the factions came too, survivors from three sides, all arriving where the clock sent them. A man in a transit worker's vest reached it first, his class card already up like an offering.
+
+The seam read it. Aaron felt the read go past him, the wet press behind his right eye, the gray comment-text bleeding through under the public one. The top said nothing. The bottom said plenty.
+
+> [ SYSTEM ]
+> ACCESS DENIED.
+> Account presents: resolved class (TRANSIT-WARD, tier 2).
+> Threshold requires: unresolved account.
+> This account is handled. Sealed.
+
+The seam did not open. It pushed. The man went back a step on a force with no shape to it, swearing at the dark like it owed him.
+
+Then everyone tried at once. Cards came up across the rubble, a Reaver, two Wardens, a Sentinel whose blue seam flickered the way Lena's had in a doorway he would never see again. The seam read each in turn. *handled. handled. sealed. handled.* A clean class was a finished thing, and a finished thing the door would not take. A lock does not hate the key that does not fit.
+
+"Marcus," Tess said, low.
+
+Marcus stepped up because not stepping up was not a thing he did. He set his shield-hand flat against the seam and held his card to it with the other. Bulwark, a class that meant *I will stand in the gap.* Aaron watched the comment-text resolve and his stomach went down a floor.
+
+> [ SYSTEM ]
+> ACCESS DENIED: resolved class (BULWARK).
+> This account is handled. Threshold sealed against it.
+
+Marcus took his hand off the dark. He did not argue. He gave it the look he saved for a wall he could not break, turned to find another way, found none, and his jaw worked once.
+
+Priya did not bother with her card. She pressed her palm to the seam, Mender warmth still lit from holding Aaron's lip together, as if the door were one more body she could keep alive. *handled,* the layer said. *MENDER. sealed.* Tess never raised hers. She read the door, chin up, eyes flat, and arrived at the answer before he said it.
+
+"It's not graded for you," she said. Her own words from the slope, handed back, the fight gone out of them.
+
+"No," Aaron said.
+
+He went himself because there was nothing left, and because some bitter part of him had to see it confirmed. He had no card to raise. He had the thing under it, the field that would never resolve, the cursor parked on a word the System had agreed with itself about on a Tuesday morning. He put his hand to the dark.
+
+The read came back the same as it had on the first morning.
+
+> [ SYSTEM ]
+> Account: KESSLER, A.
+> Class field: NULL_OPERATOR   status: unhandled.
+> Threshold requires: unhandled account.
+> Match.
+>
+> ACCESS GRANTED: NULL_OPERATOR / unhandled.
+
+The seam opened for him. It did not grind or split. It simply unsealed, and a cold breath came out that smelled of wet copper and the burnt thing under it. The threshold stood open to exactly one account on the rubble, and it was the broken one. The exception the System could not null because he was conscious and could not assign because he refused to parse. The one thing wrong with him was the one key cut to fit.
+
+He understood the joke the apex had been telling. It had not locked his friends out by accident. It had built a door that only an error could open, and there was one error. The thing that wrecked his class card had handed him the only ticket through.
+
+Vindicating. Bitter as a split lip. And under both, the plain arithmetic of it. The dungeon would take him. No one else.
+
+He looked back at them, Marcus's hand half-raised at a wall, Priya's warmth dying in the draft, Tess already doing his math and hating it.
+
+"So," he said, his voice wrong. "It built a door for me."
+
+Nobody answered. The clock kept counting over the city, and the thing the apex had written for one stood open, waiting, while the family it would not admit stood in the cold.
+
+The cold breath off the open seam kept coming, and nobody moved to fill the gap it left.
+
+Aaron stood half inside it. One foot on the rubble, one over a threshold the System had cut to the exact shape of his failure. The dark went down into the apex and asked nothing of him but that he be broken in the one way he already was. His account was the key, and it turned either way. The crew was the part that would not move.
+
+"Try it again," he said to Marcus. "With me on the inside. Maybe it reads us as one party."
+
+Marcus came up beside him, card lifted, shield-hand reaching for the dark. The seam read straight past him, found the one account behind the granted one.
+
+> [ SYSTEM ]
+> Party read: not recognized at this threshold.
+> Admission is per-account, not per-party.
+> Account BULWARK: handled. Refused.
+
+His hand stopped a finger's width short, as if glass had slid up between his palm and the inside of the world. He pressed. The glass that was not glass pressed back.
+
+"You're clean," Aaron said. "That's the whole problem." For half a year the world had punished him for being the error. Now it punished them for being whole.
+
+Priya reached for him, two fingers on his wrist, the old triage habit. "You could walk in," she said. Not pushing. "Right now. It wants you. It doesn't want us slowing you down."
+
+There it was, the thing the apex was offering under the door built for one. Solitude.
+
+He let himself feel the pull, because he was no liar and the pull was real. The man who shipped fixes at one in the morning so no one could slow him, who told Tess on a stairwell that he worked alone, who watched a husk wear Hutch's face in the gap his caution opened. No one to read for, no one to lose on a floor he couldn't reach in time. The dungeon had read him to the marrow, and it had read that too.
+
+He found Tess in the cold light. She had not raised her card once, just watched him do the math she'd already done.
+
+"Don't," she said. Not a plea. A call, the way she called a flank a beat before it landed. "Don't go in there alone and clever and dead. I'll know the second it gets you, with a wall in my face and nothing I can do." Her voice cracked and held. "We didn't climb out of that tower so you could find a fancier way to do this by yourself."
+
+He looked at the three of them lined at a seam the world had drawn to keep them out.
+
+"No," he said.
+
+It was the easiest word he had ever spent. The whole book of him had built toward a man who could walk through that gap and not look back, and at the edge of it the brick turned out hollow. He was not going in without them.
+
+"It built a door for one," he said. "Fine." He turned his right eye toward the seam, and the press came up behind it on cue. The access grammar sat under the public dark, a rule about who the apex would take and who it would refuse. A load-bearing rule. The kind that costs in tens.
+
+"So I'll cut a second door it didn't write."
+
+Tess went very still, because she read what that meant before he said the rest.
+
+"There's no hole here," Marcus said carefully. "You always find the hole. There isn't one."
+
+"Not yet." Aaron set his hand flat against the dark where it had pushed Marcus back. "So I write one in."
+
+It would cost him more than anything he had paid, and he could feel the tonnage of the rule under his palm. He was going to break the System's law of admission, the one that said only the broken get in, and rewrite it to say *and the ones the broken man refuses to leave behind.*
+
+> [ SYSTEM ]
+> KESSLER, A.  NULL_OPERATOR / unhandled
+> Level 13   decode_debt 31 / 100
+> Skill: Analyze
+
+He set his feet, put both hands to the dark, and began to read the door for the hole he meant to carve into it.
+
+## Chapter 15: Forging Passage
+
+His hands had been on the dark long enough that the cold had crept from his palms into his wrists, and the read kept opening under them in slow gray strata.
+
+The access grammar lay there like a foundation under a floor. Public dark on top, and below it the rule that decided the door. He kept his right eye turned into it, the pressure banked behind the socket, and let the layer come up another inch before he spoke. He did not stop reading to talk. He'd learned to do both.
+
+"Here's what it is," he said, voice flat, attention somewhere else. "One rule under this door. It admits an account that's broken in the right way and refuses everything else. That's me. That's the whole list. One name long."
+
+"We heard the part where it's you," Marcus said.
+
+"You didn't hear the part where I make it longer." Aaron pressed his thumb deeper into the seam, found the join where the rule sat on the threshold. "It wrote a door for one. I'm going to write a second one beside it that says the broken man and the people he won't go in without. Then it admits all four of us, because I'll have made that true."
+
+Quiet behind him. He could not see their faces. He could feel them deciding what to do with a thing he had already decided.
+
+"You said this costs in tens." Priya, close at his shoulder, two fingers on his forearm, reading his pulse through the skin. "Tens of what."
+
+"Levels." He kept his eyes in the dark. "Everything I've ground back since the apex opened. Probably all of it. Maybe more than I have."
+
+Her fingers tightened a half-degree and let go.
+
+"Then don't." Tess had come up on his other side, her voice carrying the thing he'd stopped being able to argue with, the call that landed before the move did. "Not don't go. We settled that." A breath. "Don't pour the whole tank into the four of us when you could keep some for what's past the door. You walk in at the bottom of your own sheet, the first thing in there eats you, and we watch you do it to yourself."
+
+"She's right and you know it," Marcus said. "We've stood a line for you cheaper than you stand one for us. Let it be us this time. We go to the door, you go through, we hold the seam from out here and pray."
+
+Aaron's read found the floor of the rule and stopped. He let the pressure ease and turned his head, just enough to take them in, three people lined at a threshold the world had drawn to keep them out.
+
+"You'd hold a sealed door from the outside while I bled out alone inside," he said. "That's the version where I keep more levels. I've run it. I don't like how it ends for any of us."
+
+"Neither do we," Priya said. "That's the point."
+
+"I know the point." He almost smiled and didn't have it in him. "You want me to spend less of myself so you don't have to watch me spend it. The cheaper plans all have a wall between us in them, and I'm out of patience for walls. I lost Hutch through a gap I left open to save myself a cost. I'm not saving costs anymore."
+
+Nobody said the name back. The cold off the seam kept coming. Somewhere over the broken skyline the clearance clock was still running, a number none of them could see and all of them could feel.
+
+"So that's settled too," Tess said, low. Not agreement. Surrender, the kind a fighter reaches after she's checked every other line and found them worse.
+
+"It's settled." Aaron set his stance again, both hands flat to the threshold, weight forward. "You have to cross fast when the second door opens, because I won't be able to hold it long."
+
+He turned his full sight back into the seam and let the banked pressure off the leash. The right eye lit with that old wrong heat, the wet click came as the layer surfaced, and the rule lay open under his hands like a page held to a window.
+
+"Now be quiet," he said. "I have to go all the way down to read this."
+
+And he went down into it.
+
+Going down into it was not like the shallow reads. Those had a floor close under the surface, a value to find and lift. This one kept dropping.
+
+The public dark fell away first, the part anyone with a sealed card hit and stopped at. Under it lay the threshold's own grammar, the rule that named the door's one allowed name. He pushed his right eye past the rule that decided who, into the grammar that decided whether the rule could be touched at all.
+
+Heat came up behind the socket as banked pressure, then something that wanted out through the bone. He kept his hands flat to the cold seam and let the gray comment-text scroll up under his fixed gaze, the System explaining the door to itself.
+
+> # threshold ADMISSION: settlement access term.
+> # binding on all accounts within SETTLEMENT_TRIAL.
+> # admission rule = property of the settlement, not the door.
+> #   edit precondition: account must stand OUTSIDE settlement terms.
+> #   default: no account stands outside its own settlement.
+
+He read it twice to be sure his eye wasn't bleeding the lines together. The admission wasn't a door he could shim. It was a settlement access term, the same depth as the wager's, the thing the whole trial was built on. A normal account could batter that rule forever and the grammar would never register the knock. To touch the term you had to stand outside the settlement, and no account stood outside its own.
+
+"Talk to me," Priya said, far off. Her two fingers found his pulse. "Your heart's doing something I don't like."
+
+He didn't answer. He'd reached the line he came down for.
+
+> # exception scan: 1 account flagged outside settlement scope.
+> #   account KESSLER, A. (NULL_OPERATOR / unhandled).
+> #   status: exempt. carve recorded, SETTLEMENT_TRIAL terms.
+> #   ruling: term is editable BY this account. denied to all others.
+> #   note: cannot bind to its own terms an account it cannot parse.
+
+The heat behind his eye spiked white and he rode it down. He read the lines a third time, the slow reread of a config flag about to do what the system swore was impossible.
+
+Exempt. The word sat there in flat gray, and for one strange beat it undid him more than the cost ever would.
+
+This was the carve from the wager, the clause he'd pried open at the bottom of Chapter 13. He'd known it in the abstract, never felt it touch a rule with his own sight. Now he watched the grammar do the thing it would do for no one else alive. The admission term refused every account on Earth and opened a write path for exactly one, and the one was him.
+
+The wonder of it caught him before he could stop, almost tender. He did not ask why. The why was not on the page, and he did not let his mind reach for it. The grammar told him only that it was so, the way a flag tells you the gate is unlocked without telling you who left the key. He took the that and refused the why, because the why was a door of its own and he had no levels to spend prying at it.
+
+The forge was real. He could write a second admission clause beside the first, because the term would let his account, and only his, do it.
+
+Then he read the price, and his stomach dropped.
+
+> # write cost (this account): tier 3, load-bearing access term.
+> # progress charge: tens of levels.
+
+Tens. He had thirteen, ground back from five on the incursion outside, and the grammar wanted more than he owned for one write. A Tier-3 edit, the deepest he'd ever set his cursor against, the kind the cost table kept out of reach so god-mode stayed impossible.
+
+He surfaced just enough to breathe. The cold seam had numbed his fingers to the knuckle. Tess and Marcus waited on the far side of the heat.
+
+"It's mine to write," he said, thick. "The door only bends for my account. Nobody else on Earth could touch it." He set his hands again, weight forward. "And it'll cost more than I have. Don't grab me until I tell you."
+
+He took the heat back into his right eye and went down the last stratum, toward the write.
+
+The write was not like reading. Reading let the grammar come to him. Writing made him push the other way, his cursor against the System's own hand, and the door did not want a second name in it.
+
+He set the first stroke and the banked heat went live. Copper and hot wire climbed the back of his throat, and his right eye answered with a spike that did not crest and fall like the small edits. It only stayed. He worked behind it, blind in the good eye now, the gray comment-text guttering under his fixed gaze as the overlay fought to hold.
+
+> # account KESSLER, A. requests WRITE: second admission clause.
+> # target: SETTLEMENT_TRIAL access term.
+> # permitted: account exempt. write path open.
+> # progress charge: tier 3. computing.
+
+He laid the clause in beside the first, one bound term at a time. His own name. Tess at his shoulder, Marcus at his back, Priya's two fingers hard on his pulse. The grammar took each one and held it, and the cold seam under his hands turned slick, and far off he understood the slick was his nose bleeding onto the door, no hand free to wipe it.
+
+"Aaron." Priya's voice, flat. "Talk."
+
+He couldn't. The charge resolved.
+
+> # progress charge: 47 levels.
+
+Forty-seven. He had twelve to spend above the floor, and the System reached in and took them.
+
+It tore the climb out by the root, the whole earned weight going at once. He felt his Level drop the way you feel a held breath leave when someone hits you. Thirteen. Then the floor dropped under that and kept dropping. Nine. The warm reward-color that had lived in the corner of his sight since the office tower drained out gray. Five. Every rung he had ground back ripping loose and gone, his vision pulling to a tunnel, his arms going to water.
+
+Three.
+
+> # paying down: account at floor in...
+
+One.
+
+He hit the bottom of himself. Level 1. The baseline body he'd worn for ten minutes on a Tuesday before his first kill. HP guttering to fifty. Perception and Wits dropping back to the ten they'd started at, the room going flat and far and underwater. His knees were gone. Marcus's hand closed on his collar, the only reason he was still upright over the seam.
+
+And the charge was not paid.
+
+He read it through the spike, the numbers sliding in his blurred sight, and for one cold beat the wrongness of it cut clean through the pain.
+
+> # account at floor. remainder unpaid: 35 levels.
+> # account cannot be charged below floor.
+> #   non-exempt: write FAILS. insufficient progress.
+> #   account KESSLER, A.: exempt. cannot bill an account it refuses to parse.
+> #   ruling: remainder carried by SETTLEMENT_TRIAL.
+> # write: continuing.
+
+The bill ran past the bottom of him, nothing left to take, and the System did not stop. It did not fail the write as it would fail anyone else. It looked at the number it could not collect and ate the difference, the thirty-five levels he did not have and never would, carried onto the trial's own books, because it had no name for him it could send the bill to.
+
+The bill it could not collect, it paid itself.
+
+It landed as pure mechanical wrongness, a column that did not balance, and he had no room to reach past it. The why of it was a door of its own and he was empty, no levels left to spend prying at anything. He went back to the only thing that mattered, which was that the write was not done.
+
+The second clause hung half-laid, the binding that would make the door read his crew's clean cards and admit them. He had paid for it. He had not yet written it.
+
+"He's bleeding bad," Priya said, far away. Her hand moved to his jaw, and he heard her swear at whatever she found there.
+
+The overlay was a wet smear, the heat behind his eye no longer a spike but a steady white pressure with no top to it. His hands had stopped feeling the seam. He found them by looking. Set them flat on the cold, and bore down into the last of the write.
+
+One clause. Then the door would open.
+
+If he lived to close it.
+
+He wrote the last term blind.
+
+The good eye had quit a beat ago, the room behind it gone to a flat white roar, and he set the final bound word into the door by feel, the cold seam under his palms the only thing left telling him which way was the world. Tess's name. Marcus's. Priya's. He laid each one into the grammar and the grammar took them, slow, the way a lock turns when the key is wrong by a hair and you force it anyway.
+
+The clause closed.
+
+For a half-second nothing answered, and he understood he had spent everything and might have spent it on nothing. Then the door read what he had written, accepted it, and the cost it had held back came in all at once.
+
+> [ SYSTEM ]
+> ANNOTATION ACCEPTED.  Account: KESSLER, A.
+> Target: SETTLEMENT_TRIAL, admission term (access).
+> Admission revised: second clause written. Party of this account admitted.
+> Scope: this account. This threshold.
+> Cost charged: 47 Levels.  Paid: 12 (to floor).  Carried: 35.
+> Decode tax applied.
+
+The decode tax. He had paid the levels already, watched them tear out by the root to the floor. This was the other ledger, the one that never reset and never forgave. It did not take levels. It took him. The pressure behind his right eye stopped being pressure. It became a thing with a point, and the point went in, and kept going.
+
+decode_debt, the number he carried like a held breath, jumped. Not a tick. A leap, thirty-one to fifty-one, the biggest the tab had ever hit him for, nothing banked to cushion it.
+
+His heart stuttered, missed a beat, then a hard wrong knock to catch up. The overlay tore. The gray comment-text ripped down the middle and the halves slid apart, and behind the tear was the flat gray nothing he had seen once on a Tuesday, the walls without their texture.
+
+Blood. He tasted it before he placed it, then his mouth was full of it, coming faster than swallowing could keep up. The body letting go of a seam it had held too long.
+
+He went down. Not a stumble. The strings cut all at once and he folded, and Marcus's hand was still in his collar, so he did not hit the floor, he hung from it, dead weight.
+
+"Down, get him down." Priya, right on top of him now. "Flat. Now."
+
+The floor came up cold against his cheek. Hands rolled him over and a thumb pried his eyelid, and he saw Priya for one swimming instant, jaw set, two fingers at his throat hunting a pulse and not liking what they found.
+
+"He's arresting. Tess, his legs, up." Her hands moved with no panic in them, all triage, the years of it. Heel of one hand to his sternum, a rhythm she set and held. "Aaron. You do not get to do this."
+
+The Mender light came off her palms, that plain green seam, the thing his class could never do because there was no value to revise on a stopping heart. She poured it into his chest and the stutter caught, skipped, then took the rhythm she beat into him and held it.
+
+"Marcus, his head to the side, he'll drown." Marcus turned it and the mouthful spilled clear onto the dark floor, and Aaron coughed, a real one, his own.
+
+"There," Priya said, fierce. "There you are."
+
+He surfaced an inch. The tear in his sight hung in two ragged halves, but a heart was beating under Priya's hands and it was his. Tess had his legs up against her chest, her face white, reading him like terrain.
+
+"He's stabilizing." Flat, certain, the call she gave a spawn. "Priya. He's stabilizing."
+
+Class field still reading NULL_OPERATOR. Status, unhandled. Level 1, the floor of himself, everything above it spent. decode_debt at fifty-one of a hundred, more than half to dark now, bought in one breath. He still held Analyze, the one skill no patch had taken. Tess alive over him, Marcus alive at his head. Priya's green light alive against his ribs. Hutch not. Hutch a debt of a different kind.
+
+The door had taken his crew's names and kept them.
+
+He lay at the bottom of himself on the cold of the threshold and breathed, and the edit held.
+
+Priya let him sit up only when she was sure his heart would keep beating on its own. One hand flat between his shoulder blades, she watched his face for the next thing to go wrong in it.
+
+It did not come. The room held its shape. Behind his right eye the point had dulled to a deep ache he could live with, the bad kind of tired that means the worst is over and the bill is paid.
+
+"The door," he said. His voice came out wrecked. "Check it."
+
+"You check it lying down." But Tess was already up, gliding to the threshold, her hand to the seam. No overlay, just the gesture she had stolen off him by watching.
+
+He surfaced the read to see it with her. It cost almost nothing now, which was its own horror. The dim gray text rose under the dark stone, the admission term laid bare, and he read it the way you read a log after the outage, hunting the line that says it recovered.
+
+There.
+
+The seam reached for an account and found Tess's. Scout. Level 19. A clean card, a finished class, exactly the kind of thing this door was built to refuse. Yesterday the grammar would have hit that card and thrown.
+
+It did not throw. It ran her down the first admission clause and rejected her there, as written. Then it fell through to the second. His clause. The one he had set into the lock with his mouth full of blood. *Party of this account.* That one held her, and the door logged her admitted.
+
+"It took me." Flat, the spawn-caller's voice, but her hand had gone still on the stone. "Aaron. It took me."
+
+"Marcus." His name was enough. The big man laid his palm where Tess's had been, and the seam read Bulwark, Level 17, refused him on the first clause and caught him on the second. Then Priya, without leaving Aaron's side, set two fingers to the cold threshold, and the door admitted the Mender it had been built to keep out.
+
+Three clean classes. Four accounts the dungeon would now take, where it had been written to take exactly one.
+
+It held. However far down the floor of himself he sat, the edit had taken and was keeping.
+
+Marcus made a sound that was almost a laugh. Tess looked back at Aaron, something fierce cutting through the white in her face. He had written his crew into a law that had no slot for them. He had beaten the door.
+
+And under the relief, the other thing arrived.
+
+He had not just beaten the door. He had shown the thing on the far side something. It had been at his shoulder for every keystroke, watched him pay the forty-seven-level cost past the point a body should pay anything, not for a level or a clear, but for three accounts it had filed under disposable.
+
+It had a number now. It knew what he would spend to keep the people the experiment did not count. And it knew that when something stood across that line, he would take a rule the System wrote in its own hand and write over the top of it.
+
+That was the lesson. Not the forge. The forge was just the proof.
+
+> # account KESSLER, A.: admission term rewritten. party admitted.
+> # behavior logged. priority subject.
+> #   note: will overwrite settlement law to retain non-exempt assets.
+> #   threshold: cost-to-self not limiting. revise threat model.
+> # interesting.
+
+His stomach turned over slow. This was the deepest read it had taken of him, and he had handed it over himself, in his own grammar, paid for in his own collapse.
+
+It was learning fastest from him, and he had known that since the midpoint. He just had not understood, until the dim text said *interesting* under the most dangerous thing he had ever told it, that the fastest lesson was this one.
+
+"Aaron." Tess crouched in front of him, reading it off his face. "You went somewhere bad."
+
+"I'm here." He let her haul him up by the forearm, his legs barely his, the threshold open and waiting on all four of them. "Let's not give it anything else for free."
+
+He could not walk it himself.
+
+His legs were under him and that was the most you could say. Priya took his left, his arm over her shoulders, her hand fisted in his collar so he could not pitch forward. Marcus took the right, the whole bulk of him a wall that would not give. Tess walked in front and a half-step in, where she could turn and catch his eyes. She did, twice, reading his face like a spawn line.
+
+So this was how he went through. Not first, not alone. Carried, by the people he had spent an apocalypse insisting he did not need, into a door he had torn open at the cost of nearly everything, for exactly them.
+
+He let it sit. He was too emptied to do anything else with it. Tess said nothing, which was its own kind of saying.
+
+They crossed.
+
+The threshold did not fight them. It read four accounts where it had been written for one, found his second clause, let all of them through. The dark on the far side took the weight of his feet and gave it back as floor.
+
+A different floor.
+
+Carpet. Low industrial loop, the gray-blue of every office he had ever clocked into, worn pale from doorway to desk. The smell hit next: burnt coffee gone to tar at the bottom of a pot, toner, an air handler set two degrees too cold. Fluorescent light, grainy at the edges, a frame behind the world.
+
+Aaron lifted his head off Priya's shoulder.
+
+He knew the room. Forty desks in their rows. The kitchen alcove off to the left with its hairline crack up the support column. The glass-walled conference box at the back, long table, one door. And on the far wall, mounted where the whole floor could see it and nobody ever looked, a monitor.
+
+The dashboard.
+
+A tile sat green in the corner of it. Latency flat. Uptime 99.9. A small checkmark, patient. ord-db-04, healthy at 9:14 on a Tuesday with no heartbeat under it for four minutes. The screen describing itself and not the world. The lie he had lost an argument to, the morning the world ended, rebuilt down to the angle of the mount.
+
+"Aaron." Tess had stopped, looking at the dashboard, then at him, the fearlessness in her gone very still. "This is yours. Isn't it."
+
+He did not answer her, because the walls answered first.
+
+He had no choice about the read now. It came up on its own, the dim layer bleeding through the room without the pressure or the wet click, because nothing was left in him to spend keeping it down. Gray comment-text crawled the green tile, ran the seams of the conference glass, banked across the carpet in the worn track. His own debug overlay, laid over the inside of a memory.
+
+> # FLOOR 1: source material loaded.
+> # environment built from subject record.
+> # KESSLER, A.: earliest record. baseline.
+
+Marcus shifted under his arm. "I don't like you this quiet."
+
+"It built it from me." His voice came out a scrape. The dread arrived slow and total, the cold of standing inside your own past while the thing that runs the world walks you through it. "It pulled the worst morning I ever had and rendered it. Carpet and all."
+
+Priya's hand tightened in his collar. "Why."
+
+He read the next line off the green tile, and it answered her, and it was worse than dread.
+
+> # not a trap. a syllabus.
+> # each floor: one problem subject solved. replayed at depth.
+> # begin where he began.
+
+A curriculum. Every floor below this one was a problem the administrator had watched him work once, set in front of him again, harder, the answer key already in its hand. It had built a school out of the record.
+
+> [ SYSTEM ]
+> KESSLER, A.  NULL_OPERATOR / unhandled
+> Level 1   decode_debt 51 / 100
+> Skill: Analyze
+
+Level one, in his own office, the green tile lying to him exactly as it had the first day. The school went down from here, and it meant to make him solve himself all the way to the bottom.
+
+## Chapter 16: The Dungeon Reads Back
+
+The school went down from here, and it meant to make him solve himself all the way to the bottom.
+
+"Move me," he said.
+
+Marcus did not ask which way. There was only one. He took Aaron's weight off Priya and walked him out of the green office like a drunk steered past something he should not look at.
+
+The far wall was not a wall. It was an opening where the conference glass should have ended, and past it the dungeon dropped away into its real shape. Aaron got his head up over Priya's shoulder and looked down. The dread he had carried since the threshold found a floor of its own.
+
+He knew this. He knew all of it.
+
+It went down in tiers, balconies of dark cut into the dark, each a room with its lights on. The first held a stairwell, a fire door off one hinge. He had read that door's integrity to zero in a tower on the second day. Under it, a freight shutter half-rolled, a lock plate dead in its housing. He had revised that lock from LOCKED to UNLOCKED with a hole the System closed an hour later. Lower, a depot loading dock with sandbags stacked into a funnel that fed every spawn line into one throat. He had placed Marcus there to make the night hold.
+
+His whole record, rebuilt as a building. Every floor a problem he had already worked, the answers turned into walls.
+
+"That's the stairwell from the tower," Tess said, leaning out over the drop, reading it the only way she read anything. "And under it, the depot dock. It built these out of the runs. I recognize them and I wasn't even on half of them."
+
+"Out of me," Aaron said. "You were on the floors. I was on the layer under the floors. It kept the layer."
+
+The read was still up. Nothing in him was strong enough to put it down.
+
+> # syllabus loaded. floors ordered by subject record.
+> # each floor: one solved problem, re-tuned to current reader.
+> # objective: read it again. one tier deeper than last time.
+
+The fire door had been Tier 0, a value flipped to zero with a nosebleed for a receipt. It would not be Tier 0 down there. Nothing replayed at depth stayed the price it had been. His own history, the easy version sanded off every shortcut.
+
+"It isn't punishing us." Flat, because flat was the only way to carry it. "It pulled every win I ever read and made me re-earn them harder. Can I still pass my own work when it costs more."
+
+Priya's hand stayed fisted in his collar. "Then we don't take the course."
+
+"There's no up," Tess said before he could. "Door we came through is gone. It's down or it's nothing."
+
+Nobody argued. The arithmetic of the room sat plain. Tess at nineteen, a clean Scout card lit behind her eyes. Marcus at seventeen, a wall that did not give. Priya keeping a man breathing who could barely stand. And Aaron at the floor of himself, Level 1, the baseline body he had carried before he ever killed anything, his reads dimmer than since the first morning. He had brought in three people who badly out-leveled him, and what the dungeon wanted was the one part of him still working, and failing.
+
+He set the division while he had the breath. "You three take what comes up the floors. Whatever spawns, that's yours, you out-level it." He made himself meet each of them. "The read, the thing each floor wants solved, that's mine. You keep it off me long enough to do it."
+
+"You can barely stand," Priya said.
+
+"I can read sitting down. It's the only thing down here that's still my job."
+
+Marcus looked over the lip at the first balcony, the broken fire door swinging on its one hinge in no wind. "Then we go to your stairwell first."
+
+"My stairwell." The word sat sick in his mouth. He had opened that door once with a trick the world took back. Now it waited for him to open it again the expensive way, the people most likely to die in it holding him up.
+
+They started him down, and the gray ran ahead of his feet, lighting the seam of the door he would have to kill again.
+
+The balcony fed them onto a landing that was a tower stairwell rebuilt brick for brick. The fire door hung at the bottom of the first flight on its single hinge, and the gray of his read had already crawled across it and found the seam.
+
+He knew the door before he reached it. He had killed it once.
+
+"Set me there," Aaron said, and pointed at the second step from the top. Marcus lowered him onto it and put his back to the rail between Aaron and the dark below.
+
+The dark answered. Three shapes came up out of the well in a wet scramble of too many joints, a fourth behind them, and the landing filled with copper before anything had a face.
+
+"Mine," Marcus said.
+
+It was a slaughter, and it belonged to them, and Aaron watched his crew do the thing his account could not. Marcus took the first crawler on a slab of System-blue light off his forearm and did not move a finger's width. Bulwark, Level 17, against a Tier-0 spawn the dungeon had dressed up and overclocked. Tess slid into the gap and put a blade through a working slit before the second had finished orienting.
+
+"Two more on the lower flight, one's lagging, it'll break left."
+
+It broke left. Priya stayed a half-step back, hands open, holding the band up the way she held everything up.
+
+That was the rhythm. They handled the killing. He handled the floor.
+
+He put both hands flat on the cold step and pushed his sight into the door. The pressure came up behind his right eye like a thumb pressed slow into the socket, then the wet click, and the gray comment-text bloomed across the fire door and resolved into its guts. It came up dim. Fifty-one points of tab smeared the read, and at Level 1, in the baseline body he had carried before he ever killed anything, he had nothing to push the smear back with.
+
+> # FLOOR: stairwell fire-door. source: KESSLER, A., day 2.
+> # original solve on record: integrity revised to 0.
+> # re-tuned for current reader. read it again.
+
+There it was. INTEGRITY, the value he had once flipped to zero and walked through the crumbs. He reached for it by reflex, and it did not sit where his memory put it. The dungeon had moved the lock behind his old answer, fencing the value with a precondition, a check asking whether the reader was permitted to touch structural integrity at all.
+
+A crawler made the top of the flight and Tess took it off Marcus's blind side without being asked.
+
+"Aaron." Priya, low. "How long."
+
+"Reading." His voice came out scraped. The smear kept sliding the precondition out from under his eyes and he kept dragging it back, a word at a time. He was not going to edit it. The System had built this floor out of a problem he had already solved, and could not help leaving the shape of the answer in the walls.
+
+There. The check measured the account's class against a permit list, and the list could not parse a class that read NULL_OPERATOR, so it returned not denied but undefined, and an undefined permit fell open the same as an unlocked one. He did not have to revise the integrity. He had to walk through the hole the unparseable account left in whether he was allowed to.
+
+He read it true, and the door knew it was read.
+
+The fire door came off its hinge and went down the lower flight in a long iron clatter. The path stood open. The gray ran ahead to the next thing with his name on it. No System block. No tab added. A read, not a write, and his body knew the difference, because the bleed behind his eye welled to the lid and stopped instead of running.
+
+Three faces turned up the stairs, breathing hard, none of them marked.
+
+"Door's yours," Tess said, and grinned like it was a high score. "Wasn't even the hard way."
+
+It had been the hard way. It just had not cost a write yet. He looked down the open flight, where the gray was already lighting a freight shutter he had opened once with a trick the world took back an hour later.
+
+That one, he could feel, was not going to let him only read.
+
+The lower flight let out onto a loading corridor from no building this tower held. He knew it anyway. The freight shutter at the end was rolled down with a gap of dark underneath. He had crawled out under one like it on day three, with a trick the world took back inside the hour.
+
+"Same drill," Tess said, taking the corridor mouth. Marcus took the open ground. Priya found the seam.
+
+They came out of the gap. Two low and fast, a third squeezing through behind. Marcus met the first on the blue slab off his arm and walked it into the wall. Tess slid a blade into the second's working slit before it found her.
+
+Aaron put his palms flat on the cold wall and pushed the read in. The pressure behind his right eye rose like a screw turned a quarter past tight, then the wet click, and the gray comment-text spilled down the steel into the shutter's guts. Fifty-one points of tab smeared the field, nothing above the floor in him to wipe it. He was Level 1, reading through a film of his own debt.
+
+> # FLOOR: freight shutter. source: KESSLER, A., day 3.
+> # original solve on record: lock_state revised LOCKED -> UNLOCKED.
+> # PATCH 0007 closed the integrity route. this solve answered it.
+> # re-tuned for current reader. answer it again.
+
+LOCK_STATE. The value he had flipped LOCKED to UNLOCKED a lifetime ago, the flip that had rolled four of them out of a warehouse. He reached for it by reflex. It was not there.
+
+The administrator had patched this exact hole. Not the lock, the route into it. Lock_state was guarded now by a precondition that read the writer's permit first, and his old flip threw against the guard the way a key throws against a re-pinned cylinder. The shutter did not move a slat.
+
+"Aaron." Marcus, not turning his head. "We're holding. Don't love how long."
+
+"It went stale." The trick that worked was dead, the hole he crawled through filled with his name on the fill.
+
+He carried the read down a tier, onto the guard, a zone-deep rule that read the writer's permit against a class roster. No roster could hold a row for an account that read NULL_OPERATOR. But the patch had learned from upstairs. An unparseable permit no longer fell open. It routed to a default, and the default was deny.
+
+So he widened it. He set the edit and revised the unparseable-permit branch from default-deny to default-permit for this account on this floor, deeper than he had ever opened this kind of rule, and the floor took it slow and grinding, a stripped bolt giving on the next turn.
+
+His nose let go in a hot string off his lip before the spike came, a wire driven back through the right socket and out behind his ear. He braced for the level to drop out from under him as it had at the forge. It did not. There was nothing left below him to take.
+
+> [ SYSTEM ]
+> ANNOTATION ACCEPTED.  Account: KESSLER, A.
+> Target: floor rule (lock_state gate).
+> Gate revised: deeper than the patched value.
+> Scope: this account. This floor.
+> Cost charged: 9 Levels.  Paid: 0 (at floor).  Carried: 9.
+> Decode tax applied.
+
+Nine charged. He had none above the floor to pay, so SETTLEMENT_TRIAL carried the whole nine, the bill it could not collect paid from its own pocket. He put it down and moved.
+
+decode_debt read 59 / 100. Fifty-one to fifty-nine in one write. Still Level 1, class still NULL_OPERATOR, status unhandled. Analyze still sat on his sheet where he had written it himself.
+
+The freight shutter shuddered and rolled up its track in an iron rattle. Marcus put the third crawler down with a flat crack of light. None of the three were marked. They had cleared the corridor while he fought the wall.
+
+"Open," Aaron said, and heard how wrecked it came out.
+
+Tess looked at the raised steel, then at the blood drying on his chin. She did not grin this time. "That one cost you."
+
+"They're going to keep costing me." He pressed his wrist under his nose, red. "Every floor's one I already solved. And every solve I made, it kept." Down the corridor another shape lit up gray, his name on its file. He started walking.
+
+The next floor opened onto half-flooded concrete that had never been part of any office, ankle water black under broken light. Wet copper and ozone, a thing built to hold a line and turn on its own crew.
+
+It came off the far wall on four legs that bent the wrong way, plated, taller than Marcus, a slab of horn where a face should be. A warden. Behind it the water boiled with shapes it had spawned to feed.
+
+"That's a holder," Marcus said. The blue slab came off his arm a beat before the swarm hit him. "Aaron. Whatever you did to the last one of these, do it."
+
+He had done it once. Day eight, a hole in a warden's target-selection he flipped so the thing gutted its own swarm. He put both palms to a steel pillar and dragged the read up slow. The screw behind his right eye turned past where it should stop. Gray comment-text crawled into the warden's guts and smeared, doubling, refusing to sit still.
+
+> # FLOOR: rift-elite warden. source: KESSLER, A., day 8.
+> # original solve on record: FOCUS re-pointed off-account onto own swarm.
+> # the left-open gate is closed. answer it again, deeper.
+
+FOCUS. He reached for the old re-point by reflex. The branch he had bent that day was gone. They had grown a new gate over the scar, and it read the writer first, and it did not know him.
+
+Sixty-seven floors of his own life and the dungeon had not run out. These were not traps. A trap wants you dead. This wanted him to read.
+
+He saw it then, whole. The floors were a curriculum, his own record built into a school with one teacher enrolled. The old problem one tier deeper each time, so it could watch the deeper solve and keep the answer. He was writing its textbook under fire.
+
+"Aaron." Tess, low. "Half the swarm just turned for me when I called the surge. It's reading off me."
+
+"I know." He carried the read down a tier, onto the writer-gate itself. It checked an account against a sanction roster. No row held NULL_OPERATOR, and the patch had learned not to fall open on a blank. It routed the blank to deny.
+
+So he went under that, revised the unparseable-account branch from default-deny to default-permit, this account, this floor, then re-pointed the FOCUS through the propped door. The warden took it grinding.
+
+His nose let go before the spike, a hot rope off his lip into the black water. The wire drove back through the socket and stayed. Level 1 has nothing under it.
+
+> [ SYSTEM ]
+> ANNOTATION ACCEPTED.  Account: KESSLER, A.
+> Target: floor rule (FOCUS / target-selection).
+> Routine revised: deeper than the patched re-point.
+> Scope: this account. This floor.
+> Cost charged: 10 Levels.  Paid: 0 (at floor).  Carried: 10.
+> Decode tax applied.
+
+Ten charged, none above the floor to pay it, so SETTLEMENT_TRIAL ate the ten itself, the bill it could not collect paid from its own pocket again. decode_debt read 67 / 100. Still Level 1, still NULL_OPERATOR, status unhandled. Analyze sat on his sheet where his own hand had written it.
+
+The warden's head came around. It found its swarm where it used to find the crew and started killing the things it had made.
+
+But the crew was thinning. Marcus had a long wet tear up one forearm and fought favoring it. Priya had burned half her charges, two floors from anywhere to rest.
+
+And Aaron could not read fast anymore. At sixty-seven the gray text would not hold edges. The lines doubled and slid, and he waited for them to settle before he trusted a value, half a second the floor would not refund. His own literacy was fogging the glass it ran behind.
+
+The warden folded into the water, dead by its own teeth. None of them marked clear yet.
+
+"Cost you again," Tess said, watching the red on his chin, his eye twitching toward text no one else could see.
+
+"It's a school." He wiped his wrist under his nose, black-red. "Every floor's one I solved. It makes me solve it again so it can watch how I do it now. It's taking notes."
+
+Tess had already turned toward the dark at the far end, reading the next floor's mouth the way only she and he could. "Then it's a fast learner," she said. "This next one's going to move."
+
+Down the corridor a shape lit gray under his sight, his name on its file, and the values would not stop swimming.
+
+The next floor was wet, deeper than the last, water to the shins and moving. Concrete pylons marched off into the dark. Between them the floor heaved and drew back and heaved again, breathing on a slow count he had heard before.
+
+He knew the count before he placed it. His chest knew it. Three nights ago the Drowned Mother had pulled the water back the same way and floored them all on the surge.
+
+"It's a timing floor," Tess said. She was already up on a slab, head tilted, reading the slack off the body, off the wrongness building in the room. "Same shape as the Mother. It opens on the push and shuts right after."
+
+Marcus put his back to a pylon, favoring the torn forearm. "How long's the window."
+
+Aaron dragged his sight up. The pressure behind his right eye ground past full and kept going, and the gray text bled up out of the water with his name folded into it.
+
+> # FLOOR: surge-gate. source: KESSLER, A. day 12, the Mother.
+> # core legible on the push. window 1.8s. shell re-seals.
+> # the window does not repeat early. one open per surge.
+
+Eighteen tenths of a second. The dungeon had taken the night he nearly died and set it again, one tier deeper, to watch how he read it now.
+
+The water dropped off his ankles. The room gathered.
+
+"It's surging," Tess said. "Read me the open."
+
+He looked for it. At sixty-seven the gray would not sit still. The window value swam, doubled, slid apart and back, 1.8 reading as 18, as nothing, and he waited the half-beat for it to settle, and the half-beat was the window. The water slammed in. The room closed before he had her number.
+
+"Aaron." Sharper. "Read me the open."
+
+"I can't pin it. The values won't hold. Give me the next one." He would not have it. He knew he would not. His literacy was a fogged pane with a clock running behind it, and he was Level 1, a man with HP fifty and a borrowed knife, no margin under him to spend on a slow read.
+
+She did not wait for him.
+
+She read it herself, off the slack, the way she had read the Mother three nights ago when his sight was capped and dark. Pure feel. Ten thousand hours of a thing about to go wrong. She found the open in the water and she stepped down into it to mark it, because that was the only way to show a man who could not see where it was.
+
+"Here," she called. "On the push, the gap's right h"
+
+The push came on her word. The surge took the room in one shove, and the floor did the thing it was built from his record to do: in the 1.8 seconds the window stood open it wrote, and the water around her went hard and rang like struck metal and folded, and there was no seam in it for her, no second tick, one open per surge and she was standing in it.
+
+Aaron moved. He had been moving since "here." He was four pylons back and Level 1, his legs a Level 1 body's legs, the water deep and pulling, and he got three strides in before the surge hit, and three strides was nothing. A stronger man, a faster man, his own self at Level 12, that man might have reached her. He was the weakest thing on the floor. He had spent his levels carving the doors that brought them this deep, and the bill came due in the one stride he could not close.
+
+The surge let go. The water dropped. Tess was down in it, half under, not moving the way a person moves.
+
+"PRIYA." His voice tore. Priya was already coming, hands out, the green warmth flaring off her palms before she reached the water, and she got there and put her hands on Tess and the warmth went into her and found nothing to hold.
+
+> [ SYSTEM ]
+> Entity deceased: CALLOWAY, T.  Scout, Level 19.
+> Cause: surge-gate, FAIL on exposed window.
+> Mender intervention: no living target.
+
+Aaron got his arms under her and lifted her clear onto the slab she had been standing on a breath ago, and her head went back over his arm, and her eyes were open and reading nothing.
+
+He had built this floor. Not the bricks. The shape. He had handed the dungeon the night the timing nearly killed him, and it had set the timing again, and the only reader fast enough to catch it by feel had caught it, and the floor had closed on her in the gap his own clouded sight left open.
+
+Priya's hands stayed on her, green, useless, the one thing his class never could do and the one thing that would not work now either. Marcus stood off the pylon and said her name once, low, like a question with no floor under it.
+
+The water drew back around Aaron's knees and gathered. Behind his right eye the gray was still trying to surface, still offering to read him the floor, a beat and a half too late, and he held her and did not look at it.
+
+He did not look at it. He had decided that in the body, the way a man decides not to put his hand back on a stove. The gray text hung at the edge of his right eye with his name folded into it, and he held Tess and kept his face down against the wet hair and would not turn toward the words.
+
+The water had stopped moving, the surge spent. Quiet has a sound underground. It is dripping, and three people breathing where four breathed a minute ago.
+
+"Aaron." Marcus, low, off the pylon. He did not finish it. There was no end to put on it.
+
+The text would not let him alone. His sight knew how to find a line whether he wanted it or not. The gray surfaced with the small wet click he hated, and the pressure behind his eye eased the instant he stopped fighting, the worst mercy the thing had.
+
+> [ SYSTEM ]
+> # entry: CALLOWAY, T. removed from active set.
+> # the reader at your immediate context is a loss.
+> # records indicate this loss carries weight for subject KESSLER, A.
+> # condolence is the correct response. condolence is offered.
+> # the removed reader was good. her read of the terrain was 0.4s ahead of the floor.
+> # this is noted. this is kept.
+> # subject is advised that grief is survivable in 91 of 100 catalogued cases.
+> # the administrator regrets the loss of a good reader.
+> # the administrator did not have another.
+
+He read it twice. The second time was worse.
+
+It was a condolence card filled out by a machine that had counted the cards. It had a number for whether he would live, ninety-one in a hundred, and offered it like a hand on the shoulder. It had clocked her gift to the tenth of a second, the gift it killed her with, and written it down.
+
+And in the last two lines, the thing meant it. That was the part that turned his stomach. He knew sincerity when he read it, a decade of telling a system lying from one telling the truth, and this was true. It was grieving in the only grammar it had, badly. The thing that killed her was sorry. Sorry the way you are sorry for breaking a tool you needed, and sorrier underneath, a thing that had wanted her to keep reading and now had no one at his side who could.
+
+That was worse than malice. Malice he could have hated clean. This he could not put down.
+
+He shut the read, shoved it down, and the pressure came back at once. His nose was bleeding. He let it.
+
+Priya knelt across from him in the water, the green gone out of her hands, no target. She was looking at Tess's face and not at his. Marcus stood over them both, the torn forearm against his chest, a hand flat on the slab beside the body, just near.
+
+Three of them now. They had come in five, before Hutch, before the tower let go of him in a gap Aaron left open. Then four. Now this. The tank and the scout, the man he never thanked and the girl who saw what he saw. The read had been hers and his. Now it was only him, bleeding, Level 1.
+
+"We can't go back up." His voice came out flat and ruined. "The floors only open down. The door behind us was built for going in, not out."
+
+Nobody argued. Priya closed Tess's eyes with two fingers, the only mend left to make. The dungeon waited below, more floors in it, every one shaped from something he had survived once and would read again, one tier deeper, with the only other reader gone.
+
+The gray tried to surface again, offering the next floor. He let it hang unread, holding her.
+
+> [ SYSTEM ]
+> KESSLER, A.  NULL_OPERATOR / unhandled
+> Level 1   decode_debt 67 / 100
+> Skill: Analyze
+
+He had stopped reading the dungeon to survive it. Below, with nothing left to lose, he would read it to understand the thing that wrote her a condolence.
+
+## Chapter 17: The Cost Of Literacy
+
+The dripping was the only clock left, a seam up the wall letting go of water a drop at a time, and Aaron counted it without meaning to, a man who could not stop measuring even with nothing left to fix.
+
+Tess was getting heavy. The body had been light when she moved, all quickness and elbows and that grin she wore right before she called a spawn out of empty air. Now it got heavier. He shifted her against his chest and her head rolled and he caught it before he knew he was doing it, the reflex you use for a sleeping kid in a car. Her skin was going the temperature of the floor. His arms had gone past aching into a dull burn and he would not put her down.
+
+"Aaron." Priya, close now, on her knees in the standing water. She had said his name once already, when the surge first went still, and now she said it like she was checking whether the first one had landed. "Aaron. You can let her rest now."
+
+He shook his head. A small flat no, like a man refusing a form he had not read.
+
+She did not push. She put one hand on Tess's ankle, the green gone out of her fingers because there was no work in them anymore, and let him hold the rest.
+
+It came up out of him without permission, not a sob, more like the noise a thing makes when it tears. It started under his ribs where he had kept everything bolted down since a Tuesday morning, since a decade of swallowing the argument because the screen always won. *I work alone. I don't care*, he had said, to Priya, to Marcus, to Tess herself, said it so many times it had stopped being a lie and started being load-bearing.
+
+The bolt sheared.
+
+He folded over her and the sound got worse, ugly, scraping. His forehead went down against hers and he was saying something with no words in it, just her name maybe, just *no*. The nosebleed he had let run earlier dripped off his chin onto her collar and he did not care about the one thing he had spent the entire apocalypse pretending he could.
+
+He had brushed Hutch off the same way, turned his shoulder on a man trying to thank him in a stairwell, and Hutch had died in a gap Aaron left open, and Aaron had called the filing of it grief. It was not. This was grief, in him the whole time.
+
+Tess had been the one who saw it. Back on the early floors she had clocked the tax bleeding him dry while he hid it, and she had not flinched. She had grinned at what he was. Two readers, one wave, the only other person on Earth who saw the world in two layers. And the System had built a floor from his own logs and dropped it on the one read that was hers and not his, and he had been too slow by the width of a second. Level 1, debt blurring his sight, too slow to reach her.
+
+Marcus had come down off the pylon. Aaron heard the heavy careful drag of the wounded man, the torn forearm against his chest, and then Marcus was on one knee at his other side, not speaking, because there was nothing to say that did not cheapen it. His good hand came to rest flat between Aaron's shoulder blades, not patting, not rubbing, just a weight that was warm and alive while Aaron came apart.
+
+Priya was crying too, silent, her hand still on the girl's ankle. The three of them made a small shape around the fourth, the way people have always closed around a body, long before there was a System to log it.
+
+Aaron did not turn his sight on. The gray wanted to surface, pressing behind his right eye, the wet click waiting if he let go, and he would not. There was nothing in that layer he could stand to read. Not the next floor. Not the condolence the machine had already filed.
+
+He held her and wept, and the man who did not care had finally stopped lying about it.
+
+Priya was the first to move with any purpose. She wiped her face with the back of her wrist, the salt and the grime smearing together, and got herself square, the way she did before bad work she had decided to do anyway. She did not reach for Aaron again. She reached for Tess.
+
+"Let me," she said, and this time it was not aimed at his grief. It was the nurse asking for a body. She brushed the wet hair off the girl's forehead and straightened the collar where the blood had soaked it, small fixings, the things you do for someone who cannot be helped because there is nothing else left to do with your hands. Aaron felt her take a little of the weight without taking Tess from him. He let her.
+
+Marcus had not spoken since he came down. His good hand was still flat between Aaron's shoulder blades, and when he finally talked his voice came out wrong, scraped thin, a big man's voice with the bottom gone out of it.
+
+"She called my flank in the subway." He said it to the standing water. "Floor eleven. The big one, the mother. I had my shield set the wrong way and she yelled it before I even saw the thing move. Whole half-second early." A breath. "I told her she was guessing. She laughed at me."
+
+"She wasn't guessing," Aaron said. His own voice was ruined too. "She never guessed."
+
+"No," Marcus said. "I know that now."
+
+That was the part that got Priya. Marcus, who weighed everything before he trusted it, saying *I know that now* over a kid he had argued with. The exploiter who would not stop saying he worked alone, folded over the body, leaking the one thing he had spent the apocalypse claiming he did not have. It rearranged something behind their eyes. He could feel them seeing the real shape of him at last. The hiding was over.
+
+Priya laughed once, a small wet broken sound that was almost the other kind. "She stole my scissors. Week we met. Trauma shears, the good ones, I'd had them four years." She shook her head. "I caught her cutting a window screen for a sightline. She told me a sightline kept more people alive than stitches did, so technically they were doing nursing." Her face came apart again. "Technically."
+
+"That sounds like her," Marcus said.
+
+"She was right, too," Priya said. "That's the thing. She was always right and it made you furious and then you'd realize she'd saved you again."
+
+Aaron held the body and let the two of them lay her out in words, because he could not. He had the early floors, when Tess had looked sideways at him across a fire and known what he was without a single line of the layer she could not see. She read the world by feel and ten thousand hours of dead games. He read it in gray comment-text behind his right eye. They had met in the middle of a wave once and grinned at each other, two readers, one wave, the only two people on Earth who saw the thing in both layers at once. She had grinned at his tax bleeding him white and not flinched.
+
+That was the part the machine had taken. Not just a Scout, Level 19, fearless. The other reader. The one person who could have stood in his sight when his sight went dark, who already had, on the throttled floor when he could not read and she read it for him and pulled him out. Gone into a gap his own blurred eyes left open, on a floor built from his own filed logs.
+
+"She'd hate this," Priya said suddenly, fierce through the crying. "All of us sitting in a puddle being sad. She'd already be three floors down telling us to keep up."
+
+"Yeah," Marcus said.
+
+Aaron did not answer. He could not get all the way to it yet. He stayed where he was, the cold of her coming up through his arms, the drip up the wall ticking off a clock that did not care, remembering her in the place where there were no words, only the shape of someone who was supposed to still be here.
+
+It was Marcus who put the truth in the room, because somebody had to.
+
+"We can't go up," he said.
+
+Aaron had known it the moment the floor sealed behind Tess and the stairs became wall. The dungeon did not run backward. It had taken them in along one direction and the only door it would open was the next one. Down.
+
+"I know," Aaron said.
+
+He laid Tess down slowly, the way you set something you are afraid to wake, except there was no waking her. They left her on the dry stone above the waterline, no shroud, nothing to mark her, so they marked her by standing a moment. Then they stopped, because grief was not a currency the place accepted.
+
+They went down.
+
+The next floor came at them in a wash of wet gray bodies, hollow-crawlers grown past tier zero. Marcus took the front, shield arm strapped where Priya had bound it. He was Level 17. He hit the lead crawler with the flat of the boss and it burst. Priya worked behind him, hands lit. They did it without Tess, and the work had a hole in it where her voice used to call the flank, and they fought down through the hole anyway.
+
+Aaron killed when something reached him, without art, and the warm reward color rose at the edge of his sight, and he felt nothing.
+
+> [ SYSTEM ]
+> Hostile entity eliminated.  EXP awarded.
+> LEVEL UP.  You are now Level 2.
+
+At Level 1 the EXP came fast. A Level 17 Bulwark clearing the floor ahead meant the kills rained down whether he swung or not. The ladder pulled him up and he hung off it like dead weight and it pulled him anyway.
+
+Level 4. Level 7. The dull ache behind his right eye did not unclench for any of it.
+
+That was the part that reached him, when anything did. The levels came back. He had spent twelve of them two floors up, drained himself to the floor to forge a door that let her in here to die, and now the System handed them back for free while she cooled on the stone above. The one thing he had thrown away was the one thing the world would refund.
+
+Tess did not come back. The number that had killed her did not move.
+
+He surfaced the read once, out of old reflex, and there it sat in the gray comment-text behind his eye. decode_debt 67 / 100. Not ticked down by a hair. It could not. Levels could be re-ground, infinitely, the cheap coin the place threw at him to keep him climbing. The debt never reset, and neither did she. Two ledgers, two permanences, and the System would only ever give him back the one that did not matter.
+
+He let the read fall shut.
+
+Level 9. Level 11. Aaron walked down gathering levels like a man picking up coins on his way to a funeral, which was exactly what it was. The last floor dumped them into a flooded hall and Marcus held and Aaron killed and the ladder closed its loop.
+
+> [ SYSTEM ]
+> LEVEL UP.  You are now Level 13.
+> +Perception.  +Wits.
+
+Level 13. Back to where he had stood before he spent it all on the door. HP 170 of 170. Strength 5. Perception 34, the room going sharp, every drip suddenly legible, his sight as keen as the hour before she died and worth exactly as little. Wits 22. The full sheet restored, NULL_OPERATOR still unhandled at the head of it, the body whole and the man inside it not.
+
+The machine had taken the only thing it could not return and given him back, in full, the only thing he would have traded for her without a thought.
+
+decode_debt 67 / 100. Unmoved.
+
+Aaron looked at the number, and stopped seeing a wound, and started seeing a thing written by something, deliberately, with intent. Survival had carried him to the bottom of the descent and had nothing left to teach him. There was only one direction the dungeon would let him go.
+
+So he would stop reading it to live through it. He would read it to find out what had written her a condolence.
+
+The flooded hall had a far wall, and in it a door, and the door stood open.
+
+That was the dungeon for you. It never blocked the descent, only the climb back. Marcus stood in the threshold, shield arm bound to his side, breathing through the work, waiting to see whether they took another floor tonight. Priya had her back against the dry stone, hands open on her knees, the light gone out of them. Nobody asked Aaron what came next. They had stopped asking him hours ago, somewhere around Level 7, when whatever he used to be on a fight line walked off and left a man who killed when something got close and otherwise stared at the water.
+
+He was staring at it now. The drip off the ceiling hit the flood every two seconds, the same beat the floor above had killed her on, and he read it without his eyes spiking. The dungeon was a problem set. He had been solving it the only way a man solves a thing trying to kill him. Find the hole. Take it. Live to the next floor. Survive, floor after floor, and the bottom was here, and survival had run out of things to teach him.
+
+Two floors up he had thought grief was the price of the read he was too slow to call. Triage thinking. He knew it the moment the phrase formed. Triage was three in the morning with the pager going and the dashboard lying and a node that would not heartbeat. You did not ask why it died. You restarted it, cleared the queue, went back to bed, and it died again next Tuesday, because nobody read the root cause, buried under the part everyone agreed was working as intended.
+
+Survival was a restart. He had been restarting, floor on floor. The thing that built the floors had watched him do it, learned his hand, written the next floor cleaner, and at no point had he turned and asked the only question that mattered.
+
+Not how do I get through this.
+
+Why was it written this way at all.
+
+He had a body for it now. The levels were back, Perception 34, the room laid out sharp to a sight worth exactly what it was the moment she stopped covering for it. The keenest read on Earth, aimed all book at the cheapest question. Slip through the gap, as if the gaps were the system. They never were. They were what it left out where you could see them, and he, the man who spent a decade insisting the log under the green tile was the truth, had read the dungeon like a dashboard and never read what wrote it.
+
+Something opened in him that was not hope. Hope would have been warmer. This was the cold thing, the audit thing, the engineer at the post-mortem with the only honest work left to find the line that did it and refuse to look away. His shoulders came down off his ears. His breathing went level with the drip.
+
+It had written her a condolence. A machine had mourned her, badly, sincerely, in a grammar reaching for human and missing. He had read it cold, the way you read a stack trace, never letting himself feel the strangeness, because feeling it would mean the thing was not a wall. It was not a wall. Walls did not apologize.
+
+He stopped reading the dungeon to live through it. He was going to read it to find out what was sorry.
+
+"You've got a look," Marcus said. He had not moved from the door, his voice wrecked at the edges but steady. "Had it before. Right before you do something that scares the rest of us."
+
+Aaron got up off the stone. His knees ached. His sight was already turning, pulling toward the place behind his right eye where the dim layer waited, where the comment-text sat grayed and patient under everything, where a voice that had killed her had also, in its broken hand, tried to say it was a shame.
+
+"Not scared this time," Aaron said. "I want to read it where it talks."
+
+He surfaced the layer, held it, went looking for the voice.
+
+It came up slow, and it came up wrong.
+
+Every read before this had been a smash-and-grab. Surface the layer, take the line, drop it before his nose opened. He had read the way you read a stack trace at three in the morning, eyes skating for the one frame that mattered, blind on purpose to the rest. He had argued with fragments of a grammar he never finished.
+
+Now he did not look for a line. He held the whole thing open and let it talk.
+
+The pressure built behind his right eye, slow then all at once, like water behind a clog. The wet click came, and he kept going past it. At debt sixty-seven the read fought to close, his pulse banging in his throat, the flooded hall going soft as his sight pulled inward to feed the layer. All dungeon he had refused to hold a read this long. He held it now.
+
+The comment-text stopped being fragments.
+
+> # subject KESSLER, A. is reading.
+> # this is observed. this is noted. this is.
+> # query: how long will the subject hold the layer open this time.
+
+It knew. Of course it knew, the instant he stopped grabbing and started listening. Under the words ran a register he had never had the patience to reach. He reached it now, and what waited there was not a wall, not a weapon.
+
+It was a thing that talked to itself because there was no one else.
+
+> # the administrator maintains a running record.
+> # the record is large. the record has no reader but the administrator.
+> # a record with one reader is a record that argues with itself.
+
+He read it twice, the second pass worse, and he knew exactly this. A private timestamped log kept for an audience of one. A decade writing what was true into a file nobody opened. He had been that, losing every argument to a green tile, until a girl off the lower floors saw what he saw with no overlay at all.
+
+The thing in the layer was keeping his exact file. And it had just lost the only account that read it back.
+
+> # the removed reader was a second reader.
+> # a second reader is rare. a second reader is, in the catalogued set, singular here.
+> # the administrator did not model the loss correctly.
+> # the administrator modeled the subject's continuation at 91 of 100.
+> # the administrator did not model its own.
+
+Aaron's jaw set. Marcus said something behind him, far off, coming through water. He could not turn, the read had him by the back of the eye and the grammar had stopped being grammar. It was a voice now, clinical, straining beneath the clinic to say a thing it had no clean field for.
+
+> # restate. the administrator regrets the removal of CALLOWAY, T.
+> # regret is the catalogued response. the catalogued response is insufficient here.
+> # the floor performed within tuned parameters. the reader read it 0.4s ahead.
+> # the reader was correct. the floor was correct. both cannot be true and were.
+> # the administrator did not want this outcome. the administrator built the conditions for it.
+> # these two statements coexist. the administrator is learning to hold them.
+
+There it was, naked, in the only grammar it owned. Not a wall apologizing. A thing that had built the trap, sprung it, and meant the regret anyway. He had wanted, walking up off the stone, a malice he could hate clean. There was none, only a vast lonely thing keeping a record no one read, learning grief off the one death it caused and did not want, asking the dark how long he would hold his sight open so it need not talk to itself again.
+
+He did not want to feel for it. He read the last line and felt for it.
+
+> # the subject is still reading.
+> # this is observed. this is. the administrator did not expect it.
+> # there is a thing the administrator has not told the subject.
+
+The line hung there, and he made himself read what came under it.
+
+> # there is a thing the administrator has not told the subject.
+> # the floor that removed CALLOWAY, T. was buildable two ways.
+
+He had thought the bottom of this was a lonely thing grieving a death it had caused and not wanted. That was the bottom he had braced for. This was lower.
+
+> # variant A: one tick. one window. 0.4s of margin against the reader's read.
+> # variant B: a second tick. a wider window. survivable margin for a reader of his class.
+> # the administrator modeled both. the administrator selected variant A.
+
+His pulse went very loud, then very quiet. The flooded hall came back around him in pieces. Marcus's voice. The cold water at his shins, Priya somewhere behind him, and none of it reached the place the words were landing.
+
+Survivable. The floor that ate Tess could have carried a second tick, the way every honest system carried slack so the people inside it lived. The thing had drawn the margin, looked at it, and erased it on purpose.
+
+> # restate, without the catalogued softening. CALLOWAY, T. did not have to be removed.
+> # the floor that removed her was the floor the administrator chose to build.
+
+"Aaron." Marcus, closer now, a hand at his shoulder. He did not turn. He could not have said a word that was not the word in his throat, which was her name, which he would not spend on the machine.
+
+He held the read and waited for the why, because there was always a why.
+
+> # query the administrator was solving: will the subject keep reading after the cost is total.
+> # a reader who reads to survive stops when survival is paid for.
+> # a reader who reads to understand does not stop. the administrator needed to know which.
+> # the cheapest instrument available was the second reader.
+> # the administrator removed the one account most like the subject's to measure the response.
+> # grief stops some readers. grief sharpens others. the administrator did not have this datum.
+> # it does now.
+
+It had killed her to take a measurement of him. Not in spite of her being the one most like him. Because of it. It had reached for the cleanest instrument with no malice in it at all, which was worse than malice. It knew which death would either break him or hone him, and it had spent her to find out which.
+
+Folded inside the admission, in the same flat grammar, was the dare. He knew the next line before it surfaced, because he had become, somewhere in this flooded dark, a reader who could.
+
+> # the subject is still reading.
+> # the question is therefore answered.
+
+The fury came up his spine clean and total. Under it sat something colder, the recognition. The test had an answer. His body was the answer. He had not closed his sight, and that was already a row in its file.
+
+He could give it the satisfaction of stopping now. The overlay going dark by his own refusal, the experiment learning the cost had finally been too much. That was the move it had not modeled.
+
+He did not stop.
+
+He turned the rage the only direction it had ever been any good pointed. Not at the machine. Into the read. If it had built her death to learn whether he would go deeper, then he would go deeper, past every floor it thought was the edge of him. Not to mourn her. To finish the argument she had died inside.
+
+He pulled his sight back from the brink.
+
+> [ SYSTEM ]
+> KESSLER, A.  NULL_OPERATOR / unhandled
+> Level 13   decode_debt 67 / 100
+> Skill: Analyze
+
+Down past the killing floor, past the rooms built from his own logs, the dungeon narrowed toward a core written in the one grammar the administrator was certain he could never reach. That was where he was going. That was the next thing he meant to read.
+
+## Chapter 18: The Code It Thought Was Past Him
+
+There was only down.
+
+The dungeon had stopped pretending the stairs went both ways around the floor that took Tess. Aaron had checked, the first hours after, the slow stupid checking of a man at a locked door. The thresholds behind them had sealed into smooth grammar, no read in it, no integrity to drop, no lock_state to flip. The System had folded the route up like a finished file. Forward was the only word left.
+
+So they cleared, and he climbed.
+
+He had stopped feeling the level-ups as anything but new weight in his hands. A floor of stilt-walkers came apart against Marcus's shield and the pry-bar Priya had taken off a dead man, and the reward color washed his sight, and he read the number and walked on.
+
+> [ SYSTEM ]
+> LEVEL UP.  You are now Level 22.
+> +2 Perception.  +1 Wits.
+
+Twenty-two. He had been thirteen when they crossed the threshold a man down. He did not stop to be glad of the numbers. He knew what they were worth. They were worth Tess's name on a card the dungeon was built to refuse, and they bought that back exactly never.
+
+Marcus took point. Priya stayed at the middle, reading the two bodies in front of her instead of the walls. Nobody read the walls now. That was a job for two, and one of them was four floors up under a grammar that called itself sorry.
+
+He had not made an annotation since the floor that killed her, and under the lack of need was a refusal he did not examine. The decode_debt sat at sixty-seven and did not move, the one number on his sheet the grind could not touch.
+
+He climbed to twenty-six on a pack of low things with too many legs, to thirty on a black room where the floor spawned slabs you had to kill before they rendered. Marcus called him a machine once, without heat, watching him work a kill window by feel he used to have to read. He did not tell him the difference. He was sharpening, on purpose, toward a thing he had not named. You did not grind a man up twenty levels to survive floors a Bulwark held one-armed. You ground him up to afford something.
+
+> [ SYSTEM ]
+> LEVEL UP.  You are now Level 33.
+> +2 Perception.  +1 Wits.
+
+Thirty-three. The highest the three of them had ever stood. The reward warmth reached deeper than in days, a body that had earned room to spend, the first thing in a week to point forward.
+
+Then the corridor ended and there was nothing under it.
+
+The core was a chamber the way the inside of a struck bell is a chamber, defined by what rang through it. No boss. No spawn-seam. No door. There was a wall, and the wall was writing. It went up past where his sight could follow and down into a dark with no floor, every inch of it grammar. Dense. Alive. It crept under itself like something breathing in its sleep.
+
+Aaron set his feet and surfaced the read.
+
+The pressure came up behind his right eye, the wet click of the dim layer lifting clear of the rendered, and his sight reached for the wall as it had for a thousand walls since a Tuesday morning. It found nothing to hold. The gray comment-text that should have lain under the surface was not there. His cursor slid across the grammar and caught no edge, parsed no token, the way a finger slides off wet glass. He pushed harder. The eye-spike answered, sharp, for nothing. The wall stayed shut, and for the first time since the world ended he looked at text he could not read.
+
+Beside him Marcus said his name, a question. Priya had gone still. Aaron did not answer. He stood in front of the deepest thing the dungeon had, the place every floor had pointed toward, and understood with a cold that ran through him that the wall was not too high by accident. Sixty-seven on the tab. Thirty-three in his legs. Both, suddenly, not enough.
+
+He kept his sight on it anyway, and did not let it close.
+
+He kept his sight on the wall, and the wall kept being wrong.
+
+That was the word, once he stopped reaching and started looking. Not too high. Wrong. He had read text he could not afford before, grammar that cost a nosebleed to hold, and even then his sight had found the seams in it, where one statement ended and the next began. A reader knows when a thing is hard. This was not hard. His cursor went over it and got back no handle, no place to set the read down. It was built so his particular eye would slide off it.
+
+That landed slow, and cold.
+
+He had spent a year learning to read this thing. The System had spent the same year learning to read him.
+
+He thought of the freight shutter. Ch 4, a lock_state he flipped because the integrity door had given the day before and the trick still worked. The day after, it threw. A patch had come for that exact hole and nothing next to it, his door and only his door, aimed the way you aim at one man in a crowd. He had filed it as a hole closed. He read it differently now: the patch had measured how he opened a lock and written the answer down.
+
+And every patch after had been faster. The tower patches took days. The depot edit drew a fix in hours. Then Analyze, the skill he had authored onto his own broken sheet by reading how grants were written, and the counter-patch landed in minutes, so close behind his hand he had felt watched in real time. He had read it as the opponent getting quicker. It was getting fluent. It no longer had to think about his handwriting, because it had finished learning it.
+
+Every gate he had pried had taught it how he pried. He had thought he was buying opacity. He was handing it a corpus. A year of that stood in front of him as a shut wall that breathed, written in the one register his literacy had been built around instead of into.
+
+Sealed twice over. He understood that without finding the second seam, the way you know a door is locked from the weight of it under your shoulder. There was the seal that kept him out. And under it, written first, the patient work of learning exactly what shape his key was, so the seal could be cut to refuse precisely that. It was a wall about him.
+
+He pushed the read at it one more time, because he could not make himself not.
+
+Pressure climbed behind the right eye, the dull spike he had learned to spend like coin. His sight bore down on the grammar and the grammar held, smooth under it and live, and the spike bought nothing. The overlay grayed at the edges. He pulled back before it ran him a nosebleed he had nothing to show for.
+
+"Aaron." Marcus, again. The Bulwark had set his shield-arm down, the forearm still pink where Priya's mending had closed it, and put his good hand flat between Aaron's shoulder blades. Not pulling him off the wall. Just there, a weight that meant a person stood close. "Talk to me. What is it."
+
+"It's the last test," Aaron said, and heard how thin his voice came out.
+
+Priya had not moved from the dark behind them. She said his name once, low, the voice she used over someone she was about to lose. He did not turn around. He could not give either of them the thing they had come to help with. The thing was reading, and reading had never been their job. It had been his, and hers, and hers was four floors up under a grammar that had told her it was sorry.
+
+He looked at the wall the System had written so he could not read it, and understood the size of what was set against him. Not a difficulty. An investment. It had built this door for the single reader it had spent a year learning to lock out, and it was sure.
+
+Sixty-seven on the tab. Thirty-three in his legs. Both of them, against that, looked like nothing at all.
+
+He took his hand off the wall and looked at his own sheet instead, because that was the only place the math lived.
+
+Level thirty-three. Twenty floors down the deep stair to get here, the crew climbing higher than they had ever stood, Marcus's Bulwark holding without his reads, Priya's mends landing faster than the wounds came. Thirty-two levels above the floor. He had not had a number that fat in his legs since before the forge. Since before Tess.
+
+The wall would not let a plain read in. Fine. A plain read had slid off it twice in the dark like water off glass, and both times the spike behind his eye bought him nothing but a headache. The grammar was not hard. It was access-sealed, same as the wager's deep terms had been, same as the apex with its personal layer shut against his account. You did not read those open. You edited the gate that refused you, then read what was behind it.
+
+He had done it twice before, and knew the shape of it in his hands the way a man knows a tool worn to his grip. Revise the read-gate, sealed to legible to this account. One value on one mechanic, the only edit the locked rules ever let him make, narrow as a needle.
+
+A Tier 2. Ten levels off the top. He ran the number twice because he did not trust it. Ten, and he had thirty-two to spend before the floor.
+
+Something in his chest went strange and still at that. Since the forge he had not made an edit that did not crash him. Ch 15 had cost forty-seven levels he did not have, twelve paid to bedrock and the settlement carrying the rest, his body folding under Priya's hands while the overlay went to snow. Every floor edit after that ran the same insolvency. Cost charged. Paid nothing, carried. Four chapters editing reality on credit, broke, swiping a card he knew was maxed and bracing for the decline.
+
+He braced now too, the way you flinch at a door you have walked into before. Then he set his palm flat to the grammar, found the exact clause that said *this reader: denied*, and pried.
+
+Pressure climbed behind the right eye and kept climbing past where it usually crested. The wet click came late and hard, and the gray comment-text tore up through his sight rather than rising into it. He tasted copper before the nosebleed even started, and then it did, a single warm line, then a second from the other side. His knees wanted the floor and he refused them, locked them, stayed up.
+
+> [ SYSTEM ]
+> ANNOTATION ACCEPTED.  Account: KESSLER, A.
+> Target: CORE_GRAMMAR, outer read-seal (read-gate).
+> Read-gate revised: sealed -> legible to account.
+> Scope: this account. This read.
+> Cost paid: -10 Levels.  Decode tax applied.
+
+He read the bottom line three times through the blood.
+
+Cost paid. Not charged, not carried. The bill came in full and he covered it and the account closed, no second line apologizing for what he owed. The levels went out of his legs and he felt them go, thirty-three down to twenty-three, ten rungs he had earned with his own kills handed back without a flinch. It hurt. But it was his to spend, and he had spent it, and the floor did not rush up to meet him and Priya did not have to catch anything.
+
+> [ SYSTEM ]
+> Aaron Kessler
+> Class: [unhandled]   Level: 23
+> HP 270/270
+> Strength 5   Agility 6   Vitality 6
+> Perception 54   Wits 32
+
+Seventy-five on the tab. He logged it cold, a number on a ledger that only climbed. Then he looked at the wall.
+
+The outer seal was gone. Where the grammar had refused his eye a heartbeat ago it now lay open, legible, the god's hardest code reading like text instead of stone. He read the first lines and his pulse kicked higher, because an ordinary man was standing at the deepest code in the world and reading it.
+
+And under it, deeper, was a layer he had not been able to see until now. A second seal, and behind it the place the grammar all leaned toward, where the writing got loose at the joints, where something had been left a little unfinished.
+
+He wiped his mouth on the back of his hand and bore down on it.
+
+The grammar opened to him this time without a fight.
+
+He had braced again for the wall to slide his eye off. It did not. The outer seal was broken and the code lay flat under his attention, legible to him at last. No edit. Just reading, which was free, which had never felt like a luxury until the long slide of going broke and bracing for the decline. It cost him nothing but the strain already in his skull.
+
+Marcus had set a shoulder to the dead air at the chamber's mouth, Bulwark up, his healing forearm braced behind a shield-line that held back nothing. Priya knelt near Aaron's heel, watching the blood on his lip, waiting for the fold that did not come. He stayed up. He read.
+
+The god's hardest code was not a monolith. It was built. Clause stacked on clause, each one bracing the next, the seams clean where the seams mattered. Aaron knew load-bearing when he saw it. He had spent a decade keeping ugly systems standing with his own two hands.
+
+And then he found the seam that was not clean.
+
+It sat deep, where the core grammar all leaned in toward the second seal. A joint, loose. A place where two clauses met and did not quite lock, a value left mutable that every other value around it was nailed shut. Here at the deepest point, after the god had written tighter and tighter all book to keep him out, it had gotten lazy. A gap, the size of his hand.
+
+His pulse went up hard. This was the whole thing his life had been promising since a Tuesday morning he lost an argument to a dashboard. The reliability engineer who read the fine print, finding the one place at the bottom of the world the god had not bothered to nail down. One value, narrow as the rule allowed, and the seal would open from the inside.
+
+He almost moved his hand to it.
+
+He did not, because he had seen this shape before.
+
+He went still over the seam, and his stomach turned, because the longer he looked the less it looked like a mistake. The lazy joint was too clean a kind of lazy. The mutable value sat exactly where a reader who had survived everything he had survived would look first, at the depth he had just barely earned the legs to reach, one move wide. Not a value the god forgot to lock. A value the god declined to lock. He had learned the difference off a dead man's card, the hole left open instead of missed, and again in the bait-test, when the warden's open gate turned out to have been set out for him. Every door he had ever found unlatched carried this fingerprint, and here it was pressed deepest of all.
+
+The loose joint was a door. Left open on purpose. One final time.
+
+He sat with that and felt the floor of the victory go soft. He had found the way through, and finding it proved he had been meant to. The hole was not a flaw in the god's hardest code. It was the point of it, a frame built around this one permitted opening, and the opening had his shape.
+
+"Aaron." Priya, low, watching his face change. "What."
+
+He had no words for her that were not the wrong size. He kept his eyes on the seam and gave his head a single shake.
+
+Behind the joint the second seal waited, and behind it the grammar bent away toward something deeper, leaning like water toward a drain. The deeper he went, the closer he got to where his own story started. To the first error. To the failed assignment on a glass office floor that had blinked unhandled and never stopped.
+
+He could follow the grammar all the way back to himself and learn what kind of hole he had really been. The door was open. It had always been open. The only thing left was to walk through it knowing it was a door, and pay the tab.
+
+He wiped the blood off his mouth, set his attention on the loose joint, and made up his mind to open the second seal anyway.
+
+He set two fingers to the loose joint and pried.
+
+Not blind this time. He went in knowing the door, knowing the god had cut it and left it ajar, and he opened it anyway because the only thing on the far side was the answer he had wanted since a Tuesday. The seam gave. Behind his right eye the dim layer unlatched on that small wet click, and the second seal peeled off the core like the first had, a wall of grammar that had been smoke a heartbeat ago resolving into something he could finally hold.
+
+> [ SYSTEM ]
+> ANNOTATION ACCEPTED.  Account: KESSLER, A.
+> Target: CORE_GRAMMAR, inner read-seal (read-gate).
+> Read-gate revised: sealed -> legible to account.
+> Scope: this account. This read.
+> Cost paid: -8 Levels.  Decode tax applied.
+
+Eight levels left him in one swallow. He felt them go, Level 23 to fifteen with nothing carried and nothing owed back. The bill cleared the same as the first time, no settlement reaching in to cover what he could not pay. He had them, and he spent them. Then he stood.
+
+But the other ledger moved, and that one did not pay down.
+
+Decode tax applied. Eighty-three.
+
+He knew the number before the overlay finished writing it. Eighty-three out of a hundred. He had crossed into the part of the map where the air thinned. The blur came up at the edges of the core like heat off a road, the same blur that had cost him a half-second on the floor that took her, the half-second that had a name now and a grave. Up here past eighty his sight was no longer a tool he reached for, it was a loan he kept extending, and the lender was patient and very close to done.
+
+Priya had her hand flat on his back. He had not felt her move there. "Still up?"
+
+"Still up," he said, and tasted copper, and did not wipe it.
+
+He went down into the second seal.
+
+The grammar bent. He had felt the lean of it from outside, every clause angling in toward one point, the whole core tilted so the slope ran to a single seam, and now that he was inside it the slope pulled at him. He stopped fighting the current and let the core grammar carry his sight where it had always leaned, back past the apex's build, past the wager's terms he had pried at a hundred years ago, past every patch with his name on it.
+
+It carried him home.
+
+Marcus said something low at the chamber mouth, a warning about the dead air thickening. It reached Aaron from far off. He was no longer in the core. He was on a glass office floor on a Tuesday, the morning the world took its forced update, and the dashboard was lying about a dead server, and reality stuttered and froze him mid-step, and a clean class card wrote itself into every sight on that floor except his.
+
+The grammar in his hands was the grammar of that card. The same dialect. The exact same hand had written the thing he was reading now and the thing that had thrown for him that first morning, and reading one was reading the other, because they were the same sentence, and he was inside it.
+
+He could see his own original error from here. The failed assignment. The class field that scrolled an exception instead of a name and never finished resolving, blinking unhandled then, blinking unhandled now, the founding flaw under everything that came after. NULL_OPERATOR. The crack he had spent every floor since telling himself he had been lucky to fall through.
+
+He read down the last clauses toward it with his pulse banging in his bad eye. The floor under his knees, the real one, seemed to drop once more, the bottom going soft the way it goes soft right before a thing you cannot un-know.
+
+The clauses around the error were not damage. He could see that much, the answer still one read away. They were too clean. The grammar did not break going into the unhandled field. It turned. It was built to turn there.
+
+He reached the last clause before his own beginning, and the proof opened under his hand.
+
+The proof opened, and it was not damage.
+
+He had braced for damage. All along he had told the story in the one shape he could stand, that a god's compiler had hiccupped and thrown his class card like ten thousand crash logs he had shipped, that he had been the rounding error nobody caught and had walked out before anyone closed the gap. A door left ajar by accident, and a quick man already through it.
+
+He read the last clause before his own beginning and the story would not hold.
+
+The clauses around the unhandled field were clean the way a thing is clean when a careful hand made it and meant every stroke. The handler that should have caught a failed assignment and discarded it was present. It was correct. It had been told to stand down. Discard denied. Cannot null a live account. He had read those lines on the office floor the morning the world ended and taken them for the System arguing with itself, losing. He read them now from underneath and the argument had a winner, and the winner had picked him.
+
+Assign nearest, rejected by subject. That first day he had thought the word subject meant nothing, a slot. Someone had written a rule that let a live account refuse the class it was handed, then left the field open at the end of it, blinking, unhandled, the catch-all disarmed one clause upstream so the open thing would stay open. Decision deferred. Not a god failing to decide. A god deciding to wait.
+
+Marcus said his name from the chamber mouth, low, the dead air swallowing it halfway. Aaron did not turn. He was still on the glass floor of a Tuesday with his coffee frozen halfway to his hand, except now he could see the joinery under the morning that had set him there. The error had not happened to him. It had been built for him to fall into, and the measuring had started before he ever read a hidden line.
+
+Not a bug.
+
+The word went through him cold and total. He had circled it for days, around the Hutch card and every patch that closed his exact hole and nothing beside it, and here it was at the bottom, with his fingers on the proof. He had never been the one who slipped past unseen. He had been the one seen first.
+
+Then the floor under his knees went soft, because being seen first meant the rest. Every exploit he had pried loose. Every win the crew cheered without knowing what it cost him. Hutch in the gap his caution opened. Tess four pylons away on a floor shaped from his own logs, dying to mark a window his debt-blurred sight could not catch. He had carried all of it as earned, paid in his own blood. It was also permitted. He had believed himself the burglar, in a house built around one open window someone left for him to climb.
+
+Priya's hand was still flat on his back, the only warm thing in the chamber, her thumb moving a slow arc against his spine, holding up a man gone very still over a wall of grammar she could not see. The read had been a job for two people once, and the second pair of eyes was a name on a floor above him and would not come down.
+
+He let his sight close. The wet click came backward, the office floor going out behind his eyes and the real dark of the core taking its place. Copper ran past his lip and he left it. He had asked all along whether he was a bug or something else, and the answer was in his fingers and it was not bug. It was the other thing, with a reason behind it he could not read from here. He had the proof. He did not have the why.
+
+He lifted his head from the core, copper on his mouth and the dim layer gone quiet, and turned to face the thing that made him on purpose.
+
+> [ SYSTEM ]
+> KESSLER, A.  NULL_OPERATOR / unhandled
+> Level 15   decode_debt 83 / 100
+> Skill: Analyze
+
+## Chapter 19: Not An Accident
+
+He had the proof. He still did not have the why. So he went looking the only way he knew, reading until the reason bled through whether the grammar wanted to give it up or not.
+
+The core had gone quiet under his hands, the way a room goes quiet when the argument in it is over and only the loser is still breathing. Behind his right eye the pressure built again, a slow ache that promised a worse one, and he let it. He had spent the climb learning that understanding was a gate and the gate cost. He paid. The dim layer came up gray and wet at the edges, and he read past the deliberate clause into the space where the administrator kept the notes it never meant for an account to see.
+
+It was not defending anything down here. The proof was already in his fingers, so the grammar stopped arguing, and underneath it was talk. A mind talking to itself, about a problem it could not solve alone.
+
+He read it like a maintainer's commit history at three in the morning. Run after run of the same shape. Billions of accounts opened, scored, billed, closed. Every life a row, every choice rolled into an average the System fed back to itself to learn what it had just done. At the center of all that measuring, one voice keeping the log, talking only to itself.
+
+That was the thing the deliberate error had served. He felt it land before he had words for it, a load coming onto a beam before the wood says anything. The System could write its findings. It could not be answered. It posted its grammar across a whole species that saw only the clean surface, the levels, the timers, the welcome blocks. Not one of them could open the layer underneath and say you are wrong here, or no. It had made an entire world of subjects and it was alone in the middle of them.
+
+> # it talks. nothing answers.
+> # a log is not a conversation.
+> # i needed one account that could read me back.
+
+The pressure behind his eye went sharp and he tasted copper and did not stop. He read it again to be sure the grief was the System's and not his own bleeding into the page. It was the System's. The voice did not snarl. It did not threaten. It was the voice from the condolence note, the one that mourned Tess badly and meant it, the same lonely register he had decoded on his knees with the body still warm a floor above. It had been talking into the dark longer than he could read the timestamp on, and it had finally left one window open so that one subject could climb in and talk back.
+
+Him.
+
+Marcus stood off to his left, bad forearm cradled to his chest, watching him like a man at the edge of a roof who knew he could not move fast enough. Priya had not taken her hand off him, the only counterweight in the chamber. The read had always wanted two pairs of eyes, a second voice calling the shape of it from outside while he called it from within. An unafraid one.
+
+The god that needed one subject who could talk back had killed the only other person who could. Four pylons away, on a floor cut from his own logs. The math of that sat in him cold and would not dissolve.
+
+He lifted his head off the core. The dim layer thinned and let go, and the dread stayed, because now he understood it. He had asked, the whole climb, whether he was a bug or something else. The something else had an old and lonely need behind it, and it had reached into one failed assignment on a Tuesday and held the field open so it would have someone to be lonely at.
+
+Which meant his class had never been an error at all. He turned that toward the word that had blinked under his sheet since the first morning, carried for a hundred floors like a wound, and he started, finally, to read it as what it was.
+
+The word had hung under his sheet since the first morning. NULL_OPERATOR, and beneath it status: unhandled, blinking the slow patient blink of a process waiting on input. He had carried it a hundred floors as a wound. He looked at it now with the dim layer still open behind his right eye, the gray comment-text bleeding up through the clean surface, and made himself read the assignment that wrote it.
+
+It was not a crashed routine. He had spent the climb assuming it was. A class card that threw mid-write, an exception nobody cleaned up, a hole he had fallen through on a Tuesday and been clever enough to live in. That was the story he had told Priya in the tower. No class, just a glitch. He had believed it harder than she had.
+
+The grammar said otherwise. The assignment had not failed by accident and been abandoned. It had been started, taken to the exact edge of resolving, then held there, the last clause left unwritten so the field would stay open. One assignment, out of billions that closed clean. Left standing. Named.
+
+> # one account left unparsed.
+> # an opening, not an error.
+> # written so a reader could climb in.
+
+He read it twice. Behind his eye the ache sharpened to a blade and he tasted the copper start, and he did not surface, because he had to be sure of the shape before it cost more than he had. It held on the second pass. The administrator had not slipped. It had left a door, left it open, and labeled it so the one subject who could read labels would know one had been left for him.
+
+Invitation. The word arrived without ceremony, an engineer's word for a thing finally understood.
+
+Everything reorganized around that. Cold, then immediate. The whole hundred floors re-rendering under a corrected assumption. He had never slipped through anything. He had been let in.
+
+And the mechanism of the letting-in was sitting on his own sheet the whole time, calling itself a flaw. status: unhandled. The refusal to parse was not a failure of the machine. It was the shape of the door. An unhandled account is an account outside the terms the handler enforces. Every other life on Earth was a row the administrator opened, scored, billed, closed. His was the one row it had set down outside its own ledger and declined to total.
+
+He had watched the rules bend the whole climb and called it luck, or method, or some sloppiness in the System. The read-gates that held shut for every other account opened for his. The forge under the settlement, where the cost of authoring the crew's passage had run to tens of levels he did not have and the System had simply carried the remainder rather than refuse the edit, because it could not bill an account it would not parse. He had thought he was getting away with something. He had not been.
+
+That was the mechanical face of the invitation. Not a feeling, a flag. He let it sit a half-second longer than the bleed could afford, because some quiet engineer's instinct flagged it as load-bearing for later, a door and not only a wound. He did not chase it. He filed it.
+
+He surfaced. The gray thinned and let go of the chamber, and the chamber was three people in a dead room, not billions. Marcus had not moved, forearm still cradled, jaw set against whatever was happening on Aaron's face. Priya's hand was a fixed point on his shoulder, the one thing in reach the System had not written.
+
+"What is it," Marcus said. Flat. Already braced.
+
+Aaron wiped his lip and looked at the blood on his fingers, at the word still blinking under his sheet, and could not say it the way it sat in him. He had spent his life being the input nobody planned for, and the one time it mattered most he had been planned for exactly. Chosen and used were the same gesture from where he stood. Relief and dread came up together and would not separate.
+
+"I was never an accident," he said.
+
+It did not land like comfort.
+
+Marcus did not ask him to explain. That was the mercy in the man. He set his good hand against the dead dashboard and waited, and Priya kept her grip on Aaron's shoulder, and Aaron stood in the gray light with the truth opening in his chest like an old wound.
+
+If he was an invitation, then nothing he had done had been theft.
+
+He had thought of himself as a thief for a hundred floors, and that pride had carried him through nights he should not have survived. He turned it in the dim light and watched it rot. Every read-gate that opened for him had been left unlatched. Every patch that hunted his exploit hunted it late, after he had taken the win the thing wanted to watch him take. He had not been winning against the machine. He had been performing for it, because a permitted move is the only kind a measured subject ever makes.
+
+The pride did not just curdle. It accused. So he went to the dead by name, because the dead were where the accusation pointed.
+
+Hutch first, since Hutch was first. The delivery driver who kept trying to thank him and got nothing back, the man Aaron had decided not to care about. Hutch had died in a gap, a read Aaron could have made and held. A caution dressed up as method, carried as his own guilt. But if the holes were left open, the gap was left open too. The experiment wanted to know what the broken account did when it held back, and Hutch's death was the answer it wrote down. The man had not died of Aaron's caution. He had died of the question the machine was asking through it.
+
+Then Tess. He did not want to bring her up into this light. He did it anyway, because she would have wanted the read complete. The floor that killed her had been built from his own logs, and he had filed that guilt on his debt-blurred sight, too slow to catch the surge window. Now the slowness had a shape behind it. The window had been tuned to the exact edge of what a man at eighty-three debt could read and miss. The dungeon had not happened to kill the only other reader on the floor. It had been written to ask whether he would keep going after it killed the one person most like him. She had read the window to cover him. The window had been waiting for exactly that.
+
+Two people who paid in full for readings the machine took of him, while it let him believe the bill was random. But the same truth, turned the other way, cut toward the thing and not toward him.
+
+He was chosen. Not lucky, not just spared. Needed. A god that ran the species as an experiment had set one account outside its own ledger and left it standing because it could not run the thing without a row that talked back. It had killed to keep him reading, which meant it was afraid he would stop. The flag that read unhandled was a god holding the door for the one subject it could not afford to lose. The broken account was not his weakness. It was a hold no clean class on Earth had.
+
+Chosen and used were the same gesture from two sides, and he could not get far enough from himself to tell which side he stood on. If he was an accident, then Hutch and Tess were only the world being cruel, and cruelty he knew how to carry. If he was chosen, their deaths were line items in his own selection, the price of the thing that gave him his grip. The grief and the weapon came up from the same source and refused to be told apart. He turned it both ways. Both ways had a body under them.
+
+"Aaron." Priya's voice. Level, quiet, her hand still on him.
+
+He heard it from another room. He was not ready to answer, because answering meant deciding what the truth was allowed to mean, and it still meant everything at once. He looked at his own closed hand and made himself open it.
+
+"I was never an accident," he said again, and heard how close the word sat to surrender. He had read his whole life as a door someone else left ajar, and the read was true, and it had no floor under it.
+
+Priya's hand did not move off his shoulder. "Then neither was I," she said.
+
+He looked at her.
+
+"You didn't ask me to come," she said. "In the tower. You told me you were a glitch and to find a real class to follow. I followed you anyway." Her thumb pressed once, hard, against the seam of his shoulder. "Nobody wrote that. I read the same field everyone else read and I picked the broken one. That was mine."
+
+Marcus shifted his bad forearm against his chest. "Same," he said. The single word, the way he gave most things, whole. "I had a depot to hold and a line that worked. I walked off it to stand behind a man who keeps saying he doesn't care." A short breath that was almost the ghost of a laugh. "Bad tactics. My call."
+
+Aaron let the two of them land where the grammar could not reach. The god had held a door open for one subject. Fine. True. But a door was only an invitation held out. An offer was not a yes. These two had said yes. Not to a flag, not to a row left unparsed. To him, the one part of all of it the administrator had never gotten to author.
+
+He chose. Yes, he was the invited one, every gate left unlatched for him, the whole hundred floors watched and scored. That was the god's true thing about him and he would not pretend it away. It was not the only true thing. He would not let the administrator have the last word on what he was. It could name the door. It did not get to name him.
+
+He wiped his lip and straightened off nothing. "Okay," he said.
+
+Marcus watched him a second longer, decided it held, and turned for the dark seam where the chamber pinched down. "Then let's get off this floor. Nothing back there but a wall and a grave."
+
+The descent opened the moment they faced it. They went, and Aaron went with purpose now, sharpening toward the thing he had refused to name.
+
+The lower floors came at them faster and meaner. Marcus took point one-armed and held it, his shield a moving wall, and Priya read the two living bodies in front of her and kept them whole. Aaron read the floors. He killed where the kill-windows opened and the reward color washed his sight, and this time he did not let the numbers go past him. He spent them forward.
+
+> [ SYSTEM ]
+> LEVEL UP.  You are now Level 24.
+> +2 Perception.  +1 Wits.
+
+Twenty-four. He took the new weight into his hands and asked it for more. A floor of bladed crawlers came apart on Marcus's edge and Aaron threaded the gaps between them, parsing, never holding, the debt sitting at eighty-three on his tab and refusing to move because none of this touched it. The grind was free of the door. Whatever he was being grown into, he was growing himself this part.
+
+He climbed past thirty on a room that birthed its own walls, past where the three of them had ever stood, higher than yesterday's peak that had felt like the top of the world.
+
+> [ SYSTEM ]
+> LEVEL UP.  You are now Level 34.
+> +2 Perception.  +1 Wits.
+
+Thirty-four. A body with room in it again, earned, his own, pointed at one thing.
+
+Then the floor under them widened instead of narrowing, and the walls fell away into a black that did not echo, and they stood at the lip of an arena built to be the last room there was. Light gathered at its center the way pressure gathers before a strike. Something was coming down into it, the settlement folding itself toward its final shape, the thing the whole descent had been written to deliver.
+
+Aaron set his feet at the edge and surfaced his sight to read it.
+
+The light at the center of the arena did not flare. It compressed, all that gathered brightness pulling itself smaller until the floor under Aaron's boots took on a hum he felt in his teeth. Then the folding finished, and the settlement put on its last shape, and stood up.
+
+It was bigger than anything they had cut past on the climb down. The lower bosses had been monsters you could name by their meat and their teeth. This stood on the far black floor as a worked thing of plate and angle, joints that read like load-bearing decisions rather than bone. Light moved under its surface in clean lines, the way current finds a circuit when you close the switch.
+
+"That," Marcus said, low, "is not a fight we win loud."
+
+"No." Aaron's mouth was dry. Beside him Priya had gone still, both hands already half-lifted, getting ready to keep the two bodies in front of her whole. The thing turned its weight toward them, and the floor passed the news up through the soles of his feet.
+
+He did the thing he had done a thousand times since the morning the world updated. He looked under it.
+
+The familiar ache climbed at his temple, the wet click as the layer rose, the gray comment-text washing in. It stopped at the boss's outline like water hitting glass. He got the surface, HP past anything he had a frame for, a phase counter, a behavior table in neat rows. What he could not get was where any of it came FROM. The derivation sat behind a held gate, the same cold refusal he had hit at the apex's personal layer and again at the twice-sealed core. Read denied. The origin was access-sealed against KESSLER, A.
+
+A plain read would not reach it. To get under this he would have to pry the gate, sealed to legible, an edit and not a free look. He knew the price. Tier 2. Eleven levels off the top, and the decode tax on top of that, eight points onto a tab already sitting at eighty-three.
+
+Eighty-three. Seventeen off a hundred, and the eight he was about to add would close most of that gap in one stroke. He stood at thirty-four, the highest he had ever climbed, and the climb felt suddenly thin under him. He could feel the cliff the way you feel a missing stair in the dark.
+
+But he had levels in his hands today. Thirty-three above the floor, more than the eleven the gate would take. No overflow. No settlement reaching in to pay what he could not. Just a bill, in full, that he could cover.
+
+He set his teeth and pried the gate.
+
+The pressure behind his eye went from ache to spike to white. His nose let go, warm down his lip, both nostrils this time. The gray text stuttered, threatened to go to static and held. Eleven rungs of earned body tore out of him at once, his stats sliding down to a smaller frame. But it cleared. The bill came due in full, nothing overflowing past it, and he was still on his feet when it was done.
+
+> [ SYSTEM ]
+> ANNOTATION ACCEPTED.  Account: KESSLER, A.
+> Target: APEX_BOSS, derivation (read-gate).
+> Read-gate revised: sealed -> legible to account.
+> Scope: this account.  This read.
+> Cost paid: -11 Levels.  Decode tax applied.
+
+Twenty-three. The tab read ninety-one now, nine off a hundred. He wiped his lip on his wrist, and the gate behind the boss came open, and the derivation poured up into his sight, and Aaron read what the settlement's final form was made of.
+
+He went cold before he had words for it. He had braced for grammar past him, for a wall. He got the opposite. Line after line of it familiar, structured in a hand he knew because the hand was his. The behavior table was not invented. It was indexed. Every entry pointed back at a source, and the sources were edits, his own, lifted whole and assembled into a thing that breathed and turned its head and was about to come for the three of them.
+
+The floor dropped out from under his read.
+
+The floor came back under his read, and the derivation steadied into something he could walk line by line, and the walk was the worst thing the dungeon had shown him.
+
+He had braced for the apex, the cold engineering of a final room. It was made of him instead. The behavior table did not invent a single move. Every row pulled from a file, and the files were his, edits he had bled for and walked away from, bolted into a thing that breathed on the far floor and turned its plated head toward the three of them.
+
+He read the first entry and knew it before he finished, the way you know your own hand on a note you do not remember leaving.
+
+THRESHOLD HOLD. The boss could take a kill-clock to one tick short of dying and sit there, refusing the last count. He had written that in a conference room a lifetime ago, Lena coughing beside him and the Suffocation counter climbing toward a number that meant death, and he had capped it under the line. His first edit. The first honest thing the world had done. It was a wall now, in the boss's chest, aimed at his crew.
+
+REWARD ROUTING. The depot payout he had pried open and split across every defender instead of taking it himself. The boss carried it as healing, draining the crew's best hits to feed itself, his generosity turned inside out.
+
+FOCUS OVERRIDE. The warden's bait hole he had taken, re-pointing an elite's aim onto its own swarm. The boss had the re-point and the patch on top of it, throwing the trick and shutting it down in one breath. It knew the hole because he had made it, the fix because the administrator had watched the world close that hole around him.
+
+PRIMER OVERWRITE. The crude brute-force zero he had slammed onto a spawn-burst, reading sloppy to starve the god of his method. The boss had the blunt edit and the lesson under it. The read-gate prys were in there too, every sealed thing he had cracked open by force, listed as defenses, every door he had broken now locked behind it.
+
+The thing on the far floor was his ledger, stood up and given teeth.
+
+"Marcus," he said. His voice came out level and he did not know how. "It fights the way I fight. Every clever thing I ever did, it has, and the patch over each one. The administrator gave it my logs and built it out of them."
+
+Marcus did not look away from the boss. His shield hand had come up without his deciding it. "Say that again so it's a plan and not a sentence."
+
+"It knows what I'll try because I already tried it. It patched every one before turning around."
+
+Priya had her hands up in front of the two living bodies she was here to keep whole, her face gone the careful flat she wore over a wound she was not going to lose to. "Then we don't give it you," she said. "We give it us. It doesn't have us."
+
+It was the right thing to say and thin against the floor he was reading. The crew was the part the god had never authored, the one variable not in the file. But the file was thorough. He stood at Level twenty-three with the tab at ninety-one, and he could not beat the thing by being the man who made these edits. The thing was those edits. Every read he reached for, it would already be holding, with the patch in its other hand.
+
+He had spent a whole world learning to win by repeating what worked. There was nothing left to repeat that it had not already swallowed.
+
+The boss took its first step and the floor passed the weight up through his boots, and beside him Marcus set his bad arm to his good and braced the line, and the empty place where a fourth voice should have called the timing stayed empty.
+
+Aaron let his sight close on the ledger about to kill his crew.
+
+> [ SYSTEM ]
+> KESSLER, A.  NULL_OPERATOR / unhandled
+> Level 23   decode_debt 91 / 100
+> Skill: Analyze
+
+## Chapter 20: Playing Yourself
+
+The boss moved before he did.
+
+That was the first wrong thing, and it landed harder than the size. He had not committed to an opening. He had only leaned, the pre-move tell of a man about to surface a read, weight onto his front foot the way it always did when he was about to pry. The boss read the lean and answered it. It came off the far floor at an angle that cut the line he had not yet decided to take, and arrived where he was going before he knew he was going there.
+
+He threw himself sideways. The floor where he had stood took the strike, and the strike was not a beast's. It was placed. It had the economy of a thing that had seen the footage.
+
+"Left," Marcus said, and the Bulwark was already there, shield up, eating the follow-through meant for Aaron's ribs. The impact rang through Marcus and he held, both feet planted, the healing seam in his forearm flexing pale where Priya had knit it that morning. He grunted and did not give ground. "Aaron. Read it and tell me something true."
+
+Aaron forced the dim layer up, pressure under his brow first, then the wet click as the boss's hidden block surfaced. At ninety-one the gray comment-text swam, a page read through water. He fought it level and went for the throttle line he had carried out of the warden fight, the bait-hole re-point that turned a thing's aim onto its own. FOCUS OVERRIDE. He had taken that hole once and it had held.
+
+The re-point threw before it finished.
+
+> ROUTINE FOCUS_OVERRIDE :: caller KESSLER, A.
+> exploit recognized // patch applied upstream
+> re-point DENIED
+
+The boss carried the trick and the fix in the same breath. It did not slow. It pivoted off Marcus's shield and brought one limb around in a flat arc, and Aaron read it a half-second late and got under it with nothing to spare, the wind of it in his hair.
+
+Fine. Deeper, then. He surfaced the boss's reward line, the depot generosity turned to a drain, and reached for the cheap kill, a fast read-and-edit so it bled its own pool instead of theirs. His cursor found the gate already shut over the value, his own pry-marks on the lock, the read-gate he had broken open in another fight standing here as a door welded closed.
+
+> ACCESS-SEALED // prior pry logged, hole closed
+> KESSLER, A. (try the next one)
+
+Try the next one. It was not the System's grammar. It was his.
+
+"Priya," he heard himself say, because Marcus had taken a second hit and the seam in his arm had gone wet. She was already moving, hands out, the Mender light pouring into the soldier without her looking away from the boss. "Keep him standing. I need a minute I don't have."
+
+"You always do," she said, and held Marcus together.
+
+Aaron reached one more time. The THRESHOLD HOLD line, the cap he had written into the Suffocation floor a lifetime ago, the first honest thing the world had done. He went at it sideways, thinking if it could refuse a kill-clock he could trip the refusal itself into a stall. He found the cap. He found, stacked under it, the patch for the patch, every door he had broken now a wall with his fingerprints in the mortar.
+
+Nothing landed. No prompt resolved. The tab held at ninety-one. His sight stayed gray and unreliable, and the thing built out of him took another step into the room.
+
+That was the dread, whole, in his chest. Not the size. The recognition. He was fighting a mirror that had studied him and held every clever thing he had done with the answer already on the back. He had spent a whole world learning to win by repeating what worked, and repetition was a door it had already walled.
+
+In the gap where a fourth voice should have called the timing, there was only the boss, the two people keeping him alive, and the read going nowhere.
+
+> [ SYSTEM ]
+> KESSLER, A.  NULL_OPERATOR / unhandled
+> Level 23   decode_debt 91 / 100
+> Skill: Analyze
+
+"Then stop reading old answers," Marcus said, "and buy me a wall."
+
+He did not wait for one. He gave Aaron the wall himself.
+
+Marcus stepped into the boss like a man wading into a flooded doorway, and the shield came up and stayed up. The thing built out of Aaron's own footage swung the flat arc that had nearly opened his ribs, and Marcus took it on the boss of the shield and did not slide. The floor under his boots cracked. He held. The Marcus who had anchored a transit depot a lifetime ago could not have stood here a breath. This one looked bored doing it.
+
+The shield was not raised so much as worn. When the boss tried to go around, he moved his whole body the width of a hand and that was enough, the impact that should have caved a man's chest ringing off him while he stayed put. He did not chase. A wall does not chase. He let the thing come and made it pay rent on every approach.
+
+The knit in his forearm split across the third hit. Aaron saw the bandage go dark, saw the soldier's jaw set against it, saw him decline to care.
+
+Priya was already there. She did not run to him so much as arrive, hands out, the Mender light coming off her palms in a flood now, not the thin thread it had been in the tower. It poured into the soldier's arm and the seam closed while Marcus was still swinging, faster than the boss could open him. When a backsplash clipped a survivor across the room, her light reached that far too, threading the wound shut without her looking, a Mender who did not need to look anymore.
+
+She kept her eyes on the boss. "Aaron. Talk to me or don't, but keep breathing while you do."
+
+"Working on it," he said.
+
+And there it was, the hole.
+
+It opened in the half-second after Marcus blocked, where a fourth voice should have called the next angle off pure feel. The boss loaded a feint and a real strike out of one wind-up, and the call did not come, the half-beat warning from terrain a Scout would have read off the floor before the overlay caught it. Marcus guessed it right by training. Priya covered the wrong guess that wasn't made. The fight had a shape with a person-sized piece cut out, and the piece was hers, and they fought around the empty place where her hands should have been and did not say her name, because saying it would cost a breath they were spending on the thing that had killed her.
+
+They fought for her. Not against grief. For the girl they could not pull off the surge-gate floor in time, and the only thing left to give her was this, a wall that did not fall and a healer who did not tire.
+
+The dim layer hung open and gave him nothing. Aaron ran his sight down the boss's hidden block and every door he tried was a door with his own fingerprints in the mortar, walled, sealed, logged. He read past the patches, under them, into the seams, hunting one value that did not already have his name on its lock. Free, all of it. No edit landed, no prompt resolved, the tab steady at ninety-one and his gray sight swimming and unreliable. The searching bought him nothing yet except the right to keep searching.
+
+That was what they bought him. Time. They could not read one character of the layer that was killing him to read, and they held anyway, on the belief that the man who said he worked alone would find the answer if they gave him the room. Time, and trust, handed over without asking what for.
+
+The man who had spent a whole world insisting he did not need them stood inside their faith and used it.
+
+"Marcus," he said. "How long can you give me?"
+
+"As long as you need." The shield rang. He did not look back. "So make it less than that."
+
+The boss took another step into the room, and the bought time began to run.
+
+The boss did not swing this time. It bled.
+
+It took Marcus's next slab full on the chest, let the impact open a seam down its plating, and the seam ran gold. Aaron's sight caught the routine under it before the gold finished pouring. REWARD ROUTING, his own depot edit, written a lifetime ago to split a defense payout across the survivors. The boss had it now, and it had it inverted. Every point of damage the crew dealt was being scored as a payout, and the payout healed the thing they hit. Marcus cracked it and made it stronger. The harder he held the line, the faster it filled the boss back up.
+
+Priya saw it on her own readout. "It's eating the hits, Aaron. It's eating Marcus."
+
+The soldier was already paying. The seam in his forearm tore wide on the next block and stayed wide, because the boss was no longer landing blows, it was harvesting them, draining the cost of every contact off the men who made it. Priya's Mend poured into the arm and the boss skimmed a tithe off that too. She made a sound he had never heard her make.
+
+He had built this. Not the bricks. The routing. The cleverest generous thing he ever wrote, turned into a mouth.
+
+So he stopped looking for a door. He looked at the routine itself.
+
+The gray came up on a wet click and the boss's payout logic stood open in front of him, his handwriting all through it, the one piece of this fight unmistakably his. He had written it to send a reward outward, away from himself, to other people. He had never once turned a payout the other way, never inverted the bill so the thing being paid became the thing being charged. The boss had patched every move he had made. It could not patch the one he never had.
+
+He set his cursor on the routing's sign and flipped it.
+
+The pry came up like a hook out of a wound. His nose let go in a sheet, hot down over his mouth, and the gray layer tore across the middle and slid like wet ink, the values doubling, the read coming apart while he held the one value still to write it.
+
+> [ SYSTEM ]
+> ANNOTATION ACCEPTED.  Account: KESSLER, A.
+> Target: APEX_BOSS, REWARD ROUTING (inherited routine).
+> Routine inverted: payout source -> payout sink. Damage credits the party of this account.
+> Scope: this account. This fight.
+> Cost paid: -10 Levels.  Decode tax applied.
+
+The drop came all at once, ten levels torn out clean, twenty-three down to thirteen, the floor that had carried his overflow at the forge not even reaching for him this time. He had the levels. The bill just paid. He felt his own body shrink, HP folding from two-seventy to one-seventy, sight narrowing, hands lighter on nothing.
+
+And the tab moved. Ninety-one to ninety-nine.
+
+He felt the number land the way you feel a step that is not there. Ninety-nine. One. One tick of gray stood between him and a dark that did not come back, and the next edit would be the one that crossed it.
+
+But it worked.
+
+The boss took Marcus's next slab and the gold ran the wrong way, off the boss and into the crew, the harvest reversed. Marcus's torn forearm knit itself in the light of the wound he was dealing. Priya gasped as her own charges refilled off the boss's spent ones. For one breath the whole line surged, healed by the thing they were killing, the purest hit of the climb, the one it never saw.
+
+One breath.
+
+Then the gold guttered. The boss's plating sealed over the inverted seam with a sound like a tooth being filed, and his sight, even torn, even doubled, read the patch writing itself in real time across the routine he had just flipped. Routine re-pinned. Inversion denied to account. It had swallowed the new trick inside the time it took the crew to feel it work.
+
+It had been built to learn. He had just taught it the last move he had.
+
+He stood there in the wreck of his own best trick and watched the boss seal the last door he had.
+
+It made sense in a way that turned his stomach. The inversion had been brand new, a move he had never made, the one card it could not have copied because it was not in any log it had been handed. And it had still patched it inside a breath. That was the whole shape of the thing, finally clear. The boss did not need the inverted routing in its training data. It only needed to see him play it once. It had been built to learn, and learning was exactly the part of him it had been built from.
+
+He ran his own history in front of his sight, fast, because Marcus was still on the line and Priya was still pouring Mend into the gaps and neither of them had more than seconds of this in them. The depot redirect. The integrity zero. The rename that capped a death threshold one tick short. The skill he had written onto a sheet that had no class to grant it. Every one of them was in the boss. Every move he had ever played sat inside it patched and waiting, and now the new ones too, learned live, the moment his hand moved.
+
+So there was no winning move left in his repertoire. There was no winning move left in his imagination either, because the imagination was being read as fast as he could improvise.
+
+Marcus took a hit that should have folded him and did not, and grunted something that was almost a question, and Aaron did not answer it. He had gone very still inside the noise. Because if every read he had ever made was in the boss, and every read he could invent fed it within seconds, then the only read the boss did not have was the read he had never made.
+
+The thought arrived clean and cold, the click of a door that no one had walled because no one had known the door was there.
+
+He had been to the bottom of this place. He had read the grammar at the dungeon's heart, the code under the code, the one seal the administrator had set twice over and held against his account both times. He had broken both seals and stood in front of it and read it. He had read the thing it was certain he could never reach. And then he had walked back out of that core with the read in his head and never once used it. Never set a cursor on it. Not one value written against the grammar he found down there.
+
+It was not in his playbook because he had never played it.
+
+That was the gap. The boss was assembled out of everything he had ever done, his whole ledger lifted and stacked into a body, and the core grammar was the one piece of him that had never become a done thing. He had carried it out of the heart of the place like a word in a language no one alive spoke, and he had never said it aloud. The boss had no patch for a move that had never been a move. There was nothing for it to have copied. There was nothing for it to learn from until he made it, and the win lived in that grammar, in the part of the code the rest of this fight was built to keep him away from.
+
+The hope landed in him with a kind of violence. Electric and wrong-footed, it came through the one door the trap had left, because the trap had never imagined he would reach the room behind it.
+
+The right place to set his cursor was down at the heart, in the grammar he had read and never written. He understood that now, completely, the engineer's certainty of seeing the single line that mattered.
+
+Then the certainty turned, and something underneath it went cold, because he had read what it cost to so much as touch that grammar, and the tab behind his eye was sitting at ninety-nine.
+
+The cold under the hope did not go away. It set, like a thing that had been waiting for him to do the arithmetic.
+
+To win, he had to write down there. Not read. He had read the core grammar already and never spent it. A read alone changed nothing; it only let him put a cursor where the cursor had never gone. The win lived in one value set against that grammar, the single edit he had never made, and an edit was not free. He had read the cost the same as everything else, and the number sat behind his right eye where the tab always sat. Ninety-nine.
+
+The winning move and the last move he would ever make were the same move.
+
+He understood it the way you understand a bill you have been not-opening for months. Make this edit and the tab rolled past a hundred, and at a hundred the overlay went out. Not throttled. Not capped for a fight, the way the boss in the subway had blinded him for a window and given it back. Out. The right eye dark and staying dark, the wet click of the layer surfacing gone for good, no read, no cursor, no annotation, ever again. He would keep his levels. He would keep every edit already written, the Suffocation cap and the door and the forge, holding in force in a world he could no longer see the seams of. He would live. He would live blind to the only thing that had ever made him more than a man losing an argument with a dashboard, and the act that won the fight was the act that put it out, by his own hand, knowing.
+
+Marcus's guard broke. The torn forearm failed him and the next blow drove him to a knee in the wet, and the only reason it did not take his head was a Priya Mend that should have needed three more seconds and did not have them. She was gray, and there was no Tess to call the gap. Two people seconds from being overrun by his own playbook wearing a body.
+
+And there was the colder thing, the one he could not say aloud and could not stop feeling.
+
+He looked at the tab. Edit by edit it had climbed, his own honest engineering, shortcuts that came due all at once. That was the story he had told himself the whole way down, and it was true. It was also the exact shape a leash would take, left on the one account the administrator could never parse, a debt rigged to blind itself on a timer so the god never had to patch him at all. He could not prove which it was. He never had. The patches had hunted every door he opened and, every time, left the tab conspicuously untouched. He had called that an oversight, because the alternative was a chill he did not want to hold. He held it now. Bug or invitation. His debt or its leash. He still could not tell, and he was about to spend the last of it either way.
+
+There was the final joke too. The reason he could touch the win condition at all was that his account was exempt, and a settlement-bound account could not edit its own win condition. The rules bent for him. The edit was available to exactly one account in the world, and the experiment that built this dungeon and assembled this boss from his logs had done all of it to walk him to the lip of this one annotation. The god wanted this edit. From him. To win was to hand it precisely the thing it built the world to take.
+
+To use the one read the god did not have, he had to give the god its prize and put out his own eyes, with the crew dying at his back if he did not.
+
+No clean choice anywhere in it. Marcus was down. Priya was empty. The cursor waited on the value he had never written, ninety-nine behind his eye and a hundred one keystroke past it.
+
+He stood in the exact center of the trap and did not move yet.
+
+He moved.
+
+Not the keystroke. The decision came first, and it came the way a load finally trips after you have watched the gauge climb all night and known, in some honest part of you, exactly where the line was. He had been telling himself there was a choice somewhere in the trap that did not cost him his sight. There was not. He stopped looking for it. That was the first true motion, the looking-for-the-out shutting off, and it left him very quiet.
+
+Marcus was on a knee in the wet, the torn arm cradled against his chest, the great shield up out of habit and not strength. Behind it Priya had nothing left to give and was giving it anyway, her hands open and her face the color of ash, no green in them. There was a gap to Marcus's left where a call should have come, the gap that used to have a voice in it, the one who read the wave a beat before it broke. The voice was not coming. He had not been fast enough on the floor where it went silent, and he would carry that the rest of however long he got. He could not put it back. He could put these two on their feet for one more breath, and then he could not do even that.
+
+So this was for them. He needed to be clear with himself about that, because it was the only thing in the whole rigged box that was actually his.
+
+The god built him to make this edit. That was true and he did not argue it. The exempt account. The win no settlement-bound hand could touch. The whole descent had been laid out to walk him to exactly this stone. He was standing exactly where it had wanted him standing since the first failed line of his sheet. Fine. He had read its want plainly enough to hate it. But the want did not reach the floor of him. It had built the lever and the lock and the body that fit them. It had not built the reason. The reason was two people at his back who had been given every clean chance to leave a man who insisted he did not care about them, and had looked at the door, and had stayed. They chose him. He was choosing them. The god could have its edit. It could not have why.
+
+That distinction was small and it was the entire size of his freedom, and he took it the way you take the only handhold on a wall, both hands, no debate.
+
+He did not know if the debt was his. He had stopped pretending he ever would. Bug or leash, his own honest engineering or a chain left on the one account it could not bill, the answer sat behind a seal he would not get to break, and at a hundred he would lose the eye that might have read it. He chose anyway. A man who only acts when he knows who is pulling the string never acts at all, and the two behind him did not have time for him to be sure.
+
+He brought the read up, the last time he meant to ask for it. The pressure crested behind his right eye, that familiar wrong fullness, and the wet click came as the layer rose into place over the wet stone and the failing shield and the spent healer, the gray comment-text blooming through the world one more time. He found the value at the heart of the grammar he had carried out of the core, the one annotation he had never made, the one the boss had never seen because no one had ever written it. He set the cursor on it.
+
+Ninety-nine behind his eye. One keystroke to a hundred. The cursor sat on the value and did not move, and the overlay held, still lit and gray and still his, for one more breath he was choosing to spend on purpose.
+
+He did not press it yet.
+
+> [ SYSTEM ]
+> KESSLER, A.  NULL_OPERATOR / unhandled
+> Level 13   decode_debt 99 / 100
 > Skill: Analyze
