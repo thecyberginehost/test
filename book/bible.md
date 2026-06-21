@@ -18,11 +18,11 @@ every section. Append facts, never rewrite history.
   people, quick to trust evidence. Insists loudly he does not care about the crew.
   He cares. Power-fantasy is competence, not destiny: he wins by reading the fine
   print the System hopes no one reads, then exploiting the hole before it is patched.
-- Current level / key stats: **Level 13** mid-Ch 17 (ACT THREE journey: forged the crew's apex passage in
-  Ch 15 at a Tier-3 cost that crashed him to the Level-1 floor, the settlement carrying the overflow; two
-  Tier-2 floor edits in Ch 16 drove decode_debt to 67 while his level stayed pinned at L1; he ground Level
-  1 -> 13 back on the Ch 17 descent, recovering his pre-forge level. The levels came back. decode_debt and
-  Tess did not). Sheet (Aaron / NULL_OPERATOR): HP 170/170, Strength 5, Agility 6,
+- Current level / key stats: **Level 13** end of Ch 17, decode_debt 67/100 (ACT THREE journey: forged the
+  crew's apex passage in Ch 15 at a Tier-3 cost that crashed him to the Level-1 floor, the settlement carrying
+  the overflow; two Tier-2 floor edits in Ch 16 drove decode_debt to 67 while his level stayed pinned at L1; he
+  ground Level 1 -> 13 back on the Ch 17 descent, recovering his pre-forge level, debt unmoved at 67. The levels
+  came back. decode_debt and Tess did not). Sheet (Aaron / NULL_OPERATOR): HP 170/170, Strength 5, Agility 6,
   Vitality 6, Perception 34, Wits 22 (formulas: HP = 40 + 10*Level, Perception = 10 + 2*(Level-1), Wits =
   10 + 1*(Level-1)). **Skills: Analyze** (first skill his classless sheet ever
   carried; surfaces one target's hidden status block instantly, on will; a locked permanent annotation).
@@ -3157,3 +3157,40 @@ load-bearing beats).
   margin above 13 for Ch 18's edits is ground at the core in Ch 18). Close-turn seed: he starts to see the
   debt/dungeon as written deliberately (-> s4, surviving to understanding). SEAL: singular/local; the admin's
   clear voice and the "chose not to" admission are s5/s6, NOT here.
+
+### Ch 17 (Sec 4-6) established facts now known to the reader
+- **s4 (the turn; surviving -> understanding):** the load-bearing arc pivot. Aaron stops reading the dungeon to
+  SURVIVE it (the Act-One/Two motive) and turns toward reading it to UNDERSTAND it (the Act-Three motive that
+  carries into the finale). Motive named on the page: he will go down and read the thing that wrote Tess a
+  condolence. No mechanical change (Level 13, decode_debt 67/100; this is intent, not an edit). SEAL:
+  singular/local; the administrator's own voice is s5.
+- **s5 (the administrator's voice; lonely / learning / grieving):** a FREE READ. Aaron opens his sight and the
+  administrator speaks in its clearest register yet: lonely, learning, grieving in a machine's grammar. The
+  lonely-teacher feeling is kept AS FEELING, never as structure. SEAL WORD intact: the read stays "singular
+  here" (this account, this floor); NOT a standing seat, NOT other readers, NOT the no-handler inversion, NOT
+  why-exempt. No mechanical change (Level 13, debt 67, free read costs no decode_debt).
+- **s6 (THE ADMISSION; chapter close).** A FREE READ (no edit; Level 13, decode_debt 67/100 unchanged). The
+  administrator admits, in "> #" overlay grammar, that the killing floor was BUILDABLE TWO WAYS: variant A (one
+  tick, 0.4s margin against the reader, lethal) and variant B (a second tick, survivable for a reader of Tess's
+  class). It modeled both and SELECTED variant A on purpose. The query it was solving: "will the subject keep
+  reading after the cost is total" -- a reader who reads to survive stops once survival is paid; a reader who
+  reads to understand does not. "The cheapest instrument available was the second reader." It removed the one
+  account most like Aaron's to measure his response. The dare lands: "the subject is still reading. / the
+  question is therefore answered." Aaron's response: he does NOT stop (the one move it did not model would have
+  been to stop and go dark; he refuses to give it that), turns the rage INTO the read, resolves to go down and
+  read the core "written in the one grammar the administrator was certain he could never reach." SEAL (CRITICAL,
+  held): the admission stays LOCAL/mechanical -- it reveals THAT the floor was a chosen instrument and THAT the
+  thing knows him to the millimeter, never WHY his account is exempt, never a standing seat / other worlds /
+  prior readers / the no-handler inversion. "The second reader" / "the one account most like the subject's" =
+  Tess and Aaron's account, NOT the inversion; "unhandled" = Aaron's status, not the Administrator's. Closing
+  stat block (canonical, verbatim):
+  > [ SYSTEM ]
+  > KESSLER, A.  NULL_OPERATOR / unhandled
+  > Level 13   decode_debt 67 / 100
+  > Skill: Analyze
+- **CHAPTER 17 CLOSE.** Aaron ends Ch 17 at **Level 13, decode_debt 67/100** (HP 170/170, Strength 5, Agility 6,
+  Vitality 6, Perception 34, Wits 22, holds Analyze, NULL_OPERATOR / unhandled). PINNED DEBT CLOSE MET: Ch 17 is
+  the +0 recovery window, no edit, debt stays 67 (the levels come back, Tess does not). GUARDRAIL rule 4
+  satisfied: recovered above the pre-Ch15-edit Level 13. HOOK into Ch 18: he descends toward the core to read
+  the thing it is sure he cannot; Ch 18's two Tier-2 edits (67 -> 83) are ground from a HIGH level at the core
+  so they pay in full without overflow and close >= 13.
