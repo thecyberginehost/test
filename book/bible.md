@@ -132,6 +132,16 @@ load-bearing beats).
       unaffordable until very high level and out of reach for nearly the whole book.
   Because cost tracks depth and not his level, leveling up never makes fundamental edits cheap.
 
+  PROGRESS-COST OVERFLOW (LOCKED): An edit's progress cost is paid immediately from earned
+  levels, down to the Level-1 floor. For a NON-EXEMPT account, an edit whose progress cost
+  exceeds its available levels is unaffordable and cannot be made. This is why Tier-3 stays
+  out of reach until very high level. The EXEMPT account (NULL_OPERATOR / unhandled) is not
+  bound by this affordability gate inside the settlement: it pays down to Level 1, and the
+  System carries the remainder, because it cannot bill an account it refuses to parse.
+  decode_debt is charged in full regardless of tier or overflow. This is a mechanical
+  property of the broken account within the settlement. It is NOT, and must not be written
+  as, a statement about WHY the account is exempt. That stays sealed.
+
   DECODE DEBT (the PRIMARY, permanent, accumulating cost; the long-term spine, not the level): every
   annotation also adds to a single tracked value, decode_debt, that NEVER resets and can NEVER be
   re-ground or paid down. It is the body-and-mind cost (the nosebleed, the eye-spike, the
