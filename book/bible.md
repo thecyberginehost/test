@@ -296,6 +296,16 @@ load-bearing beats).
       (Tier 3): closes Ch 15 at Level 1; recovery above the pre-edit Level 13 is OWED by Ch 18 (guardrail
       rule 4). SEAL: the overflow stays LOCAL/MECHANICAL ("the bill it could not collect, it paid itself");
       the why is refused on the page; no standing/recurring seat, no other worlds, no WHY.
+    - #11 (Ch 16, s3): STALE-FLOOR RE-EDIT. The curriculum floor replays his Ch4 freight-shutter lock_state
+      problem (ledger #3), but his OLD edit is STALE (PATCH 0007 fenced the assignment behind a permit-guard;
+      his reflex flip throws). He reads ONE TIER DEEPER onto the guard and writes a FRESH Tier-2 edit
+      (default-deny -> default-permit for his account on this floor). Tier 2. OVERFLOW: at the Level-1 floor he
+      pays 0, SETTLEMENT_TRIAL carries the 9-level charge, Level STAYS 1 (no visible crash; body cost only,
+      nosebleed/eye-spike). decode_debt += 8. Running decode_debt = 59 / 100. ANNOTATION ACCEPTED block
+      (canonical, "> " prefix): Target floor rule (lock_state gate); Gate revised deeper than the patched value;
+      Scope this account / this floor; "Cost charged: 9 Levels.  Paid: 0 (at floor).  Carried: 9.  Decode tax
+      applied." First of Ch 16's two forced Tier-2 floor edits (51 -> 59 -> 67). SEAL: overflow local/mechanical,
+      no WHY.
 
   The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -3033,3 +3043,19 @@ load-bearing beats).
   51/100, holds Analyze, NULL_OPERATOR / unhandled.** Crew alive: Tess, Marcus, Priya. Hutch DEAD. SEAL held.
   Sets up s3 (the freight-shutter floor where his old edit is STALE and forces the FIRST fresh Tier-2 edit,
   +8 -> 59).
+
+### Ch 16 (Sec 3) established facts now known to the reader
+- **OLD EDIT GOES STALE; FIRST Tier-2 (ledger #11).** The floor replays the Ch4 FREIGHT-SHUTTER lock_state
+  problem (source "KESSLER, A., day 3", ledger #3). His old flip is PATCHED (PATCH 0007 fenced it behind a
+  re-pinned permit-guard, "his name on the fill"), so the reflex throws. The arms race made literal. He reads
+  ONE TIER DEEPER onto the guard and writes a FRESH Tier-2 edit (default-deny -> default-permit, this account,
+  this floor).
+- **OVERFLOW, SECOND INSTANCE (identical handling to the forge).** At the Level-1 floor he pays 0; the System
+  charges 9 levels and SETTLEMENT_TRIAL carries all 9 ("the bill it could not collect paid from its own
+  pocket"). Level STAYS 1 (no visible crash; "nothing left below him to take"); body cost only (fresh
+  nosebleed, eye-spike, overlay to static). **decode_debt 51 -> 59/100.** ANNOTATION ACCEPTED block as in
+  ledger #11 (Cost charged 9 / Paid 0 / Carried 9). SEAL: local/mechanical, why refused.
+- **STATE:** **Level 1, decode_debt 59/100, holds Analyze, NULL_OPERATOR / unhandled.** Crew cleared the
+  corridor spawns while he wrote (Marcus L17, Tess L19, Priya); all alive. Hutch DEAD. Sets up s4 (the warden-
+  FOCUS floor, SECOND Tier-2 edit +8 -> 67, the curriculum realization, the crew straining; debt 67 then BLURS
+  his reads toward the killing floor).
