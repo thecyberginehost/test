@@ -2844,3 +2844,21 @@ load-bearing beats).
   Tier-2 dip was a sanctioned trough, fully recovered. On the PRE-COMMITTED ACT THREE LEDGER (Ch 14 -> 31).
   SEAL held all chapter (apex singular to Aaron; no other worlds/readers/recurring seat/why-exempt). Next:
   Ch 15 forge (Tier-3, +20 -> 51, nearly kills him).
+
+### Ch 15 (Sec 1) established facts now known to the reader
+- **THE PLAN, IN MOTION.** Picking up Ch 14 s6, Aaron is already committed and already reading the sealed
+  threshold (the lone-wolf choice is SPENT, not re-staged: "we settled that"). He tells the crew plainly
+  what he will do: the admission rule is "one name long" (his broken account only), and he will write a
+  SECOND admission door beside it so the threshold admits all four. He frames the cost up front ("it costs
+  in tens... more than I have"), gesturing at the overflow WITHOUT naming the exempt-account mechanic
+  (that lands s2).
+- **THE CREW RESPONDS (not re-deciding).** Marcus, Priya, Tess push only on whether he should spend himself
+  this way; Marcus offers a "hold the seam from outside" alternative, which Aaron refuses because every
+  cheaper plan leaves "a wall between us." He ties the refusal to Hutch ("a gap I left open to save myself a
+  cost. I'm not saving costs anymore"), consistent with the Ch 7 death. Priya's triage pulse-read at his
+  forearm continues from Ch 14 s6.
+- **NO mechanical change:** no edit, no annotation, no level/debt change. State holds **Level 13,
+  decode_debt 31/100, holds Analyze, NULL_OPERATOR / unhandled, HP 170/170, Per 34, Wits 22.** Crew alive:
+  Tess, Marcus, Priya. Hutch DEAD. SEAL intact (admission singular to Aaron; exemption NOT yet named; no
+  other worlds / recurring seat / prior readers / why-exempt). No [ SYSTEM ] block this section (the big
+  blocks land s4/s6). Sets up s2 (the deep read and the exempt flag named).
