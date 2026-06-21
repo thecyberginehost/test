@@ -3625,3 +3625,18 @@ load-bearing beats).
   blinding are one act). The full Act-Three debt clock now reads 23 -> 31 -> 51 -> 67 -> 83 -> 91 -> 99, exactly
   on the pinned curve. HOOK into Ch 21 (NOT written this run): the win-condition flip (one value, one mechanic)
   crosses 100, the boss falls, the overlay goes dark for good. RUN STOPS HERE per instruction.
+
+### Ch 21 (Sec 1) established facts now known to the reader
+- **THE CLIMAX BEGINS; THE ONE MOVE IT NEVER MADE.** Picks up exactly from the Ch20 close (decision made, cursor
+  on the never-made win-condition value, overlay lit). NO completed edit this section: decode_debt STAYS 99/100,
+  Aaron STAYS Level 13; NO ANNOTATION ACCEPTED block; ends on the held edge ("and began"), before the flip.
+  MECHANISM (reader-facing): the boss is built from his whole ledger, so every OLD trick is patched (Suffocation
+  #1, integrity #2/#3, the Ch20 reward-routing inversion #16 re-pinned/denied); repetition cannot win. The ONE
+  unpatchable move is the CORE_GRAMMAR win-condition value he READ at the dungeon's heart (Ch18) but never WROTE
+  to ("no patch closed it because no one ever made it"). It will land because he finally read code the god
+  thought was past him, NOT because the god was sloppy (earned literacy, the climb redeemed).
+- **NO mechanical change.** Crew of three: Marcus (Bulwark, down/torn, holding, Tess's call-gap at his left),
+  Priya (Mender, spent). Tess and Hutch dead. SEAL HELD (continuity-confirmed): the win-condition edit is
+  possible ONLY as the bare mechanical fact (a settlement-bound account cannot touch its own win condition; his
+  exempt account can; "not telling him why"); no WHY, no standing/recurring seat, no other/parallel worlds, no
+  prior/other readers, no no-handler inversion. The Tier-3 flip and its full cost fire in s2.
