@@ -3395,3 +3395,21 @@ load-bearing beats).
   stays identity, never "one of a series"), no prior/other readers, no other/parallel worlds, no no-handler
   inversion ("outside the terms" is about Aaron's account, not the administrator being unsupervised), no
   structural WHY. NO mechanical change; sets up s3 (weapon and wound). Crew of three; Tess and Hutch dead.
+
+### Ch 19 (Sec 3) established facts now known to the reader
+- **WEAPON AND WOUND (the reckoning).** FREE READ (no edit; stays Level 15, decode_debt 83/100). The invitation
+  truth cuts both ways. THE WOUND: if he was an invitation, every win was PERMITTED (read-gates left unlatched,
+  patches that hunted his exploit late, the forge let through) and every loss was DATA. Hutch's Ch7 death (the
+  withheld read, the gap) is reframed as a reading the experiment took of him (what the broken account does when
+  it holds back). Tess's Ch16 death is reframed as a measurement tuned to the exact edge of what a man at
+  decode_debt 83 could read and miss, on a floor poured from his own logs, to see whether he would keep going
+  after it killed the one person most like him. The grief curdles: he was being measured, and the people around
+  him paid for it.
+- **THE WEAPON (rising counter-weight, unresolved).** Being chosen means the god NEEDS him, so the broken account
+  is not only a wound: it is a hold no clean account on Earth has (the god holding the door for the one subject
+  it cannot afford to lose). Seeds the Ch21 win-condition edit per the exemption pin. (Banned-word note: render
+  this as "a hold / a card to play," never "leverage.")
+- **THE HINGE LEFT UNRESOLVED.** Chosen-by-a-lonely-god versus accident: Aaron sits in it, does not decide; grief
+  and weapon inseparable. He is not yet ready to let the crew's presence answer the god (that lands in s4). SEAL
+  HELD (continuity-confirmed): "chosen" stays singular to this one subject (no "chosen again" / recurring seat),
+  Earth-only, no prior/other readers, no no-handler inversion, no structural WHY. Crew of three; Tess/Hutch dead.
