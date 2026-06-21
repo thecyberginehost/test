@@ -381,6 +381,27 @@ load-bearing beats).
       proving even a brand-new edit cannot durably win because it adapts to anything he has DONE (sets up s4: the
       only read it lacks is the one he has NEVER made, the core code). SEAL: this fight, this world, self-vs-self;
       no WHY / standing seat / other worlds / prior readers / no-handler inversion.
+    - #17 (Ch 21, s2): WIN-CONDITION FLIP (the chosen final edit; the win, the blinding, and the level-crash as
+      ONE act). FINAL LEDGER ENTRY OF THE BOOK. Aaron flips ONE value on ONE mechanic, SETTLEMENT_TRIAL's
+      win-condition value, revising it so the trial credits the settlement's DEFENDERS (humanity's side) on his
+      read. Tier 3 (load-bearing win condition / settlement terms), the SECOND Tier-3 edit of the book. PERMITTED
+      only because his account is EXEMPT (Ch13): a settlement-bound account cannot edit its own win condition; his
+      exempt account can. LEVELS: progress charge 50; he had only 12 above the Level-1 floor, so per the LOCKED
+      PROGRESS-COST OVERFLOW rule his EXEMPT account PAID 12 (Level 13 -> Level 1; stats collapse to L1: HP 50,
+      Per 10, Wits 10) and SETTLEMENT_TRIAL CARRIED the 38-level remainder. DEBT: Tier-3 decode tax +20 charged in
+      FULL; he had only ONE point of room (99); the surplus is ABSORBED BY THE HARD CEILING; decode_debt CLOSES AT
+      100/100 (the number stops flush at the wall; NO over-100 figure is written, per the LOCKED ceiling). At 100
+      the DECODE-DEBT CEILING fires (LOCKED Option A): the Operator overlay goes DARK FOR GOOD; the ANNOTATION
+      ACCEPTED block is the LAST thing it renders, going offline as he reads it. Aaron is now PERMANENTLY BLIND to
+      the hidden layer (no decode/edit ever again) but KEEPS every annotation already made (all in force) and
+      LIVES. He KNEW it would blind him and chose it on purpose, for the crew. ANNOTATION ACCEPTED block
+      (canonical "> " prefix, forge format): Target SETTLEMENT_TRIAL, win-condition (value); "Win-condition
+      revised: trial credits the defenders of this settlement."; Scope: this account. This settlement; "Cost
+      charged: 50 Levels.  Paid: 12 (to floor).  Carried: 38."; "Decode tax applied.  decode_debt 100 / 100.";
+      "Operator overlay: offline." Realizes the PRE-COMMITTED ACT THREE LEDGER Ch 21 entry (the chosen crossing to
+      the ceiling). SEAL: exemption as bare mechanical fact ONLY (no WHY); the leash-vs-honest-debt ambiguity is
+      FELT for one heartbeat as the overlay dies, then lost UNRESOLVED ("the question went with it"), never stated
+      as structure; no standing seat, no other worlds, no prior readers, no no-handler inversion.
 
   The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -3640,3 +3661,24 @@ load-bearing beats).
   possible ONLY as the bare mechanical fact (a settlement-bound account cannot touch its own win condition; his
   exempt account can; "not telling him why"); no WHY, no standing/recurring seat, no other/parallel worlds, no
   prior/other readers, no no-handler inversion. The Tier-3 flip and its full cost fire in s2.
+
+### Ch 21 (Sec 2) established facts now known to the reader
+- **THE WIN-CONDITION FLIP (ledger #17; the final ledger entry); WIN + BLIND + CRASH = ONE ACT.** Aaron makes the
+  chosen final edit: flips ONE value on SETTLEMENT_TRIAL's win-condition so the trial credits the settlement's
+  defenders on his read. Tier 3. PERMITTED only by his exemption. LEVELS: charge 50, OVERFLOW fires (pays 12,
+  Level 13 -> 1; trial carries 38); stats collapse to L1 (HP 50, Per 10, Wits 10). DEBT: Tier-3 tax +20 in full,
+  one point of room, the surplus absorbed by the HARD CEILING; **decode_debt closes 100/100** (no over-100 figure
+  written). The DECODE-DEBT CEILING fires: the Operator overlay goes DARK FOR GOOD (the ANNOTATION ACCEPTED block
+  is its last render). See ledger #17 for the full block.
+- **AARON IS NOW PERMANENTLY BLIND.** He KEEPS Level 1 and every prior annotation (all in force) and LIVES. He
+  knew the cost and chose it for the crew. He CANNOT read or edit the hidden layer ever again; from here, any
+  System text reaches him only if the administrator DELIVERS it.
+- **CLOSING STATE (Ch21 mid-chapter): Level 1, decode_debt 100/100, overlay dark, blind, annotations intact,
+  alive.** HP 50/50, Strength 5, Agility 6, Vitality 6, Perception 10, Wits 10, holds Analyze (now INERT, cannot
+  self-surface), NULL_OPERATOR / unhandled.
+- **SEAL HELD (continuity-confirmed).** Exemption = bare mechanical fact ("did not say why, and he did not ask").
+  The leash-vs-honest-debt question is FELT for one heartbeat as the layer dies, then lost UNRESOLVED ("the
+  question went with it") -- the bug-vs-invitation thread stays open, never answered. No WHY / standing seat /
+  other worlds / prior readers / no-handler inversion. Section ENDS on the edit landed and Aaron blind; the boss
+  has NOT fallen yet (the win-flag has only begun to count); his fall is s3, felt physically. Crew of three; Tess
+  and Hutch dead.
