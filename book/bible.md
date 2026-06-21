@@ -3214,3 +3214,22 @@ load-bearing beats).
 - **NO mechanical change.** Closes s1 at **Level 33, decode_debt 67/100**, NULL_OPERATOR / unhandled, holds
   Analyze (HP 370/370, Perception 74, Wits 42 at L33 by the formulas). Tess's absence felt (reading the walls
   "had been a job for two people"); no resurrection.
+
+### Ch 18 (Sec 2) established facts now known to the reader
+- **THE CORE WAS WRITTEN ABOUT HIM (the arms-race endpoint).** Standing at the unreadable wall, Aaron works
+  out WHY his sight slides off it: the administrator spent the whole book learning HIS literacy specifically, so
+  it could write the core grammar in the one register his particular eye misses. The wall "is not too hard, it
+  is built about him." Reader-facing realization, the endpoint of the novel-long arms race. SEAL: this stays
+  LOCAL to this core and Aaron-singular (continuity-checker confirmed CLEAN); it is THAT the core is built
+  against him, never WHY he is exempt, no standing seat / other worlds / prior readers / no-handler inversion.
+- **THE PATCHES REFRAMED (canon callback, cross-checked clean).** The escalation curve is reinterpreted on the
+  page: the patches landing faster each time (tower = days, depot = hours, the PATCH 0011 Analyze counter-patch
+  = minutes) were not the AI getting FASTER but getting FLUENT in his handwriting. Each patch was the System
+  taking a reading of how he reads and edits. The core is "sealed twice over": an outer seal that keeps him out,
+  and under it the prior work of learning his key so the seal could be cut to refuse precisely his read. (Matches
+  ledger #5 + PATCH 0011 and the tower/depot patch timeline; no invented past event.)
+- **NO mechanical change.** Aaron probes the wall again and fails again (eye-spike for nothing, overlay grays at
+  the edges; he pulls back before paying a useless nosebleed). NO annotation, NO level change: stays **Level 33,
+  decode_debt 67/100**. Crew (Marcus's hand at his back, the forearm pink/healing from Priya's Mend; Priya's
+  voice from the dark) are human ground only: reading was never their job (it was his, and Tess's). Despair, the
+  bar set impossibly high. Sets up s3 (he attempts the read anyway and breaks the first seal with an edit).
