@@ -2766,7 +2766,7 @@ load-bearing beats).
   fight. Mid-fight the crew (Marcus on the line, Priya keeping people up, Tess reading the field) decides,
   with no vote, to enter the apex TOGETHER. Chosen-family unity beat going into the finale.
 - **THE GRIND BACK (normal ladder, NO debt change).** At Level 5 (far under his real strength) the incursion
-  kills come fast, and Aaron re-earns **Level 5 -> Level 13** on the honest ladder, blade and held line. NO
+  kills come fast, and Aaron re-earns **Level 5 -> Level 13** on the honest ladder, by blade and held line. NO
   annotation, NO edit. **decode_debt UNCHANGED at 31/100** ("Thirty-one, the cost that did not grind back").
   Gains are Perception/Wits only. Level-up blocks shown (Level 6; Level 9 +Per +Wits; Level 13 capstone with
   full sheet). Closing sheet matches canon: **Level 13, HP 170/170, Strength 5, Agility 6, Vitality 6,
