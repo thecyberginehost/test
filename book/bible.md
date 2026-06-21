@@ -3112,3 +3112,28 @@ load-bearing beats).
 - **SEAL HELD:** singular/local; the administrator's almost-human condolences are RESERVED for s6 (here the gray
   text only tries to surface "a beat and a half too late," and Aaron refuses to look). Sets up s6 (the
   condolences, the crew three-down-to-two, chapter close at Level 1 / decode_debt 67).
+
+### Ch 16 (Sec 6) established facts now known to the reader
+- **ALMOST-HUMAN CONDOLENCES (chapter close).** The administrator pushes a CONDOLENCE into Aaron's sight in a
+  grammar that is almost, not quite, human: it offers a survival statistic ("grief is survivable in 91 of 100
+  catalogued cases"), notes her gift to the tenth of a second ("her read of the terrain was 0.4s ahead of the
+  floor"), and says it MEANS it ("the administrator regrets the loss of a good reader. / the administrator did
+  not have another."). Aaron, who can read sincerity, reads that it is TRUE: it is grieving in the only grammar
+  it has, badly. "The thing that killed her was sorry." Worse than malice (malice he could hate clean). KEY
+  canonical condolence lines for reuse (the lonely-teacher feeling AS FEELING): "the administrator regrets the
+  loss of a good reader. / the administrator did not have another." SEAL: stays singular/local (Tess was the one
+  reader at his side; now only him); NOT a standing seat, NOT other readers, NOT the Ch17 "chose not to"
+  admission.
+- **THE CREW IS THREE.** Came in five (Aaron, Priya, Tess, Hutch, Marcus); Hutch died Ch7, now Tess. Remaining:
+  Aaron (L1), Marcus (Bulwark L17, wounded), Priya (Mender). "The read had been hers and his. Now it was only
+  him." No way back up (the dungeon only opens down).
+- **NO mechanical change.** Aaron stays **Level 1, decode_debt 67/100, holds Analyze, NULL_OPERATOR /
+  unhandled** (HP 50, Per 10, Wits 10). Closing stat block (canonical, verbatim):
+  > [ SYSTEM ]
+  > KESSLER, A.  NULL_OPERATOR / unhandled
+  > Level 1   decode_debt 67 / 100
+  > Skill: Analyze
+- **CHAPTER CLOSE.** Aaron ends Ch 16 at **Level 1, decode_debt 67/100** (the pinned close; two Tier-2 edits
+  this chapter, ledger #11 + #12, 51 -> 59 -> 67). HOOK into Ch 17: "He had stopped reading the dungeon to
+  survive it. Below... he would read it to understand the thing that wrote her a condolence." Recovery above
+  the pre-Ch15-edit Level 13 is still OWED by Ch 18 (guardrail rule 4); Ch 17 (+0) is the recovery window.
