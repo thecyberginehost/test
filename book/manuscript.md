@@ -7,7 +7,7 @@ By Kade Zero
 Chapters 1-20. Protagonist: Aaron Kessler (NULL_OPERATOR).
 
 - Chapters: 20
-- Word count: 89,936 words
+- Word count: 89,933 words
 - Page estimate: 327.0 pages (at 275 words per page)
 
 ---
@@ -4697,7 +4697,7 @@ A Tier 2. Ten levels off the top. He ran the number twice because he did not tru
 
 Something in his chest went strange and still at that. Since the forge he had not made an edit that did not crash him. Ch 15 had cost forty-seven levels he did not have, twelve paid to bedrock and the settlement carrying the rest, his body folding under Priya's hands while the overlay went to snow. Every floor edit after that ran the same insolvency. Cost charged. Paid nothing, carried. Four chapters editing reality on credit, broke, swiping a card he knew was maxed and bracing for the decline.
 
-He braced now too, the way you flinch at a door you have walked into before. Then he set his palm flat to the grammar, found the exact clause that said *this reader: denied*, and pried.
+He braced now too, the old flinch of a man who has hit this door before. Then he set his palm flat to the grammar, found the exact clause that said *this reader: denied*, and pried.
 
 Pressure climbed behind the right eye and kept climbing past where it usually crested. The wet click came late and hard, and the gray comment-text tore up through his sight rather than rising into it. He tasted copper before the nosebleed even started, and then it did, a single warm line, then a second from the other side. His knees wanted the floor and he refused them, locked them, stayed up.
 
@@ -4749,7 +4749,7 @@ He went still over the seam, and his stomach turned, because the longer he looke
 
 The loose joint was a door. Left open on purpose. One final time.
 
-He sat with that and felt the floor of the victory go soft. He had found the way through, and finding it proved he had been meant to. The hole was not a flaw in the god's hardest code. It was the point of it, a frame built around this one permitted opening, and the opening had his shape.
+He sat with that and felt the floor of the victory go soft. He had found the path through, and finding it proved he had been meant to. The hole was not a flaw in the god's hardest code. It was the point of it, a frame built around this one permitted opening, and the opening had his shape.
 
 "Aaron." Priya, low, watching his face change. "What."
 
@@ -4757,7 +4757,7 @@ He had no words for her that were not the wrong size. He kept his eyes on the se
 
 Behind the joint the second seal waited, and behind it the grammar bent away toward something deeper, leaning like water toward a drain. The deeper he went, the closer he got to where his own story started. To the first error. To the failed assignment on a glass office floor that had blinked unhandled and never stopped.
 
-He could follow the grammar all the way back to himself and learn what kind of hole he had really been. The door was open. It had always been open. The only thing left was to walk through it knowing it was a door, and pay the tab.
+He could follow the grammar back to himself and learn what kind of hole he had really been. The door was open. It had always been open. The only thing left was to walk through it knowing it was a door, and pay the tab.
 
 He wiped the blood off his mouth, set his attention on the loose joint, and made up his mind to open the second seal anyway.
 
