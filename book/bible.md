@@ -3015,3 +3015,21 @@ load-bearing beats).
   holds Analyze, NULL_OPERATOR / unhandled.** Crew alive: Tess, Marcus, Priya. Hutch DEAD. SEAL held
   (singular/local to Aaron; no other worlds / parallel readers / recurring seat / unsupervised-god / why-
   exempt). The two forced Tier-2 floor edits (+8 +8 -> 67) and Tess's death land in later sections.
+
+### Ch 16 (Sec 2) established facts now known to the reader
+- **THE FIRST REPLAYED FLOOR (real source, free read).** The first floor recreates the Ch3 tower stairwell
+  with the INTEGRITY-ZERO FIRE DOOR (ledger #2), rebuilt brick for brick and re-tuned harder. Source header
+  shown: "KESSLER, A., day 2 ... integrity revised to 0". The re-tune fences the integrity value behind a
+  CLASS-PERMIT precondition (not a bare number). Aaron solves it WITHOUT an edit, by READING that the permit
+  check cannot parse a class reading NULL_OPERATOR and so returns not denied but UNDEFINED, and an undefined
+  permit falls open like an unlocked one. A FREE READ: no ANNOTATION ACCEPTED block, no decode_debt tick,
+  read-not-write tell (eye-bleed wells to the lid and stops). SEAL: the parse line is his ordinary unhandled-
+  account property (public Ch1 canon), NOT the sealed exemption reason.
+- **THE DIVISION OF LABOR, UNDER FIRE (first time shown).** The crew takes the monster spawns (dressed-up
+  Tier-0 crawlers they out-level): Marcus (Bulwark L17) walls with a slab of System-blue off his forearm,
+  Tess (Scout L19) reads the field and kills through a crawler's slit, Priya (Mender) holds ready to mend.
+  Aaron alone takes each floor's read.
+- **NO mechanical change:** no edit, no annotation, no level/debt change. Stays **Level 1, decode_debt
+  51/100, holds Analyze, NULL_OPERATOR / unhandled.** Crew alive: Tess, Marcus, Priya. Hutch DEAD. SEAL held.
+  Sets up s3 (the freight-shutter floor where his old edit is STALE and forces the FIRST fresh Tier-2 edit,
+  +8 -> 59).
