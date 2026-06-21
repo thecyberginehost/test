@@ -2671,3 +2671,27 @@ load-bearing beats).
   Ch 12's 12). On the projected curve (End of Act Two ~23 debt; next big spike is the Ch 15 forge Tier-3).
   RESERVED for Act Three: the apex's internal mechanics (written for him / tuned to his edge / only opens for an
   error, all Ch 14); the PURPOSE of the exemption.
+
+### Ch 14 (Sec 1) established facts now known to the reader
+- **THE APEX MANIFESTS.** The Ch 13 citywide clock hits ZERO and the apex dungeon arrives. It does not tear
+  like a rift; it UNWRITES roughly six downtown blocks (the old financial/tower spine) and rises from beneath,
+  a structure the SIZE OF A DISTRICT, dark and faceted, wrong-angled, surface-only (echoes the Ch 1 dead-server
+  dashboard: a surface that describes itself with nothing real underneath). Felt as ground-pressure before
+  sound, then a sustained machine HUM ("powering on to stay on"); surviving glass crumbles to dust; the wrong
+  sky bends taut toward it. Mass citywide human screaming. Crew reactions: Priya hand to mouth, Marcus frozen
+  shield half-raised, Tess reading it silently and saying it "doesn't move like it's hunting. It moves like
+  it's waiting" (two-readers kinship carried forward).
+- **CANONICAL PUBLIC SYSTEM BLOCK (verbatim, reuse exactly; "> " prefix):**
+  > [ SYSTEM ]
+  > SETTLEMENT TRIAL: apex dungeon manifested.
+  > The wager will now be measured.
+  > One structure. One outcome.
+  > All accounts assessed by the result.
+  > Clear the apex, or be settled with the sample.
+  Publicly frames the apex as the measurement that settles the wager (the thing Aaron decoded Ch 13); every
+  survivor sees the public block. Aaron privately knows what it is but cannot yet read HOW it was built; he
+  suspects the answer is personal (FEELING/suspicion only; the structural "written for him" pry is s03).
+- **NO mechanical change:** no annotation, no edit, no level/debt change. State holds: **Level 13,
+  decode_debt 23/100, holds Analyze, NULL_OPERATOR / unhandled, HP 170/170, Per 34, Wits 22.** Crew alive:
+  Tess, Marcus, Priya. Hutch DEAD. SEAL intact (singled-out-to-Aaron as feeling only; no other worlds, no
+  recurring seat, no prior readers). Sets up s02 (the public timer and the factions).
