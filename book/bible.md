@@ -363,6 +363,24 @@ load-bearing beats).
       #1-#14), lifted and assembled (full "built from his own playbook" naming lands s6). SEAL: the pry is
       possible only as the bare mechanical fact that his account can touch the gate; no WHY, no standing seat /
       other worlds / prior readers / no-handler inversion.
+    - #16 (Ch 20, s3): APEX_BOSS REWARD ROUTING INVERSION (the brand-new combat edit). The climax boss ESCALATES,
+      turning Aaron's own inherited REWARD ROUTING (depot #4) against the crew (a self-heal harvesting the cost of
+      every hit off the men who deal it). Aaron makes ONE FRESH Tier-2 edit the boss has NEVER seen: he INVERTS
+      the routine (payout source -> payout sink) so the crew's damage credits THEM instead. Genuinely new vs his
+      history: he had only ever pointed/redirected a payout OUTWARD; he had NEVER inverted a payout's SIGN / turned
+      the bill back on itself. Tier 2 (deep mechanic-wide combat edit). Progress cost: 10 levels. At Level 23 (22
+      above the floor, exceeds 10) the OVERFLOW clause does NOT fire: PAID IN FULL, -10 Levels (Level 23 -> 13),
+      CARRIED 0 ("the floor that had carried his overflow at the forge not even reaching for him this time").
+      decode_debt += 8. Running decode_debt = 99 / 100 (ONE off the ceiling; the next edit, whatever it is,
+      crosses 100 -> permanent blindness). Body cost the WORST yet (nosebleed in a sheet, the gray layer tears and
+      doubles). ANNOTATION ACCEPTED block (canonical "> " prefix, edit format, NO Carried line): Target APEX_BOSS,
+      REWARD ROUTING (inherited routine); Routine inverted: payout source -> payout sink, damage credits the party
+      of this account; Scope: this account. This fight; "Cost paid: -10 Levels.  Decode tax applied." Realizes the
+      PRE-COMMITTED ACT THREE LEDGER Ch 20 entry (+8 -> 99). The edit WORKS for one breath (the line healed by the
+      thing it is killing), then the adaptive boss PATCHES it ("Routine re-pinned. Inversion denied to account"),
+      proving even a brand-new edit cannot durably win because it adapts to anything he has DONE (sets up s4: the
+      only read it lacks is the one he has NEVER made, the core code). SEAL: this fight, this world, self-vs-self;
+      no WHY / standing seat / other worlds / prior readers / no-handler inversion.
 
   The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -3523,3 +3541,24 @@ load-bearing beats).
   Section ends with the bought time running out (the boss takes another step), setting up s3 (the boss escalates;
   Aaron makes one fresh combat edit). SEAL: these people, this fight, this world; no standing seat / other worlds
   / prior readers / no-handler inversion / structural why; Ch18 answer + win-condition edit not yet named.
+
+### Ch 20 (Sec 3) established facts now known to the reader
+- **ONE BRAND-NEW Tier-2 COMBAT EDIT (ledger #16); DEBT CLOSES AT 99, ONE OFF THE CEILING.** The boss escalates,
+  turning Aaron's inherited REWARD ROUTING (depot #4) into a self-heal harvesting the cost of every hit off the
+  crew (Marcus's seam tears wide and stays wide; it skims a tithe off Priya's Mend). Aaron makes ONE fresh edit
+  the boss has never seen: he INVERTS the routine (payout source -> sink) so the crew's damage heals THEM. Cost
+  10 levels PAID IN FULL (Level 23 -> 13), CARRIES NOTHING. decode_debt += 8: **91 -> 99 / 100** (the pinned Ch20
+  combat-edit close; ONE off the ceiling). ANNOTATION ACCEPTED block has NO "Carried" line. Body cost the worst
+  yet (nosebleed in a sheet, the gray layer tearing/doubling); he pays in full but stands on the very edge. See
+  ledger #16.
+- **STATS NOW LEVEL 13.** HP 170/170, Strength 5, Agility 6, Vitality 6, Perception 34, Wits 22, holds Analyze,
+  NULL_OPERATOR / unhandled, **decode_debt 99/100**. (Thematic: Act Three's spending brings his level full circle
+  back to 13, where the Ch15 forge first crashed him, but the tab is 99 now, not 51.) ONE off the ceiling: the
+  next edit, whatever it is, crosses 100 -> permanent blindness (DECODE-DEBT CEILING).
+- **THE EDIT WORKS, THEN IS PATCHED.** It lands for one breath (the line healed by the thing it is killing, the
+  purest hit of the climb), then the adaptive boss patches it within moments ("Routine re-pinned. Inversion
+  denied to account"). Proves even a brand-new edit cannot durably win because the boss adapts to anything he has
+  DONE. Closing seed: "It had been built to learn. He had just taught it the last move he had." Sets up s4 (the
+  only read it lacks is the one he has NEVER made, the core code). SEAL: this fight, this world, self-vs-self;
+  Ch18 answer + win-condition edit still not named; no WHY / standing seat / other worlds / prior readers /
+  no-handler inversion. Crew of three; Tess and Hutch dead.
