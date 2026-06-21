@@ -349,6 +349,20 @@ load-bearing beats).
       failed class-assignment, NULL_OPERATOR / unhandled); the grammar "was built to turn there" (proof lands s6).
       SEAL: does NOT name the Ch19 invitation thesis; exemption = bare mechanical fact only; no WHY, no standing
       seat / other worlds / prior readers / no-handler inversion.
+    - #15 (Ch 19, s5): APEX_BOSS DERIVATION READ-GATE PRY. The apex boss (the settlement's final form) has a
+      derivation/source layer ACCESS-SEALED to his account ("access-sealed against KESSLER, A."); a plain read
+      stops at the boss's outline. Aaron breaks the read-gate with a Tier-2 read-gate pry (sealed -> legible to
+      account), same maneuver as #8/#9/#13/#14. Tier 2. Progress cost: 11 levels. At Level 34 (33 above the
+      Level-1 floor, exceeds 11) the OVERFLOW clause does NOT fire: PAID IN FULL, -11 Levels (Level 34 -> 23),
+      CARRIED 0. decode_debt += 8. Running decode_debt = 91 / 100 (deep threat zone, NINE off the ceiling; the
+      high-debt blur worse than ever). Body cost real (double nosebleed, eye-spike to white, overlay strobing)
+      but survives STANDING. ANNOTATION ACCEPTED block (canonical "> " prefix, read-gate format, NO Carried
+      line): Target APEX_BOSS, derivation (read-gate); Read-gate revised: sealed -> legible to account; Scope:
+      this account. This read; "Cost paid: -11 Levels.  Decode tax applied." Realizes the PRE-COMMITTED ACT THREE
+      LEDGER Ch 19 entry (+8 -> 91). The opened derivation reveals the boss's source: HIS OWN past edits (ledger
+      #1-#14), lifted and assembled (full "built from his own playbook" naming lands s6). SEAL: the pry is
+      possible only as the bare mechanical fact that his account can touch the gate; no WHY, no standing seat /
+      other worlds / prior readers / no-handler inversion.
 
   The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -3432,3 +3446,20 @@ load-bearing beats).
 - **REACHES THE BOSS ARENA.** The crew reaches the lip of the apex boss arena; the settlement begins folding
   toward its FINAL FORM, descending into the arena's center, as Aaron sets his feet to read it. Sets up s5 (the
   Tier-2 boss-derivation read-gate pry, 83 -> 91). Crew of three; Tess and Hutch dead.
+
+### Ch 19 (Sec 5) established facts now known to the reader
+- **THE APEX BOSS DESCENDS; THE DERIVATION PRY (ledger #15); DEBT CLOSES AT 91.** The settlement's final form
+  finishes descending into the arena, the climax antagonist, a worked/plated/deliberate construct bigger than the
+  Drowned Mother, physical before the crew of three. Its derivation (source layer) is ACCESS-SEALED to Aaron's
+  account; he breaks the read-gate with a Tier-2 pry. At Level 34 he affords it: cost 11 levels PAID IN FULL
+  (Level 34 -> 23), CARRIES NOTHING. decode_debt += 8: **83 -> 91 / 100** (the pinned Ch19 close). ANNOTATION
+  ACCEPTED block has NO "Carried" line. Body cost real but survives standing. See ledger #15.
+- **STATS NOW LEVEL 23.** HP 270/270, Strength 5, Agility 6, Vitality 6, Perception 54, Wits 32, holds Analyze,
+  NULL_OPERATOR / unhandled, **decode_debt 91/100**. At 91 he is NINE off the ceiling (deep threat zone), the
+  cliff felt close, the high-debt blur worse than ever.
+- **THE SOURCE HALF-SEEN (recognition cresting; full naming s6).** The opened derivation reads as familiar in a
+  hand Aaron knows because it is HIS OWN: the boss's behavior table is indexed, every entry pointing back to a
+  source, and the sources are his own past edits (ledger #1-#14), lifted and assembled. The floor drops out from
+  under his read. Sets up s6 ("built from his own playbook" fully named; chapter close). SEAL: this-world
+  self-versus-self; the pry possible only as the bare mechanical fact; no WHY / standing seat / other worlds /
+  prior readers / no-handler inversion. Crew of three; Tess and Hutch dead.
