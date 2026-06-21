@@ -3374,3 +3374,24 @@ load-bearing beats).
   prior/other readers (the opposite is stated: "not one reader inside it who could read the result back"), the
   no-handler inversion, or the structural WHY. The word "invitation" is NOT yet named (lands s2). NO mechanical
   change; sets up s2.
+
+### Ch 19 (Sec 2) established facts now known to the reader
+- **NULL_OPERATOR NAMED AS THE INVITATION.** FREE READ (no edit; stays Level 15, decode_debt 83/100). Aaron
+  reads his class for what it is: not a crashed/abandoned routine but a single assignment taken to the edge of
+  resolving and HELD OPEN deliberately (last clause left unwritten) so the field would stay open for one reader.
+  Identity rewritten, said aloud to the crew: "I was never an accident." SEAL ANCHOR (keep singular, never
+  soften): his was the one assignment "out of billions that closed clean. Left standing." ONE invitation, ONE
+  reader, ONE world.
+- **THE EXEMPTION IS THE MECHANICAL FACE OF THE INVITATION.** The "status: unhandled" / refuse-to-parse flag IS
+  the invitation, mechanically: his account sits OUTSIDE the settlement's terms (outside the handler the others
+  are billed by). Exemption tells reaffirmed on-page (all canon-accurate): read-gates that hold against other
+  accounts open against his (#8/#9/#13/#14); the settlement CARRIED the Ch15 forge overflow (tens of levels he
+  did not have) because it "cannot bill an account it refuses to parse" (ledger #10). This is the concrete shape
+  of "never an accident": THAT the rules bend for his account, never WHY.
+- **SEEDED (lightly, unexplained): the exemption is a DOOR, not only a wound.** An account outside the terms can
+  touch things inside-accounts cannot; Aaron flags it "for later" and files it (forward seed to the Ch21
+  win-condition edit). WHY he is outside, and what he will do with it, stay sealed.
+- **SEAL HELD (continuity-confirmed clean on all five vectors).** No recurring/standing seat ("never an accident"
+  stays identity, never "one of a series"), no prior/other readers, no other/parallel worlds, no no-handler
+  inversion ("outside the terms" is about Aaron's account, not the administrator being unsupervised), no
+  structural WHY. NO mechanical change; sets up s3 (weapon and wound). Crew of three; Tess and Hutch dead.
