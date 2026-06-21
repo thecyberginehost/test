@@ -3805,7 +3805,8 @@ load-bearing beats).
   has a foothold (a held wall, water in the east block). He logs the dead plainly: "Tess Calloway. Killed on the
   surge-gate floor. Read I was too slow to call." and "Daniel Boyd. Hutch. The gap I left."
 - **THE TRANSFORMATION (Ch1 loop closed).** In Ch1 he read a hidden truth no one else could see (the dashboard
-  lying that the dead server ord-db-04 was "green/healthy"; "It's lying"; the unread ticket) and stayed quiet.
+  lying that the dead server ord-db-04 was "green/healthy"; "It's lying"; the private timestamped record he kept
+  for an audience of one, no ticket filed) and stayed quiet.
   Now he can read NO hidden truth at all, and writes his OWN down so it is not lost: "The machine's log was dark
   to him. This one was his." The engineer's HABIT of logging, not the lost sight, is the deeper thing that makes
   him who he is. "The numbers were all behind him now... None of it was in the notebook. The notebook just had
