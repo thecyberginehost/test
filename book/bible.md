@@ -37,7 +37,7 @@ every section. Append facts, never rewrite history.
 |------|------|--------|--------|---------------|
 | Aaron Kessler | Protagonist, Null Operator | Dry, stubborn, evidence-driven, lone exploiter who secretly cares | Alive | Ch 1 |
 | Priya Anand | Crew, triage nurse, Mender class | Steady, blunt, keeps people alive (the one thing Aaron's class cannot) | Alive | Ch 2 |
-| Tess Calloway | Crew, teen ex-gamer, Scout class | Reads terrain/spawns like Aaron reads code, sharp, fearless, sees through Aaron; his kindred reader and closest mirror | Alive (dies Ch 16) | Ch 3 |
+| Tess Calloway | Crew, teen ex-gamer, Scout class | Reads terrain/spawns like Aaron reads code, sharp, fearless, sees through Aaron; his kindred reader and closest mirror | DEAD (Ch 16, s5: the surge-gate floor, killed in the read-gap his debt-blurred sight left open, covering him on the timing read he was too slow to call) | Ch 3 |
 | Daniel "Hutch" Boyd | Crew adjunct, older delivery driver, plain class | Easy to like, easy to overlook; kept trying to thank Aaron and got brushed off; the man Aaron refused to let himself care about | DEAD (Ch 7, s3: husk post-death trigger, in the gap Aaron's withheld read left) | Ch 3 |
 | Marcus | Crew, ex-soldier, Bulwark class | Immovable front line, calm under fire, loyal | Alive | Ch 5 |
 | Dwyer | Aaron's manager (pre-System); System class: Quartermaster | Manages by reflection, soft-deflects, sided with the green dashboard over Aaron's read; not cruel. Quartermaster: manages stores/supply, has an inventory | Alive (offscreen after Ch 1) | Ch 1 |
@@ -3086,3 +3086,29 @@ load-bearing beats).
 - **STATE:** **Level 1, decode_debt 67/100, holds Analyze, NULL_OPERATOR / unhandled.** Crew alive: Tess
   (L19), Marcus (L17, wounded), Priya (low charges). Hutch DEAD. Sets up s5 (the killing floor: the surge-
   timing read that is Tess's specialty; debt-blurred sight too slow; Tess covers him and dies).
+
+### Ch 16 (Sec 5) established facts now known to the reader
+- **TESS CALLOWAY IS DEAD (CREW DEATHS LOCKED, the Act Three centerpiece).** The killing floor is a SURGE-GATE
+  replaying the Ch11 Drowned Mother's 1.8-second core window (floor header "source: KESSLER, A. day 12, the
+  Mother"), one tier deeper. It is the live timing read that is TESS'S specialty (the Ch12 two-readers dress
+  rehearsal, where she was his eyes when his decode was throttled, INVERTS here: last time it saved him, this
+  time it kills her). NO mechanical change for Aaron this section: this is a FAILED read, not an edit (Level 1,
+  decode_debt 67/100 unchanged, holds Analyze, NULL_OPERATOR / unhandled).
+- **MECHANICALLY HIS FAULT, both vectors, both costs of his own edits:** (1) at decode_debt 67 his read BLURS
+  ("the values won't hold," 1.8 reading as 18 as nothing), so he cannot pin the window in time, "the half-beat
+  was the window"; (2) his LEVEL-1 body (HP 50, crashed forging the Ch15 doors) is the weakest on the floor, so
+  when Tess is exposed four pylons away he cannot close the distance, "the bill came due in the one stride he
+  could not close." Tess reads the window by feel, steps into the gap to mark the open for him, and the floor
+  writes in the 1.8s, one open per surge, no second tick, killing her in the gap.
+- **CANONICAL DEATH BLOCK (verbatim):**
+  > [ SYSTEM ]
+  > Entity deceased: CALLOWAY, T.  Scout, Level 19.
+  > Cause: surge-gate, FAIL on exposed window.
+  > Mender intervention: no living target.
+  Priya's Mend "found nothing to hold." Death is IRREVERSIBLE; nothing undoes it.
+- **COMPLICITY:** "He had built this floor. Not the bricks. The shape." The dungeon is built from his logs, so
+  the thing that killed her is shaped by his own past. CREW NOW THREE: Marcus (Bulwark L17, wounded) and Priya
+  (Mender) survive; Tess and Hutch both DEAD.
+- **SEAL HELD:** singular/local; the administrator's almost-human condolences are RESERVED for s6 (here the gray
+  text only tries to surface "a beat and a half too late," and Aaron refuses to look). Sets up s6 (the
+  condolences, the crew three-down-to-two, chapter close at Level 1 / decode_debt 67).
