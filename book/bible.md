@@ -2996,3 +2996,22 @@ load-bearing beats).
   closes at Level 1; recovery above pre-edit Level 13 OWED by Ch 18 (guardrail rule 4). Three firsts banked:
   the first Tier-3 edit, the first PROGRESS-COST OVERFLOW (35 levels carried), the exempt flag fired as a
   tool. NEXT: Ch 16 (the dungeon-as-curriculum; Tess dies; debt 51 -> 67 via two forced Tier-2 floor edits).
+
+### Ch 16 (Sec 1) established facts now known to the reader
+- **THE DUNGEON IS A CURRICULUM BUILT FROM HIS LOGS.** Inside the apex (past the rebuilt Ch 1 office,
+  FLOOR 1), Aaron sees the structure descends in tiers, each a lit room rebuilt from ONE of his prior solved
+  problems, ordered by his record and re-tuned harder. Visible lower tiers (ALL real Ch 1-13 events, reuse
+  only real sources): the tower stairwell with the integrity-zero fire door (ledger #2, Ch 3), the freight
+  shutter with the dead lock plate / LOCKED->UNLOCKED (ledger #3, Ch 4), the depot loading dock with
+  Marcus's sandbag spawn funnel (ledger #4 / Ch 5). Canonical Operator "> #" overlay (reuse): "syllabus
+  loaded. floors ordered by subject record. / each floor: one solved problem, re-tuned to current reader. /
+  objective: read it again. one tier deeper than last time." ("subject record" / "current reader" = then-
+  Aaron vs now-Aaron, NOT other readers. SEAL.)
+- **THE LEVEL REVERSAL, ON THE PAGE.** Aaron is the WEAKEST in the room: Level 1 (floor body, HP 50, Per 10,
+  Wits 10), reads at their dimmest ever (debt 51 blur), carried by a crew that badly out-levels him: Tess
+  Scout L19, Marcus Bulwark L17, Priya Mender. DIVISION OF LABOR set: the crew takes all monster spawns
+  (they out-level them); Aaron alone takes each floor's read/solve. No way back up; the only exit is down.
+- **NO mechanical change:** no edit/annotation, no level/debt change. Stays **Level 1, decode_debt 51/100,
+  holds Analyze, NULL_OPERATOR / unhandled.** Crew alive: Tess, Marcus, Priya. Hutch DEAD. SEAL held
+  (singular/local to Aaron; no other worlds / parallel readers / recurring seat / unsupervised-god / why-
+  exempt). The two forced Tier-2 floor edits (+8 +8 -> 67) and Tess's death land in later sections.
