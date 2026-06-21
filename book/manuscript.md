@@ -7,8 +7,8 @@ By Kade Zero
 Chapters 1-22. Protagonist: Aaron Kessler (NULL_OPERATOR).
 
 - Chapters: 22
-- Word count: 98,487 words
-- Page estimate: 358.1 pages (at 275 words per page)
+- Word count: 98,418 words
+- Page estimate: 357.9 pages (at 275 words per page)
 
 ---
 
@@ -4148,7 +4148,7 @@ It broke left. Priya stayed a half-step back, hands open, holding the band up th
 
 That was the rhythm. They handled the killing. He handled the floor.
 
-He put both hands flat on the cold step and pushed his sight into the door. The pressure came up behind his right eye like a thumb pressed slow into the socket, then the wet click, and the gray comment-text bloomed across the fire door and resolved into its guts. It came up dim. Fifty-one points of tab smeared the read, and at Level 1, in the baseline body he had carried before he ever killed anything, he had nothing to push the smear back with.
+He put both hands flat on the cold step and pushed his sight into the door. The read came up dim. Fifty-one points of tab smeared it, and at Level 1, in the baseline body he had carried before he ever killed anything, he had nothing to push the smear back with.
 
 > # FLOOR: stairwell fire-door. source: KESSLER, A., day 2.
 > # original solve on record: integrity revised to 0.
@@ -4229,7 +4229,7 @@ It came off the far wall on four legs that bent the wrong way, plated, taller th
 
 "That's a holder," Marcus said. The blue slab came off his arm a beat before the swarm hit him. "Aaron. Whatever you did to the last one of these, do it."
 
-He had done it once. Day eight, a hole in a warden's target-selection he flipped so the thing gutted its own swarm. He put both palms to a steel pillar and dragged the read up slow. The screw behind his right eye turned past where it should stop. Gray comment-text crawled into the warden's guts and smeared, doubling, refusing to sit still.
+He had done it once. Day eight, a hole in a warden's target-selection he flipped so the thing gutted its own swarm. He put both palms to a steel pillar and dragged the read up the warden's guts. It came smeared, doubling, refusing to sit still.
 
 > # FLOOR: rift-elite warden. source: KESSLER, A., day 8.
 > # original solve on record: FOCUS re-pointed off-account onto own swarm.
@@ -4673,7 +4673,7 @@ Sealed twice over. He understood that without finding the second seam, the way y
 
 He pushed the read at it one more time, because he could not make himself not.
 
-Pressure climbed behind the right eye, the dull spike he had learned to spend like coin. His sight bore down on the grammar and the grammar held, smooth under it and live, and the spike bought nothing. The overlay grayed at the edges. He pulled back before it ran him a nosebleed he had nothing to show for.
+He bore his sight down on the grammar and the grammar held, smooth under it and live. The dull spike he had learned to spend like coin bought nothing. The overlay grayed at the edges, and he pulled back before it ran him a nosebleed he had nothing to show for.
 
 "Aaron." Marcus, again. The Bulwark had set his shield-arm down, the forearm still pink where Priya's mending had closed it, and put his good hand flat between Aaron's shoulder blades. Not pulling him off the wall. Just there, a weight that meant a person stood close. "Talk to me. What is it."
 
@@ -5035,7 +5035,7 @@ He threw himself sideways. The floor where he had stood took the strike, and the
 
 "Left," Marcus said, and the Bulwark was already there, shield up, eating the follow-through meant for Aaron's ribs. The impact rang through Marcus and he held, both feet planted, the healing seam in his forearm flexing pale where Priya had knit it that morning. He grunted and did not give ground. "Aaron. Read it and tell me something true."
 
-Aaron forced the dim layer up, pressure under his brow first, then the wet click as the boss's hidden block surfaced. At ninety-one the gray comment-text swam, a page read through water. He fought it level and went for the throttle line he had carried out of the warden fight, the bait-hole re-point that turned a thing's aim onto its own. FOCUS OVERRIDE. He had taken that hole once and it had held.
+Aaron forced the read up. At ninety-one the boss's hidden block came swimming and smeared, a page read through water. He fought it level and went for the throttle line he had carried out of the warden fight, the bait-hole re-point that turned a thing's aim onto its own. FOCUS OVERRIDE. He had taken that hole once and it had held.
 
 The re-point threw before it finished.
 
