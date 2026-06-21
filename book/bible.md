@@ -3562,3 +3562,19 @@ load-bearing beats).
   only read it lacks is the one he has NEVER made, the core code). SEAL: this fight, this world, self-vs-self;
   Ch18 answer + win-condition edit still not named; no WHY / standing seat / other worlds / prior readers /
   no-handler inversion. Crew of three; Tess and Hutch dead.
+
+### Ch 20 (Sec 4) established facts now known to the reader
+- **THE REALIZATION: THE ONE READ IT DOES NOT HAVE.** FREE beat (no edit; stays Level 13, decode_debt 99/100).
+  The s3 inversion getting patched proves the trap whole: the boss adapts to anything Aaron has EVER DONE
+  (built from his ledger #1-#16) and learns any NEW improvisation within seconds. Neither his repertoire nor his
+  imagination can durably win. THE BREAKTHROUGH: the one read the boss LACKS is the one Aaron has NEVER MADE,
+  the CORE_GRAMMAR at the dungeon's heart (the twice-sealed Ch18 code) which he READ but never WROTE to. It is
+  not in his playbook because he never played it; the boss has no patch for a move that was never a move. The
+  win-condition lives in that grammar. (Consistency: his Ch18 prys #13/#14 edited the access GATE, not a value
+  INSIDE the grammar, so "never wrote against the grammar" holds.) Lands as cold electric hope.
+- **NO mechanical change; turns toward the catch (NOT named).** decode_debt STAYS 99/100, Level STAYS 13. He
+  understands WHERE to set the cursor (the heart, the unwritten grammar) but does NOT make the move (the edit is
+  Ch 21, beyond this chapter). The section closes turning toward the cost (the tab at 99) WITHOUT naming the
+  catch (the annotation the experiment was built to provoke / the ceiling crossing) -- that is s5. Crew holding
+  (Marcus, Priya), Tess absent. SEAL: this dungeon, this world, self-vs-self; no WHY / standing seat / other
+  worlds / prior readers / no-handler inversion.
