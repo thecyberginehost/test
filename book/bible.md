@@ -2964,3 +2964,35 @@ load-bearing beats).
 - **NO mechanical change:** Aaron stays **Level 1, decode_debt 51/100, holds Analyze, NULL_OPERATOR /
   unhandled.** Crew alive: Tess, Marcus, Priya. Hutch DEAD. SEAL held (no other worlds / recurring seat /
   prior readers / unsupervised-god / why-exempt). Sets up s6 (crossing together; the Ch 1 office rebuilt).
+
+### Ch 15 (Sec 6) established facts now known to the reader
+- **CROSSING TOGETHER (the reversal).** The crew crosses the forged threshold together. Aaron, at Level 1
+  and wrecked, is CARRIED in, leaning on the people he spent the book refusing to need (Tess closest in
+  front). The lone-wolf is helped through the door he opened for them.
+- **THE OFFICE, REBUILT (the Ch 16 hook).** Inside, the first room is a perfect recreation of the Ch 1
+  glass office tower: ~forty desks, the kitchen alcove with the hairline crack up the support column, the
+  glass-walled conference box, and the dead-server dashboard (green tile ord-db-04, latency flat, uptime
+  99.9, the 9:14 Tuesday, "no heartbeat four minutes," the surface describing itself not the world). The
+  administrator's grammar is over the walls. Overlay line (verbatim, SEAL-tightened): "> # KESSLER, A.:
+  earliest record. baseline." The dungeon is built from HIS life, a syllabus made of his own logs. Uncanny
+  dread, the personal made architectural. Hook: every floor below is a problem it watched him solve once,
+  replayed harder; it means to make him "solve himself all the way to the bottom" (Ch 16 curriculum).
+- **NO mechanical change:** the hidden layer surfaces passively (nothing left to spend keeping it down),
+  not a decode/annotate. Closing stat block (canonical):
+  > [ SYSTEM ]
+  > KESSLER, A.  NULL_OPERATOR / unhandled
+  > Level 1   decode_debt 51 / 100
+  > Skill: Analyze
+- **SEAL HELD:** dungeon-from-his-life stays SINGULAR to Aaron ("built from me," "earliest record,"
+  "baseline," "solve himself"); the writer's draft phrase "first observed instance" was caught and recast
+  to "earliest record" to kill a faint series implication. No other worlds / recurring seat / prior readers
+  / unsupervised-god / why-exempt.
+
+### Ch 15 CHAPTER CLOSE
+- Aaron ends Ch 15 at **Level 1, decode_debt 51/100, holds Analyze**, NULL_OPERATOR / unhandled (sheet at
+  the floor: HP 50/50, Strength 5, Agility 6, Vitality 6, Perception 10, Wits 10). Crew ALIVE inside the
+  apex: Tess (Scout L19), Marcus (Bulwark L17), Priya (Mender). Hutch DEAD. decode_debt on the PRE-COMMITTED
+  ACT THREE curve (Ch 15 forge realized: +20 -> 51, ledger #10). LEVEL: Tier-3 SANCTIONED DEEP-EDIT TROUGH;
+  closes at Level 1; recovery above pre-edit Level 13 OWED by Ch 18 (guardrail rule 4). Three firsts banked:
+  the first Tier-3 edit, the first PROGRESS-COST OVERFLOW (35 levels carried), the exempt flag fired as a
+  tool. NEXT: Ch 16 (the dungeon-as-curriculum; Tess dies; debt 51 -> 67 via two forced Tier-2 floor edits).
