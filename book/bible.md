@@ -3578,3 +3578,25 @@ load-bearing beats).
   catch (the annotation the experiment was built to provoke / the ceiling crossing) -- that is s5. Crew holding
   (Marcus, Priya), Tess absent. SEAL: this dungeon, this world, self-vs-self; no WHY / standing seat / other
   worlds / prior readers / no-handler inversion.
+
+### Ch 20 (Sec 5) established facts now known to the reader
+- **THE CATCH.** FREE dilemma beat (NO edit; stays Level 13, decode_debt 99/100; he weighs, does not act). To USE
+  the never-made core-grammar read as a winning move Aaron must WRITE to it (one value set against the grammar at
+  the dungeon's heart), and THAT exact annotation is the one the whole experiment was built to PROVOKE: the god
+  wanted this one edit from this one subject all along (this world, this experiment). To win is to hand it
+  precisely its prize. SEAL: ONE god / ONE world / ONE subject / ONE edit; never generalized.
+- **THE CEILING COST (rendered per LOCKED canon).** The winning edit costs decode_debt like any edit, so it
+  crosses 99 -> 100; at 100 the DECODE-DEBT CEILING falls: he PERMANENTLY loses the ability to read/edit the
+  hidden layer (overlay dark for good, no read/cursor/annotation ever again). He KEEPS his levels and every prior
+  annotation (Suffocation cap, the door, the forge, all holding in force); survivable, he lives. The winning edit
+  and the blinding edit are the SAME act. Contrast drawn to the Ch11/12 Drowned Mother throttle (temporary, given
+  back) vs this permanent ceiling.
+- **THE EXEMPTION (bare mechanical fact) + THE LEASH UNDERTONE (FEELING only).** The reason he CAN touch the
+  win-condition at all is his account is exempt/outside the settlement's terms (a settlement-bound account cannot
+  edit its own win condition; his exempt account can); WHY stays sealed. LEASH UNDERTONE seeded, never stated:
+  the 99 reads identical as honest engineering OR as a leash left on the one account the admin could not parse (a
+  debt rigged to blind itself on a timer); the patches conspicuously never touched the tab; "Bug or invitation.
+  His debt or its leash." He CANNOT prove which (unresolved chill, tied to bug-vs-invitation).
+- **THE DILEMMA; decision deferred.** No clean choice: win by going blind and giving the god its prize, or lose
+  Marcus (down/buckling) and Priya (spent), seconds from being overrun. He does NOT decide here ("did not move
+  yet"); the DECISION is s6. Crew of three; Tess and Hutch dead. No mechanical change.
