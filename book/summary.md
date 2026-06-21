@@ -1,7 +1,7 @@
 # Book One Summary
 
 **Working title:** *Patch Notes for the End of the World*
-**Series:** *Kade Zero presents: The Administrator*, Book One
+**Series:** *Anomaly Detected*, Book One
 
 ## Premise
 

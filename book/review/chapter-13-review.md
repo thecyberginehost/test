@@ -1,6 +1,6 @@
 # Chapter Thirteen Review: The Wager, Unsealed
 
-From *Patch Notes for the End of the World* (Kade Zero presents: The Administrator, Book One)
+From *Patch Notes for the End of the World* (Anomaly Detected, Book One)
 
 - Word count: 4,597 words (across the 6 section files s01-s06)
 - Page estimate: 16.7 pages (at 275 words per page)

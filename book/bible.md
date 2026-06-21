@@ -1,7 +1,6 @@
 # Story Bible: SINGLE SOURCE OF TRUTH
 
-Live state for *Patch Notes for the End of the World* (Kade Zero presents: The
-Administrator, Book One). Every prose agent reads it. The writer updates it after
+Live state for *Patch Notes for the End of the World* (Anomaly Detected, Book One). Every prose agent reads it. The writer updates it after
 every section. Append facts, never rewrite history.
 
 ## Protagonist

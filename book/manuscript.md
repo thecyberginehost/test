@@ -1,6 +1,6 @@
 # Patch Notes for the End of the World
 
-*Kade Zero presents: The Administrator* (Book One)
+*Anomaly Detected* (Book One)
 
 Chapters 1-13 (Acts One and Two). Protagonist: Aaron Kessler (NULL_OPERATOR).
 

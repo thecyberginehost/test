@@ -1,6 +1,6 @@
 # Chapter 1: Working As Intended
 
-From *Patch Notes for the End of the World* (Kade Zero presents: The Administrator, Book One)
+From *Patch Notes for the End of the World* (Anomaly Detected, Book One)
 
 The dashboard said the server was healthy.
 

@@ -1,6 +1,6 @@
 # Book One Outline: Patch Notes for the End of the World
 
-*Kade Zero presents: The Administrator*, Book One
+*Anomaly Detected*, Book One
 
 22 chapters. POV: past tense, third-person limited on Aaron Kessler.
 Each summary ends on a hook that flows into the next chapter.

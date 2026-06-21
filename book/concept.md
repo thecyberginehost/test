@@ -2,7 +2,7 @@
 
 ## Working title
 **Patch Notes for the End of the World**
-(series tag: *Kade Zero presents: The Administrator*)
+(series tag: *Anomaly Detected*)
 
 ## The hook
 The System arrives like a forced update nobody installed. Every human gets a class

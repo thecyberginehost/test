@@ -1,6 +1,6 @@
 # Chapter Ten Review: Teaching The Enemy
 
-From *Patch Notes for the End of the World* (Kade Zero presents: The Administrator, Book One)
+From *Patch Notes for the End of the World* (Anomaly Detected, Book One)
 
 - Word count: 4,431 words (across the 6 section files s01-s06)
 - Page estimate: 16.1 pages (at 275 words per page)

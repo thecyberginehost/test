@@ -1,6 +1,6 @@
 # Chapter Fourteen Review: The Apex Opens
 
-From *Patch Notes for the End of the World* (Kade Zero presents: The Administrator, Book One)
+From *Patch Notes for the End of the World* (Anomaly Detected, Book One)
 
 This is the first chapter of Act Three. The SERIES_LORE seal is in force (Ch 14-22).
 

@@ -1,6 +1,6 @@
 # Chapter 1: Working As Intended
 
-From *Patch Notes for the End of the World* (Kade Zero presents: The Administrator, Book One)
+From *Patch Notes for the End of the World* (Anomaly Detected, Book One)
 
 "It's green," Dwyer said for the third time, like the color settled it.
 

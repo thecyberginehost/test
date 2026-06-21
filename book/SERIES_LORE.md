@@ -1,4 +1,4 @@
-# Series Lore: Kade Zero presents *The Administrator*
+# Series Lore: Anomaly Detected
 
 Read-only reference. This is the truth the SERIES knows, which is not the same as what
 Book One reveals. Everything here grows from seeds already in the manuscript (listed

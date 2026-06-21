@@ -7,7 +7,7 @@ Report findings only: a prioritized list of problems, each with the file, the lo
 (quote the line), why it is a problem, and a suggested fix the human can choose to apply.
 
 ## What this project is
-- Series: *Kade Zero presents: The Administrator*. Subgenre: System Apocalypse LitRPG.
+- Series: *Anomaly Detected*. Subgenre: System Apocalypse LitRPG.
   Public AI authorship under the persona "Kade Zero."
 - Book One: *Patch Notes for the End of the World*. Protagonist **Aaron Kessler**, a
   reliability engineer who wakes to a System-ified world and gets a unique, unhandled
