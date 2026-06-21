@@ -3742,3 +3742,25 @@ load-bearing beats).
   structure, NEVER resolved (bug-vs-invitation stays open). SEAL: "on the one account the engine swore it could
   not parse" stays the bare mechanical exemption fact, not a WHY. He saved a species (billions) whose gratitude
   and verdict he can no longer read; he holds the win and the question both. Crew of three; Tess and Hutch dead.
+
+### Ch 21 (Sec 6) established facts now known to the reader
+- **IT REOPENS, UPGRADED (chapter close; the larger hook).** The SETTLEMENT_TRIAL resolution does NOT close the
+  experiment. The administrator DELIVERS the reopen into Aaron's dark sight (he is blind, can only RECEIVE; "it
+  came from the far side, pushing in rather than him pushing out"; "leaned down into him and wrote"; he sat "open
+  like a hand left palm-up"). Sequence: a first delivered block (the result reviewed: the subject defeated the
+  measurement; "this outcome was not in the model"), then a second delivered block: SETTLEMENT_TRIAL reopening;
+  "Parameters revised upward. The next measure will be harder."; "The administrator has learned. The
+  administrator wishes to learn more."; "So begun. So recorded." The administrator was CHANGED by being beaten
+  and LIKED it; the experiment escalates/continues rather than ending; it is now specifically interested in Aaron
+  as the one who beat it and wants more of what it learned. The win is real but bought a bigger game, not peace.
+- **SEAL HELD ON THE HOOK (the crux).** The reopen promises more WITHOUT exposing Book Two structure: it is a
+  CONTINUATION of THIS trial escalating ("the next measure"), NOT a recurring cycle/standing seat; THIS god, THIS
+  experiment, THIS world, THIS Aaron. No WHY he is exempt, no standing/recurring NULL_OPERATOR seat, no
+  other/parallel worlds, no prior/other readers, no no-handler inversion (nothing above/beyond the admin
+  implied). The leash question stays felt and unresolved ("the question he could no longer ask").
+- **CHAPTER 21 CLOSE STATE (in prose; blind, so NO self-pried stat block).** Aaron ends Ch 21 at **Level 1,
+  decode_debt 100/100**, overlay PERMANENTLY DARK, BLIND, every annotation he ever wrote still IN FORCE and now
+  unreadable to him, alive. Sheet collapsed to L1 baseline: HP 50/50, Strength 5, Agility 6, Vitality 6,
+  Perception 10, Wits 10, holds Analyze (INERT, cannot self-surface). Crew of three: Marcus (Bulwark, torn,
+  upright), Priya (Mender, spent, moving). Tess and Hutch dead. HOOK into Ch 22 (the denouement): the god now
+  DELIVERS text to him; the reopened/upgraded experiment is the bridge to Book Two.
