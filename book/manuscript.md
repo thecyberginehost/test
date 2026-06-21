@@ -7,7 +7,7 @@ By Kade Zero
 Chapters 1-22. Protagonist: Aaron Kessler (NULL_OPERATOR).
 
 - Chapters: 22
-- Word count: 98,418 words
+- Word count: 98,413 words
 - Page estimate: 357.9 pages (at 275 words per page)
 
 ---
@@ -3587,7 +3587,7 @@ The standing offer resolved against the gate, the gray text quoting him the pric
 
 He put his will on the gate and revised the one value that held it, sealed to legible, and pushed.
 
-The cost tore loose all at once. Eight levels did not feel like one. The warm weight of the climb ripped out of him in a single sheet, and he guttered down through the numbers, 13, 11, 9, 7. Then it stopped at 5, like a tooth coming out by the root. His HP cinched in. His Perception fell off a cliff and the whole city went dimmer, less sharp, a man with worse eyes. The decode tax came in on the heels of it, the tab telling on him now, eight points of debt clawing in at once where the wager-pry had only charged three. Blood came in a hard double rush over his lip, then his chin. The spike behind his eye drove deeper and stayed. His overlay stuttered to static, came back, stuttered, the dim layer flickering like a feed about to drop.
+The cost tore loose all at once. Eight levels did not feel like one. The warm weight of the climb ripped out of him in a single sheet, and he guttered down through the numbers, 13, 11, 9, 7. Then it stopped at 5, like a tooth coming out by the root. His HP cinched in. His Perception fell off a cliff and the whole city went dimmer, less sharp, a man with worse eyes. The decode tax came in on the heels of it, the tab telling on him now, eight points of debt clawing in at once where the wager-pry had only charged three. Blood came in a hard double rush over his lip, then his chin. The spike drove deeper into the socket and stayed. His overlay stuttered to static, came back, stuttered, the dim layer flickering like a feed about to drop.
 
 > [ SYSTEM ]
 > ANNOTATION ACCEPTED.  Account: KESSLER, A.
@@ -3646,7 +3646,7 @@ Far under his real strength, every kill landed like a windfall. At Level 5 these
 > [ SYSTEM ]
 > LEVEL UP.  You are now Level 6.
 
-He took the next on the backswing. Tess called the one flanking him a half-beat early and he turned into it instead of away. Marcus held the line, Priya kept him upright, and the levels came back the only honest way, one body at a time, no annotation, no edit, the tab behind his eye reading what it had since the pry and not a point more.
+He took the next on the backswing. Tess called the one flanking him a half-beat early and he turned into it instead of away. Marcus held the line, Priya kept him upright, and the levels came back the only honest way, one body at a time, no annotation, no edit, the tab reading what it had since the pry and not a point more.
 
 > [ SYSTEM ]
 > LEVEL UP.  You are now Level 9.
@@ -4182,7 +4182,7 @@ The lower flight let out onto a loading corridor from no building this tower hel
 
 They came out of the gap. Two low and fast, a third squeezing through behind. Marcus met the first on the blue slab off his arm and walked it into the wall. Tess slid a blade into the second's working slit before it found her.
 
-Aaron put his palms flat on the cold wall and pushed the read in. The pressure behind his right eye rose like a screw turned a quarter past tight, then the wet click, and the gray comment-text spilled down the steel into the shutter's guts. Fifty-one points of tab smeared the field, nothing above the floor in him to wipe it. He was Level 1, reading through a film of his own debt.
+Aaron put his palms flat on the cold wall and pushed the read in. The pressure wound up tight in the socket, a screw a quarter past where it should stop, then the wet click, and the gray comment-text spilled down the steel into the shutter's guts. Fifty-one points of tab smeared the field, nothing above the floor in him to wipe it. He was Level 1, reading through a film of his own debt.
 
 > # FLOOR: freight shutter. source: KESSLER, A., day 3.
 > # original solve on record: lock_state revised LOCKED -> UNLOCKED.
@@ -4283,7 +4283,7 @@ He knew the count before he placed it. His chest knew it. Three nights ago the D
 
 Marcus put his back to a pylon, favoring the torn forearm. "How long's the window."
 
-Aaron dragged his sight up. The pressure behind his right eye ground past full and kept going, and the gray text bled up out of the water with his name folded into it.
+Aaron dragged his sight up. The old pressure ground past full and kept going, and the gray text bled up out of the water with his name folded into it.
 
 > # FLOOR: surge-gate. source: KESSLER, A. day 12, the Mother.
 > # core legible on the push. window 1.8s. shell re-seals.
@@ -4400,7 +4400,7 @@ Marcus had come down off the pylon. Aaron heard the heavy careful drag of the wo
 
 Priya was crying too, silent, her hand still on the girl's ankle. The three of them made a small shape around the fourth, the way people have always closed around a body, long before there was a System to log it.
 
-Aaron did not turn his sight on. The gray wanted to surface, pressing behind his right eye, the wet click waiting if he let go, and he would not. There was nothing in that layer he could stand to read. Not the next floor. Not the condolence the machine had already filed.
+Aaron did not turn his sight on. The gray wanted to surface, a pressure rising in the socket, the wet click waiting if he let go, and he would not. There was nothing in that layer he could stand to read. Not the next floor. Not the condolence the machine had already filed.
 
 He held her and wept, and the man who did not care had finally stopped lying about it.
 
@@ -4456,7 +4456,7 @@ Aaron killed when something reached him, without art, and the warm reward color 
 
 At Level 1 the EXP came fast. A Level 17 Bulwark clearing the floor ahead meant the kills rained down whether he swung or not. The ladder pulled him up and he hung off it like dead weight and it pulled him anyway.
 
-Level 4. Level 7. The dull ache behind his right eye did not unclench for any of it.
+Level 4. Level 7. The dull ache he had carried since the second night did not unclench for any of it.
 
 That was the part that reached him, when anything did. The levels came back. He had spent twelve of them two floors up, drained himself to the floor to forge a door that let her in here to die, and now the System handed them back for free while she cooled on the stone above. The one thing he had thrown away was the one thing the world would refund.
 
@@ -4506,7 +4506,7 @@ He stopped reading the dungeon to live through it. He was going to read it to fi
 
 "You've got a look," Marcus said. He had not moved from the door, his voice wrecked at the edges but steady. "Had it before. Right before you do something that scares the rest of us."
 
-Aaron got up off the stone. His knees ached. His sight was already turning, pulling toward the place behind his right eye where the dim layer waited, where the comment-text sat grayed and patient under everything, where a voice that had killed her had also, in its broken hand, tried to say it was a shame.
+Aaron got up off the stone. His knees ached. His sight was already turning, pulling toward the place the dim layer waited, where the comment-text sat grayed and patient under everything, where a voice that had killed her had also, in its broken hand, tried to say it was a shame.
 
 "Not scared this time," Aaron said. "I want to read it where it talks."
 
@@ -4963,7 +4963,7 @@ It was bigger than anything they had cut past on the climb down. The lower bosse
 
 He did the thing he had done a thousand times since the morning the world updated. He looked under it.
 
-The familiar ache climbed at his temple, the wet click as the layer rose, the gray comment-text washing in. It stopped at the boss's outline like water hitting glass. He got the surface, HP past anything he had a frame for, a phase counter, a behavior table in neat rows. What he could not get was where any of it came FROM. The derivation sat behind a held gate, the same cold refusal he had hit at the apex's personal layer and again at the twice-sealed core. Read denied. The origin was access-sealed against KESSLER, A.
+The familiar ache climbed in the socket, the wet click as the layer rose, the gray comment-text washing in. It stopped at the boss's outline like water hitting glass. He got the surface, HP past anything he had a frame for, a phase counter, a behavior table in neat rows. What he could not get was where any of it came FROM. The derivation sat behind a held gate, the same cold refusal he had hit at the apex's personal layer and again at the twice-sealed core. Read denied. The origin was access-sealed against KESSLER, A.
 
 A plain read would not reach it. To get under this he would have to pry the gate, sealed to legible, an edit and not a free look. He knew the price. Tier 2. Eleven levels off the top, and the decode tax on top of that, eight points onto a tab already sitting at eighty-three.
 
@@ -5206,7 +5206,7 @@ He did not know if the debt was his. He had stopped pretending he ever would. Bu
 
 He brought the read up, the last time he meant to ask for it. The pressure crested behind his right eye, that familiar wrong fullness, and the wet click came as the layer rose into place over the wet stone and the failing shield and the spent healer, the gray comment-text blooming through the world one more time. He found the value at the heart of the grammar he had carried out of the core, the one annotation he had never made, the one the boss had never seen because no one had ever written it. He set the cursor on it.
 
-Ninety-nine behind his eye. One keystroke to a hundred. The cursor sat on the value and did not move, and the overlay held, still lit and gray and still his, for one more breath he was choosing to spend on purpose.
+Ninety-nine on the tab. One keystroke to a hundred. The cursor sat on the value and did not move, and the overlay held, still lit and gray and still his, for one more breath he was choosing to spend on purpose.
 
 He did not press it yet.
 
