@@ -2943,3 +2943,24 @@ load-bearing beats).
 - **SEAL HELD:** the carried-35 overflow stays mechanical; "more than half to dark" is Aaron's private
   ceiling stake. No other worlds / recurring seat / prior readers / unsupervised-god / why-exempt. Sets up
   s5 (it holds; the dangerous lesson).
+
+### Ch 15 (Sec 5) established facts now known to the reader
+- **THE FORGE HOLDS.** The threshold now reads each clean crew card, REFUSES it on the original first
+  clause, then falls through to Aaron's written SECOND clause ("Party of this account") and ADMITS them. All
+  four accounts (Aaron the error, plus Tess, Marcus, Priya) are admitted where the door was built to take
+  exactly one. Ragged triumph at a near-fatal price.
+- **CREW LEVELS PINNED (new canon, first concrete numbers; no prior pin contradicted):** **Tess (Scout)
+  Level 19. Marcus (Bulwark) Level 17.** Priya (Mender) admitted, no number given. They sit ABOVE Aaron's
+  current Level 1 (and above his pre-forge Level 13): by design, Aaron's edits keep SPENDING his levels
+  while the crew climbs the normal ladder uninterrupted, so the crew out-levels him. Later chapters must
+  keep these consistent (Tess dies Ch 16; honor ~L19).
+- **THE DANGEROUS LESSON (thematic peak; tutor frame at top of arc).** Aaron realizes the forge taught the
+  administrator the most dangerous data yet: that he will overwrite settlement law and spend himself past
+  safe limits to protect accounts the experiment counts as disposable. It now has the exact measure of where
+  his line is. Administrator "> #" interest-note (verbatim): "account KESSLER, A.: admission term rewritten.
+  party admitted. / behavior logged. priority subject. / note: will overwrite settlement law to retain
+  non-exempt assets. / threshold: cost-to-self not limiting. revise threat model. / interesting." SEAL:
+  registers chilling interest WITHOUT the cosmic why; "non-exempt assets" restates the Ch 13 THAT only.
+- **NO mechanical change:** Aaron stays **Level 1, decode_debt 51/100, holds Analyze, NULL_OPERATOR /
+  unhandled.** Crew alive: Tess, Marcus, Priya. Hutch DEAD. SEAL held (no other worlds / recurring seat /
+  prior readers / unsupervised-god / why-exempt). Sets up s6 (crossing together; the Ch 1 office rebuilt).
