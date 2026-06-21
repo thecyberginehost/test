@@ -2862,3 +2862,25 @@ load-bearing beats).
   Tess, Marcus, Priya. Hutch DEAD. SEAL intact (admission singular to Aaron; exemption NOT yet named; no
   other worlds / recurring seat / prior readers / why-exempt). No [ SYSTEM ] block this section (the big
   blocks land s4/s6). Sets up s2 (the deep read and the exempt flag named).
+
+### Ch 15 (Sec 2) established facts now known to the reader
+- **THE DEEP READ (free).** Aaron reads the threshold's admission grammar to its floor, the deepest read
+  yet (strenuous, physical, heat and pressure behind the right eye). It is a READ: no decode_debt, no level
+  cost. Overlay reads (verbatim, reuse): admission is a SETTLEMENT ACCESS TERM, a property of the settlement
+  not the door, binding on all accounts; "edit precondition: account must stand OUTSIDE settlement terms;
+  default: no account stands outside its own settlement."
+- **THE EXEMPT FLAG NAMED (first time on the page; THAT, never WHY).** The grammar's exception scan names
+  exactly one account flagged outside settlement scope: KESSLER, A. (NULL_OPERATOR / unhandled), status
+  exempt (the Ch 13 carve), so the admission term is "editable BY this account, denied to all others," with
+  the line "cannot bind to its own terms an account it cannot parse." This is the in-world reason the forge
+  is possible at all. Aaron registers it as singular/local/mechanical ("the door only bends for my
+  account"; "for no one else alive") and EXPLICITLY refuses the why: "He took the that and refused the
+  why." Leash-ambiguity kept as FEELING only ("without telling you who left the key"). SEAL HELD: no
+  standing/recurring seat, no other worlds, no prior readers, no unsupervised-Administrator, no on-purpose
+  reason as structure.
+- **THE COST READ AND BRACED.** Overlay: "write cost (this account): tier 3, load-bearing access term;
+  progress charge: tens of levels." He reads that the Tier-3 charge is more levels than his thirteen, and
+  braces (sets up the s3 overflow firing). NO edit yet.
+- **NO mechanical change:** still **Level 13, decode_debt 31/100, holds Analyze, NULL_OPERATOR / unhandled.**
+  Crew alive: Tess, Marcus, Priya. Hutch DEAD. Sets up s3 (the write begins; the PROGRESS-COST OVERFLOW
+  fires; level crash 13 -> 1).
