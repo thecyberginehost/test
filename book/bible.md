@@ -276,6 +276,26 @@ load-bearing beats).
         > Cost paid: -8 Levels.  Decode tax applied.
       This realizes the PRE-COMMITTED ACT THREE LEDGER Ch 14 entry (+8 -> 31). SEAL: the read stays SINGULAR to
       Aaron ("Him. Only him."); no other readers/worlds/recurring seat, no WHY.
+    - #10 (Ch 15, s3-s4): APEX ADMISSION FORGE. Wrote a SECOND admission clause onto SETTLEMENT_TRIAL's
+      access term so the threshold admits Aaron's party (against the law that only the unhandled get in).
+      Tier 3 (load-bearing access rule), the FIRST Tier-3 edit of the book. Progress charge: 47 levels.
+      He had only 12 above the Level-1 floor, so per the LOCKED PROGRESS-COST OVERFLOW rule his EXEMPT
+      account paid 12 to the floor (Level 13 -> Level 1; stats collapse to L1: HP 50, Per 10, Wits 10) and
+      SETTLEMENT_TRIAL CARRIED the 35-level remainder ("cannot bill an account it refuses to parse"; a
+      non-exempt account's write would FAIL). decode_debt += 20. Running decode_debt = 51 / 100, the biggest
+      single spike of the book; it nearly kills him (collapse, Priya keeps him alive). ANNOTATION ACCEPTED
+      block (canonical, "> " prefix):
+        > [ SYSTEM ]
+        > ANNOTATION ACCEPTED.  Account: KESSLER, A.
+        > Target: SETTLEMENT_TRIAL, admission term (access).
+        > Admission revised: second clause written. Party of this account admitted.
+        > Scope: this account. This threshold.
+        > Cost charged: 47 Levels.  Paid: 12 (to floor).  Carried: 35.
+        > Decode tax applied.
+      Realizes the PRE-COMMITTED ACT THREE LEDGER Ch 15 entry (+20 -> 51). SANCTIONED DEEP-EDIT TROUGH
+      (Tier 3): closes Ch 15 at Level 1; recovery above the pre-edit Level 13 is OWED by Ch 18 (guardrail
+      rule 4). SEAL: the overflow stays LOCAL/MECHANICAL ("the bill it could not collect, it paid itself");
+      the why is refused on the page; no standing/recurring seat, no other worlds, no WHY.
 
   The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -2907,3 +2927,19 @@ load-bearing beats).
   write is UNFINISHED ("One clause. Then the door would open. If he lived to close it."). State at s3 close:
   **Level 1, decode_debt 31/100**, mid-write, on the brink of collapse. Crew: Tess, Marcus, Priya (holding
   him up). Hutch DEAD. Sets up s4 (completion, ledger #10, debt -> 51, collapse).
+
+### Ch 15 (Sec 4) established facts now known to the reader
+- **THE FORGE LANDS (ledger #10).** Aaron finishes the second admission clause; the System accepts it. The
+  ANNOTATION ACCEPTED block lands (see ledger #10 for the canonical block). The decode tax now applies:
+  **decode_debt 31 -> 51/100**, a single +20 leap ("Thirty-one to fifty-one in one stroke"), the biggest
+  the tab has ever hit him for. Near-fatal body cost (blood, the eye-spike past pressure, the overlay
+  tearing, the heart stuttering). He COLLAPSES; Priya's Mender hands (plus Marcus and Tess) pull him back.
+  He survives, wrecked, at the floor.
+- **CLOSE STATE (s4):** **Level 1** (HP 50, Strength 5, Agility 6, Vitality 6, Perception 10, Wits 10),
+  **decode_debt 51/100**, holds Analyze, class still NULL_OPERATOR / unhandled. "more than half to dark."
+  Crew alive: Tess, Marcus, Priya. Hutch DEAD ("a debt of a different kind"). The forged door has taken the
+  crew's names but the CONFIRMATION that it will admit them, and the dangerous-lesson realization, are s5
+  (not spent here).
+- **SEAL HELD:** the carried-35 overflow stays mechanical; "more than half to dark" is Aaron's private
+  ceiling stake. No other worlds / recurring seat / prior readers / unsupervised-god / why-exempt. Sets up
+  s5 (it holds; the dangerous lesson).
