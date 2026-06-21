@@ -3505,3 +3505,21 @@ load-bearing beats).
   the healing forearm seam reopening under impact; Priya (Mender) keeps him standing; Tess's absence felt as the
   missing timing-call. SEAL: HIS logs, THIS world, self-versus-self; the Ch18-code answer and win-condition edit
   are NOT yet named (s4-s6); no WHY / standing seat / other worlds / prior readers / no-handler inversion.
+
+### Ch 20 (Sec 2) established facts now known to the reader
+- **THE CREW AT THEIR PEAK; BUYING TIME AND TRUST.** NO edit (Aaron reads FREE while the crew fights; decode_debt
+  STAYS 91/100, Level STAYS 23, "no edit landed, the tab steady at ninety-one"). With his old exploits all
+  patched, the crew CARRIES the climax fight at the highest level they have ever reached, the climb's payoff in
+  the crew: Marcus (Bulwark) an immovable wall who cracks the floor, makes the boss recoil, refuses to chase,
+  forces it to pay rent on every approach (his reopened forearm seam tears again on the third hit, Priya knits it
+  shut mid-fight); Priya (Mender) at her highest, her Mend a FLOOD now (not the thin thread of the tower),
+  holding the whole line's health.
+- **TESS'S ABSENCE AS A PERSON-SIZED HOLE.** The fight has a hole shaped exactly like her: the missing half-beat
+  terrain/timing/flank call a Scout makes before the overlay, that no one makes now. They fight FOR her (the girl
+  they could not pull off the surge-gate floor in time), her name pointedly unspoken to save the breath.
+- **WHAT THEY BUY HIM: TIME and TRUST (the "I work alone" payoff).** They cannot read one character of the layer
+  killing him to read, and hold anyway on faith that the man who insisted he worked alone will find the answer.
+  Marcus: "As long as you need. So make it less than that." Aaron stands inside their earned faith and uses it.
+  Section ends with the bought time running out (the boss takes another step), setting up s3 (the boss escalates;
+  Aaron makes one fresh combat edit). SEAL: these people, this fight, this world; no standing seat / other worlds
+  / prior readers / no-handler inversion / structural why; Ch18 answer + win-condition edit not yet named.
