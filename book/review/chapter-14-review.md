@@ -4,29 +4,29 @@ From *Patch Notes for the End of the World* (Kade Zero presents: The Administrat
 
 This is the first chapter of Act Three. The SERIES_LORE seal is in force (Ch 14-22).
 
-- Word count: 4,458 words (across the 6 section files s01-s06)
-- Page estimate: 16.2 pages (at 275 words per page)
+- Word count: 4,409 words (across the 6 section files s01-s06)
+- Page estimate: 16.0 pages (at 275 words per page)
 - Verification gate (scripts/check_chapter.py 14): PASS
 - Seal tripwire (scripts/check_seal.py 14): SEAL OK
-- Human-voice advisory (scripts/echo_watch.py 14): clean (0 repeated phrasings after one polish)
+- Human-voice advisory (scripts/echo_watch.py 14): clean (0 repeated phrasings)
 - Pipeline: built on the new loop (Opus 4.8 throughout; writer -> continuity-checker+seal -> editor(Bash, surgical) -> tells-scrubber)
 - Close state: Level 13, decode_debt 31/100, holds Analyze, NULL_OPERATOR / unhandled. Crew alive: Tess, Marcus, Priya.
 
 ---
 
-The clock ran out the way a clock always does, one second at a time, indifferent to what it was counting toward.
+The clock ran out one second at a time, indifferent to what it was counting toward.
 
 Aaron stood on the rim of the dead district with the crew and watched it go. The public timer hung over the city in everyone's sight at once, a thin string of numbers stripped of color, and it did not hurry at the end. It did not toll. It reached zero and held there for a breath, blank, the way a screen sits blank in the instant after you hit the command and before the thing you started actually happens.
 
 Then the city's heart opened.
 
-It did not crack the way the rifts had cracked. Those were tears, ragged holes monsters fell out of. This was deliberate. Six blocks of downtown, the old financial spine where the towers stood, simply stopped being. The buildings did not fall. They were unwritten, the way a window closes. Here, then not. Into the space they left, the apex came up from underneath like something surfacing from very deep water.
+This was not a rift. Those were tears, ragged holes monsters fell out of. This was deliberate. Six blocks of downtown, the old financial spine where the towers stood, simply stopped being. The buildings did not fall. They were unwritten. Here, then not. Into the space they left, the apex came up from underneath like something surfacing from very deep water.
 
 It was the size of a district. Aaron's mind refused the scale for a second and then took it, and taking it was worse. The structure climbed past where the towers had been and kept climbing. Dark and faceted, wrong in a way his eyes could not hold still, every plane of it meeting every other plane at angles that should not have closed. It was not a building. It wore the idea of a building the way the dashboard had worn the idea of a healthy server. A surface that described itself, and nothing real underneath.
 
 The sound arrived a half-second behind the sight, because it was that big. A low pressure came up through the soles of his boots before his ears found it, and then a tone under everything, not a roar, a hum, the note a vast machine makes when it powers on and means to stay on. Glass that had survived the whole apocalypse went to dust along the avenues. The wrong sky bent toward the new shape and held there, sucked taut.
 
-Around him the city screamed. Not the monster-scream he had learned to read. The human kind, thousands of throats at once from every shelter and rooftop and broken street, the sound of a species seeing the thing it could not fight. Priya had a hand over her mouth. Marcus had gone still in the way that was his version of flinching, shield half-raised at nothing, at all of it. Tess was not screaming. She was staring up at the apex with her head tilted, reading it, and her face had the look his own face had when the layer showed him something the surface was lying about.
+Around him the city screamed. Not the monster-scream he had learned to read. The human kind, thousands of throats at once from every shelter and broken street, the sound of a species seeing the thing it could not fight. Priya had a hand over her mouth. Marcus had gone still, his own version of flinching, shield half-raised at nothing, at all of it. Tess was not screaming. She was staring up at the apex with her head tilted, reading it, and her face had the look his own face had when the layer showed him something the surface was lying about.
 
 "It's not for them," she said. Quiet, just to him, under the noise. "It doesn't move like it's hunting. It moves like it's waiting."
 
@@ -58,7 +58,7 @@ The loners moved first, the ones who had survived this long by not being where a
 
 The numbers counted down in flat font for the whole city, and Aaron felt the avenues below him change pitch. Three hours to walk into a thing the size of downtown and come out the far end. The screaming thinned, not because the fear had eased but because fear costs breath, and people had started to do math instead.
 
-"There," Tess said. She was not looking at the apex now. She had her chin down, eyes tracking the streets the way she tracked a spawn flow. "South channel. That's a whole group moving as a group. See how the front holds a line?"
+"There," Tess said. She was not looking at the apex now. She had her chin down, eyes tracking the streets, reading the crowd's movement. "South channel. That's a whole group moving as a group. See how the front holds a line?"
 
 Aaron found them. Fifty bodies pouring up the avenue from the old market district in a column that did not break or scatter, a shield wall at the head catching loose debris the way a plow turns soil. Class-card drunk strangers did not move like that. That was drilled. That was somebody's faction, and somebody ran it.
 
@@ -70,7 +70,7 @@ From the east a second mass was building, and this one had no line at all. It ca
 
 "That's the part nobody plans for," Tess said, gone quiet under the noise, just for him. "It's not the apex that kills most of these people. It's the next three hours of everybody arriving at the same door."
 
-She was right the way she was always right, reading it from the outside with no overlay to lean on. The clock did not unite them. It pressed them, took every feud and frightened cluster in the city and shoved them down the same funnel with a knife already out. The social apocalypse was older than the rifts. The rifts had only given it a deadline.
+She was right. She was always right, reading it from the outside with no overlay to lean on. The clock did not unite them. It pressed them, took every feud and frightened cluster in the city and shoved them down the same funnel with a knife already out. The social apocalypse was older than the rifts. The rifts had only given it a deadline.
 
 Aaron made himself count. The marshal column would reach the apex first and try to own the threshold. The eastern churn would arrive behind them. They came armed and would not be owned by anyone. Smaller groups sniffed the edges. Some would cooperate to survive. Some would turn the instant the door did something they did not understand.
 
@@ -78,7 +78,7 @@ And it was going to do something none of them understood. He knew that better th
 
 He looked away from the crowd, up at the dark facets, and let the pressure build behind his eye.
 
-The pressure behind his right eye thickened to a point, and the apex came up under it the way a photo comes up in a tray, edges first.
+The pressure behind his right eye thickened to a point, and the apex surfaced under it, edges first.
 
 The surface read like nothing. A faceted shell with the wager's flat public grammar bolted across it, clear-it-or-die in a font built for anyone. He pushed under that. The dim layer answered with the wet click he knew in his back teeth, gray comment-text scrolling against the dark facets, and he reached for the part that would tell him how the thing was built.
 
@@ -93,7 +93,7 @@ He pushed harder and the gate did not give. This was not difficulty. He knew dif
 
 He could not read it. He had to break it open. That was an edit.
 
-The standing offer resolved against the gate, the gray text quoting him the price the way it always did, no mercy in it.
+The standing offer resolved against the gate, the gray text quoting him the price, no mercy in it.
 
 "Tess." His voice came out wrong. "Don't let me fall."
 
@@ -216,9 +216,9 @@ Marcus stepped up because not stepping up was not a thing he did. He set his shi
 > ACCESS DENIED: resolved class (BULWARK).
 > This account is handled. Threshold sealed against it.
 
-Marcus took his hand off the dark. He did not argue. He looked at it the way he looked at a wall he could not break, turned to find another way, found none, and his jaw worked once.
+Marcus took his hand off the dark. He did not argue. He gave it the look he saved for a wall he could not break, turned to find another way, found none, and his jaw worked once.
 
-Priya did not bother with her card. She pressed her palm to the seam, Mender warmth still lit from holding Aaron's lip together, as if the door were one more body she could keep alive. *handled,* the layer said. *MENDER. sealed.* Tess never raised hers. She read the door the way she read a slope, chin up, eyes flat, and arrived at the answer before he said it.
+Priya did not bother with her card. She pressed her palm to the seam, Mender warmth still lit from holding Aaron's lip together, as if the door were one more body she could keep alive. *handled,* the layer said. *MENDER. sealed.* Tess never raised hers. She read the door, chin up, eyes flat, and arrived at the answer before he said it.
 
 "It's not graded for you," she said. Her own words from the slope, handed back, the fight gone out of them.
 
@@ -226,7 +226,7 @@ Priya did not bother with her card. She pressed her palm to the seam, Mender war
 
 He went himself because there was nothing left, and because some bitter part of him had to see it confirmed. He had no card to raise. He had the thing under it, the field that would never resolve, the cursor parked on a word the System had agreed with itself about on a Tuesday morning. He put his hand to the dark.
 
-The read came back the way it had read him from minute one.
+The read came back the same as it had on the first morning.
 
 > [ SYSTEM ]
 > Account: KESSLER, A.
