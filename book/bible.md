@@ -2759,3 +2759,22 @@ load-bearing beats).
 - **SECTION CLOSE:** Aaron at **Level 5, decode_debt 31/100**, holds Analyze, NULL_OPERATOR / unhandled
   (momentary L5 sheet: HP 90, Per 18, Wits 14). Crew alive: Tess, Marcus, Priya. Hutch DEAD. Sets up s04 (the
   crew commits; he grinds Level 5 -> 13 back on the apex's opening incursion).
+
+### Ch 14 (Sec 4) established facts now known to the reader
+- **THE INCURSION + THE CREW COMMITS.** The apex's arrival spawns a massed incursion (its own brood pours
+  from new seams in the structure into the surrounding ruin); the factions and the crew are thrown into a
+  fight. Mid-fight the crew (Marcus on the line, Priya keeping people up, Tess reading the field) decides,
+  with no vote, to enter the apex TOGETHER. Chosen-family unity beat going into the finale.
+- **THE GRIND BACK (normal ladder, NO debt change).** At Level 5 (far under his real strength) the incursion
+  kills come fast, and Aaron re-earns **Level 5 -> Level 13** on the honest ladder, blade and held line. NO
+  annotation, NO edit. **decode_debt UNCHANGED at 31/100** ("Thirty-one, the cost that did not grind back").
+  Gains are Perception/Wits only. Level-up blocks shown (Level 6; Level 9 +Per +Wits; Level 13 capstone with
+  full sheet). Closing sheet matches canon: **Level 13, HP 170/170, Strength 5, Agility 6, Vitality 6,
+  Perception 34, Wits 22, holds Analyze, NULL_OPERATOR / unhandled, decode_debt 31/100.**
+- **SEAL (held):** apex targeting stays singular to Aaron as feeling ("an exam for one," "built for one"). No
+  other worlds/readers/recurring seat/unsupervised-Administrator/why-exempt.
+- **CHAPTER LEVEL ECONOMY RECONCILED:** Ch 14's Tier-2 pry (s3) dipped him 13 -> 5; the s4 grind returns him
+  to 13. So the chapter's NET level change is zero (closes Level 13, same as it opened), and the only
+  permanent cost is decode_debt 23 -> 31. He is positioned at full strength (Level 13) for the Ch 15 forge.
+  Crew alive: Tess, Marcus, Priya. Hutch DEAD. Sets up s05 (the threshold rejects clean classes, opens for
+  his error).
