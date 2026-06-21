@@ -306,6 +306,16 @@ load-bearing beats).
       Scope this account / this floor; "Cost charged: 9 Levels.  Paid: 0 (at floor).  Carried: 9.  Decode tax
       applied." First of Ch 16's two forced Tier-2 floor edits (51 -> 59 -> 67). SEAL: overflow local/mechanical,
       no WHY.
+    - #12 (Ch 16, s4): STALE-FLOOR RE-EDIT (second). The floor replays his Ch8 warden FOCUS / target-selection
+      re-point (ledger #6); the old re-point is STALE (the left-open gate now closed). He reads a tier deeper and
+      writes a FRESH Tier-2 edit (FOCUS routine revised deeper than the patched re-point). Tier 2. OVERFLOW: at
+      the Level-1 floor he pays 0, SETTLEMENT_TRIAL carries the 10-level charge, Level STAYS 1 (body cost only).
+      decode_debt += 8. Running decode_debt = 67 / 100. ANNOTATION ACCEPTED block: Target floor rule (FOCUS /
+      target-selection); Scope this account / this floor; "Cost charged: 10 Levels.  Paid: 0 (at floor).
+      Carried: 10.  Decode tax applied." SECOND of Ch 16's two forced Tier-2 edits; CLOSES the Ch 16 debt at
+      67 / 100 (51 -> 59 -> 67), on the pinned curve. At 67 his reads BLUR (high-debt symptom), which sets up the
+      killing floor (s5). SEAL: overflow local/mechanical, the curriculum is the AI teaching ITSELF by making HIM
+      teach it (singular to Aaron), no WHY.
 
   The per-edit LEVEL cost
   throttles affordability: at low level he can only afford Tier 0 (debt rises slowly, +1 at a time);
@@ -3059,3 +3069,20 @@ load-bearing beats).
   corridor spawns while he wrote (Marcus L17, Tess L19, Priya); all alive. Hutch DEAD. Sets up s4 (the warden-
   FOCUS floor, SECOND Tier-2 edit +8 -> 67, the curriculum realization, the crew straining; debt 67 then BLURS
   his reads toward the killing floor).
+
+### Ch 16 (Sec 4) established facts now known to the reader
+- **SECOND Tier-2 (ledger #12); debt closes at 67.** The floor replays the Ch8 WARDEN FOCUS re-point (source
+  "day 8", ledger #6); old re-point STALE. Fresh Tier-2 edit; OVERFLOW again (Level 1, pays 0, carries 10,
+  Level stays 1, body cost only). **decode_debt 59 -> 67/100** (chapter debt close, on the pinned curve).
+- **THE CURRICULUM REALIZATION (thematic core, singular to Aaron).** Aaron understands the floors are not
+  traps but a CURRICULUM: the administrator is not trying to stop him, it is teaching ITSELF by making HIM
+  teach it. Every floor pulls a deeper read out of him and keeps it. "It built a school out of his record";
+  "he was the only teacher it had." Chilling tutor frame at its starkest. SEAL: singular to Aaron, the
+  permitted Ch9 thesis + lonely-teacher feeling, NOT structure.
+- **THE CREW STRAINS (no death).** Escalating monsters wear the band down: Marcus's forearm torn (fighting
+  favored), Priya down to half her charges, no rest. Rising danger, dread for them. Nobody dies here.
+- **READS NOW BLUR (debt-67 symptom; the setup for the death).** At 67 the gray text doubles and slides, the
+  values swim, he loses a half-second the floor will not refund. This is WHY, next floor, he is too slow.
+- **STATE:** **Level 1, decode_debt 67/100, holds Analyze, NULL_OPERATOR / unhandled.** Crew alive: Tess
+  (L19), Marcus (L17, wounded), Priya (low charges). Hutch DEAD. Sets up s5 (the killing floor: the surge-
+  timing read that is Tess's specialty; debt-blurred sight too slow; Tess covers him and dies).
