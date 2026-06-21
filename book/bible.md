@@ -3715,3 +3715,30 @@ load-bearing beats).
 - **NO System block, no delivered notification yet** (the wager-settles notice is s5, the reopen is s6). SEAL:
   this world, this settlement, this apex; no WHY / standing seat / other worlds / prior readers / no-handler
   inversion.
+
+### Ch 21 (Sec 5) established facts now known to the reader
+- **THE WAGER SETTLES FOR HUMANITY (DELIVERED, not pried).** The administrator DELIVERS a System notification
+  directly into Aaron's now-dark sight (the FIRST text he receives while BLIND; it does not surface and he does
+  not pry it; it is pushed/set there by the admin, because he can no longer eavesdrop on the layer, so the thing
+  he used to steal from now must come TO him). This establishes the Ch22 delivery mechanic in-prose. The DELIVERED
+  block (canonical, "> " prefix):
+  > [ SYSTEM ]
+  > SETTLEMENT_TRIAL: resolved.
+  > Win-condition met on the read of this account.
+  > Result: the defenders of this settlement hold.
+  > The species adapts. The wager settles in their favor.
+  > So measured. So recorded.
+  SETTLEMENT_TRIAL resolves in humanity's favor, on Aaron's one flipped win-condition value (s2). The species
+  passes the trial. The book's largest macro-stake pays off, carried on his read. (This world, this experiment,
+  this species.)
+- **NO mechanical change.** Aaron stays Level 1, decode_debt 100/100, NULL_OPERATOR / unhandled, holds Analyze
+  (INERT), permanently BLIND; every prior annotation in force. No annotation, no level/debt change.
+- **LEASH UNDERTONE RE-SEEDED (felt, UNRESOLVED).** With the wager settled, Aaron feels but cannot answer whether
+  the debt that blinded him at the exact winning edit was his own honest technical debt (the shortcuts
+  compounding, his own hand on every line, the wall he knew was there) or a leash/fence the admin left on the one
+  account it could not otherwise hold ("a bug that blinds itself on a timer is one you never have to patch"; "a
+  kindness or a cage worn so smooth he could not feel the seam"). He can no longer pry the answer and never will;
+  the question "had nowhere to go" and "would push at that room for the rest of his life." NEVER stated as
+  structure, NEVER resolved (bug-vs-invitation stays open). SEAL: "on the one account the engine swore it could
+  not parse" stays the bare mechanical exemption fact, not a WHY. He saved a species (billions) whose gratitude
+  and verdict he can no longer read; he holds the win and the question both. Crew of three; Tess and Hutch dead.
