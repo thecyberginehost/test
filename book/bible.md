@@ -3600,3 +3600,28 @@ load-bearing beats).
 - **THE DILEMMA; decision deferred.** No clean choice: win by going blind and giving the god its prize, or lose
   Marcus (down/buckling) and Priya (spent), seconds from being overrun. He does NOT decide here ("did not move
   yet"); the DECISION is s6. Crew of three; Tess and Hutch dead. No mechanical change.
+
+### Ch 20 (Sec 6) established facts now known to the reader
+- **THE DECISION (chapter close; HARD STOP).** FREE beat (NO edit; stays Level 13, decode_debt 99/100; NO
+  ANNOTATION ACCEPTED block). Aaron DECIDES to make the win-condition edit, FOR THE CREW (Marcus down with a
+  torn arm; Priya spent), accepting the win and the permanent blinding are the same act. He reclaims agency
+  INSIDE the trap: the god built the lever, the lock, and the body that fit them, but NOT the reason ("It had
+  not built the reason"); his reason is the two who chose to stay for him ("They chose him. He was choosing
+  them." -- the Ch19 "they chose him" / "We give it us" payoff). Tess's absence is named (the person-sized gap
+  where a call should have come; he could not save her, he can save these two). The leash stays UNRESOLVED ("the
+  answer sat behind a seal he would not get to break"); he chooses WITHOUT knowing whether the debt was his or
+  its (bug-vs-invitation never resolved in Book One).
+- **HARD STOP: decided, NOT executed.** The chapter closes on the act POISED, not made: cursor set on the
+  never-made win-condition value, overlay still lit, "He did not press it yet." The actual annotation (the
+  win-condition flip that crosses 100 -> permanent blindness) is CH 21, NOT written in this run. Closing System
+  block (canonical, verbatim):
+  > [ SYSTEM ]
+  > KESSLER, A.  NULL_OPERATOR / unhandled
+  > Level 13   decode_debt 99 / 100
+  > Skill: Analyze
+- **CHAPTER 20 CLOSE.** Aaron ends Ch 20 at **Level 13, decode_debt 99/100** (HP 170/170, Str 5, Agi 6, Vit 6,
+  Per 34, Wits 22, holds Analyze, NULL_OPERATOR / unhandled). PINNED DEBT CLOSE MET: one Tier-2 combat edit this
+  chapter (ledger #16, 91 -> 99); ONE off the ceiling. Decision made to cross 100 in Ch 21 (the win and the
+  blinding are one act). The full Act-Three debt clock now reads 23 -> 31 -> 51 -> 67 -> 83 -> 91 -> 99, exactly
+  on the pinned curve. HOOK into Ch 21 (NOT written this run): the win-condition flip (one value, one mechanic)
+  crosses 100, the boss falls, the overlay goes dark for good. RUN STOPS HERE per instruction.
