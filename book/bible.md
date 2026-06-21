@@ -3267,3 +3267,22 @@ load-bearing beats).
   the door) and s5 (the second seal / reading into the original error). SEAL: exemption = bare mechanical fact
   only (his account can touch the gate), never WHY; CORE_GRAMMAR local to this dungeon; no other readers/worlds/
   recurring seat / no-handler inversion. Crew of three; Tess and Hutch dead.
+
+### Ch 18 (Sec 4) established facts now known to the reader
+- **THE GOD'S CODE IS SLOPPY IN ONE PLACE (the central promise crests).** Reading INTO CORE_GRAMMAR (FREE READ;
+  no edit, no annotation, no level/debt change: stays Level 23, decode_debt 75/100), Aaron finds the core code is
+  sloppy in exactly one place: a loose joint, a single value left mutable where everything around it is locked, an
+  unfinished seam one move wide. The book-long promise pays off (the ordinary man finds the hole in the god's
+  hardest code).
+- **THE SLOPPINESS IS A DOOR LEFT OPEN ON PURPOSE (invitation pattern at its PEAK).** Aaron RECOGNIZES the loose
+  joint as a permitted opening, carrying the same "left-open / bait" fingerprint he learned off Hutch's card
+  (Ch7) and confirmed in the warden bait-test (Ch8, ledger #6, the deliberately-identified left-open hole the
+  patch confirmed was set out for him). Finding the way through PROVES he was meant to. Triumph and dread fused.
+  SEAL (held, continuity-confirmed): rendered as PATTERN recognized and dreaded, NOT yet the named Ch19 thesis
+  ("he was an invitation / a lonely god needs a subject"); never WHY he is exempt; no standing seat / other worlds
+  / prior readers / no-handler inversion; local to this dungeon, this door, this account.
+- **THE SECOND SEAL / THE BEND TOWARD CH1.** Behind the loose joint sits the core's SECOND read-seal; behind that
+  the grammar bends deeper toward where Aaron's own story began (the Chapter 1 original error, the failed
+  assignment that blinked unhandled). He resolves to open the second seal and read back toward his first error.
+  Section ENDS with him about to make the second Tier-2 edit (the edit lands in s5, NOT here). NO mechanical
+  change this section. Crew of three present (Marcus, Priya); Tess's absence felt.
