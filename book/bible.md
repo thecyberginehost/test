@@ -3194,3 +3194,23 @@ load-bearing beats).
   satisfied: recovered above the pre-Ch15-edit Level 13. HOOK into Ch 18: he descends toward the core to read
   the thing it is sure he cannot; Ch 18's two Tier-2 edits (67 -> 83) are ground from a HIGH level at the core
   so they pay in full without overflow and close >= 13.
+
+### Ch 18 (Sec 1) established facts now known to the reader
+- **THE DESCENT IS ONE-WAY; THE GRIND TO AFFORD SOMETHING.** The dungeon has sealed the thresholds behind the
+  crew into "smooth grammar with no read in it" (no integrity value, no lock_state); the only way is down. The
+  crew of THREE (Aaron, Marcus/Bulwark with the healing forearm on point, Priya/Mender in the middle) clears
+  the deepest floors toward the core. Aaron GRINDS the normal ladder Level 13 -> 33 across the descent (logged
+  LEVEL UP blocks to 22 and to 33; +2 Perception / +1 Wits each, per the formulas). NO EDIT this section:
+  decode_debt STAYS 67/100 ("the one number in his sheet that the grind could not touch"). He is sharpening on
+  purpose: "You ground him up to afford something." This grind is what makes Ch 18's two Tier-2 read-gate prys
+  AFFORDABLE (pay in full, no overflow). At Level 33 he is the highest the three have ever stood. SEAL: local.
+- **THE UNREADABLE CORE.** The core is a bell-struck chamber: no boss, no spawn-seam, no door, just a wall of
+  live grammar going up past sight and down into a floorless dark. Aaron surfaces the read (the pressure behind
+  the right eye, the wet click of the dim layer) and for the FIRST TIME since the world ended his sight finds
+  no purchase: "his cursor slid across the grammar and caught no edge, parsed no token." The failed read costs
+  NO decode_debt (reading is free; only edits cost). He understands the wall "was not too high by accident"
+  (the allowed Ch 18 register: THAT it is deliberate, per the Ch14 "measurement of one reader"; never WHY). He
+  keeps his sight on it and does not let it close. Sets up s2 (the wall was BUILT so he could not read it).
+- **NO mechanical change.** Closes s1 at **Level 33, decode_debt 67/100**, NULL_OPERATOR / unhandled, holds
+  Analyze (HP 370/370, Perception 74, Wits 42 at L33 by the formulas). Tess's absence felt (reading the walls
+  "had been a job for two people"); no resurrection.
