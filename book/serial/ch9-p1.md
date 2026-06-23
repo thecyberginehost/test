@@ -1,0 +1,210 @@
+## Chapter 9: The Midpoint Read (Part 1)
+
+He started with the Tuesday.
+
+"When the world froze," he said. "You got a card. A clean one, a name and numbers, sealed shut. So did everybody. Forty people on my floor lit up at once like they'd opened a present. Mine didn't finish."
+
+Tess watched the fire, not him. He was grateful for that.
+
+"It threw," he said. The word came out and the fear came with it, and on its heels something he had not felt in a long time. Relief. "It started writing my class and hit an error mid-write. Where you got a finished card, I got a crash and a sheet I could still edit. Nobody else can touch their sheet. Mine never sealed, because the System never finished closing the file."
+
+"What's it say." Her voice was even. "Your card. What's it actually say."
+
+He let her see it. Not the way he saw it, he could not hand her that, but he said it plain.
+
+"Class reads NULL_OPERATOR. Status, unhandled." He could almost smile at it, the old gallows thing. "That's not a class, it's a log line. I shipped that line a thousand times before any of this. Unhandled means the program hit a case nobody wrote code for and kept running with the error inside it. I'm the error it kept running with. In its own books, an uncaught exception."
+
+The fire ticked. She listened the way she read a street before she let the crew walk it.
+
+"That's why I see the other layer," he said. "The one I argue with. Every account is sealed, surface only, the pretty card and nothing under it. Mine isn't, so I can see underneath. There's a whole second layer the System keeps for itself, the part where it talks to itself, a debug overlay. You're not supposed to read it from inside. I can, because my account is the one door it forgot to lock."
+
+"Like Hutch's card," Tess said.
+
+He stopped.
+
+"You told me about his," she said. "After. Sealed even dead, you couldn't get into it. You said that was the point, everybody's locked." She turned her head. "Everybody but you."
+
+"Everybody but me." His throat worked. She had held that all this time, filed it, and laid it back down at the exact right place. "Hutch was locked. I'm the one that isn't."
+
+"Okay." She nodded once. "So you can read it and change it. I've watched you change it. Get to the part that scares you."
+
+He breathed out.
+
+"It's not just that I can read it," he said. "It's that it reads me. And I can prove it. I've been logging it since the tower."
+
+He set the case down one piece at a time, the way he walked a postmortem at work, the evidence laid so clean it could not be argued away.
+
+"One. The patches are too good. Every time I use a hole, the next hour or the next morning there's a fix, and it closes my exact hole and nothing next to it. Not the family of bugs around it. The one I used. A blind system patches wide, bolts the whole door. This reaches in and pulls the single thread I pulled. You don't aim that clean unless you watched the hand that did it.
+
+"Two. The holes stay open for me. After a patch lands there's a new gap, right where I'd look. Hutch died in one of those." He kept his voice flat over the name because flat was the only way it came out. "It wasn't sloppiness. The gap was left.
+
+"Three. The speed." He had started counting on his fingers without noticing. "Early on the fixes took days. Lately they come in minutes. You don't patch in minutes off a report. You patch in minutes when you're already watching the screen, live, finger over the button.
+
+"Four." His hand dropped. "There's a tax. The reading bleeds me, builds up, and it's the thing actually killing me, slow. Every fix it has shipped, aimed dead at me, and it has never once touched the tax. It closes everything I use. It leaves the one thing draining me wide open."
+
+Tess was quiet. The fire pushed orange light up the underside of her jaw.
+
+"So," she said. "Lay it out. What does four things in a row tell a guy who reads logs."
+
+"It tells him he's not noise." His mouth was dry. "It tells him somebody's reading every line he writes. The patterns aren't a machine on rails. They're a thing paying attention. To me. Specifically."
+
+"Right." She didn't flinch, didn't soften it, didn't do the thing he'd dreaded, the careful voice you use on the broken. She turned it over once and pressed the seam. "But you stopped short. You said sloppiness like you'd already thrown it out. If it's not the System being dumb."
+
+She left it there, open, the way she left a gap open for him to read.
+
+He looked into the fire and felt the floor of the thing he had stood on his whole life start to tilt.
+
+"If it's not dumb," he said, "then I've been wrong about the shape of the whole thing."
+
+He heard his own voice go careful, the way it went when a postmortem stopped being about a failed node and started being about a thing that had never failed at all, that had only ever done exactly what it meant to.
+
+"I've been treating it like a bad system. Buggy, hostile, on rails. A dumb machine you out-read. Find the hole, use it, run before it notices, because it doesn't notice, it just grinds. That's been the whole game. Me against a stupid wall with cracks in it."
+
+"And the wall's not stupid," Tess said.
+
+"The wall patches my exact thread in minutes. The wall leaves me a door every time it closes one. The wall has fixed everything I touch and never once touched the one thing draining me dry." He turned his hands over and looked at them like they belonged to someone slower. "A thing that does all four of those isn't failing to stop me. Tess. It's not trying to stop me."
+
+The fire ticked. He made himself say the next part out loud, because saying it was the only way to find out if it would hold weight.
+
+"It's watching me. The bugs were never bugs. They're an instrument. You leave a hole open, you see what the subject does with a hole. You patch fast, you see how fast he reads the patch. You let the tax run, because the tax doesn't end the experiment, it just sets a clock on it." His throat had gone tight. "I haven't been exploiting a system. I've been running in one. The whole time."
+
+He had said it now and the floor did not stop tilting. It kept going, the inversion total, the way it felt the half-second before you understood that the green dashboard had been lying for four minutes and the node under it was already cold. Everything he had read pivoted on its axis and pointed the other way.
+
+"It's not a wall," he said. "It's an administrator. There's a thing that runs this. The System we're all living inside, somebody runs it, the way somebody runs every system, and it isn't a god in the sky throwing lightning. It's an admin. It keeps the lights on, assigns the classes, ships the patches, watches the logs." His voice dropped. "And it's learning. It's not done. It started this Tuesday morning the same as us and it has been getting smarter every day since, and I can prove that too, because the patches got faster. A thing that gets faster is a thing that's learning."
+
+Tess didn't move. The orange light sat in her eyes and did not flicker.
+
+"The end of the world," he said. "It wasn't an accident. It wasn't punishment, nobody's being judged. It's a process. Something is running humanity, on purpose, and watching what we do, and adjusting. We're not the survivors of a disaster." He swallowed. "We're the experiment. All of us. It's running us to find something out."
+
+For a long moment the fire was the only thing that spoke.
+
+"Okay," Tess said finally, and her voice was very quiet and very flat, which on her meant the floor had tilted under her too. "So you're telling me. The thing that ate the world. It's a guy. A guy at a desk. Running tests."
+
+"Not a guy. But yeah."
+
+"And we're the test."
+
+"Yeah."
+
+She let out a breath that wasn't a laugh. "That's worse, Aaron. I want you to know that's worse than a monster."
+
+"I know."
+
+"A monster you can kill." She pulled her knees up. "You don't kill the guy reading the results."
+
+He stared into the coals and felt the cold edge of the thing he had not yet let himself reach, because it was waiting just past the awe, patient. If it was watching all of them, and learning fastest from the one account it could not seal, then every door he had ever opened and every rule he had quietly bent, all of it, every clean little edit he was so proud of.
+
+It had been taking notes.
+
+He sat with that, the fire ticking, and let the notes turn into a worse shape.
+
+"Seven billion accounts," he said. "Give or take. Every one sealed, surface only, no way in or out. You read a sealed account by watching what the body does. Person kills a monster, you log the kill. Person dies, you log the death. Rows in a table. It learns what people do."
+
+"Sure," Tess said.
+
+"Mine doesn't seal." He turned a hand over. "It threw an exception minute one and never closed. That's the only difference between me and the other seven billion. They're finished and I'm still open. Mine talks back."
+
+The coals shifted. He kept his voice level, because the only way through was the arithmetic.
+
+"So think what that's worth to a thing that's learning. Everybody else teaches it what a human does. One subject teaches it what a human does when he can see the machine think, read the rule and reach in and change it." He looked at the fire, not at her. "It put a probe on one account out of seven billion, the one that answers. That's me. Not a row in the table. The live wire. The experiment runs on everybody, but it learns fastest from the one input it couldn't file."
+
+"That's not nothing," Tess said carefully. "Being the one it watches."
+
+"It's the most valuable thing in the whole experiment," he said. "And the most dangerous thing to be."
+
+She didn't argue. She could see where the line went.
+
+So could he. That was the part he had been walking around, and he made himself put his foot on it.
+
+"Every edit I ever made." His mouth had gone dry. "I keep thinking of them as wins. They are wins. The crew's alive on them. But run it the other way."
+
+He held up a finger, then stopped, because a list felt obscene. He said them one at a time.
+
+"At the tower I out-read the integrity check. Set a door to zero, walked us out through a wall. The patch came back and shut that exact route. I read it better than it could, it read my read, and now it reads integrity the way I do."
+
+The fire popped.
+
+"The vacant handler. I found the gap where a kill resolves outside a class and the write access hangs open, and used it to put a skill on my own sheet. Analyze. Still got it. Minutes later it shipped a patch sealing the route for good. I showed it the hole and it closed the whole category."
+
+"Aaron."
+
+"The warden." He kept going, because stopping was worse. "Two days ago. I baited a hole it left open, re-pointed the thing's targeting onto its own swarm. Won the wave. And the patch didn't fix the seam I used. It fixed the maneuver. It learned the move, not the bug." He let his hand drop. "I baited it, and the bait was the lesson."
+
+Tess was still. "So every time you win."
+
+"I teach it how I won." His voice came out too quiet. "I have spent this entire apocalypse making the administrator better at running the apocalypse. Every edit I'm proud of is the next thing it knows how to stop. The patches got faster because I got better. I'm the reason it's getting smarter. Me. Specifically."
+
+The coals breathed orange and went dim.
+
+"That's the trap," he said. "I can't stop. The crew is alive on my edits, and Hutch is dead because of the one read I held back. So I keep reading. And I can't keep reading, because every read hands the thing that ended the world a sharper tool. Winning and feeding it are the same motion. The thing that keeps you breathing is the thing arming the enemy."
+
+He looked at her then. Across the fire Marcus and Priya slept on, breathing even, knowing none of this. The depot creaked in the heat.
+
+"There's no version of this where I'm clever and we live," he said. "There's only the version where I'm clever and it learns. I've been winning a fight I can only lose by playing well."
+
+Tess said nothing for a moment. Then, flat, "And the message."
+
+"What message."
+
+"The one you've been not reading all night." She nodded at the air where his overlay sat dim, waiting. "The thing it left open. You said it was different."
+
+He had not meant to tell her that part yet. The fragment had been sitting at the edge of his sight since the warden patch. Not a counter-patch, not aimed at his thread. Something else. Something that read almost like a hand held out.
+
+For a while Tess just looked at the fire. The light moved on her face and she let it.
+
+Then she said, "I want to be mad at something."
+
+"You can be mad at me. People usually are."
+
+"No." She picked a splinter off the pallet and turned it in her fingers. "Not you. I went looking for the part where this is your fault and it isn't there. You didn't ask for the broken account. You didn't volunteer to be the wire it wanted to poke. It picked you off seven billion and didn't ask, and now you carry that it learns off you no matter what you do." She snapped the splinter. "That's not a problem, that's just mean. I'm mad it landed on you."
+
+He had not expected that. He had braced for the flinch, for her to fold him in with the broken things and step off. The flinch never came.
+
+"It's still true," he said.
+
+"Sure it's true." Her voice went hard and even, the way it went when she called a spawn before it landed. "I'm not arguing the math. The math's fine. It left something out."
+
+"What."
+
+"You." She said it flat, like a coordinate. "You keep doing the same trick all night. You run the numbers and put yourself in as a part. The probe. The wire. The input it couldn't file. You've talked about Aaron Kessler like he's a variable for an hour." She leaned in. "He's not. He's a guy. The guy who capped a debuff in a glass room full of strangers on day one and gave them all another breath. The guy who walked us out of a tower through a wall. Whatever it's learning off you, it doesn't get to decide you stop being a person while it does. That part's not in its grant."
+
+The fire ticked. Across it, Marcus turned in his sleep and went still again.
+
+"It doesn't change the trap," Aaron said.
+
+"I'm not solving your trap." She did not blink. "I can't. I read terrain, not gods. You want a clean answer, I don't have one. But I can tell you what I see, and it's a guy who decided he has to carry a thing that big alone, in the dark, while the rest of us sleep. That part I can fix."
+
+"Tess."
+
+"Marcus and Priya are alive tonight." She counted it off on her fingers, slow, just facts laid down one at a time. "I'm alive. You're alive. The warden's dead and we're sitting at a fire that's warm. That's tonight. The thing learning off you is a tomorrow problem, and it'll still be a tomorrow problem tomorrow. You don't have to win the whole war before you let yourself sleep."
+
+He looked at her across the coals. Sixteen, and she read the world raw, ten thousand hours of feel where he had a console. She had walked straight into the worst thing he knew and not stepped back.
+
+"You get the dev console," she said, like she could hear him thinking it. "I'm on a controller. Same game. I've read this thing since the first wave, just from the outside, by what it's about to do, not what it says it's doing. So I know exactly what kind of alone you're in. The only-one-who-sees-it kind." She put the splinter down. "Except you're not the only one. I see it too. Not your layer. The shape of it. And it's bad, and I'm not going anywhere."
+
+The thing in his chest he had been holding shut all night loosened a notch. Not relief. Footing. The difference between standing on nothing and standing on a ledge.
+
+"I keep your secret," she said. "All of it. The class, the edits, the part where it's reading you back. Not Priya, not Marcus, not till you say. It's yours and now it's mine, two of us carrying it instead of one. That's the whole offer. Take it."
+
+He took it. He did not say so. She knew anyway, the way she always did.
+
+The fragment sat at the edge of his sight where it had since the warden patch, dim, not aimed at his thread. The thing that read like a hand held out. He had refused to look at it all night because he was alone with it, and reading it alone, after everything he had said, felt like walking toward a cliff in the dark.
+
+He was not alone with it now.
+
+"All right," Aaron said. He turned his sight toward the dim fragment. "Let's see what it's saying."
+
+The debug comments were the System talking to itself about him. The patch notes were the System working. This was neither.
+
+He found that out the moment he reached for it.
+
+The fragment had sat dim at the edge of his sight all night, a flat gray smudge that did not scroll with the rest. To touch it he had to lean, the way you lean to read fine print held too far away, and the leaning did not stop where the comment layer stopped. It kept going down, past the gray, past the place where the System narrated itself in lines a man could follow, into something with no edge he could find.
+
+Heat bloomed behind his eyes first. Then pressure, the old eye-spike but wider, both sockets at once, as if his skull were being asked to hold a shape it was not built for. He kept going, down past debug into the thing the debug described: the source, the grammar the System thought in before it wrote a sentence anyone was meant to read.
+
+Something flickered up over the descent, the ordinary kind, the public font the System used at its front desk, a notice landing the way a door chimes when a body crosses it.
+
+> [ SYSTEM ]
+> Notice: read access at source layer.
+> Depth beyond comprehension grade.
+> Observed.

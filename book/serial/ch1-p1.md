@@ -1,0 +1,202 @@
+## Chapter 1: Working As Intended (Part 1)
+
+"It's green," Dwyer said for the third time, like the color settled it.
+
+Aaron Kessler wasn't looking at the green. He was looking at the log. The dashboard tile for ord-db-04 glowed a soft, confident green, latency flat, uptime a clean ninety-nine point nine, a little checkmark sitting there like it had earned something. Under all that, in the raw stream nobody else on the floor ever opened, the box was dead. No heartbeat in four minutes. Last write four minutes and eleven seconds ago. The thing the dashboard called healthy had stopped breathing while they stood there arguing about it.
+
+"It's lying," Aaron said.
+
+"It's reporting nominal." Dwyer leaned a hip on the desk, arms crossed, manager voice on. He managed by reflection. You handed him a problem, he handed it back smoothed over and a size smaller. "The monitor would page us if it were down. It hasn't. So."
+
+"The monitor checks the load balancer. The load balancer is serving cached health off a node that died at nine-fourteen." Aaron tapped the line. He didn't raise his voice. He'd quit raising it years ago, somewhere around the fourth time being right cost him more than being quiet. "It's answering the door for a corpse."
+
+Lena drifted over with her coffee, earbud in, half here. She'd pushed the connection-pool fix to prod last sprint, the one Aaron wrote at one in the morning and then watched her present at standup like she'd dreamed it. She still smiled at him. That was the part he couldn't figure.
+
+"Is this the cart thing again," she said.
+
+"It's the cart thing in nine minutes. When checkout fans out to a database that isn't there and the retries stack and we fall over at lunch rush. Same as March."
+
+"March was config drift." Dwyer was already half-turned toward the door. "This is green."
+
+There it was. The wall he lost against every time. Not a person. A consensus the tools manufactured and the people borrowed, an automated little fiction everyone preferred to the truth, because the truth meant somebody had to do something about it. Aaron had spent a decade reading the layer under the green. He was good at exactly one thing, and it was useless in any room with a screen in it. The screen always won.
+
+He opened the deploy console and restarted the node himself. No ticket. By the time approval came through, lunch traffic would already be in the ground.
+
+"You don't have to do that," Dwyer said, not stopping him, which was its own answer.
+
+"I know." The node came up. The dead tile stayed green the whole time, never blinking, never noticing it had been resurrected. The dashboard hadn't known it was down and didn't know it was back. It had never been describing the world. It described itself.
+
+"See." Dwyer gestured at the green he'd been gesturing at the whole time. "Working as intended."
+
+Aaron didn't argue. Arguing with the dashboard was a closed loop. You read what it hid, fixed the thing it lied about, and it took the credit with that same flat checkmark whether you'd saved the box or killed it. He logged the timestamp in his own notes, the way he always did, a private record nobody would ever read. Proof for an audience of one that the green had been lying at 9:14 on a Tuesday.
+
+Lena said something about lunch. Dwyer laughed at it. The floor went back to its noise, forty people and their forty screens, all of them trusting the surface, not one of them looking under it.
+
+Aaron sat with the only thing he was sure of in the whole building. The system said everything was fine.
+
+It was not fine.
+
+He reached for his coffee, and the air went thick, and the cup stopped halfway to his hand.
+
+The cup hung there. Not slowing. Stopped, the coffee a tilted brown disc that should have sloshed and didn't, the meniscus frozen mid-climb at the lip. Aaron's fingers sat a finger-width from the handle and the gap would not close. His pulse was the only moving thing left in the room.
+
+The floor went wrong all at once.
+
+Lena hung mid-step at the corner of his desk, one heel down, the other lifting into a stride with no end. A dropped pen waited at knee height, not falling. The fluorescents didn't flicker. They forgot how light worked, thinning out, going grainy, a frame behind the world. For half a breath Aaron saw the office as edges, every surface a polygon with the texture peeled off. Behind the wall there was no wall. Just flat gray nothing, waiting to be drawn.
+
+Something pressed on the back of his eyes. Heat first. Then a thumb leaning in from the inside.
+
+Then it printed.
+
+Not on a screen. It wrote itself into his sight, a foot off his face, and he understood without being told that it hung the same way in front of every pair of eyes on the floor and every pair of eyes on Earth.
+
+    [ SYSTEM ]
+    WORLD SYSTEM INITIALIZING
+
+    Welcome.
+
+    Your world has been integrated.
+    Reality is now governed by the System.
+
+    All conscious entities have been assessed.
+    A Class has been assigned to each.
+
+    You will grow. You will be measured.
+    Begin.
+
+*Begin* landed like a switch thrown somewhere under the building.
+
+Air came back. The cup finished its half-inch into his fingers and he caught it on reflex, coffee slapping the rim, scalding his knuckles, and he didn't feel it. Lena's heel hit the carpet and she was screaming, not in pain, the other kind. The pen dropped. Forty people drew breath at once and the floor filled with one ragged sound made of forty.
+
+The light came back wrong-bright, then it was just light.
+
+Lena got there first. She stared at nothing two feet in front of her, lips moving, her voice flat with shock. "Sentinel. It says Sentinel. There's a number. My Vitality, it says my Vitality is eight." Her hand went over her mouth. Above it her eyes were huge and lit, and Aaron had never seen her look at anything the way she looked at that empty air. "Aaron. Do you see it?"
+
+He saw something. He wasn't sure it was the same thing.
+
+Dwyer had stopped in the doorway, head tipped back, reading, that manager's stillness on him. A short laugh broke out of him with no humor in it. Relief and disbelief, knotted up and pulling against each other. "Quartermaster." He said it twice. "It gave me Quartermaster. There's an inventory. An actual inventory, I can see slots." He closed his hand on nothing and the laugh cracked.
+
+It went off across the floor like that, card after card resolving into someone's sight, each one a small private detonation. By the window a guy kept saying *Ranger, Ranger, I'm a Ranger* in a thin high voice. The new hire two desks over had gone dead pale and whispered "Reaver" like a confession. A woman by the printer cried and grinned at once over a card only she could read. Forty people staring into the air, every one handed a clean answer about what they were now, and for once the surface told them something true.
+
+Aaron looked into his own sight and waited for his.
+
+It was taking too long.
+
+Where the others had gotten a finished thing, a name and numbers settled into place, his sat unfinished. A card half-drawn. A field still loading, the way a tile renders gray before it knows what it is. The pressure behind his eyes leaned harder, the same thumb, the System reaching for him and not closing its hand.
+
+The card began to throw.
+
+It threw the way a job threw when something upstream handed it garbage and the code had no branch for it.
+
+The half-drawn card shuddered, the gray field flickering between fill and blank and back again, like a cursor that couldn't decide where to land. Then it gave up pretending. The name slot went empty. The whole card collapsed down to two lines and held there, stark against the air a foot off his face.
+
+    [ SYSTEM ]
+    CLASS: [unresolved]
+    status: unhandled
+
+He read it once. He read it again. The thumb behind his eyes pushed harder, and on the second pass the words stopped reading like a verdict and started reading like a log line.
+
+Because that was a log line. *Unhandled.* He had shipped that word ten thousand times, in stack traces at three in the morning, under a process that had hit a state nobody coded for and fallen over. The System hadn't given him a class. It had crashed trying to.
+
+The pressure crested. Something behind his eyes gave with a wet click, and a second layer surfaced under the first.
+
+Dimmer. Grayed back, half a shade off black, the way a comment sits quieter than the code it explains. It hung beneath the failed card like the part of a screen you weren't meant to see, the raw thing under the rendered thing, and it was moving. Lines wrote themselves and scrolled and held.
+
+    > # subject KESSLER, A.: assessment returned no valid class
+    > # cannot parse to template. no match within tolerance.
+    > # discard? denied. subject is conscious. cannot null a live account.
+    > # assign nearest? rejected by subject. integrity check failed.
+    > # flag for administrator review. decision deferred.
+    > # provisional handle: NULL_OPERATOR
+    > # status: unhandled
+
+The class token blinked. NULL_OPERATOR, on, off, on, the System turning it over and not committing to it. And the last word sat at the bottom, patient, ugly. The same word as the top card. The System agreeing with itself out loud. *Unhandled.*
+
+Aaron stopped breathing for a second, and it wasn't fear.
+
+He looked up. Lena was still staring into her own air, lit up, reading a card built to be read. Dwyer had a hand closed on his invisible inventory. By the window the Ranger guy had started laughing. None of them had gone quiet the way he had, because none of them had a second layer to go quiet at. He could tell. Their cards were finished, sealed, a surface and nothing under it. His was the only one cracked open to the wiring, and he was the only one looking down through the crack.
+
+He waved a hand through the dim text. It scrolled with the motion of his eyes, not his fingers, fixed to his sight. Real to him. Invisible to the room. He almost turned to Lena and said *do you see the part underneath,* and knew before the words formed that she didn't, couldn't, that the underneath was his and only his.
+
+A decade. A decade in front of green dashboards that swore a dead box was alive, the one man who could read the log the system hoped nobody read, losing every argument because the surface always won and the surface always lied.
+
+This surface wasn't lying. For once the layer underneath had been handed straight to him, every comment intact, the machine talking to itself about the one input it couldn't place, and he could read every word of it.
+
+*Cannot parse to template. No match within tolerance.* He almost laughed. He knew that feeling from the other side of the glass. He had written that feeling.
+
+*Decision deferred.* They hadn't decided what to do with him. They'd flagged him and moved on. Which meant the window was open. If a thing was unhandled, there was no handler standing between him and it, no rule yet written for what he was, and his pulse climbed under the dread with something that was not entirely dread. He leaned toward the dim layer, reaching to read the next line down, to find what *provisional* meant, what *review* would do to him, how deep the crack ran.
+
+Three floors down, the building coughed.
+
+Not a sound a building made. A deep structural wrongness, the groan of load finding a path that hadn't existed a second ago. Then, riding up the stairwell, faint, the first scream. Climbing.
+
+Aaron's read snapped shut.
+
+The scream came again, and this time it had company.
+
+Not one voice. Two, then a stairwell full, the sound stacking on itself the way alarms did when one tripped twelve others. Aaron was up before he decided to stand. His chair rolled back into the divider and the dim layer slid off his sight, forgotten, because the body did not care about comments now. The body knew that pitch. People made it when they understood, all at once, that they were going to die.
+
+Under the floor something tore.
+
+He felt it through his shoes more than heard it. A long ripping pressure, like the world had a seam and a hand had found the loose thread. The building coughed a second time and a hairline crack ran up the support column by the kitchen, plaster sifting down in a thin gray curtain.
+
+A box of red text dropped into the corner of his sight and stayed.
+
+    [ SYSTEM ]
+    RIFT EVENT DETECTED.  Proximity: 3 floors.
+    Hostile entities present.
+
+He found out what a rift was a half-second later. The smell came up the stairwell ahead of anything else, wet copper and something burned, and under it that ripping pressure kept widening. Reality had opened three floors down and the wrong side of it was pouring in.
+
+The floor erupted into motion. Forty people who had spent the last minute reading their shiny new class cards remembered they had legs. Chairs flew. A monitor went off a desk and nobody looked back. The Ranger by the window had stopped laughing. Lena's card winked out of her sight and she was just a person again, pale, scanning for the exit, and the exit was the stairwell, and the stairwell was where the sound came from.
+
+"Not the stairs," Aaron said. Too quiet under the noise, so he said it louder. "Not the stairs. It's coming up the stairs."
+
+A woman went through the stairwell door anyway. The scream that followed wasn't far down at all. It was close, and then it stopped, and the door swung and hit the wall and bounced.
+
+That moved them. The crowd peeled off the stairwell like water off a hot pan, back into the warren of desks, and Aaron went with it. Nowhere else to go. His hands were empty. His head was full of a word that did nothing for him. *Unhandled.* He could read the machine's diary and he could not read his way out of a hallway.
+
+Dwyer had his back to the far conference room, arms out, herding. "In here, in here, come on." The Quartermaster reflex, Aaron thought, the man who managed stores arranging bodies like inventory. The most useful thing Dwyer had ever done. People funneled past him into the glass-walled room with the long table and the one door.
+
+One door. Aaron clocked it like a single point of failure, automatic, sick. Glass walls. One way out. A box.
+
+He went in anyway, because the alternative was the open floor, and the open floor had a stairwell on it.
+
+Lena got to the door last and did not come through. She planted herself in the frame, side-on, one shoulder forward, the other arm flung back across the gap like a turnstile bar made of person. She wasn't strong. Aaron knew her. She did Pilates and complained about it. But she stood there with her chin down and her weight set, and a faint blue seam of light ran the edge of her forearm where it crossed the opening. The Sentinel thing. Something in the new wiring of her told her to stand in front. Her eyes were huge and wet and fixed on the floor outside.
+
+"Lena," Aaron said. "Lena, inside."
+
+"In a second." Her voice shook. She did not move.
+
+Out on the floor, between the toppled chairs, something climbed up over the lip of the broken stairwell door.
+
+It was wet. It came on too many joints, gray as a thing that had never seen light, and where its head should have been there was a working slit that opened and closed and tasted the air. It hauled itself onto the carpet. It found its bearings. The red box in the corner of Aaron's sight flickered and updated.
+
+    Hostile entity: present.  Range: closing.
+
+Lena made a small sound. The blue seam at her arm brightened. The eyeless face turned toward the one lit doorway, and the thing on the carpet started to come.
+
+It came fast. Not a crawl. The too-many joints folded and snapped and it covered the floor between the stairwell and the door in three wet lunges, and Lena did not run.
+
+She got smaller instead, shoulder down, the blue seam screaming up her forearm, and the slit-face hit her arm and her arm held. For half a breath. The thing recoiled, hissed through the slit, reared a limb back like a man drawing a hammer.
+
+Aaron's hands were already moving. Off the conference table, the only thing on it, a heavy glass carafe gone to room-temperature coffee, and his fingers closed on the neck of it without asking him first. He was at the door. He did not remember crossing the room.
+
+"Down," he said, and shoved Lena's shoulder, and she went, and the limb that would have opened her throat raked the frame instead and tore a furrow in the glass.
+
+The thing turned the slit on him.
+
+And the pressure came up behind his eyes again, that wet click, because he was a foot from it now and his pulse was a fist in his neck and the body that had no skill and no weapon reached for the one thing it had. He looked at it. Really looked, the way he looked under a green tile at the log that told the truth. The dim layer peeled up off the wet gray hide like steam.
+
+    > # RIFT SPAWN: hollow-crawler (tier 0, minimum viable hostile)
+    > # HP 22/22.  contact damage on limb-strike.
+    > # passive: REGENERATION.  +4 HP per tick.
+    > # tick interval: 3.0s.
+    > #   note: regen routine locks HP buffer during write.
+    > #   buffer vulnerable 0.4s post-tick. do not expose.
+
+Do not expose. The System telling itself a secret it did not want overheard.
+
+He had nothing to time it with but the thing itself. The furrows Lena's arm had scored were already closing, gray pulling over the wound like a mouth. There. A tick. He watched it seal and counted the gap between the body's hammerblows, because the body kept its own clock. Strike. The hide shimmered, sealed, the readout flickered HP 22, full, written, locked.
+
+Point four seconds.
